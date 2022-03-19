@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-19T21:51:50.300Z</id>
-    <title>infodock</title>
-    <updated>2022-03-19T21:51:50.300Z</updated>
-    <generator>infodock</generator>
+    <id>urn:2022-03-19T22:33:16.892Z</id>
+    <title>osmos::feed</title>
+    <updated>2022-03-19T22:33:16.892Z</updated>
+    <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Five Azure classic networking services will be retired on 31 August 2024]]></title>
@@ -726,6 +726,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Amazon RDS for Oracle が Oracle Native Network Encryption (NNE) オプションの ALLOW_WEAK_CRYPTO* パラメータのサポートを開始]]></title>
+        <id>e448278de64d419458096f42228c5b2d5c035887</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/"/>
+        <updated>2022-03-10T17:21:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Native Network Encryption (NNE) オプションの 2 つの新しい sqlnet.ora パラメータをサポートするようになりました。これは、お客様による変更が可能です。この機能により、お客様は、SQL*Net 暗号化およびチェックサムパラメータが古い暗号とアルゴリズムを使用するのを阻止できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Public preview: Azure Purview workflows]]></title>
         <id>public-preview-azure-purview-workflows</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-purview-workflows/"/>
@@ -856,6 +866,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AWS が Customer Carbon Footprint Tool の提供を開始]]></title>
+        <id>8f9402c8b8d1c86ea63334d480448f485987fe61</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-launches-customer-carbon-footprint-tool/"/>
+        <updated>2022-03-09T07:46:05.000Z</updated>
+        <summary type="html"><![CDATA[本日より、新しい Customer Carbon Footprint Tool の提供が開始され、お客様の AWS ワークロードによる環境への影響を算出できるようになりました。この新しいツールは、理解しやすいデータの視覚化を使用して、履歴的な CO2 排出量のお客様への提示、AWS 使用量の増加に伴う排出量傾向の評価、オンプレミスデータセンターの代わりに AWS を使用することによって回避された推定 CO2 排出量の概算、および現在の使用量に基づく予想排出量のレビューを行います。排出量の予測値は現在の使用状況に基づくものですが、Amazon が行う二酸化炭素排出削減の取り組みにより、お客様の二酸化炭素排出量が今後どのように推移するかも示されます。Amazon では、2030 年としていた当初の目標を 5 年前倒しにして 2025 年までに再生可能エネルギーの使用率を 100% にする取り組みを継続するとともに、The Climate Pledge の一環として 2040 年までにカーボンニュートラルを達成するよう行動しています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Amazon Kendra にクエリ用のスペルチェッカーが追加]]></title>
         <id>ca7b41935c2b8cf7aaf4230e61d4bfa432fba5c4</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-kendra-spell-checker-queries/"/>
@@ -971,16 +991,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-iot-sitewise-development-library-web-industrial-data/"/>
         <updated>2022-03-05T13:35:51.000Z</updated>
         <summary type="html"><![CDATA[本日、オープンソースのフロントエンドライブラリである AWS IoT SiteWise 用 IoT アプリケーションキットの発売を発表いたします。これにより、デベロッパーは、AWS IoT SiteWise に接続されているプロセス、デバイス、機器から産業データを視覚化するアプリケーションを迅速に構築できます。IoT アプリケーションキットは、棒グラフ、折れ線グラフ、散布図、タイムラインビューなど、IoT データを管理および視覚化するためのユーザーインターフェイス (UI) コンポーネントです。デベロッパーは、これらの UI コンポーネントを使用して、さまざまなユースケースや独自のビジネスニーズに合わせた独自のアプリケーションを構築できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle が Oracle Native Network Encryption (NNE) オプションの ALLOW_WEAK_CRYPTO* パラメータのサポートを開始]]></title>
-        <id>e448278de64d419458096f42228c5b2d5c035887</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/"/>
-        <updated>2022-03-05T13:35:04.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Native Network Encryption (NNE) オプションの 2 つの新しい sqlnet.ora パラメータをサポートするようになりました。これは、お客様による変更が可能です。この機能により、お客様は、SQL*Net 暗号化およびチェックサムパラメータが古い暗号とアルゴリズムを使用するのを阻止できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1161,16 +1171,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-msk-serverless-available-europe-ireland/"/>
         <updated>2022-03-04T08:36:17.000Z</updated>
         <summary type="html"><![CDATA[欧州 (アイルランド) AWS リージョンで、Apache Kafka アプリケーションを Amazon MSK Serverless に接続できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS が Customer Carbon Footprint Tool の提供を開始]]></title>
-        <id>8f9402c8b8d1c86ea63334d480448f485987fe61</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-launches-customer-carbon-footprint-tool/"/>
-        <updated>2022-03-04T08:35:28.000Z</updated>
-        <summary type="html"><![CDATA[本日より、新しい Customer Carbon Footprint Tool の提供が開始され、お客様の AWS ワークロードによる環境への影響を算出できるようになりました。この新しいツールは、理解しやすいデータの視覚化を使用して、履歴的な CO2 排出量のお客様への提示、AWS 使用量の増加に伴う排出量傾向の評価、オンプレミスデータセンターの代わりに AWS を使用することによって回避された推定 CO2 排出量の概算、および現在の使用量に基づく予想排出量のレビューを行います。排出量の予測値は現在の使用状況に基づくものですが、Amazon が行う二酸化炭素排出削減の取り組みにより、お客様の二酸化炭素排出量が今後どのように推移するかも示されます。Amazon では、2030 年としていた当初の目標を 5 年前倒しにして 2025 年までに再生可能エネルギーの使用率を 100% にする取り組みを継続するとともに、The Climate Pledge の一環として 2040 年までにカーボンニュートラルを達成するよう行動しています。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
