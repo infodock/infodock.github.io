@@ -1,0 +1,9 @@
+#########################
+# Full reference
+# https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
+#########################
+
+# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+sources:
+  - href: https://azurecomcdn.azureedge.net/ja-jp/updates/feed/
+  - href: https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/
