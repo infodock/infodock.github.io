@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>urn:2022-03-20T00:22:27.475Z</id>
-    <title>osmos::feed</title>
+    <title>infodock</title>
     <updated>2022-03-20T00:22:27.475Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <generator>oss</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Five Azure classic networking services will be retired on 31 August 2024]]></title>
