@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-21T00:22:46.936Z</id>
+    <id>urn:2022-03-22T00:22:43.387Z</id>
     <title>Info Dock</title>
-    <updated>2022-03-21T00:22:46.936Z</updated>
+    <updated>2022-03-22T00:22:43.387Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Update your Azure App Service apps to use Microsoft .NET 6 before 3 December 2022]]></title>
+        <id>netcore31</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/netcore31/"/>
+        <updated>2022-03-21T23:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Extended support for .NET Core 3.1 is ending on 3 December 2022.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure QnA Maker will be retired on 31 March 2025]]></title>
+        <id>azure-qna-maker-will-be-retired-on-31-march-2025</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-qna-maker-will-be-retired-on-31-march-2025/"/>
+        <updated>2022-03-21T23:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Migrate to custom question answering before Azure QnA Maker is retired on 31 March 2025.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transition to using connection strings for data ingestion by 31 March 2025]]></title>
+        <id>technical-support-for-instrumentation-key-based-global-ingestion-in-application-insights-will-end-on-31-march-2025</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/technical-support-for-instrumentation-key-based-global-ingestion-in-application-insights-will-end-on-31-march-2025/"/>
+        <updated>2022-03-21T23:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Technical support for instrumentation key–based global ingestion in Application Insights will end on 31 March 2025.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community support for Node 14 LTS is ending on 30 April 2023]]></title>
+        <id>community-support-for-node-14-lts-is-ending-on-30-april-2023</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/community-support-for-node-14-lts-is-ending-on-30-april-2023/"/>
+        <updated>2022-03-21T23:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Community support for Node 14 LTS is ending on 30 April 2023 – transition to Node 14 LTS by that date]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Data Lake Analytics will be retired on 29 February 2024]]></title>
+        <id>migrate-to-azure-synapse-analytics</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/migrate-to-azure-synapse-analytics/"/>
+        <updated>2022-03-21T23:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Migrate to Azure Synapse Analytics.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Connect and manage devices in Azure IoT Central without models]]></title>
+        <id>iotc-manage-devices-without-models</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-manage-devices-without-models/"/>
+        <updated>2022-03-21T19:00:04.000Z</updated>
+        <summary type="html"><![CDATA[You now have the ability to connect your devices, send data, run commands, and create relationships without having to first create a model for them in Azure IoT Central.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In development: New planned datacenter region in Finland (Finland Central)]]></title>
+        <id>in-development-new-planned-datacenter-region-in-finland-finland-central</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/in-development-new-planned-datacenter-region-in-finland-finland-central/"/>
+        <updated>2022-03-21T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has announced plans to bring a new datacenter region to Finland, including availability zones.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Container Registry on Azure Stack Hub]]></title>
+        <id>public-preview-azure-container-registry-on-azure-stack-hub</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-container-registry-on-azure-stack-hub/"/>
+        <updated>2022-03-21T16:00:03.000Z</updated>
+        <summary type="html"><![CDATA[A public preview of Azure Container Registry on Azure Stack Hub is available starting with Azure Stack Hub update 2108.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Kubernetes Service on Azure Stack Hub]]></title>
+        <id>public-preview-azure-kubernetes-service-on-azure-stack-hub</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-kubernetes-service-on-azure-stack-hub/"/>
+        <updated>2022-03-21T15:00:02.000Z</updated>
+        <summary type="html"><![CDATA[A public preview of Azure Kubernetes Service on Azure Stack Hub is available starting with Azure Stack Hub update 2108.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure HBv3 virtual machines for HPC now upgraded]]></title>
+        <id>azure-hbv3-vms-for-hpc-now-generally-available-with-amd-milanx-cpus</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-hbv3-vms-for-hpc-now-generally-available-with-amd-milanx-cpus/"/>
+        <updated>2022-03-21T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Azure HBv3 virtual machines are now upgraded to and generally available with AMD EPYC 3rd Gen processors with 3D V-Cache, codenamed “Milan-X”, in the Azure East US, South Central US, and West Europe regions.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Five Azure classic networking services will be retired on 31 August 2024]]></title>
         <id>five-azure-classic-networking-services-will-be-retired-on-31-august-2024</id>
