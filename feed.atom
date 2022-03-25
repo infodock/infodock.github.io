@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-24T00:22:08.093Z</id>
+    <id>urn:2022-03-25T00:21:42.202Z</id>
     <title>Info Dock</title>
-    <updated>2022-03-24T00:22:08.093Z</updated>
+    <updated>2022-03-25T00:21:42.203Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Operator Assistance in Azure MFA will be retired on 30 September 2023]]></title>
+        <id>azure-multifactor-authentication-operator-assistance-will-be-retired-on-30-september-2023</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-multifactor-authentication-operator-assistance-will-be-retired-on-30-september-2023/"/>
+        <updated>2022-03-24T23:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Turn off Operator Assistance and enable automated attendant features for phone system.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classic data export in Azure IoT Central will be retired by 31 March 2023]]></title>
+        <id>migrate-your-classic-data-exports-to-new-data-exports-by-31-march-2023</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/migrate-your-classic-data-exports-to-new-data-exports-by-31-march-2023/"/>
+        <updated>2022-03-24T23:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Migrate to new data exports in Azure IoT Central before 31 March 2023.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: User-assigned managed identities in Stream Analytics]]></title>
+        <id>asa-uami</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/asa-uami/"/>
+        <updated>2022-03-24T16:00:26.000Z</updated>
+        <summary type="html"><![CDATA[You can now use user-assigned managed identity to authenticate your Stream Analytics jobs to inputs and outputs without ever having to worry about credential management.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Intelligent cache for Apache Spark in Azure Synapse]]></title>
+        <id>intelligent-cache-for-apache-spark-in-azure-synapse-now-available-in-public-preview</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/intelligent-cache-for-apache-spark-in-azure-synapse-now-available-in-public-preview/"/>
+        <updated>2022-03-24T16:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Accelerate Apache Spark in Azure Synapse execution speed using the new intelligent cache feature.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Azure Data Explorer supports multiple databases per data connection]]></title>
+        <id>azure-data-explorer-now-supports-multiple-databases-on-a-single-data-connection</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-data-explorer-now-supports-multiple-databases-on-a-single-data-connection/"/>
+        <updated>2022-03-24T16:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Dynamically route Azure Data Explorer data to an alternate database]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Machine Learning user-defined functions in Azure Stream Analytics]]></title>
+        <id>ga-amludf-asa</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/ga-amludf-asa/"/>
+        <updated>2022-03-24T15:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Machine Learning user-defined function in Stream Analytics allows you to perform high throughput, low latency, real-time predictions, allowing you to act on insights which have a very short shelf-life.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect の予測、容量計画、スケジューリングがプレビューで利用可能になりました]]></title>
+        <id>5739e1358c2a2c1c73839e8313e802130f1d2c80</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-connect-forecasting-capacity-planning-scheduling-preview/"/>
+        <updated>2022-03-24T01:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect は、新しい機械学習機能を提供することで、コンタクトセンターのマネージャーが、コンタクトボリュームと平均処理時間を高精度で予測し、理想的な人員配置レベルを決定し、エージェントスケジュールを最適化して、適切なエージェントを適切なタイミングで確保できるようにします。これらの機能を有効にするには、クリックするだけであり、カスタムアプリケーションを構築したり、複雑で高価なサードパーティー製品と統合したりする必要はありません。これらの新機能は、企業がオペレーションを最適化し、サービスレベルの目標を達成し、エージェントと顧客の満足度を向上させるのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Templates functionality preview version in Azure portal will be retired on 31 March 2025]]></title>
         <id>the-templates-functionality-in-the-azure-portal-will-be-retired-on-31-march-2025</id>
@@ -99,7 +169,7 @@
         <title type="html"><![CDATA[AWS Chatbot が Slack からの AWS リソースの管理をサポートするようになったことを発表 (一般提供開始)]]></title>
         <id>0425463ed74291e987407758b771829dd3212fa5</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-chatbot-support-management-resources-slack/"/>
-        <updated>2022-03-22T18:54:31.000Z</updated>
+        <updated>2022-03-22T18:54:32.000Z</updated>
         <summary type="html"><![CDATA[本日、AWS Chatbot のお客様が AWS リソースを管理し、Slack チャネルから AWS ワークロードの問題を修正できる機能が一般的にご利用いただけるようになったこと (GA) を発表します。AWS Chatbot のお客様は、Slack チャネルから AWS CLI コマンドと AWS System Manager Automation Runbook を実行することでこれを行うことができます。以前は、AWS のお客様は AWS Chatbot を使用して AWS リソースをモニタリングし、診断情報を取得することしかできませんでした。]]></summary>
         <author>
             <name>aws@amazon.com</name>
@@ -131,6 +201,16 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-aurora-t4g-instance-type-aws-graviton2-processors-new-regions/"/>
         <updated>2022-03-22T18:51:16.000Z</updated>
         <summary type="html"><![CDATA[AWS Graviton2 ベースの T4g データベースインスタンスが、欧州 (ミラノ)、欧州 (パリ)、欧州 (ストックホルム) の各リージョンの Amazon Aurora MySQL 互換エディションおよび Amazon Aurora PostgreSQL 互換エディションでご利用いただけるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes 1.21 以降の EKS での containerd ランタイム向け Windows サポートの発表]]></title>
+        <id>262d592c11415e6999cdfc83dc23f031ef4e10ee</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/windows-containerd-runtime-eks-kubernetes/"/>
+        <updated>2022-03-22T18:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service は、Windows ワーカーノードで containerd コンテナランタイムをサポートするようになりました。containerd は、コンテナイメージの転送から実行、ストレージ、ネットワーク接続まで、ホストシステム上のコンテナライフサイクル全体を管理する軽量のコンテナランタイムです。Windows ワークロードを使用しているお客様は、Linux ベースのワーカーノードを実行しているお客様が利用できる containerd と同様のパフォーマンス、セキュリティ、および安定性のメリットを享受できるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -366,16 +446,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kubernetes 1.21 以降の EKS での containerd ランタイム向け Windows サポートの発表]]></title>
-        <id>262d592c11415e6999cdfc83dc23f031ef4e10ee</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/windows-containerd-runtime-eks-kubernetes/"/>
-        <updated>2022-03-17T06:35:16.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service は、Windows ワーカーノードで containerd コンテナランタイムをサポートするようになりました。containerd は、コンテナイメージの転送から実行、ストレージ、ネットワーク接続まで、ホストシステム上のコンテナライフサイクル全体を管理する軽量のコンテナランタイムです。Windows ワークロードを使用しているお客様は、Linux ベースのワーカーノードを実行しているお客様が利用できる containerd と同様のパフォーマンス、セキュリティ、および安定性のメリットを享受できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Network Firewall が FedRAMP High コンプライアンスを達成]]></title>
         <id>af791d370fac533e6faa258a35030b8ebd0492fd</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-network-firewall-fedramp-high-compliance/"/>
@@ -396,11 +466,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Cost Anomaly Detection が AWS Chatbot との統合をサポート]]></title>
+        <title type="html"><![CDATA[AWS コスト異常検出が AWS Chatbot との統合をサポート]]></title>
         <id>1f35a6eb4ac574bca425d33bf9bd0a686d715d54</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-integration-chatbot/"/>
         <updated>2022-03-17T06:31:04.000Z</updated>
-        <summary type="html"><![CDATA[本日より、AWS Chatbot を介して Slack と Amazon Chime で AWS Cost Anomaly Detection アラート通知を受信できるようになります。AWS Chatbot との統合により、Slack または Amazon Chime チャットチャネルを使用してコスト異常アラートサブスクリプションを簡単に設定できます。aこれにより、既存のチャットチャネル内で個々の AWS Cost Anomaly Detection アラートを受信できるようになり、コラボレーションの向上とアラートのタイムリーな解決がサポートされます。]]></summary>
+        <summary type="html"><![CDATA[本日より、AWS Chatbot を介して Slack と Amazon Chime で AWS コスト異常検出アラート通知を受信できるようになります。AWS Chatbot との統合により、Slack または Amazon Chime チャットチャネルを使用してコスト異常アラートサブスクリプションを簡単に設定できます。これにより、既存のチャットチャネル内で個々の AWS コスト異常検出アラートを受信できるようになり、コラボレーションの向上とアラートのタイムリーな解決がサポートされます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1476,16 +1546,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS App Runner は Java プラットフォームを追加]]></title>
-        <id>31b68582faca9971ce75f27e6b024e6f40c70614</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-app-runner-adds-java-platform/"/>
-        <updated>2022-03-03T02:38:18.000Z</updated>
-        <summary type="html"><![CDATA[AWS App Runner は、Java ベースのウェブアプリケーションを構築および実行するための Java 言語プラットフォームのサポートを開始しました。App Runner の Java 言語プラットフォームは、2 つの Amazon Corretto ランタイム (Corretto 11 と Corretto 8) と共にリリースされました。どちらのランタイムも、それぞれの Corretto ランタイムバージョンに加えて、Maven ツールと Gradle ツールをアプリケーションのコンテナに追加します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Glue Schema Registry が Protocol Buffers (Protobuf) スキーマのサポートを開始]]></title>
         <id>859d15db97e65e7485b12a4c6ad33251ae8788f7</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-glue-schema-registry-protocol-buffers/"/>
@@ -1741,36 +1801,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-new-capabilities-for-azure-monitor-logs/"/>
         <updated>2022-02-23T17:00:43.000Z</updated>
         <summary type="html"><![CDATA[Add value and increase cost effectiveness with Azure Monitor logs]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Cost Management anomaly detection for subscriptions]]></title>
-        <id>preview-cost-management-anomaly-detection-for-subscriptions-2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/preview-cost-management-anomaly-detection-for-subscriptions-2/"/>
-        <updated>2022-02-22T18:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Azure Cost Management offers subscription cost anomaly detection within the cost analysis preview to raise awareness and help identify unexpected changes in cost.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Application Gateway mutual authentication]]></title>
-        <id>general-availability-application-gateway-mutual-authentication</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-application-gateway-mutual-authentication/"/>
-        <updated>2022-02-22T17:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Enable frontend mutual authentication and listener specific SSL policies on Application Gateway, now generally available.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Localization available in Azure Purview]]></title>
-        <id>azure-purview-localization</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-purview-localization/"/>
-        <updated>2022-02-22T17:00:30.000Z</updated>
-        <summary type="html"><![CDATA[The Azure Purview UX team has localized Azure Purview studio to 18 languages.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>

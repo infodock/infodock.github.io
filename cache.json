@@ -6,6 +6,66 @@
       "siteUrl": "https://azure.microsoft.com/ja-jp/updates/",
       "articles": [
         {
+          "id": "azure-multifactor-authentication-operator-assistance-will-be-retired-on-30-september-2023",
+          "author": null,
+          "description": "Turn off Operator Assistance and enable automated attendant features for phone system.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/azure-multifactor-authentication-operator-assistance-will-be-retired-on-30-september-2023/",
+          "publishedOn": "2022-03-24T23:00:20.000Z",
+          "wordCount": 2068,
+          "title": "Operator Assistance in Azure MFA will be retired on 30 September 2023",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6d73ccbb2bb76760633b25844e5380af92665e8b7df4404e25d6e43ec7930d93/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "migrate-your-classic-data-exports-to-new-data-exports-by-31-march-2023",
+          "author": null,
+          "description": "Migrate to new data exports in Azure IoT Central before 31 March 2023.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/migrate-your-classic-data-exports-to-new-data-exports-by-31-march-2023/",
+          "publishedOn": "2022-03-24T23:00:11.000Z",
+          "wordCount": 2075,
+          "title": "Classic data export in Azure IoT Central will be retired by 31 March 2023",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6d73ccbb2bb76760633b25844e5380af92665e8b7df4404e25d6e43ec7930d93/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "asa-uami",
+          "author": null,
+          "description": "You can now use user-assigned managed identity to authenticate your Stream Analytics jobs to inputs and outputs without ever having to worry about credential management.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/asa-uami/",
+          "publishedOn": "2022-03-24T16:00:26.000Z",
+          "wordCount": 1952,
+          "title": "Public preview: User-assigned managed identities in Stream Analytics",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6d73ccbb2bb76760633b25844e5380af92665e8b7df4404e25d6e43ec7930d93/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "intelligent-cache-for-apache-spark-in-azure-synapse-now-available-in-public-preview",
+          "author": null,
+          "description": "Accelerate Apache Spark in Azure Synapse execution speed using the new intelligent cache feature.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/intelligent-cache-for-apache-spark-in-azure-synapse-now-available-in-public-preview/",
+          "publishedOn": "2022-03-24T16:00:18.000Z",
+          "wordCount": 2016,
+          "title": "Public preview: Intelligent cache for Apache Spark in Azure Synapse",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6d73ccbb2bb76760633b25844e5380af92665e8b7df4404e25d6e43ec7930d93/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "azure-data-explorer-now-supports-multiple-databases-on-a-single-data-connection",
+          "author": null,
+          "description": "Dynamically route Azure Data Explorer data to an alternate database",
+          "link": "https://azure.microsoft.com/ja-jp/updates/azure-data-explorer-now-supports-multiple-databases-on-a-single-data-connection/",
+          "publishedOn": "2022-03-24T16:00:07.000Z",
+          "wordCount": 2017,
+          "title": "Generally available: Azure Data Explorer supports multiple databases per data connection",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6d73ccbb2bb76760633b25844e5380af92665e8b7df4404e25d6e43ec7930d93/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "ga-amludf-asa",
+          "author": null,
+          "description": "Machine Learning user-defined function in Stream Analytics allows you to perform high throughput, low latency, real-time predictions, allowing you to act on insights which have a very short shelf-life.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/ga-amludf-asa/",
+          "publishedOn": "2022-03-24T15:00:06.000Z",
+          "wordCount": 1970,
+          "title": "General availability: Azure Machine Learning user-defined functions in Azure Stream Analytics",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6d73ccbb2bb76760633b25844e5380af92665e8b7df4404e25d6e43ec7930d93/images/shared/social/azure-icon-250x250.png"
+        },
+        {
           "id": "the-templates-functionality-in-the-azure-portal-will-be-retired-on-31-march-2025",
           "author": null,
           "description": "Start using template specs in the Azure portal before 31 March 2025.",
@@ -744,36 +804,6 @@
           "wordCount": 2064,
           "title": "Public preview: New capabilities for Azure Monitor logs",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6d73ccbb2bb76760633b25844e5380af92665e8b7df4404e25d6e43ec7930d93/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "preview-cost-management-anomaly-detection-for-subscriptions-2",
-          "author": null,
-          "description": "Azure Cost Management offers subscription cost anomaly detection within the cost analysis preview to raise awareness and help identify unexpected changes in cost.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/preview-cost-management-anomaly-detection-for-subscriptions-2/",
-          "publishedOn": "2022-02-22T18:00:30.000Z",
-          "wordCount": 2022,
-          "title": "Public preview: Cost Management anomaly detection for subscriptions",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6d73ccbb2bb76760633b25844e5380af92665e8b7df4404e25d6e43ec7930d93/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "general-availability-application-gateway-mutual-authentication",
-          "author": null,
-          "description": "Enable frontend mutual authentication and listener specific SSL policies on Application Gateway, now generally available.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-application-gateway-mutual-authentication/",
-          "publishedOn": "2022-02-22T17:00:31.000Z",
-          "wordCount": 2020,
-          "title": "General availability: Application Gateway mutual authentication",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6d73ccbb2bb76760633b25844e5380af92665e8b7df4404e25d6e43ec7930d93/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "azure-purview-localization",
-          "author": null,
-          "description": "The Azure Purview UX team has localized Azure Purview studio to 18 languages.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/azure-purview-localization/",
-          "publishedOn": "2022-02-22T17:00:30.000Z",
-          "wordCount": 1932,
-          "title": "General availability: Localization available in Azure Purview",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6d73ccbb2bb76760633b25844e5380af92665e8b7df4404e25d6e43ec7930d93/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
@@ -782,6 +812,16 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "5739e1358c2a2c1c73839e8313e802130f1d2c80",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect は、新しい機械学習機能を提供することで、コンタクトセンターのマネージャーが、コンタクトボリュームと平均処理時間を高精度で予測し、理想的な人員配置レベルを決定し、エージェントスケジュールを最適化して、適切なエージェントを適切なタイミングで確保できるようにします。これらの機能を有効にするには、クリックするだけであり、カスタムアプリケーションを構築したり、複雑で高価なサードパーティー製品と統合したりする必要はありません。これらの新機能は、企業がオペレーションを最適化し、サービスレベルの目標を達成し、エージェントと顧客の満足度を向上させるのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-connect-forecasting-capacity-planning-scheduling-preview/",
+          "publishedOn": "2022-03-24T01:46:45.000Z",
+          "wordCount": 232,
+          "title": "Amazon Connect の予測、容量計画、スケジューリングがプレビューで利用可能になりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
         {
           "id": "89bd72f5d0d3616d86d4ee2719f424becb8b085e",
           "author": "aws@amazon.com",
@@ -847,7 +887,7 @@
           "author": "aws@amazon.com",
           "description": "本日、AWS Chatbot のお客様が AWS リソースを管理し、Slack チャネルから AWS ワークロードの問題を修正できる機能が一般的にご利用いただけるようになったこと (GA) を発表します。AWS Chatbot のお客様は、Slack チャネルから AWS CLI コマンドと AWS System Manager Automation Runbook を実行することでこれを行うことができます。以前は、AWS のお客様は AWS Chatbot を使用して AWS リソースをモニタリングし、診断情報を取得することしかできませんでした。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-chatbot-support-management-resources-slack/",
-          "publishedOn": "2022-03-22T18:54:31.000Z",
+          "publishedOn": "2022-03-22T18:54:32.000Z",
           "wordCount": 286,
           "title": "AWS Chatbot が Slack からの AWS リソースの管理をサポートするようになったことを発表 (一般提供開始)",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
@@ -880,6 +920,16 @@
           "publishedOn": "2022-03-22T18:51:16.000Z",
           "wordCount": 295,
           "title": "AWS Graviton2 プロセッサを搭載した Amazon Aurora T4g インスタンスタイプが、欧州 (ミラノ)、欧州 (パリ)、および欧州 (ストックホルム) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "262d592c11415e6999cdfc83dc23f031ef4e10ee",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Kubernetes Service は、Windows ワーカーノードで containerd コンテナランタイムをサポートするようになりました。containerd は、コンテナイメージの転送から実行、ストレージ、ネットワーク接続まで、ホストシステム上のコンテナライフサイクル全体を管理する軽量のコンテナランタイムです。Windows ワークロードを使用しているお客様は、Linux ベースのワーカーノードを実行しているお客様が利用できる containerd と同様のパフォーマンス、セキュリティ、および安定性のメリットを享受できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/windows-containerd-runtime-eks-kubernetes/",
+          "publishedOn": "2022-03-22T18:50:27.000Z",
+          "wordCount": 257,
+          "title": "Kubernetes 1.21 以降の EKS での containerd ランタイム向け Windows サポートの発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
@@ -933,16 +983,6 @@
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
-          "id": "262d592c11415e6999cdfc83dc23f031ef4e10ee",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Kubernetes Service は、Windows ワーカーノードで containerd コンテナランタイムをサポートするようになりました。containerd は、コンテナイメージの転送から実行、ストレージ、ネットワーク接続まで、ホストシステム上のコンテナライフサイクル全体を管理する軽量のコンテナランタイムです。Windows ワークロードを使用しているお客様は、Linux ベースのワーカーノードを実行しているお客様が利用できる containerd と同様のパフォーマンス、セキュリティ、および安定性のメリットを享受できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/windows-containerd-runtime-eks-kubernetes/",
-          "publishedOn": "2022-03-17T06:35:16.000Z",
-          "wordCount": 257,
-          "title": "Kubernetes 1.21 以降の EKS での containerd ランタイム向け Windows サポートの発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
           "id": "af791d370fac533e6faa258a35030b8ebd0492fd",
           "author": "aws@amazon.com",
           "description": "AWS Network Firewall は、AWS GovCloud (米国東部) および AWS GovCloud (米国西部) リージョンについて FedRAMP High の認定を達成しました。これで、AWS Network Firewall を使用して、FedRAMP High の分類レベルを必要とするワークロードのために、これらのリージョンの Amazon Virtual Private Cloud (VPC) との間のアクセスを保護および制御できるようになりました。",
@@ -965,11 +1005,11 @@
         {
           "id": "1f35a6eb4ac574bca425d33bf9bd0a686d715d54",
           "author": "aws@amazon.com",
-          "description": "本日より、AWS Chatbot を介して Slack と Amazon Chime で AWS Cost Anomaly Detection アラート通知を受信できるようになります。AWS Chatbot との統合により、Slack または Amazon Chime チャットチャネルを使用してコスト異常アラートサブスクリプションを簡単に設定できます。aこれにより、既存のチャットチャネル内で個々の AWS Cost Anomaly Detection アラートを受信できるようになり、コラボレーションの向上とアラートのタイムリーな解決がサポートされます。",
+          "description": "本日より、AWS Chatbot を介して Slack と Amazon Chime で AWS コスト異常検出アラート通知を受信できるようになります。AWS Chatbot との統合により、Slack または Amazon Chime チャットチャネルを使用してコスト異常アラートサブスクリプションを簡単に設定できます。これにより、既存のチャットチャネル内で個々の AWS コスト異常検出アラートを受信できるようになり、コラボレーションの向上とアラートのタイムリーな解決がサポートされます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-integration-chatbot/",
           "publishedOn": "2022-03-17T06:31:04.000Z",
-          "wordCount": 316,
-          "title": "AWS Cost Anomaly Detection が AWS Chatbot との統合をサポート",
+          "wordCount": 287,
+          "title": "AWS コスト異常検出が AWS Chatbot との統合をサポート",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
@@ -1730,16 +1770,6 @@
           "publishedOn": "2022-03-04T08:36:17.000Z",
           "wordCount": 260,
           "title": "Amazon MSK Serverless が欧州 (アイルランド) で利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "31b68582faca9971ce75f27e6b024e6f40c70614",
-          "author": "aws@amazon.com",
-          "description": "AWS App Runner は、Java ベースのウェブアプリケーションを構築および実行するための Java 言語プラットフォームのサポートを開始しました。App Runner の Java 言語プラットフォームは、2 つの Amazon Corretto ランタイム (Corretto 11 と Corretto 8) と共にリリースされました。どちらのランタイムも、それぞれの Corretto ランタイムバージョンに加えて、Maven ツールと Gradle ツールをアプリケーションのコンテナに追加します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-app-runner-adds-java-platform/",
-          "publishedOn": "2022-03-03T02:38:18.000Z",
-          "wordCount": 263,
-          "title": "AWS App Runner は Java プラットフォームを追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
