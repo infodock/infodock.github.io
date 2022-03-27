@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-26T00:21:56.285Z</id>
+    <id>urn:2022-03-27T00:27:20.532Z</id>
     <title>Info Dock</title>
-    <updated>2022-03-26T00:21:56.285Z</updated>
+    <updated>2022-03-27T00:27:20.532Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1691,86 +1691,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-red-hat-openshift-support-for-openshift-49/"/>
         <updated>2022-02-28T16:00:11.000Z</updated>
         <summary type="html"><![CDATA[Benefit from new features and enhancements in OpenShift release 4.9.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Updated navigation menu in Azure IoT Central]]></title>
-        <id>iotcentral-updated-navigation-menu</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotcentral-updated-navigation-menu/"/>
-        <updated>2022-02-24T22:00:02.000Z</updated>
-        <summary type="html"><![CDATA[The Azure IoT Central navigation menu has been updated to make it easier to find product capabilities. Pages have been re-ordered, re-grouped, and re-named to align with common tasks.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Utilize multiple backups per day for Azure Files in Azure Backup]]></title>
-        <id>azurefiles-multiplebackups</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azurefiles-multiplebackups/"/>
-        <updated>2022-02-24T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The feature that allows you to configure multiple backups per day for Azure Files via backup policy is now generally available.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Spring Cloud Enterprise]]></title>
-        <id>public-preview-azure-spring-cloud-enterprise</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-spring-cloud-enterprise/"/>
-        <updated>2022-02-24T18:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Azure Spring Cloud Enterprise includes fully managed VMware Tanzu components to help you ship faster as well as long term support for Spring projects to unlock Spring’s full potential.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Elastic and Azure Spring Cloud integration]]></title>
-        <id>public-preview-elastic-and-azure-spring-cloud-integration</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-elastic-and-azure-spring-cloud-integration/"/>
-        <updated>2022-02-24T18:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Monitor every step of your cloud journey with the integration of Azure Spring Cloud logs and metrics into Elastic and instrument Spring Boot applications.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure NetApp Files new region and cross-region replication]]></title>
-        <id>region-expansion-azure-netapp-files-new-region-and-crossregion-replication-availability</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/region-expansion-azure-netapp-files-new-region-and-crossregion-replication-availability/"/>
-        <updated>2022-02-24T17:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Azure NetApp Files is now available in an additional Australia region and supports a new cross-region replication pair.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure NetApp Files - application consistent snapshot tool v5.1]]></title>
-        <id>public-preview-azure-netapp-files-application-consistent-snapshot-tool-azacsnap-v51</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-netapp-files-application-consistent-snapshot-tool-azacsnap-v51/"/>
-        <updated>2022-02-24T17:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Application consistent snapshot tool is a command-line tool for simplifying data protection for third-party databases in Linux environments.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: WordPress enhancements for App Service]]></title>
-        <id>public-preview-wordpress-enhancements-for-app-service</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-wordpress-enhancements-for-app-service/"/>
-        <updated>2022-02-24T17:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Improvements include a new image, multiple hosting plans, better performance, and simplified configuration.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:Azure Cost Management and Billing での直接エンタープライズ契約]]></title>
-        <id>ea-azure-billing-experience-on-cost-management-and-billing-3</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/ea-azure-billing-experience-on-cost-management-and-billing-3/"/>
-        <updated>2022-02-24T16:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Azure portal 上の Azure Cost Management and Billing メニューから、登録階層の管理、アカウントの使用状況の確認、コストの監視を直接行うことができます (商用クラウドで直接エンタープライズ契約を締結しているお客様向け)。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
