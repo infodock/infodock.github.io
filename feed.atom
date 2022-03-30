@@ -1,10 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-29T00:28:05.713Z</id>
+    <id>urn:2022-03-30T00:22:31.676Z</id>
     <title>Info Dock</title>
-    <updated>2022-03-29T00:28:05.713Z</updated>
+    <updated>2022-03-30T00:22:31.676Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Azure classic storage accounts will be retired on 31 August 2024]]></title>
+        <id>classic-azure-storage-accounts-will-be-retired-on-31-august-2024</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/classic-azure-storage-accounts-will-be-retired-on-31-august-2024/"/>
+        <updated>2022-03-29T23:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Migrate your classic storage accounts to Azure Resource Manager by 31 August 2024.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NV-series and NV Promo Azure Virtual Machines retirement extended to 31 August 2023]]></title>
+        <id>nvseries-and-nv-promo-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/nvseries-and-nv-promo-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023/"/>
+        <updated>2022-03-29T21:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Move to GPU accelerated virtual machines by 31 August 2023.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ND-series Azure Virtual Machines retirement extended to 31 August 2023]]></title>
+        <id>ndseries-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/ndseries-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023/"/>
+        <updated>2022-03-29T21:14:54.000Z</updated>
+        <summary type="html"><![CDATA[Transition to new HPC virtual machines by 31 August 2023.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update: NV-series and NV_Promo Azure Virtual Machines will be retired on 31 August 2023]]></title>
+        <id>nvseries-and-nvpromo-azure-virtual-machines-will-be-retired-by-31-august-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/nvseries-and-nvpromo-azure-virtual-machines-will-be-retired-by-31-august-2022/"/>
+        <updated>2022-03-29T19:55:33.000Z</updated>
+        <summary type="html"><![CDATA[Move to GPU accelerated virtual machines by 31 August 2023.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update: ND-series Azure Virtual Machines will be retired on 31 August 2023]]></title>
+        <id>ndseries-azure-virtual-machines-will-be-retired-by-31-august-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/ndseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"/>
+        <updated>2022-03-29T19:54:49.000Z</updated>
+        <summary type="html"><![CDATA[Transition to new HPC virtual machines by 31 August 2023.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update: NC v2-series Azure Virtual Machines will be retired on 31 August 2023]]></title>
+        <id>nc-v2series-azure-virtual-machines-will-be-retired-by-31-august-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/nc-v2series-azure-virtual-machines-will-be-retired-by-31-august-2022/"/>
+        <updated>2022-03-29T19:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Transition to new HPC virtual machines by 31 August 2023.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NC v2-series Azure Virtual Machines retirement extended to 31 August 2023]]></title>
+        <id>nc-v2-series-azure-virtual-machines-retirement-extended-to-31-august-2023</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/nc-v2-series-azure-virtual-machines-retirement-extended-to-31-august-2023/"/>
+        <updated>2022-03-29T19:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Transition to new HPC virtual machines by 31 August 2023.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NC-series Azure Virtual Machines retirement extended to 31 August 2023]]></title>
+        <id>ncseries-azure-virtual-machines-retirement-extended-to-31-august-2023</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/ncseries-azure-virtual-machines-retirement-extended-to-31-august-2023/"/>
+        <updated>2022-03-29T18:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Transition to new HPC virtual machines by 31 August 2023.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update: NC-series Azure Virtual Machines will be retired on 31 August 2023]]></title>
+        <id>ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"/>
+        <updated>2022-03-29T18:19:45.000Z</updated>
+        <summary type="html"><![CDATA[Transition to new HPC virtual machines by 31 August 2023.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Access time-based lifecycle management rules for Data Lake Storage Gen2]]></title>
+        <id>access-time-based-lifecycle-management-adls-gen2</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/access-time-based-lifecycle-management-adls-gen2/"/>
+        <updated>2022-03-29T16:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Access time tracking for objects and lifecycle management policies based on last accessed time in Azure Data Lake Storage Gen2.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: The new Azure Front Door – a modern cloud CDN service]]></title>
+        <id>generally-available-the-new-azure-front-door-a-modern-cloud-cdn-service</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-the-new-azure-front-door-a-modern-cloud-cdn-service/"/>
+        <updated>2022-03-29T16:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Azure Front Door is a modern cloud CDN that enables you to accelerate the delivery of applications, APIs, and content on Azure or anywhere at scale.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[App Service Environment version 1 and version 2 will be retired on 31 August 2024]]></title>
         <id>app-service-environment-v1-and-v2-retirement-announcement</id>
@@ -166,7 +276,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: Azure Percept DK March (2202) software update]]></title>
+        <title type="html"><![CDATA[Public preview: Azure Percept DK March (2203) software update]]></title>
         <id>apdk2203update</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/apdk2203update/"/>
         <updated>2022-03-28T15:00:06.000Z</updated>
@@ -860,7 +970,7 @@
         <id>0548dc3762b62c80652efa3749dba8a2df1d6bd9</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-location-service-two-here-map-styles/"/>
         <updated>2022-03-17T04:39:39.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Location Service は、デベロッパー向けの 2 つの新しい HERE マップスタイル (HERE Explore と HERE Explore Truck) を追加しました。HERE Explore を使用すると、デベロッパーは、完全に設計された日本の地図を含めて、道路、建物、ランドマーク、および水の機能を特徴とする新しい世界地図を手に入れることができます。また、HERE Explore Truck を使用すると、デベロッパーは、トラックの制限と属性 (幅、高さ、HAZMAT など) を含むグローバルマップを HERE Explore の上に強調表示されたセグメントとアイコンで表示して、輸送やロジスティクスのユースケースをサポートできるようになります。例えば、適切な制限付きの最適な運転ルートを計算する必要がある配送トラックのフリートを管理しているお客様は、HERE Explore Truck を使用して、地図に表示される制限付きの運転ルートを確認できます。]]></summary>
+        <summary type="html"><![CDATA[本日、Amazon Location Service は、デベロッパー向けの 2 つの新しい HERE マップスタイル (HERE Explore と HERE Explore Truck) を追加しました。HERE Explore を使用すると、デベロッパーは、デザインが完全に行われた日本の地図を含めて、道路、建物、ランドマーク、および水景物を特徴とする新しい世界地図を手に入れることができます。また、HERE Explore Truck を使用すると、デベロッパーは、トラックの制限と属性 (幅、高さ、HAZMAT など) を含むグローバルマップを HERE Explore の上に強調表示されたセグメントとアイコンで表示して、輸送やロジスティクスのユースケースをサポートできるようになります。例えば、適切な制限付きの最適な運転ルートを計算する必要がある配送トラックのフリートを管理しているお客様は、HERE Explore Truck を使用して、地図に表示される制限付きの運転ルートを確認できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>

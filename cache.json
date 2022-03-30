@@ -6,6 +6,116 @@
       "siteUrl": "https://azure.microsoft.com/ja-jp/updates/",
       "articles": [
         {
+          "id": "classic-azure-storage-accounts-will-be-retired-on-31-august-2024",
+          "author": null,
+          "description": "Migrate your classic storage accounts to Azure Resource Manager by 31 August 2024.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/classic-azure-storage-accounts-will-be-retired-on-31-august-2024/",
+          "publishedOn": "2022-03-29T23:00:25.000Z",
+          "wordCount": 2040,
+          "title": "Azure classic storage accounts will be retired on 31 August 2024",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "nvseries-and-nv-promo-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023",
+          "author": null,
+          "description": "Move to GPU accelerated virtual machines by 31 August 2023.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/nvseries-and-nv-promo-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023/",
+          "publishedOn": "2022-03-29T21:16:29.000Z",
+          "wordCount": 2060,
+          "title": "NV-series and NV Promo Azure Virtual Machines retirement extended to 31 August 2023",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "ndseries-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023",
+          "author": null,
+          "description": "Transition to new HPC virtual machines by 31 August 2023.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/ndseries-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023/",
+          "publishedOn": "2022-03-29T21:14:54.000Z",
+          "wordCount": 2010,
+          "title": "ND-series Azure Virtual Machines retirement extended to 31 August 2023",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "nvseries-and-nvpromo-azure-virtual-machines-will-be-retired-by-31-august-2022",
+          "author": null,
+          "description": "Move to GPU accelerated virtual machines by 31 August 2023.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/nvseries-and-nvpromo-azure-virtual-machines-will-be-retired-by-31-august-2022/",
+          "publishedOn": "2022-03-29T19:55:33.000Z",
+          "wordCount": 2133,
+          "title": "Update: NV-series and NV_Promo Azure Virtual Machines will be retired on 31 August 2023",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "ndseries-azure-virtual-machines-will-be-retired-by-31-august-2022",
+          "author": null,
+          "description": "Transition to new HPC virtual machines by 31 August 2023.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/ndseries-azure-virtual-machines-will-be-retired-by-31-august-2022/",
+          "publishedOn": "2022-03-29T19:54:49.000Z",
+          "wordCount": 2136,
+          "title": "Update: ND-series Azure Virtual Machines will be retired on 31 August 2023",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "nc-v2series-azure-virtual-machines-will-be-retired-by-31-august-2022",
+          "author": null,
+          "description": "Transition to new HPC virtual machines by 31 August 2023.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/nc-v2series-azure-virtual-machines-will-be-retired-by-31-august-2022/",
+          "publishedOn": "2022-03-29T19:10:42.000Z",
+          "wordCount": 2155,
+          "title": "Update: NC v2-series Azure Virtual Machines will be retired on 31 August 2023",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "nc-v2-series-azure-virtual-machines-retirement-extended-to-31-august-2023",
+          "author": null,
+          "description": "Transition to new HPC virtual machines by 31 August 2023.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/nc-v2-series-azure-virtual-machines-retirement-extended-to-31-august-2023/",
+          "publishedOn": "2022-03-29T19:03:25.000Z",
+          "wordCount": 2016,
+          "title": "NC v2-series Azure Virtual Machines retirement extended to 31 August 2023",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "ncseries-azure-virtual-machines-retirement-extended-to-31-august-2023",
+          "author": null,
+          "description": "Transition to new HPC virtual machines by 31 August 2023.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/ncseries-azure-virtual-machines-retirement-extended-to-31-august-2023/",
+          "publishedOn": "2022-03-29T18:20:14.000Z",
+          "wordCount": 2012,
+          "title": "NC-series Azure Virtual Machines retirement extended to 31 August 2023",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022",
+          "author": null,
+          "description": "Transition to new HPC virtual machines by 31 August 2023.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022/",
+          "publishedOn": "2022-03-29T18:19:45.000Z",
+          "wordCount": 2140,
+          "title": "Update: NC-series Azure Virtual Machines will be retired on 31 August 2023",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "access-time-based-lifecycle-management-adls-gen2",
+          "author": null,
+          "description": "Access time tracking for objects and lifecycle management policies based on last accessed time in Azure Data Lake Storage Gen2.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/access-time-based-lifecycle-management-adls-gen2/",
+          "publishedOn": "2022-03-29T16:00:36.000Z",
+          "wordCount": 2175,
+          "title": "Generally available: Access time-based lifecycle management rules for Data Lake Storage Gen2",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "generally-available-the-new-azure-front-door-a-modern-cloud-cdn-service",
+          "author": null,
+          "description": "Azure Front Door is a modern cloud CDN that enables you to accelerate the delivery of applications, APIs, and content on Azure or anywhere at scale.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-the-new-azure-front-door-a-modern-cloud-cdn-service/",
+          "publishedOn": "2022-03-29T16:00:21.000Z",
+          "wordCount": 2076,
+          "title": "Generally available: The new Azure Front Door – a modern cloud CDN service",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
+        },
+        {
           "id": "app-service-environment-v1-and-v2-retirement-announcement",
           "author": null,
           "description": "Migrate to App Service Environment version 3 by 31 August 2024.",
@@ -13,7 +123,7 @@
           "publishedOn": "2022-03-28T23:00:20.000Z",
           "wordCount": 2203,
           "title": "App Service Environment version 1 and version 2 will be retired on 31 August 2024",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "retirement-of-feature-iot-connector-within-azure-api-for-fhir",
@@ -23,7 +133,7 @@
           "publishedOn": "2022-03-28T23:00:11.000Z",
           "wordCount": 2003,
           "title": "IoT connector preview feature in Azure API for FHIR retiring on 30 September 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-copy-data-directly-to-archive-storage-with-data-box",
@@ -33,7 +143,7 @@
           "publishedOn": "2022-03-28T20:00:09.000Z",
           "wordCount": 1958,
           "title": "Generally available: Copy data directly to Archive Storage with Data Box",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "in-development-new-planned-datacenter-region-in-india-india-south-central",
@@ -43,7 +153,7 @@
           "publishedOn": "2022-03-28T19:00:08.000Z",
           "wordCount": 1929,
           "title": "In development: New planned datacenter region in India (India South Central)",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "ondemand-capacity-reservation-with-azure-site-recovery-safeguards-vms-failover",
@@ -53,7 +163,7 @@
           "publishedOn": "2022-03-28T17:00:07.000Z",
           "wordCount": 2051,
           "title": "Generally available: On-demand capacity reservation with Azure Site Recovery safeguards VMs failover",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-bastion-native-client-support",
@@ -63,7 +173,7 @@
           "publishedOn": "2022-03-28T16:00:23.000Z",
           "wordCount": 1928,
           "title": "General availability: Azure Bastion native client support",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-ondemand-capacity-reservations",
@@ -73,7 +183,7 @@
           "publishedOn": "2022-03-28T16:00:22.000Z",
           "wordCount": 2001,
           "title": "General availability: On-demand capacity reservations",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "batch-spot-vms-2",
@@ -83,7 +193,7 @@
           "publishedOn": "2022-03-28T16:00:06.000Z",
           "wordCount": 1928,
           "title": "Generally available: Azure Batch supports Spot Virtual Machines",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "apdk2203update",
@@ -92,8 +202,8 @@
           "link": "https://azure.microsoft.com/ja-jp/updates/apdk2203update/",
           "publishedOn": "2022-03-28T15:00:06.000Z",
           "wordCount": 1948,
-          "title": "Public preview: Azure Percept DK March (2202) software update",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "title": "Public preview: Azure Percept DK March (2203) software update",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-multifactor-authentication-operator-assistance-will-be-retired-on-30-september-2023",
@@ -103,7 +213,7 @@
           "publishedOn": "2022-03-24T23:00:20.000Z",
           "wordCount": 2061,
           "title": "Operator Assistance in Azure MFA will be retired on 30 September 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "migrate-your-classic-data-exports-to-new-data-exports-by-31-march-2023",
@@ -113,7 +223,7 @@
           "publishedOn": "2022-03-24T23:00:11.000Z",
           "wordCount": 2068,
           "title": "Classic data export in Azure IoT Central will be retired by 31 March 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "asa-uami",
@@ -123,7 +233,7 @@
           "publishedOn": "2022-03-24T16:00:26.000Z",
           "wordCount": 1945,
           "title": "Public preview: User-assigned managed identities in Stream Analytics",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "intelligent-cache-for-apache-spark-in-azure-synapse-now-available-in-public-preview",
@@ -133,7 +243,7 @@
           "publishedOn": "2022-03-24T16:00:18.000Z",
           "wordCount": 2009,
           "title": "Public preview: Intelligent cache for Apache Spark in Azure Synapse",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-data-explorer-now-supports-multiple-databases-on-a-single-data-connection",
@@ -143,7 +253,7 @@
           "publishedOn": "2022-03-24T16:00:07.000Z",
           "wordCount": 2010,
           "title": "Generally available: Azure Data Explorer supports multiple databases per data connection",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "ga-amludf-asa",
@@ -153,7 +263,7 @@
           "publishedOn": "2022-03-24T15:00:06.000Z",
           "wordCount": 1963,
           "title": "General availability: Azure Machine Learning user-defined functions in Azure Stream Analytics",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "the-templates-functionality-in-the-azure-portal-will-be-retired-on-31-march-2025",
@@ -163,7 +273,7 @@
           "publishedOn": "2022-03-22T23:00:22.000Z",
           "wordCount": 2010,
           "title": "Templates functionality preview version in Azure portal will be retired on 31 March 2025",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "ip-address-changes-will-begin-affecting-your-ability-to-manage-your-virtual-networkenabled-api-management-services-on-31-marc",
@@ -173,7 +283,7 @@
           "publishedOn": "2022-03-22T23:00:22.000Z",
           "wordCount": 2142,
           "title": "Review your VNET configurations that may be affected by IP address changes",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "we-ll-retire-azure-time-series-insights-on-31-of-march-2025",
@@ -183,7 +293,7 @@
           "publishedOn": "2022-03-22T23:00:21.000Z",
           "wordCount": 2109,
           "title": "Azure Time Series Insights will be retired on 31 March 2025",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "standard-load-balancer-inbound-nat-rule-now-supports-port-management-for-backend-pools-2",
@@ -193,7 +303,7 @@
           "publishedOn": "2022-03-22T03:00:09.000Z",
           "wordCount": 2025,
           "title": "General availability: Inbound NAT rule now supports port management for backend pools",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "netcore31",
@@ -203,7 +313,7 @@
           "publishedOn": "2022-03-21T23:00:09.000Z",
           "wordCount": 2059,
           "title": "Update your Azure App Service apps to use Microsoft .NET 6 before 3 December 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-qna-maker-will-be-retired-on-31-march-2025",
@@ -213,7 +323,7 @@
           "publishedOn": "2022-03-21T23:00:08.000Z",
           "wordCount": 2083,
           "title": "Azure QnA Maker will be retired on 31 March 2025",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "technical-support-for-instrumentation-key-based-global-ingestion-in-application-insights-will-end-on-31-march-2025",
@@ -223,7 +333,7 @@
           "publishedOn": "2022-03-21T23:00:08.000Z",
           "wordCount": 2007,
           "title": "Transition to using connection strings for data ingestion by 31 March 2025",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "community-support-for-node-14-lts-is-ending-on-30-april-2023",
@@ -233,7 +343,7 @@
           "publishedOn": "2022-03-21T23:00:08.000Z",
           "wordCount": 1992,
           "title": "Community support for Node 14 LTS is ending on 30 April 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "migrate-to-azure-synapse-analytics",
@@ -243,7 +353,7 @@
           "publishedOn": "2022-03-21T23:00:07.000Z",
           "wordCount": 2062,
           "title": "Azure Data Lake Analytics will be retired on 29 February 2024",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "iotc-manage-devices-without-models",
@@ -253,7 +363,7 @@
           "publishedOn": "2022-03-21T19:00:04.000Z",
           "wordCount": 1983,
           "title": "Generally available: Connect and manage devices in Azure IoT Central without models",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "in-development-new-planned-datacenter-region-in-finland-finland-central",
@@ -263,7 +373,7 @@
           "publishedOn": "2022-03-21T17:00:03.000Z",
           "wordCount": 1926,
           "title": "In development: New planned datacenter region in Finland (Finland Central)",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-container-registry-on-azure-stack-hub",
@@ -273,7 +383,7 @@
           "publishedOn": "2022-03-21T16:00:03.000Z",
           "wordCount": 1934,
           "title": "Public preview: Azure Container Registry on Azure Stack Hub",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-kubernetes-service-on-azure-stack-hub",
@@ -283,7 +393,7 @@
           "publishedOn": "2022-03-21T15:00:02.000Z",
           "wordCount": 1937,
           "title": "Public preview: Azure Kubernetes Service on Azure Stack Hub",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-hbv3-vms-for-hpc-now-generally-available-with-amd-milanx-cpus",
@@ -293,7 +403,7 @@
           "publishedOn": "2022-03-21T13:00:01.000Z",
           "wordCount": 2017,
           "title": "General availability: Azure HBv3 virtual machines for HPC now upgraded",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "five-azure-classic-networking-services-will-be-retired-on-31-august-2024",
@@ -303,7 +413,7 @@
           "publishedOn": "2022-03-19T01:00:25.000Z",
           "wordCount": 2066,
           "title": "Five Azure classic networking services will be retired on 31 August 2024",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-dedicated-hosts-dsv3type1-dsv3type2-esv3type1-and-esv3type2-will-be-retired-on-31-march-2023",
@@ -313,7 +423,7 @@
           "publishedOn": "2022-03-17T23:00:13.000Z",
           "wordCount": 2081,
           "title": "Select Azure Dedicated Host SKUs will be retired on 31 March 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "extended-support-for-microsoft-net-core-31-will-end-on-3-december-2022",
@@ -323,7 +433,7 @@
           "publishedOn": "2022-03-17T23:00:12.000Z",
           "wordCount": 2049,
           "title": "Extended support for Microsoft .NET Core 3.1 will end on 3 December 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-iot-hub-on-azure-stack-hub-preview-will-be-retired-and-it-will-not-go-to-ga",
@@ -333,7 +443,7 @@
           "publishedOn": "2022-03-17T23:00:12.000Z",
           "wordCount": 2117,
           "title": "IoT Hub on Azure Stack Hub public preview will be retired on 30 September 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "migrate-to-mqtt-broker-on-azure-iot-edge-by-31-march-2023",
@@ -343,7 +453,7 @@
           "publishedOn": "2022-03-17T23:00:11.000Z",
           "wordCount": 2078,
           "title": "Migrate to MQTT broker on Azure IoT Edge by 31 March 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "support-for-azure-sdk-libraries-that-do-not-conform-to-our-current-azure-sdk-guidelines-will-be-retired-as-of-31-march-2023",
@@ -353,7 +463,7 @@
           "publishedOn": "2022-03-17T23:00:10.000Z",
           "wordCount": 2105,
           "title": "Update your Azure SDK libraries by 31 March 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "combined-password-reset-mfa-registration",
@@ -363,7 +473,7 @@
           "publishedOn": "2022-03-17T15:00:06.000Z",
           "wordCount": 1971,
           "title": "General availability: Enablement of combined security information registration for Azure Active Directory",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-private-link-support-in-azure-api-management-2",
@@ -373,7 +483,7 @@
           "publishedOn": "2022-03-16T23:01:11.000Z",
           "wordCount": 1979,
           "title": "Public preview: Azure Private Link support in Azure API Management",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "premiumcontainer",
@@ -383,7 +493,7 @@
           "publishedOn": "2022-03-16T23:00:35.000Z",
           "wordCount": 2000,
           "title": "Premium Container SKU (public preview) will be retired on 30 June 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "omstoci",
@@ -393,7 +503,7 @@
           "publishedOn": "2022-03-16T23:00:28.000Z",
           "wordCount": 2026,
           "title": "Azure Container Monitoring will be retired on 31 March 2025",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "node12",
@@ -403,7 +513,7 @@
           "publishedOn": "2022-03-16T23:00:22.000Z",
           "wordCount": 1991,
           "title": "Community support for Node 12 LTS is ending on 30 April 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "net5",
@@ -413,7 +523,7 @@
           "publishedOn": "2022-03-16T23:00:12.000Z",
           "wordCount": 1984,
           "title": "Community support for .NET 5 is ending on 8 May 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-azure-site-recovery-update-rollup-61-march-2022",
@@ -423,7 +533,7 @@
           "publishedOn": "2022-03-16T17:00:08.000Z",
           "wordCount": 1963,
           "title": "Generally available: Azure Site Recovery update rollup 61 - March 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-best-practices-assessment-for-sql-server-on-azure-virtual-machines",
@@ -433,7 +543,7 @@
           "publishedOn": "2022-03-16T16:01:42.000Z",
           "wordCount": 1957,
           "title": "Generally available: Best practices assessment for SQL Server on Azure Virtual Machines",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-sql-public-preview-updates-for-midmarch-2022",
@@ -443,7 +553,7 @@
           "publishedOn": "2022-03-16T16:01:35.000Z",
           "wordCount": 1945,
           "title": "Azure SQL—Public preview updates for mid-March 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-database-for-mysql-flexible-server-new-us-government-region",
@@ -453,7 +563,7 @@
           "publishedOn": "2022-03-16T16:01:29.000Z",
           "wordCount": 1979,
           "title": "General availability: Azure Database for MySQL—Flexible Server - New US government region",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-new-extensions-for-azure-database-for-postgresql-flexible-server",
@@ -463,7 +573,7 @@
           "publishedOn": "2022-03-16T16:01:22.000Z",
           "wordCount": 1976,
           "title": "General availability: New extensions for Azure Database for PostgreSQL - Flexible Server",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-new-high-availability-regions-azure-database-for-postgresql-flexible-server",
@@ -473,7 +583,7 @@
           "publishedOn": "2022-03-16T16:01:15.000Z",
           "wordCount": 1992,
           "title": "General availability: New high availability regions—Azure Database for PostgreSQL - Flexible Server",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-database-for-postgresql-flexible-server-new-us-government-regions",
@@ -483,7 +593,7 @@
           "publishedOn": "2022-03-16T16:01:07.000Z",
           "wordCount": 1984,
           "title": "General availability: Azure Database for PostgreSQL - Flexible Server—new US government regions",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-database-for-postgresql-flexible-server-supports-postgresql-minor-versions",
@@ -493,7 +603,7 @@
           "publishedOn": "2022-03-16T16:01:00.000Z",
           "wordCount": 1966,
           "title": "General availability: Azure Database for PostgreSQL - Flexible Server supports PostgreSQL minor versions",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-database-for-postgresql-hyperscale-citus-supports-postgresql-minor-versions-2",
@@ -503,7 +613,7 @@
           "publishedOn": "2022-03-16T16:00:53.000Z",
           "wordCount": 1962,
           "title": "General availability: Azure Database for PostgreSQL—Hyperscale (Citus) supports PostgreSQL minor versions",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-clustering-support-for-jboss-eap-on-azure-app-service",
@@ -513,7 +623,7 @@
           "publishedOn": "2022-03-16T16:00:46.000Z",
           "wordCount": 2054,
           "title": "Public preview: Clustering Support for JBoss EAP on Azure App Service",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-support-for-private-links-in-azure-monitor-agent",
@@ -523,7 +633,7 @@
           "publishedOn": "2022-03-16T16:00:40.000Z",
           "wordCount": 2033,
           "title": "Generally available: Support for private links in Azure Monitor agent",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-signalr-service-premium-tier",
@@ -533,7 +643,7 @@
           "publishedOn": "2022-03-16T16:00:33.000Z",
           "wordCount": 1919,
           "title": "Public preview: Azure SignalR Service Premium Tier",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-app-configuration-soft-delete-capability",
@@ -543,7 +653,7 @@
           "publishedOn": "2022-03-16T16:00:26.000Z",
           "wordCount": 2041,
           "title": "Public preview: Azure App Configuration soft delete capability",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-protect-azure-static-web-apps-environments-with-a-password-2",
@@ -553,7 +663,7 @@
           "publishedOn": "2022-03-16T16:00:18.000Z",
           "wordCount": 1958,
           "title": "Public preview: Protect Azure Static Web Apps environments with a password",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-azure-database-for-mysql-flexible-server-in-two-new-regions",
@@ -563,7 +673,7 @@
           "publishedOn": "2022-03-15T21:24:11.000Z",
           "wordCount": 1997,
           "title": "Generally available: Azure Database for MySQL – Flexible Server in two new regions",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-synapse-link-for-azure-cosmos-db-partitioning-spark-31",
@@ -573,7 +683,7 @@
           "publishedOn": "2022-03-15T19:39:18.000Z",
           "wordCount": 1967,
           "title": "Public preview: Azure Synapse Link for Azure Cosmos DB partitioning Spark 3.1",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-tvm-ephemeral-os-disk",
@@ -583,7 +693,7 @@
           "publishedOn": "2022-03-15T17:00:39.000Z",
           "wordCount": 1952,
           "title": "Public preview: Trusted launch support for Virtual Machines using Ephemeral OS disks",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "iotc-pinanalyticstodashboard",
@@ -593,7 +703,7 @@
           "publishedOn": "2022-03-14T15:00:25.000Z",
           "wordCount": 1957,
           "title": "Generally available: Pin analytics tile to dashboards in Azure IoT Central",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-support-for-private-link-in-azure-digital-twins",
@@ -603,7 +713,7 @@
           "publishedOn": "2022-03-14T15:00:24.000Z",
           "wordCount": 1964,
           "title": "General availability: Support for Private Link in Azure Digital Twins",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-ondemand-capacity-reservation-with-azure-site-recovery-safeguards-vms-failover",
@@ -613,7 +723,7 @@
           "publishedOn": "2022-03-10T18:00:28.000Z",
           "wordCount": 2044,
           "title": "Public preview: On-demand capacity reservation with Azure Site Recovery safeguards VMs failover",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-purview-workflows",
@@ -623,7 +733,7 @@
           "publishedOn": "2022-03-10T16:00:27.000Z",
           "wordCount": 1927,
           "title": "Public preview: Azure Purview workflows",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "trusted-launch-azure-vms-backup-support",
@@ -633,7 +743,7 @@
           "publishedOn": "2022-03-09T20:00:15.000Z",
           "wordCount": 1976,
           "title": "Public preview: Azure Backup support for trusted launch Azure Virtual Machines",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-chaos-studio-key-vault-and-classic-cloud-services-faults-now-available",
@@ -643,7 +753,7 @@
           "publishedOn": "2022-03-09T18:00:14.000Z",
           "wordCount": 2005,
           "title": "Generally available: Azure Chaos Studio Key Vault and Classic Cloud Services faults",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-schedule-automated-emails-of-your-saved-cost-views",
@@ -653,7 +763,7 @@
           "publishedOn": "2022-03-08T18:00:33.000Z",
           "wordCount": 1969,
           "title": "Public preview: Schedule automated emails of your saved cost views",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-soap-and-xml-request-and-response-validation",
@@ -663,7 +773,7 @@
           "publishedOn": "2022-03-07T21:00:33.000Z",
           "wordCount": 2031,
           "title": "General availability: SOAP and XML request and response validation",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "apdk2202update",
@@ -673,7 +783,7 @@
           "publishedOn": "2022-03-03T17:00:36.000Z",
           "wordCount": 1949,
           "title": "Public preview: Azure Percept DK February (2202) software update",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-iot-central-generally-available-in-south-central-us-and-canada-central",
@@ -683,7 +793,7 @@
           "publishedOn": "2022-03-02T22:01:13.000Z",
           "wordCount": 1959,
           "title": "Azure IoT Central generally available in South Central US and Canada Central",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-specify-api-language-runtime-version-in-azure-static-web-apps",
@@ -693,7 +803,7 @@
           "publishedOn": "2022-03-02T17:00:23.000Z",
           "wordCount": 1960,
           "title": "Generally available: Specify API language runtime version in Azure Static Web Apps",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-sql-general-availability-updates-for-early-march-2022",
@@ -703,7 +813,7 @@
           "publishedOn": "2022-03-02T17:00:22.000Z",
           "wordCount": 1901,
           "title": "Azure SQL—General availability updates for early March 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-sql-public-preview-updates-for-early-march-2022",
@@ -713,7 +823,7 @@
           "publishedOn": "2022-03-02T17:00:22.000Z",
           "wordCount": 1908,
           "title": "Azure SQL—Public preview updates for early March 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-sku-recommendation-in-azure-sql-migration-extension-azure-data-studio",
@@ -723,7 +833,7 @@
           "publishedOn": "2022-03-02T17:00:21.000Z",
           "wordCount": 1960,
           "title": "Public preview: SKU recommendation in Azure SQL Migration extension - Azure Data Studio",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-enhancements-to-azure-form-recognizer-for-azure-applied-ai-services",
@@ -733,7 +843,7 @@
           "publishedOn": "2022-03-02T16:00:20.000Z",
           "wordCount": 2034,
           "title": "Public preview: Enhancements to Azure Form Recognizer for Azure Applied AI Services",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azurefilesbackup-leasesnapshot",
@@ -743,7 +853,7 @@
           "publishedOn": "2022-03-01T22:00:10.000Z",
           "wordCount": 2001,
           "title": "Generally available: Azure Backup protects Azure Files snapshots via lease feature integration",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-sphere-version-2202",
@@ -753,7 +863,7 @@
           "publishedOn": "2022-02-28T22:00:15.000Z",
           "wordCount": 1971,
           "title": "General availability: Azure Sphere version 22.02",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-purview-certify-assets",
@@ -763,7 +873,7 @@
           "publishedOn": "2022-02-28T17:00:21.000Z",
           "wordCount": 1984,
           "title": "General availability: Asset certification in Azure Purview data catalog",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-cosmos-db-api-for-mongodb-supports-version-42",
@@ -773,7 +883,7 @@
           "publishedOn": "2022-02-28T17:00:11.000Z",
           "wordCount": 1898,
           "title": "一般提供:MongoDB 用 Azure Cosmos DB API でのバージョン 4.2 サポート",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-red-hat-openshift-support-for-openshift-49",
@@ -783,7 +893,7 @@
           "publishedOn": "2022-02-28T16:00:11.000Z",
           "wordCount": 1923,
           "title": "General availability: Azure Red Hat OpenShift support for OpenShift 4.9",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-1504f3a82b5e9ec45dabbfa5f9656cac530b489b12f01b9a480913a26579c26f/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-7eeddb2a45c72f90967187926adae2a696662696cd711a2d8bdfcc5d8428b5fb/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
@@ -1285,7 +1395,7 @@
         {
           "id": "0548dc3762b62c80652efa3749dba8a2df1d6bd9",
           "author": "aws@amazon.com",
-          "description": "本日、Amazon Location Service は、デベロッパー向けの 2 つの新しい HERE マップスタイル (HERE Explore と HERE Explore Truck) を追加しました。HERE Explore を使用すると、デベロッパーは、完全に設計された日本の地図を含めて、道路、建物、ランドマーク、および水の機能を特徴とする新しい世界地図を手に入れることができます。また、HERE Explore Truck を使用すると、デベロッパーは、トラックの制限と属性 (幅、高さ、HAZMAT など) を含むグローバルマップを HERE Explore の上に強調表示されたセグメントとアイコンで表示して、輸送やロジスティクスのユースケースをサポートできるようになります。例えば、適切な制限付きの最適な運転ルートを計算する必要がある配送トラックのフリートを管理しているお客様は、HERE Explore Truck を使用して、地図に表示される制限付きの運転ルートを確認できます。",
+          "description": "本日、Amazon Location Service は、デベロッパー向けの 2 つの新しい HERE マップスタイル (HERE Explore と HERE Explore Truck) を追加しました。HERE Explore を使用すると、デベロッパーは、デザインが完全に行われた日本の地図を含めて、道路、建物、ランドマーク、および水景物を特徴とする新しい世界地図を手に入れることができます。また、HERE Explore Truck を使用すると、デベロッパーは、トラックの制限と属性 (幅、高さ、HAZMAT など) を含むグローバルマップを HERE Explore の上に強調表示されたセグメントとアイコンで表示して、輸送やロジスティクスのユースケースをサポートできるようになります。例えば、適切な制限付きの最適な運転ルートを計算する必要がある配送トラックのフリートを管理しているお客様は、HERE Explore Truck を使用して、地図に表示される制限付きの運転ルートを確認できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-location-service-two-here-map-styles/",
           "publishedOn": "2022-03-17T04:39:39.000Z",
           "wordCount": 293,
