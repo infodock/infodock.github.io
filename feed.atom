@@ -1,10 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-30T00:22:31.676Z</id>
+    <id>urn:2022-03-31T00:22:28.936Z</id>
     <title>Info Dock</title>
-    <updated>2022-03-30T00:22:31.676Z</updated>
+    <updated>2022-03-31T00:22:28.936Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Data Explorer supports Conditional Access]]></title>
+        <id>general-availability-azure-data-explorer-supports-conditional-access</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-data-explorer-supports-conditional-access/"/>
+        <updated>2022-03-30T17:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Azure Data Explorer launches support for Azure Active Directory Conditional Access.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure SQL—Public preview updates for late March 2022]]></title>
+        <id>azure-sql-public-preview-updates-for-late-march-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-public-preview-updates-for-late-march-2022/"/>
+        <updated>2022-03-30T16:02:09.000Z</updated>
+        <summary type="html"><![CDATA[Public preview enhancements and updates released for Azure SQL in late March 2022.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure SQL Migration extension with Azure PowerShell and CLI support]]></title>
+        <id>public-preview-azure-sql-migration-extension-with-azure-powershell-and-cli-support</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-sql-migration-extension-with-azure-powershell-and-cli-support/"/>
+        <updated>2022-03-30T16:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Leverage Azure PowerShell module (Az.DataMigration) or Azure CLI commands (az datamigration) for recommendations and migrate SQL Server databases using Azure Database Migration Service with Azure SQL Migration extensions for ADS.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Database for PostgreSQL - Hyperscale (Citus) now FedRAMP High compliant]]></title>
+        <id>general-availability-azure-database-for-postgresql-hyperscale-citus-now-fedramp-high-compliant</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-database-for-postgresql-hyperscale-citus-now-fedramp-high-compliant/"/>
+        <updated>2022-03-30T16:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Azure Database for PostgreSQL – Hyperscale (Citus), a managed service running the open-source Postgres database on Azure is now compliant with FedRAMP High.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Cosmos DB partition key advisor notebook]]></title>
+        <id>public-preview-azure-cosmos-db-partition-key-advisor-notebook</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-cosmos-db-partition-key-advisor-notebook/"/>
+        <updated>2022-03-30T16:01:51.000Z</updated>
+        <summary type="html"><![CDATA[The Azure Cosmos DB partition key advisor notebook helps recommend an optimal partition key based on information you provide about your workload traffic patterns and queries.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Always Encrypted for Azure Cosmos DB]]></title>
+        <id>general-availability-always-encrypted-for-azure-cosmos-db</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-always-encrypted-for-azure-cosmos-db/"/>
+        <updated>2022-03-30T16:01:41.000Z</updated>
+        <summary type="html"><![CDATA[The Always Encrypted feature brings client-side encryption capabilities to Azure Cosmos DB and allows you to put an extra level of protection on your sensitive data.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Cognitive Search implements debug sessions]]></title>
+        <id>general-availability-azure-cognitive-search-implements-debug-sessions</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-cognitive-search-implements-debug-sessions/"/>
+        <updated>2022-03-30T16:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Streamline your Cognitive Search operations with debug sessions for building, testing, and modifying skillsets.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Edge Device Image Builder]]></title>
+        <id>public-preview-edge-device-image-builder</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-edge-device-image-builder/"/>
+        <updated>2022-03-30T16:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Edge Device Image Builder assists device builders and OEMs by providing a guided experience to build secure and customized Windows IoT Enterprise LTSC 2021 device images.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Cross-region snapshot copy for Azure Disk Storage]]></title>
+        <id>generally-available-crossregion-snapshot-copy-for-azure-disk-storage</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-crossregion-snapshot-copy-for-azure-disk-storage/"/>
+        <updated>2022-03-30T16:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Cross-region snapshot copy allows you to copy disk snapshots to any region for disaster recovery.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Ultra Disk Storage in Sweden Central]]></title>
+        <id>general-availability-azure-ultra-disk-storage-in-sweden-central</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-ultra-disk-storage-in-sweden-central/"/>
+        <updated>2022-03-30T16:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Azure Ultra Disk Storage provides high-performance along with sub-millisecond latency for your most-demanding workloads.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Node.js 16 in Azure Functions]]></title>
+        <id>generally-available-nodejs-16-in-azure-functions-2</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-nodejs-16-in-azure-functions-2/"/>
+        <updated>2022-03-30T16:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Azure Functions support for Node.js 16.x is now generally available in Azure Functions runtime 4.0 on all hosting plans.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Support or Calico network policy for Windows node pools]]></title>
+        <id>generally-available-support-or-calico-network-policy-for-windows-node-pools</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-support-or-calico-network-policy-for-windows-node-pools/"/>
+        <updated>2022-03-30T16:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Calico Network Policy for Windows node pools in AKS is now generally available.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Capacity reservation support in AKS]]></title>
+        <id>public-preview-capacity-reservation-support-in-aks</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-capacity-reservation-support-in-aks/"/>
+        <updated>2022-03-30T16:00:52.000Z</updated>
+        <summary type="html"><![CDATA[You can now use reserved capacity with AKS via the capacity reservation feature.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure dedicated host support in AKS]]></title>
+        <id>public-preview-azure-dedicated-host-support-in-aks</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-dedicated-host-support-in-aks/"/>
+        <updated>2022-03-30T16:00:46.000Z</updated>
+        <summary type="html"><![CDATA[You can now use Azure Dedicated Hosts with the Azure Kubernetes Service (AKS)]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Node auto-drain for AKS]]></title>
+        <id>public-preview-node-autodrain-for-aks</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-node-autodrain-for-aks/"/>
+        <updated>2022-03-30T16:00:36.000Z</updated>
+        <summary type="html"><![CDATA[AKS now minimizes unexpected disruptions by handling maintenance events and offloading applications via auto-drain node feature.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure classic storage accounts will be retired on 31 August 2024]]></title>
         <id>classic-azure-storage-accounts-will-be-retired-on-31-august-2024</id>
@@ -99,7 +249,7 @@
         <title type="html"><![CDATA[Generally available: Access time-based lifecycle management rules for Data Lake Storage Gen2]]></title>
         <id>access-time-based-lifecycle-management-adls-gen2</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/access-time-based-lifecycle-management-adls-gen2/"/>
-        <updated>2022-03-29T16:00:36.000Z</updated>
+        <updated>2022-03-29T16:00:33.000Z</updated>
         <summary type="html"><![CDATA[Access time tracking for objects and lifecycle management policies based on last accessed time in Azure Data Lake Storage Gen2.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -990,7 +1140,7 @@
         <id>b985f9d51f7d84b555b412484186ecc353790d48</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/automate-visual-inspection-product-defects-amazon-lookout-vision/"/>
         <updated>2022-03-17T04:34:55.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lookout for Vision が、すべての AWS のお客様に一般提供を開始を開始しました。選択したハードウェアデバイスに、トレーニング済みの Amazon Lookout for Vision モデルをデプロイし、クラウドに依存することなくローカルで推論を実行できます。トレーニング済みのモデルは、NVIDIA Jetson エッジアプライアンスまたは x86 コンピューティングプラットフォーム (NVIDIA GPU アクセラレーターを備えた Linux を実行しているもの) にデプロイできます。AWS IoT Greengrass を使用して、エッジ互換のカスタマイズされたモデルをデバイスのフリートにデプロイして管理できます。AWS IoT Greengrass は、オープンソースのエッジランタイムであり、デバイスソフトウェアを構築、デプロイ、管理するためのクラウドサービスです。]]></summary>
+        <summary type="html"><![CDATA[Amazon Lookout for Vision のエッジでの使用が、すべての AWS のお客様に一般提供開始されました。選択したハードウェアデバイスに、トレーニング済みの Amazon Lookout for Vision モデルをデプロイし、クラウドに依存することなくローカルで推論を実行できます。トレーニング済みのモデルは、NVIDIA Jetson エッジアプライアンスまたは x86 コンピューティングプラットフォーム (NVIDIA GPU アクセラレーターを備えた Linux を実行しているもの) にデプロイできます。AWS IoT Greengrass を使用して、エッジ互換のカスタマイズされたモデルをデバイスのフリートにデプロイして管理できます。AWS IoT Greengrass は、オープンソースのエッジランタイムであり、デバイスソフトウェアを構築、デプロイ、管理するためのクラウドサービスです。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1851,46 +2001,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/azurefilesbackup-leasesnapshot/"/>
         <updated>2022-03-01T22:00:10.000Z</updated>
         <summary type="html"><![CDATA[Azure Backup now acquires a lease on the snapshots taken by scheduled/on-demand backup jobs.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Sphere version 22.02]]></title>
-        <id>general-availability-azure-sphere-version-2202</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-sphere-version-2202/"/>
-        <updated>2022-02-28T22:00:15.000Z</updated>
-        <summary type="html"><![CDATA[The 22.02 release includes new and changed features in the OS and the SDK.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Asset certification in Azure Purview data catalog]]></title>
-        <id>azure-purview-certify-assets</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-purview-certify-assets/"/>
-        <updated>2022-02-28T17:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Data stewards can now certify assets that meet their organization's quality standards in the Azure Purview data catalog]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:MongoDB 用 Azure Cosmos DB API でのバージョン 4.2 サポート]]></title>
-        <id>general-availability-azure-cosmos-db-api-for-mongodb-supports-version-42</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-cosmos-db-api-for-mongodb-supports-version-42/"/>
-        <updated>2022-02-28T17:00:11.000Z</updated>
-        <summary type="html"><![CDATA[MongoDB バージョン4.2 用の Azure Cosmos DB API を使用すると、新しい集計パイプライン機能とクライアント側フィールド暗号化を利用できます。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Red Hat OpenShift support for OpenShift 4.9]]></title>
-        <id>general-availability-azure-red-hat-openshift-support-for-openshift-49</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-red-hat-openshift-support-for-openshift-49/"/>
-        <updated>2022-02-28T16:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Benefit from new features and enhancements in OpenShift release 4.9.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
