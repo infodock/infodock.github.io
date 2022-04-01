@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-31T00:22:28.936Z</id>
+    <id>urn:2022-04-01T00:25:46.492Z</id>
     <title>Info Dock</title>
-    <updated>2022-03-31T00:22:28.936Z</updated>
+    <updated>2022-04-01T00:25:46.492Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora PostgreSQL が、Microsoft SQL Server および Sybase データベース用の Foreign Data Wrapper をサポート]]></title>
+        <id>6651b670145219646aeabe57c9494a4792273175</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-aurora-postgresql-foreign-data-wrapper-sql-sybase/"/>
+        <updated>2022-03-31T21:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Aurora PostgreSQL 互換エディションが、Sybase データベースや Microsoft SQL サーバーなど、Tabular Data Stream (TDS) プロトコルを使用するデータベースに接続できる外部データラッパーをサポートするようになりました。この外部データラッパーを使用して、他のデータベースのデータソースに接続し、データを複製またはコピーする必要を排除することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS License Manager の使用権限管理が、AWS Marketplace ライセンスでのライセンス使用のサポートを開始]]></title>
+        <id>809debd38d549355ab4f1add5bb1372a98aa14c9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-license-manager-entitlements/"/>
+        <updated>2022-03-31T21:41:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS License Manager が、AWS Marketplace からエンタイトルメントを付与するお客様向けにライセンス使用量追跡のサポート開始を発表いたしました。この機能により、AWS Marketplace は、AMI および計測対象 SaaS 製品全体でのライセンス使用量を追跡および計測できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Simplified compute node communication]]></title>
+        <id>simplified-compute-node-communication</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/simplified-compute-node-communication/"/>
+        <updated>2022-03-31T17:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Azure Batch offers simplified, efficient node communication within the Batch pool and Azure resources (storage, AppPackage storage accounts, output files, and other resources).]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Arc integration with VMware vSphere and Azure VMware Solution]]></title>
+        <id>public-preview-azure-arc-integration-with-vmware-vsphere</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-arc-integration-with-vmware-vsphere/"/>
+        <updated>2022-03-31T16:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Manage the lifecycle and guest OS operations of VMware vSphere VMs through Azure Arc by connecting your VMware vCenter servers (on-premises or on Azure VMware Solution) to Azure.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Azure Stream Analytics in 10 new regions]]></title>
+        <id>azure-stream-analytics-11-new-regions-are-now-generally-available</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-stream-analytics-11-new-regions-are-now-generally-available/"/>
+        <updated>2022-03-31T16:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Azure Stream Analytics is a fully managed, real-time analytics service designed to help you analyze and process fast moving streams of data.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Bring your own IP ranges to Azure]]></title>
+        <id>general-availability-bring-your-own-ip-byoip-ranges-to-azure</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-bring-your-own-ip-byoip-ranges-to-azure/"/>
+        <updated>2022-03-31T16:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Bring your own public IP ranges to Azure to retain existing reputation or to prevent your customers from needing to modify dependencies (e.g. firewalls or other hardcoding) on their network.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contact Lens for Amazon Connect が、より大規模で低遅延なシナリオに対応するリアルタイムストリーミングの提供を開始しました]]></title>
+        <id>8a175b757376bfd5021ae9ca548a3a2d6fa88ad2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-connect-contact-lens-real-time-streaming/"/>
+        <updated>2022-03-31T02:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Contact Lens for Amazon Connect は、リアルタイムストリーミングに対応することで、企業の Contact Lens 分析へのリアルタイムアクセスを可能にし、レート制限のある既存の Contact Lens API からの頻繁なリクエストの必要性をなくしました。また、リアルタイムストリーミングでは、低遅延の要求にこたえるため、センテンス単位のトランスクリプトで構成される追加のデータセグメントを提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EventBridge スキーマレジストリが Go 言語へのサポートを拡大しました]]></title>
+        <id>11a61007d6dddeae82e160abc0a741c4ffc82bab</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-eventbridge-schema-registry-support-go-language/"/>
+        <updated>2022-03-31T01:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EventBridge のスキーマレジストリは、イベントスキーマのコードバインディング生成に Go 言語をサポートすることで、スキーマをコード内のオブジェクトとして簡単に利用できるようにします。EventBridge コンソール、API、または Jetbrains (Intellij、PyCharm、Webstorm、Rider) および VS Code 用の AWS SDK ツールキットを使用して、スキーマ用のコードバインディングを生成できます。これまで、コードバインディング生成には、Java、Python、Typescript をサポートしていました。Go のサポートにより、お好みの IDE でコードバインディングをダウンロードし、コードの検証や自動補完などの機能を利用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[General availability: Azure Data Explorer supports Conditional Access]]></title>
         <id>general-availability-azure-data-explorer-supports-conditional-access</id>
@@ -546,11 +626,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Kendra の FSx Connector のリリースにより、Amazon FSx for Windows ファイルサーバーでインテリジェントな検索が可能に]]></title>
+        <title type="html"><![CDATA[Amazon Kendra の FSx Connector のリリースにより、Amazon FSx for Windows File Server でインテリジェントな検索が可能に]]></title>
         <id>1c27d58e211a20a492c58cd17a844d616b143fdf</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-kendra-fsx-connector-intelligent-search-windows/"/>
         <updated>2022-03-25T12:16:09.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、顧客や従業員が関連性の高い情報を必要とするときに、組織がこれらを提供することを可能にします。本日より、AWS のお客様は、Amazon Kendra FSx Connector を使用して、FSx for Windows ファイルサーバーのファイルシステムのドキュメントにインデックスを付けて検索できるようになります。Amazon FSx for Windows ファイルサーバーは、Windows Server 上に構築されたフルマネージド共有ストレージを提供し、幅広いデータアクセス、データ管理、および管理機能を提供します。]]></summary>
+        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、顧客や従業員が関連性の高い情報を必要とするときに、組織がこれらを提供することを可能にします。本日より、AWS のお客様は、Amazon Kendra FSx Connector を使用して、FSx for Windows File Server のファイルシステムのドキュメントにインデックスを付けて検索できるようになります。Amazon FSx for Windows File Server は、Windows Server 上に構築されたフルマネージド共有ストレージを提供し、幅広いデータアクセス、データ管理、および管理機能を提供します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1716,16 +1796,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle が Oracle Native Network Encryption (NNE) オプションの ALLOW_WEAK_CRYPTO* パラメータのサポートを開始]]></title>
-        <id>e448278de64d419458096f42228c5b2d5c035887</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/"/>
-        <updated>2022-03-10T17:21:47.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Native Network Encryption (NNE) オプションの 2 つの新しい sqlnet.ora パラメータをサポートするようになりました。これは、お客様による変更が可能です。この機能により、お客様は、SQL*Net 暗号化およびチェックサムパラメータが古い暗号とアルゴリズムを使用するのを阻止できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Public preview: Azure Purview workflows]]></title>
         <id>public-preview-azure-purview-workflows</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-purview-workflows/"/>
@@ -1886,41 +1956,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Data Provider for SAP で JDK11 および追加の Amazon EC2 インスタンスタイプのサポートを開始]]></title>
-        <id>1f117244da4d3258c2f3411d18faf81a8511afc6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-data-provider-sap-supports-jdk11-additional-amazon-ec2-instance-types/"/>
-        <updated>2022-03-07T10:35:32.000Z</updated>
-        <summary type="html"><![CDATA[AWS Data Provider for SAP バージョン 4.1 が、AWS GovCloud (米国) リージョンを含むすべての商用リージョンで利用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for OpenZFS で 2 種類の圧縮オプションが選択可能に]]></title>
-        <id>3e98ce3f7bacdaaf34e5d86db777ea4b435e1931</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/choose-different-compression-options-amazon-fsx-openzfs/"/>
-        <updated>2022-03-05T13:47:39.000Z</updated>
-        <summary type="html"><![CDATA[LZ4 データ圧縮の導入により、Amazon FSx for OpenZFS ファイルシステムで 2 種類の圧縮オプションから選択できるようになりました。LZ4 は、(Z スタンダードに加えて) 非常に人気のあるもう 1 つのパフォーマンス最適化圧縮オプションで、個々のワークロードのニーズに基づいてストレージの効率とパフォーマンスを最適化することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最大 2 倍高速のトランザクションコミットレイテンシー、通常 35 秒以下の自動フェイルオーバー、読み取り可能なスタンバイインスタンスを備えた新しい Amazon RDS マルチ AZ オプションを導入]]></title>
-        <id>9bb28c0d9e3ecb5bc049569ffb8944b219221235</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-multi-az-transaction-commit-latency/"/>
-        <updated>2022-03-05T13:46:51.000Z</updated>
-        <summary type="html"><![CDATA[PostgreSQL および MySQL 用の Amazon Relational Database Service (Amazon RDS) は、3 つのアベイラビリティーゾーン (AZ) にまたがる 1 つのプライマリデータベース (DB) インスタンスと 2 つの読み取り可能なスタンバイデータベース (DB) インスタンスを備えた新しいマルチ AZ 配置オプションのサポートを開始しました。この配置オプションは、書き込みトランザクションに最適化されており、書き込みレイテンシーの短縮、自動フェイルオーバー、読み取り容量の拡大が必要なワークロードに最適です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon MSK が AWS CloudFormation サポートを強化]]></title>
-        <id>da3500e6dc4999e668391daec84e19b8b48d89ba</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-msk-aws-cloudformation-support/"/>
-        <updated>2022-03-05T13:46:03.000Z</updated>
-        <summary type="html"><![CDATA[AWS CloudFormation を使用して、Amazon Managed Streaming for Apache Kafka (MSK) のクラスター構成と SASL/SCRAM シークレットを管理できるようになりました。AWS CloudFormation の Amazon MSK サポートの詳細については、AWS CloudFormation のドキュメントを参照してください。]]></summary>
+        <title type="html"><![CDATA[Amazon RDS for Oracle が Oracle Native Network Encryption (NNE) オプションの ALLOW_WEAK_CRYPTO* パラメータのサポートを開始]]></title>
+        <id>e448278de64d419458096f42228c5b2d5c035887</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/"/>
+        <updated>2022-03-05T13:35:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Native Network Encryption (NNE) オプションの 2 つの新しい sqlnet.ora パラメータをサポートするようになりました。これは、お客様による変更が可能です。この機能により、お客様は、SQL*Net 暗号化およびチェックサムパラメータが古い暗号とアルゴリズムを使用するのを阻止できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1991,16 +2031,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-enhancements-to-azure-form-recognizer-for-azure-applied-ai-services/"/>
         <updated>2022-03-02T16:00:20.000Z</updated>
         <summary type="html"><![CDATA[Azure Form Recognizer now supports extraction from custom documents, W-2 forms, access to the read API, additional human languages and enhancements.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Backup protects Azure Files snapshots via lease feature integration]]></title>
-        <id>azurefilesbackup-leasesnapshot</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azurefilesbackup-leasesnapshot/"/>
-        <updated>2022-03-01T22:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Azure Backup now acquires a lease on the snapshots taken by scheduled/on-demand backup jobs.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
