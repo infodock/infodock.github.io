@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-01T00:25:46.492Z</id>
+    <id>urn:2022-04-02T00:22:29.734Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-01T00:25:46.492Z</updated>
+    <updated>2022-04-02T00:22:29.734Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -900,7 +900,7 @@
         <id>75814e6698e48f6e60dd4f559a354274250e5b96</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-backup-available-aws-asia-pacific-jakarta-region/"/>
         <updated>2022-03-22T18:52:05.000Z</updated>
-        <summary type="html"><![CDATA[今日、AWS アジアパシフィック（ジャカルタ）リージョンで AWS Backup が利用できるようになりました。AWS Backup は、コンピューティング、ストレージ、データベースにまたがる複数の AWS のサービスにわたってデータ保護を一元的に自動化できるフルマネージドのポリシー手動のサービスです。AWS Backup を使用すると、アプリケーションデータのイミュータブルなバックアップの作成と管理を一元的に行い、不注意なアクションや悪意のあるアクションからデータを保護し、数回のクリック操作で指定時点のデータを復元することができます。]]></summary>
+        <summary type="html"><![CDATA[今日、AWS アジアパシフィック（ジャカルタ）リージョンで AWS Backup が利用できるようになりました。AWS Backup は、コンピューティング、ストレージ、データベースにまたがる複数の AWS のサービスにわたってデータ保護を一元的に自動化できるフルマネージドのポリシー主導型サービスです。AWS Backup を使用すると、アプリケーションデータのイミュータブルなバックアップの作成と管理を一元的に行い、不注意なアクションや悪意のあるアクションからデータを保護し、数回のクリック操作で指定時点のデータを復元することができます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1796,6 +1796,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Amazon RDS for Oracle が Oracle Native Network Encryption (NNE) オプションの ALLOW_WEAK_CRYPTO* パラメータのサポートを開始]]></title>
+        <id>e448278de64d419458096f42228c5b2d5c035887</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/"/>
+        <updated>2022-03-10T17:21:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Native Network Encryption (NNE) オプションの 2 つの新しい sqlnet.ora パラメータをサポートするようになりました。これは、お客様による変更が可能です。この機能により、お客様は、SQL*Net 暗号化およびチェックサムパラメータが古い暗号とアルゴリズムを使用するのを阻止できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Public preview: Azure Purview workflows]]></title>
         <id>public-preview-azure-purview-workflows</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-purview-workflows/"/>
@@ -1956,81 +1966,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle が Oracle Native Network Encryption (NNE) オプションの ALLOW_WEAK_CRYPTO* パラメータのサポートを開始]]></title>
-        <id>e448278de64d419458096f42228c5b2d5c035887</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/"/>
-        <updated>2022-03-05T13:35:04.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Native Network Encryption (NNE) オプションの 2 つの新しい sqlnet.ora パラメータをサポートするようになりました。これは、お客様による変更が可能です。この機能により、お客様は、SQL*Net 暗号化およびチェックサムパラメータが古い暗号とアルゴリズムを使用するのを阻止できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Public preview: Azure Percept DK February (2202) software update]]></title>
         <id>apdk2202update</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/apdk2202update/"/>
         <updated>2022-03-03T17:00:36.000Z</updated>
         <summary type="html"><![CDATA[The Azure Percept February update includes fixes related to security.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure IoT Central generally available in South Central US and Canada Central]]></title>
-        <id>azure-iot-central-generally-available-in-south-central-us-and-canada-central</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-iot-central-generally-available-in-south-central-us-and-canada-central/"/>
-        <updated>2022-03-02T22:01:13.000Z</updated>
-        <summary type="html"><![CDATA[You can now use Azure IoT Central in South Central (United States) and Canada Central (Canada) to build reliable, scalable, and secure enterprise grade IoT Solutions.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Specify API language runtime version in Azure Static Web Apps]]></title>
-        <id>generally-available-specify-api-language-runtime-version-in-azure-static-web-apps</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-specify-api-language-runtime-version-in-azure-static-web-apps/"/>
-        <updated>2022-03-02T17:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Configuration file now allows you to specify version for supported API language runtimes.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure SQL—General availability updates for early March 2022]]></title>
-        <id>azure-sql-general-availability-updates-for-early-march-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-general-availability-updates-for-early-march-2022/"/>
-        <updated>2022-03-02T17:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Public preview enhancements and updates released for Azure SQL.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure SQL—Public preview updates for early March 2022]]></title>
-        <id>azure-sql-public-preview-updates-for-early-march-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-public-preview-updates-for-early-march-2022/"/>
-        <updated>2022-03-02T17:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Public preview enhancements and updates released for Azure SQL.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: SKU recommendation in Azure SQL Migration extension - Azure Data Studio]]></title>
-        <id>public-preview-sku-recommendation-in-azure-sql-migration-extension-azure-data-studio</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-sku-recommendation-in-azure-sql-migration-extension-azure-data-studio/"/>
-        <updated>2022-03-02T17:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Use the new SKU recommendation support in the Azure SQL Migration extension in Azure Data Studio for Azure SQL Managed Instance and SQL Server on Azure Virtual Machines.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Enhancements to Azure Form Recognizer for Azure Applied AI Services]]></title>
-        <id>public-preview-enhancements-to-azure-form-recognizer-for-azure-applied-ai-services</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-enhancements-to-azure-form-recognizer-for-azure-applied-ai-services/"/>
-        <updated>2022-03-02T16:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Azure Form Recognizer now supports extraction from custom documents, W-2 forms, access to the read API, additional human languages and enhancements.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
