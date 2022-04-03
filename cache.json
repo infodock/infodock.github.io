@@ -964,16 +964,6 @@
           "wordCount": 2007,
           "title": "General availability: SOAP and XML request and response validation",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-523548c2b68c9a0400b6d96656f919866a819c45a0d29aa8de7756ee0aa91a7d/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "apdk2202update",
-          "author": null,
-          "description": "The Azure Percept February update includes fixes related to security.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/apdk2202update/",
-          "publishedOn": "2022-03-03T17:00:36.000Z",
-          "wordCount": 1925,
-          "title": "Public preview: Azure Percept DK February (2202) software update",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-523548c2b68c9a0400b6d96656f919866a819c45a0d29aa8de7756ee0aa91a7d/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
@@ -982,6 +972,56 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "fdaa150017a8ec87e7c1b5ea50496dd4d83e78df",
+          "author": "aws@amazon.com",
+          "description": "CloudWatch で、多くのリソースとワークロードのモニタリング、アラーム、およびダッシュボードを簡単に設定できるようになりました。[CloudWatch Getting Started] (CloudWatch の開始方法) ページの新しいワンクリックオプションを使用すると、CloudWatch Application Insights を便利に起動できます。起動すると、Application Insights は、アカウントまたはリソースグループ内の基盤となるリソースを検出し、それらのヘルスをモニタリングするための推奨されるメトリクス、ログ、およびアラームを設定します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cloudwatch-adds-option-easy-monitoring-set-up/",
+          "publishedOn": "2022-04-02T01:47:00.000Z",
+          "wordCount": 264,
+          "title": "Amazon CloudWatch が簡単なモニタリング設定のためのオプションを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ae904b9d03f4e84437fe98599998a6c1214bf52b",
+          "author": "aws@amazon.com",
+          "description": "オープンソースコミュニティによる PostgreSQL データベースのアップデートの発表を受け、Amazon Aurora PostgreSQL 互換エディションをアップデートし、PostgreSQL 13.6、12.10、11.15、および 10.20 をサポートするようになりました。これらのリリースには、PostgreSQL コミュニティによるバグ修正と改善が含まれています。アップグレードの頻度とアップグレードプロセスの計画方法を決定するには、Aurora バージョンポリシーを参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-aurora-postgresql-babelfish-version-support/",
+          "publishedOn": "2022-04-02T01:41:00.000Z",
+          "wordCount": 296,
+          "title": "Amazon Aurora が PostgreSQL 13.6、12.10、11.15、10.20、および Babelfish for Aurora PostgreSQL 1.2.0 をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2f51e4b8de9f036387a53213ba59b6ea7b6c7cba",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR Managed Scaling は、EMR クラスターのサイズを自動的に変更して、最高レベルのパフォーマンスとリソース使用状況を実現します。本日、Apache Spark の中間シャッフルデータを保存するインスタンスをスケールダウンできないようにする Managed Scaling の新機能を発表します。中間シャッフルデータを保存するインスタンスを削除せずにクラスターをインテリジェントにスケールダウンすると、ジョブの再試行と再計算が防止され、パフォーマンスが向上し、コストが削減されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-emr-managed-scaling-shuffle-data-aware/",
+          "publishedOn": "2022-04-02T01:35:00.000Z",
+          "wordCount": 273,
+          "title": "Amazon EMR Managed Scaling が Spark シャッフルデータに対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "00e262e7db186d3900b134cf1ef6766bcff7e97a",
+          "author": "aws@amazon.com",
+          "description": "本日より、CloudFront ディストリビューションを設定して、CloudFront の動作とパフォーマンスを監視するサーバータイミングヘッダーを含めることができます。サーバータイミングヘッダーは、リクエストの受信時にコンテンツがキャッシュから提供されたかどうか、リクエストが CloudFront エッジロケーションにルーティングされた方法、接続およびレスポンスプロセスの各ステージで経過した時間などの詳細なパフォーマンス情報を提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cloudfront-server-timing-headers/",
+          "publishedOn": "2022-04-02T00:11:01.000Z",
+          "wordCount": 229,
+          "title": "Amazon CloudFront がサーバータイミングヘッダーをサポートするようになりました。",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "117b8899aa137f77839d2b6603802fdc4bbd1df3",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Kubernetes Service (Amazon EKS) は、Amazon EKS コンソール、AWS Command Line Interface (CLI)、および EKS API を使用して、AmazonElastic Block Store (EBS)コンテナストレージインターフェース (CSI) ドライバーのインストールおよび管理をサポートすることになりました。これにより、永続的ストレージを EKS クラスターに簡単に接続できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/eks-add-ons-ebs-csi-driver-available/",
+          "publishedOn": "2022-04-02T00:05:01.000Z",
+          "wordCount": 268,
+          "title": "EBS CSI ドライバーの EKS アドオンサポートが一般提供になりました。",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
         {
           "id": "6651b670145219646aeabe57c9494a4792273175",
           "author": "aws@amazon.com",
@@ -1863,16 +1903,6 @@
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
-          "id": "e448278de64d419458096f42228c5b2d5c035887",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Native Network Encryption (NNE) オプションの 2 つの新しい sqlnet.ora パラメータをサポートするようになりました。これは、お客様による変更が可能です。この機能により、お客様は、SQL*Net 暗号化およびチェックサムパラメータが古い暗号とアルゴリズムを使用するのを阻止できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/",
-          "publishedOn": "2022-03-10T17:21:47.000Z",
-          "wordCount": 283,
-          "title": "Amazon RDS for Oracle が Oracle Native Network Encryption (NNE) オプションの ALLOW_WEAK_CRYPTO* パラメータのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
           "id": "f5c20d42c54b9ac21700b896c4652cb88adc4d9b",
           "author": "aws@amazon.com",
           "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB が MariaDB のマイナーバージョン 10.6.7、10.5.15、10.4.24、10.3.34、および 10.2.43 のサポートを開始しました。以前のバージョンの MariaDB における既知のセキュリティの脆弱性を修正し、MariaDB のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の利点を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。",
@@ -1940,46 +1970,6 @@
           "publishedOn": "2022-03-09T08:34:13.000Z",
           "wordCount": 246,
           "title": "設定の変更が可能な暗号スイートが Amazon Aurora PostgreSQL に利用可能になりました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f14ee8b3237e871947e541c6e4184306667f3f7b",
-          "author": "aws@amazon.com",
-          "description": "スケーラブルで可用性が高く、フルマネージドの Apache Cassandra 互換データベースサービスである Amazon Keyspaces (Apache Cassandra 用) が、AWS SDK を使用して、リソース管理を自動化できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-keyspaces-automate-resource-management-sdk/",
-          "publishedOn": "2022-03-09T08:33:23.000Z",
-          "wordCount": 287,
-          "title": "Amazon Keyspaces が、AWS SDK を使用したリソース管理の自動化を支援",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "67f468417ea854df4838fe418b1620c812710eab",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for Oracle が、Oracle Database 12.1 の 2021 年 10 月のパッチセットアップデート (PSU) をサポートするようになりました。Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) はすでにリリースされています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-patch-set-update-psu-oracle-database-12-1/",
-          "publishedOn": "2022-03-09T08:32:02.000Z",
-          "wordCount": 315,
-          "title": "Amazon RDS for Oracle が、Oracle Database 12.1 用 2021 年 10 月パッチセットの更新 (PSU) のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "573827e3af9185db5d876eb8bf875506f5384b57",
-          "author": "aws@amazon.com",
-          "description": "Amazon EMR は、業界をリードするビッグデータのクラウドプラットフォームで、Apache Spark、Apache Hive、Apache HBase、Apache Flink、Apache Hudi、Presto などのオープンソースツールを活用して膨大な量のデータを処理できます。本日より、Amazon EMR が、欧州 (ミラノ)、アジアパシフィック (香港)、アフリカ (ケープタウン)、中東 (バーレーン) リージョンでアイドル状態のクラスターの自動終了のサポートを開始することをお知らせいたします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-emr-auto-termination-idle-clusters-regions/",
-          "publishedOn": "2022-03-09T08:31:13.000Z",
-          "wordCount": 279,
-          "title": "Amazon EMR が、欧州 (ミラノ)、アジアパシフィック (香港)、アフリカ (ケープタウン)、中東 (バーレーン) リージョンでアイドル状態のクラスターの自動終了のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ca7b41935c2b8cf7aaf4230e61d4bfa432fba5c4",
-          "author": "aws@amazon.com",
-          "description": "Amazon Kendra は、機械学習を活用したインテリジェントな検索サービスです。Amazon Kendra は、組織がより関連性の高い情報を顧客や従業員に必要に応じて提供するのに役立ちます。本日より、AWS のお客様は、クエリ内の単語にスペルミスがある場合にスペル修正の提案する Amazon Kendra のスペルチェッカーをご使用いただけます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-kendra-spell-checker-queries/",
-          "publishedOn": "2022-03-08T22:00:53.000Z",
-          "wordCount": 246,
-          "title": "Amazon Kendra にクエリ用のスペルチェッカーが追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
