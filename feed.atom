@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-04T00:22:57.139Z</id>
+    <id>urn:2022-04-05T00:23:13.177Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-04T00:22:57.140Z</updated>
+    <updated>2022-04-05T00:23:13.177Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Arm64-based Azure VMs can deliver up to 50% better price-performance]]></title>
+        <id>public-preview-arm64based-azure-vms-can-deliver-up-to-50-better-priceperformance</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-arm64based-azure-vms-can-deliver-up-to-50-better-priceperformance/"/>
+        <updated>2022-04-04T21:00:11.000Z</updated>
+        <summary type="html"><![CDATA[New general-purpose and memory-optimized Azure Virtual Machines, which feature Ampere Altra Arm-based processors, deliver even better price-performance than comparable x86-based Azure Linux Virtual Machines.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Apache Kafka 2.4 in Azure HDinsight]]></title>
+        <id>apache-kafka-24-is-now-ga-in-azure-hdinsight</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/apache-kafka-24-is-now-ga-in-azure-hdinsight/"/>
+        <updated>2022-04-04T17:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Apache Kafka 2.4 is now in Azure HDinsight.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Apache Spark 3.1.2 in Azure HDinsight]]></title>
+        <id>spark-312-is-now-ga-in-azure-hdinsight</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/spark-312-is-now-ga-in-azure-hdinsight/"/>
+        <updated>2022-04-04T17:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Spark 3.1 is now generally available on HDInsight 4.0 release across all regions.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Bastion support for Kerberos authentication]]></title>
+        <id>public-preview-azure-bastion-support-for-kerberos-authentication</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-bastion-support-for-kerberos-authentication/"/>
+        <updated>2022-04-04T16:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Azure Bastion now supports the Kerberos authentication protocol in public preview.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon CloudWatch が簡単なモニタリング設定のためのオプションを追加]]></title>
         <id>fdaa150017a8ec87e7c1b5ea50496dd4d83e78df</id>
@@ -826,10 +866,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Connect の予測、容量計画、スケジューリングがプレビューで利用可能になりました]]></title>
+        <title type="html"><![CDATA[Amazon Connect の予測、人員配置計画、スケジューリングがプレビューで利用可能になりました]]></title>
         <id>5739e1358c2a2c1c73839e8313e802130f1d2c80</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-connect-forecasting-capacity-planning-scheduling-preview/"/>
-        <updated>2022-03-24T01:46:45.000Z</updated>
+        <updated>2022-03-24T01:46:46.000Z</updated>
         <summary type="html"><![CDATA[Amazon Connect は、新しい機械学習機能を提供することで、コンタクトセンターのマネージャーが、コンタクトボリュームと平均処理時間を高精度で予測し、理想的な人員配置レベルを決定し、エージェントスケジュールを最適化して、適切なエージェントを適切なタイミングで確保できるようにします。これらの機能を有効にするには、クリックするだけであり、カスタムアプリケーションを構築したり、複雑で高価なサードパーティー製品と統合したりする必要はありません。これらの新機能は、企業がオペレーションを最適化し、サービスレベルの目標を達成し、エージェントと顧客の満足度を向上させるのに役立ちます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
@@ -876,10 +916,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ACM Private CA がカスタムサブジェクト名、拡張子、および名前制約のサポートを開始]]></title>
+        <title type="html"><![CDATA[ACM Private CA がカスタムサブジェクト名、拡張領域、および名前制約のサポートを開始]]></title>
         <id>c49b5292e80ea239bf67cbdb040a4baa8f0e84e6</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/acm-private-ca-custom-names-extensions-constraints/"/>
-        <updated>2022-03-22T21:31:09.000Z</updated>
+        <updated>2022-03-22T21:31:10.000Z</updated>
         <summary type="html"><![CDATA[AWS Certificate Manager (ACM) Private Certificate Authority (CA) がカスタマイズ可能な証明書サブジェクト名をサポートするようになりました。セキュリティおよび公開キー基盤 (PKI) 管理者、ビルダー、デベロッパーは、ACM Private CA を使用して作成できる証明書サブジェクト名をより詳細に制御できるようになります。例えば、証明書サブジェクト名に複数の組織単位 (OU) を含めることによって、証明書で組織のディレクトリ構造を表すことが可能です。また、セキュアで信頼できるホームオートメーションデバイスのための新しい業界標準である Matter に適合する IoT 製品識別子とベンダー識別子を表すサブジェクト名を作成することもできます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
@@ -1916,7 +1956,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generally available: Azure Chaos Studio Key Vault and Classic Cloud Services faults]]></title>
+        <title type="html"><![CDATA[Public preview: Azure Chaos Studio Key Vault and Classic Cloud Services faults]]></title>
         <id>azure-chaos-studio-key-vault-and-classic-cloud-services-faults-now-available</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/azure-chaos-studio-key-vault-and-classic-cloud-services-faults-now-available/"/>
         <updated>2022-03-09T18:00:14.000Z</updated>
