@@ -1,10 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-06T00:24:22.112Z</id>
+    <id>urn:2022-04-07T00:26:42.408Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-06T00:24:22.112Z</updated>
+    <updated>2022-04-07T00:26:42.408Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler が、データソースとして Snowflake のサポートを開始]]></title>
+        <id>27f94cc2d7c93d51c34052b9a35180160ac2e9ee</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-databricks-data-source/"/>
+        <updated>2022-04-06T23:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Data Wrangler は、ML の初めての完全統合開発環境 (IDE) である Amazon SageMaker Studio で、機械学習 (ML) のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。Amazon Simple Storage Service (Amazon S3)、Amazon Athena、Amazon Redshift、Snowflake など幅広い種類のデータソースからデータをインポートできます。本日より、Amazon SageMaker Data Wrangler 内のデータソースとして Databricks を使用し、Databricks 内のデータを機械学習用に簡単に準備できるようになりました。AWS パートナーである Databricks は、組織が分析のためにデータを準備し、組織全体でデータサイエンスとデータ主導の意思決定を強化し、ML を迅速に採用するのを支援します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup が、VMware Cloud on AWS Outposts のサポートを開始]]></title>
+        <id>fd1e08f1c62282deb023c5653a32eca2b01ce79a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-backup-support-vmware-cloud-aws-outposts/"/>
+        <updated>2022-04-06T23:34:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backup が、VMware Cloud on AWS Outposts で VMware のソフトウェア定義データセンター (SDDC) を保護できるようになり、ビジネスおよび規制コンプライアンスのニーズを満たすことができるようになりました。お客様は、オンプレミスの VMware、VMware Cloud on AWS、VMware Cloud on AWS Outposts の各環境でのデータ保護やライフサイクル管理を、AWS Backup で単一のポリシーを使用することで一元的に自動化できます。さらに、AWS Backup がサポートする (コンピューティング、ストレージ、データベースまでを包含する) 12 種類の AWS のサービスにも対応しています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue DataBrew の入力に ORC ファイル形式の使用が可能に]]></title>
+        <id>44907188285d21ebfb0cbe907bfb4bac31d57ba5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-glue-databrew-orc-file-format/"/>
+        <updated>2022-04-06T23:22:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue DataBrew をご使用のお客様は、今後、Optimized Row Columnar (ORC) ファイル形式で保存されたデータのクリーニングと変換が行えます。この形式は、Hive データの保存のために広く使用されている形式です。AWS Glue DataBrew 内のデータセットを作成する際、すでにサポート済みである Apache Avro、Apache Parquet、Microsoft Excel、CSV、JSON の各ファイル形式に加えて、ORC ファイルも選択していただけます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ElastiCache for Redis が 2 つの新しいリージョンで Global Datastore をサポート開始しました]]></title>
+        <id>ea0424ffaa06972865b1e681b59d6bea04548745</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-elasticache-redis-global-datastore-regions/"/>
+        <updated>2022-04-06T23:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Amazon ElastiCache for Redis は、アジアパシフィック (大阪) およびヨーロッパ (ストックホルム) リージョンで Global Datastore をサポート開始しました。Global Datastore は、ElastiCache for Redis の機能の 1 つです。高速で、信頼性が高く、安全なフルマネージド型クロスリージョンレプリケーションを実現できます。Global Datastore を使用すると、1 つのリージョンで ElastiCache for Redis クラスターに書き込みながら、他の 2 つのクロスリージョンレプリカクラスターでデータ読み取りができるようになります。これにより、リージョンをまたいだ低レイテンシーの読み取りおよび災害対策が可能となります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup で VMware 仮想マシンの保護されたコピーから仮想ディスクの復元が可能に]]></title>
+        <id>54cfabb669afbb510732c3a1ac419b321ee01a1d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-backup-virtual-disks-protected-copies-vmware-machines/"/>
+        <updated>2022-04-06T22:41:01.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backupで、保護されたコピーから VMware の仮想マシン (VM) 全体を復元することが可能になり、また、VM にアタッチされた仮想ディスクを個別に復元できる柔軟性も加わりました。AWS Backup を使用することで、VMware の仮想ディスクを、別の VMware 環境や AWS 内の Amazon Elastic Block Store (EBS) ボリュームにある VM に対し、復元することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 で、作成から 2 年を経過したパブリック Amazon マシンイメージ (AMI) の可視性が低下]]></title>
+        <id>8991c40d61db1866fe43638740b70a358e6bddb9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-machine-images-public-visibility-two-years/"/>
+        <updated>2022-04-06T22:20:01.000Z</updated>
+        <summary type="html"><![CDATA[本日より、すべてのパブリック AMI の非推奨時期が、作成日から 2 年後に設定されます。つまり、作成から 2 年を経過した後のパブリック AMI は、デフォルトで非推奨になります。AMI が非推奨になると、その AMI の所有者ではないユーザーの DescribeImages API コールには表示されなくなります。AMI が非推奨になった場合、ターゲットを絞らない検索で、その AMI の可視性が低下されるに過ぎず、引き続きご利用いただく上で差し支えございません。非推奨 AMI のユーザーは、インスタンスの起動や、その非推奨 AMI の記述 (AMI ID を使用) を引き続き行うことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Security Hub でカスタムインテグレーションのために名前を指定できるようになりました]]></title>
+        <id>b0c8d4228f707744e812cded98207418054754f2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-security-hub-custom-integrations/"/>
+        <updated>2022-04-06T22:13:01.000Z</updated>
+        <summary type="html"><![CDATA[AWS Security Hub で、カスタムインテグレーションに対する、企業名および製品名の指定がサポートされました。これにより検索や集計が容易になり、カスタムインテグレーションでの検出結果を基にアクションを起こす際に使用できます。Security Hub では、75 種類のオフィシャルインテグレーションが用意されており、加えてユーザーは、自身で作成したカスタムインテグレーションから検出結果を取り込むことも可能です。従来、これらのカスタムインテグレーション向けの企業名や製品名は、それぞれに固有なデフォルト値が設定されており、ユーザーが変更することはできませんでした。今後は、Security Hub の BatchImportFindings API を使用することで、企業名と製品名をユーザーが指定できます。これら新しい企業名と製品名は、各検出結果と対応して、JSON 形式で Security Hub コンソール上に反映されます。カスタマイズされた企業と製品の名称は、情報の検索やインサイト作成での使用が可能で、それらによりトリガーされる対応や修正のための自動ワークフローを構築できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon WorkSpaces では、カスタムブランディングのための API をローンチ]]></title>
+        <id>052de419cccf8af0bb6a95b0fd273283b6d12f9f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-workspace-apis-custom-branding/"/>
+        <updated>2022-04-06T22:06:00.000Z</updated>
+        <summary type="html"><![CDATA[本日より、Amazon WorkSpaces では、御社のロゴを使用したユーザーの Amazon WorkSpaces エクスペリエンス、ログインメッセージ、および WorkSpaces クライアントログインページのヘルプリンクをカスタマイズできる API を提供します。独自のブランドを使用すると、ユーザーが WorkSpaces にアクセスする際に、使い慣れたルックアンドフィールが提供されます。独自のヘルプリンクを追加すると、ユーザーは組織内のサポートリソースに簡単にアクセスできるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Azure storage table access using Azure Active Directory]]></title>
+        <id>generally-available-azure-storage-table-access-using-azure-active-directory</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-storage-table-access-using-azure-active-directory/"/>
+        <updated>2022-04-06T17:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Accessing Azure storage table using Azure AD for authentication and Azure RBAC for authorization provides superior security over using shared key for access.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Support for Private Link in Azure IoT Central]]></title>
+        <id>iotc-private-link</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-private-link/"/>
+        <updated>2022-04-06T17:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Enhance your security posture by privately connecting devices to Azure IoT Central via private endpoint, eliminating exposure to the public internet.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Backup supports metrics and metric alerts for Azure Blobs]]></title>
+        <id>azure-backup-now-supports-metrics-and-metric-alerts-for-azure-blobs</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-backup-now-supports-metrics-and-metric-alerts-for-azure-blobs/"/>
+        <updated>2022-04-06T16:00:10.000Z</updated>
+        <summary type="html"><![CDATA[You can now monitor the restore job health of your backed up blobs via Azure Monitor metrics and write custom alert rules on these metrics.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Redshift の同時実行スケーリングが欧州 (ストックホルム) リージョンで利用可能に]]></title>
         <id>43578c8b7e471efbb091f02b18b370afa810add3</id>
@@ -609,7 +719,7 @@
         <title type="html"><![CDATA[Generally available: Access time-based lifecycle management rules for Data Lake Storage Gen2]]></title>
         <id>access-time-based-lifecycle-management-adls-gen2</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/access-time-based-lifecycle-management-adls-gen2/"/>
-        <updated>2022-03-29T16:00:36.000Z</updated>
+        <updated>2022-03-29T16:00:33.000Z</updated>
         <summary type="html"><![CDATA[Access time tracking for objects and lifecycle management policies based on last accessed time in Azure Data Lake Storage Gen2.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -920,7 +1030,7 @@
         <id>abf95bcc4efd6c307e0dcc9f17403323984996cd</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/introducing-grammar-slot-type-amazon-lex/"/>
         <updated>2022-03-25T06:35:46.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex を使用すると、高度な自然言語による会話型ボット (「Chatbot」)、ビジュアルエージェント、IVR システムをすばやく簡単に構築できます。本日、Amazon Lex は文法スロットタイプを導入します。音声認識文法仕様 (SRGS: Speech Recognition Grammar Specification) に準拠した XML 形式の文法を独自に作成し、会話の中で情報を収集することができるようになりました。また、文法ファイル内の ECMAScript タグを使用して意味解釈ルールを提供することも可能です。スロットタイプを使用して、既存の文法を Amazon Lex にポートできます。また、金融サービス、保険、通信などのドメインで一般的に使用されている業界文法をあらかじめ用意し、その一覧から選択することもできます。文法スロットタイプは、ユーザー入力の収集と後処理を細かく制御できるため、効果的なダイアログを管理することができます。]]></summary>
+        <summary type="html"><![CDATA[Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex を使用すると、高度な自然言語による会話型ボット (chatbot)、仮想エージェント、IVR システムをすばやく簡単に構築できます。本日、Amazon Lex は文法スロットタイプを導入します。音声認識文法仕様 (SRGS: Speech Recognition Grammar Specification) に準拠した XML 形式の文法を独自に作成し、会話の中で情報を収集することができるようになりました。また、文法ファイル内の ECMAScript タグを使用して意味解釈ルールを提供することも可能です。スロットタイプを使用して、既存の文法を Amazon Lex にポートできます。また、金融サービス、保険、通信などのドメインで一般的に使用されている業界文法をあらかじめ用意し、その一覧から選択することもできます。文法スロットタイプは、ユーザー入力の収集と後処理を細かく制御できるため、効果的なダイアログを管理することができます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1876,61 +1986,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon S3 のアカウントレベルのブロックパブリックアクセスを Lightsail バケットに拡張]]></title>
-        <id>03fdbf828254d36233e83409175849763949cce3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-s3-account-level-block-public-access-extends-lightsail-buckets/"/>
-        <updated>2022-03-15T03:35:43.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lightsail オブジェクトストレージで、ウェブサイトやアプリケーションで使用できる画像、動画、HTML ファイルなどの静的コンテンツを保存できる機能がご利用いただけるようになりました。Amazon S3 のアカウントレベルのブロックパブリックアクセス設定はすぐに有効となり、Lightsail オブジェクトストレージサービスのバケットに適用されます。この変更は、バケットが存在しているのが Amazon S3 または Lightsail のいずれであるかにかかわらず、すべてのバケットのセキュリティを向上させるためのものです。アカウントに S3 ブロックパブリックアクセス (BPA) 設定を追加すると、意図せずにパブリックインターネットに公開されることがないように、バケット内のデータが保護されます。アカウントレベルの BPA が有効になっている場合、バケットとオブジェクトに現在設定されているバケットアクセス許可にかかわらず、バケットとオブジェクトは「プライベート」になります (インターネット上のどのユーザーもアクセスすることはできません)。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon EC2 の X2idn および X2iedn インスタンスのご紹介]]></title>
         <id>f184323ddb583ce1787a1f4b2edbcf1d35c18456</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-x2idn-x2iedn-instances/"/>
         <updated>2022-03-15T03:33:28.000Z</updated>
         <summary type="html"><![CDATA[本日より、メモリが最適化された Amazon EC2 の X2idn および X2iedn インスタンスの一般提供を開始しました。X2idn および X2iedn インスタンスは、メモリを大量に消費するワークロード向けに設計されており、前世代の X1 インスタンスと比較して、パフォーマンス、コストパフォーマンス、およびメモリの GiB あたりのコストが改善されています。これらの新しいインスタンスは、第 3 世代インテル Xeon スケーラブルプロセッサ (Ice Lake) を搭載しており、コンピューティングについては、同等の X1 インスタンスよりも最大 50% 高いコストパフォーマンスを提供します。X2idn のメモリと vCPU の比率は 16:1 で、X2iedn の比率は 32:1 です。そのため、これらのインスタンスは、インメモリデータベースや分析、ビッグデータ処理エンジン、Electronic Design Automation (EDA) などのワークロードに最適です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon MSK Connect が外部シークレットと config プロバイダーによる設定のサポートを開始]]></title>
-        <id>cc7b0ff2c2add5b24cb6febde88dcea73a6c9a85</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-msk-external-secrets-configurartion-providers/"/>
-        <updated>2022-03-14T15:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) で、MSK Connect のカスタム設定プロバイダーが利用可能になりました。この機能により、Amazon Secrets Manager のようなプロバイダーでシークレットを保存し、コネクタやワーカーの設定プロパティにパスワードやその他の認証情報を保存することを避けることができます。MSK Connect プラグインの一部として、Apache Kafka と互換性のある任意の ConfigProvider を提供し、これを使用して設定をフェッチすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Comprehend でエンティティベースの感情分析のサポートを開始]]></title>
-        <id>ba17395b5adf6470dedadd3d5a4d8d8c84be444f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-comprehend-entity-sentiment-analysis/"/>
-        <updated>2022-03-14T15:32:48.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Comprehend は、機械学習を使用してテキストからインサイトを見つける自然言語処理 (NLP) サービスの 1 つです。本日より、Comprehend でテキスト内のエンティティに対する感情（ポジティブ (肯定的) 、ネガティブ (否定的) 、ニュートラル (中立的) 、または混在）を識別することで、より詳細な感情のインサイトを提供する新しい API として Targeted Sentiment が提供されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 が AMI を使用して最新のインスタンス起動のタイムスタンプを表示するための新しい AMI プロパティをサポート]]></title>
-        <id>ec8f3af528dc24fda20032ca0adbd664e4c434d5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-ami-timestamp-instance-launch/"/>
-        <updated>2022-03-14T15:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EC2 では、Amazon Machine Images (AMI) の所有者向けに「lastLaunchedTime」と呼ばれる新しいプロパティが追加されました。このプロパティ使用すれば、AMI の所有者は、AMI が EC2 インスタンスの起動に最後に使用されたときのタイムスタンプを表示できるのようになります。これにより、AMI の所有者は、AMI、特に公的に共有されている AMI の使用状況を理解し、AMI の廃止または登録解除について情報に基づいた決定を下すことができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for SQL Server で M6i と R6i インスタンスのサポートを開始]]></title>
-        <id>8b833c47cc3ced81e670e30d54439733c9788fed</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-sql-server-supports-m6i-r6i-instances/"/>
-        <updated>2022-03-14T15:31:11.000Z</updated>
-        <summary type="html"><![CDATA[Amazon RDS for SQL Server で M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリ集約型のワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1953,36 +2013,6 @@
         <summary type="html"><![CDATA[Support for Private Link is now generally available for Azure Digital Twins, a platform that enables you to create digital representation of real-world things, places, and business processes.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon DynamoDB がデフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化]]></title>
-        <id>715571dc1f092ef35cf9628b43049e04d549d0e7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-dynamodb-default-quotas-large-tables/"/>
-        <updated>2022-03-14T03:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazon DynamoDB は、デフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化します。DynamoDB は、AWS アカウントおよび AWS リージョンごとに作成および管理できる DynamoDB テーブルの数のデフォルトのクォータを 256 から 2,500 に引き上げました。また、DynamoDB は、同時に実行できるテーブル管理オペレーションの数も 50 から 500 に引き上げました。アカウントごとおよびリージョンごとに、より多くのテーブルの作成、削除、および更新オペレーションを並行して実行できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ECS UpdateService API がロードバランサー、サービスレジストリ、タグのプロパゲート、および ECS 管理タグの更新のサポートを開始]]></title>
-        <id>b0d158c98775339fb17ce08522a6d6ccca743f53</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-service-api-updating-elastic-load-balancers-service-registries-tag-propagation-ecs-managed-tags/"/>
-        <updated>2022-03-14T03:32:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Container Services (Amazon ECS) は、既存の ECS サービス向けに、Elastic Load Balancers、Service Registries、Tag Propagation、および ECS Managed Tags の更新をサポートするようになりました。さらに柔軟になったことで、お客様はサービスを再作成することなく、Amazon ECS サービスの設定を簡単に更新できるため、運用上のオーバーヘッドとサービスの中断の可能性が軽減されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Systems Manager Change Manager が複数の変更リクエストに対する一括アクションの実行のサポートを開始]]></title>
-        <id>67d143df1c0ad9aa9add365544d1a9b0c1ea7e69</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-systems-manager-actions-multiple-change-requests/"/>
-        <updated>2022-03-14T03:31:12.000Z</updated>
-        <summary type="html"><![CDATA[AWS Systems Manager の機能である Change Manager では、複数の変更リクエストをまとめて承認または拒否できるようになりました。これにより、承認者は保留中の変更リクエストに対して一括アクションを簡単に実行できます。Change Manager は、AWS またはオンプレミスでのインフラストラクチャおよびアプリケーションの構成に対する運用上の変更のリクエスト、承認、実行、報告の方法を簡素化します。承認者は、複数の変更リクエストを選択して、それらに対してアクションを実行できるようになりました。これにより、承認が迅速化されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -2031,16 +2061,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-schedule-automated-emails-of-your-saved-cost-views/"/>
         <updated>2022-03-08T18:00:33.000Z</updated>
         <summary type="html"><![CDATA[Subscribe to daily, weekly, or monthly updates of your saved cost views in Azure Cost Management to stay informed about changes in cost.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: SOAP and XML request and response validation]]></title>
-        <id>general-availability-soap-and-xml-request-and-response-validation</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-soap-and-xml-request-and-response-validation/"/>
-        <updated>2022-03-07T21:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Minimize API attack surface for SOAP or XML- based REST APIs with custom schemas in addition to the schemas specified in the API's definition.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
