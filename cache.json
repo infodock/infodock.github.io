@@ -1054,26 +1054,6 @@
           "wordCount": 1944,
           "title": "General availability: Support for Private Link in Azure Digital Twins",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b77f65c770fe64ac62601082e088a7a69c31176089921ceeb724325d979003f1/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "public-preview-ondemand-capacity-reservation-with-azure-site-recovery-safeguards-vms-failover",
-          "author": null,
-          "description": "Integrating Site Recovery with capacity reservation to reserve compute capacity in the disaster recovery region and use that for failover.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-ondemand-capacity-reservation-with-azure-site-recovery-safeguards-vms-failover/",
-          "publishedOn": "2022-03-10T18:00:28.000Z",
-          "wordCount": 2024,
-          "title": "Public preview: On-demand capacity reservation with Azure Site Recovery safeguards VMs failover",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b77f65c770fe64ac62601082e088a7a69c31176089921ceeb724325d979003f1/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "public-preview-azure-purview-workflows",
-          "author": null,
-          "description": "You can now manage approvals for business terms or self-service data access requests for your entire data estate without having to use manual controls like emails or worksheets.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-azure-purview-workflows/",
-          "publishedOn": "2022-03-10T16:00:27.000Z",
-          "wordCount": 1907,
-          "title": "Public preview: Azure Purview workflows",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b77f65c770fe64ac62601082e088a7a69c31176089921ceeb724325d979003f1/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
