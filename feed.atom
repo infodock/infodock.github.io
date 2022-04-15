@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-14T00:29:02.550Z</id>
+    <id>urn:2022-04-15T00:21:58.816Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-14T00:29:02.550Z</updated>
+    <updated>2022-04-15T00:21:58.816Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect Wisdom が PrivateLink のサポートを開始]]></title>
+        <id>40b0545f26b005a09fbcc5ecef7205c854927498</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-wisdom-supports-privatelink/"/>
+        <updated>2022-04-14T10:32:01.000Z</updated>
+        <summary type="html"><![CDATA[お客様は AWS PrivateLink を使って、Amazon Connect Wisdom インスタンスにパブリック IP を使用せずに Amazon Virtual Private Cloud (Amazon VPC) からプライベートにアクセスできます。トラフィックはインターネットを経由する必要がありません。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In development: Azure Media Services low-latency live streaming]]></title>
         <id>public-preview-azure-media-services-lo-latency-live-streaming-llhls</id>
@@ -306,6 +316,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AWS Lambda 関数 URL: Lambda 関数用の組み込み HTTPS エンドポイント]]></title>
+        <id>50dbbccbdf3b57ecc2b6fd1f95ad2723089e6bf7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-lambda-function-urls-built-in-https-endpoints/"/>
+        <updated>2022-04-12T03:34:51.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda の新しい機能である Lambda 関数 URL の提供開始をお知らせします。この新機能は、AWS Lambda サービスの組み込み機能として、HTTPS エンドポイントを介して関数を簡単に呼び出せるようにします。コンソールで 1 回クリックするか、AWS CloudFormation または AWS Serverless Application Model を使用して数行で、関数 URL を新規および既存の関数に追加できます。関数 URL は、Lambda でのウェブサービスの構築を開始する場合や、ウェブフックの構築などの一般的なタスクに最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Amazon Connect が、AWS CloudTrail のサポートにより、ユーザー、ルーティングプロファイル、キューの更新された UI のサポートを開始]]></title>
         <id>5647b65ab7e4b3f50eed1475bfa8d53860ff97cb</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-ui-routing-profiles-queues-cloudtrail/"/>
@@ -411,16 +431,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/unified-settings-aws-management-console/"/>
         <updated>2022-04-11T12:07:00.000Z</updated>
         <summary type="html"><![CDATA[AWS マネジメントコンソールで Unified Settings の提供を開始します。Unified Settings を使用すると、設定はデバイス、ブラウザ、およびサービス間で保持されます。起動時に、Unified Settings は、デフォルトの言語、デフォルトのリージョン、およびお気に入りのサービス表示と呼ばれる設定をサポートします。デフォルト言語は、マネジメントコンソール全体で優先言語を表示します。デフォルトリージョンは、ログインまたはサービスコンソールをロードするたびにロードされる AWS リージョンを設定します。お気に入りのサービス表示では、サービスアイコンとフルネームで、またはサービスアイコンのみで、サービスをお気に入りバーに表示します。Unified Settings は、すべてのパブリック AWS リージョンでご利用いただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda Function URLs: Lambda 関数用の組み込み HTTPS エンドポイント]]></title>
-        <id>50dbbccbdf3b57ecc2b6fd1f95ad2723089e6bf7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-lambda-function-urls-built-in-https-endpoints/"/>
-        <updated>2022-04-11T11:23:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda の新しい機能である Lambda Function URLs の提供開始をお知らせします。この新機能は、AWS Lambda サービスの組み込み機能として、HTTPS エンドポイントを介して関数を簡単に呼び出すことを可能にします。コンソールからシングルクリックするか、AWS CloudFormation または AWS Serverless Application Model を使用して数行で、Function URL を新規および既存の関数に追加できます。Function URLs は、Lambda でのウェブサービスの構築を開始する場合や、ウェブフックの構築などの一般的なタスクに最適です。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -698,8 +708,8 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <title type="html"><![CDATA[既存の Amazon OpenSearch Service ドメインでクラスター間レプリケーションのサポートを開始]]></title>
         <id>cff2f7e06e8e193d524cd8845ee59ee3d472a45b</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/cross-cluster-replication-amazon-opensearch-domains/"/>
-        <updated>2022-04-07T04:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon OpenSearch Service が既存のドメインでクラスター間レプリケーションのサポートを始めました。クラスター間レプリケーションは、同一 AWS アカウント、またはリージョンであれば、ドメインからドメインへのインデックスのコピーや同期を低レイテンシーで自動でできるようになります。クラスター間レプリケーションにより、ミッションクリティカルなアプリケーションに対しても、データの連続した整合性を実現することができます。]]></summary>
+        <updated>2022-04-07T04:55:01.000Z</updated>
+        <summary type="html"><![CDATA[Amazon OpenSearch Service が既存のドメインでクラスター間レプリケーションのサポートを始めました。クラスター間レプリケーションは、AWS アカウントやリージョンが異なっていても、ドメインからドメインへのインデックスのコピーや同期を低レイテンシーで自動でできるようになります クラスター間レプリケーションが行われることで、データの逐次一貫性が担保されミッションクリティカルなアプリケーションの高可用性を実現できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -758,8 +768,8 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <title type="html"><![CDATA[AWS CloudFormation を使用した RStudio on Amazon SageMaker の提供を開始]]></title>
         <id>126dc4cf2a3d8ddeaf413a30ebf151a8acd17e59</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rstudio-aws-sagemaker-cloudformation/"/>
-        <updated>2022-04-07T03:26:00.000Z</updated>
-        <summary type="html"><![CDATA[RStudio on Amazon SageMaker は業界初となるクラウド展開のフルマネージド RStudio Workbench です。データサイエンティストとデベロッパーは、使い慣れた RStudio 統合開発環境 (IDE) をワンクリックで立ち上げ、 Amazon SageMaker でモデルを構築、トレーニング、デプロイできます。お客様は作業を中断することなく、コンピューティングリソースに基づいて伸縮自在にダイアルアップ、ダイアルダウンが可能です。さらには、Amazon SageMaker Studio ノートブック上で Python を使用してプログラミングに切り替えることもできます。コード、データセット、リポジトリ、その他のアーティファクトを含むすべての作業は、2 つの環境間で同期されます。すぐにご利用を開始いただけるよう、追加料金なしで、現在の RStudio ライセンスを Amazon SageMaker でそのまま使用できます。本日より AWS CloudFormation を使用し、RStudio on SageMaker のドメインの作成とユーザープロファイルの追加のプロセスを自動化できます。]]></summary>
+        <updated>2022-04-07T03:26:01.000Z</updated>
+        <summary type="html"><![CDATA[RStudio on Amazon SageMaker は業界初となるクラウド展開のフルマネージド RStudio Workbench です。データサイエンティストとデベロッパーは、使い慣れた RStudio 統合開発環境 (IDE) をワンクリックで立ち上げ、 Amazon SageMaker でモデルを構築、トレーニング、デプロイできます。お客様は作業を中断することなく、基盤となるコンピューティングリソースを伸縮させることができます。さらには、Amazon SageMaker Studio ノートブックで Python を使用してプログラミングに切り替えることもできます。コード、データセット、リポジトリ、その他のアーティファクトを含むすべての作業は、2 つの環境間で同期されます。すぐにご利用を開始いただけるよう、追加料金なしで、現在の RStudio ライセンスを Amazon SageMaker でそのまま使用できます。本日より AWS CloudFormation を使用し、RStudio on SageMaker のドメインの作成とユーザープロファイルの追加のプロセスを自動化できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -879,7 +889,7 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <id>052de419cccf8af0bb6a95b0fd273283b6d12f9f</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-workspace-apis-custom-branding/"/>
         <updated>2022-04-06T22:06:00.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon WorkSpaces では、御社のロゴを使用したユーザーの Amazon WorkSpaces エクスペリエンス、ログインメッセージ、および WorkSpaces クライアントログインページのヘルプリンクをカスタマイズできる API を提供します。独自のブランドを使用すると、ユーザーが WorkSpaces にアクセスする際に、使い慣れたルックアンドフィールが提供されます。独自のヘルプリンクを追加すると、ユーザーは組織内のサポートリソースに簡単にアクセスできるようになります。]]></summary>
+        <summary type="html"><![CDATA[本日より、Amazon WorkSpaces では、WorkSpaces クライアントログインページに御社のロゴ、ログインメッセージ、およびヘルプリンクを表示してユーザーの Amazon WorkSpaces エクスペリエンスをカスタマイズできる API を提供します。独自のブランドを使用すると、ユーザーが WorkSpaces にアクセスする際に、使い慣れたルックアンドフィールが提供されます。独自のヘルプリンクを追加すると、ユーザーは組織内のサポートリソースに簡単にアクセスできるようになります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1099,7 +1109,7 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <id>dc37236e2a9c0e36dbde28a1c097f758d1c621f7</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-default-automatic-recovery/"/>
         <updated>2022-04-05T10:44:00.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon EC2 で自動復旧がデフォルトで実行されるようになりました。この新機能により、インスタンスが到達不可能になった場合の復旧がさらに容易になります。自動復旧により、基盤となるハードウェアの問題でインスタンスに障害が発生した場合の復旧が可能になり、インスタンスの可用性が向上します。自動復旧では、インスタンスは別のハードウェアに移行されて再起動されます。インスタンス ID、プライベート IP アドレス、Elastic IP アドレス、およびすべてのインスタンスメタデータは保持されます。]]></summary>
+        <summary type="html"><![CDATA[本日より、Amazon EC2 で自動復旧がデフォルトで実行されるようになりました。この新機能により、インスタンスにアクセスできなくなった場合の復旧がこれまでより容易になります。自動復旧により、基盤となるハードウェアの問題でインスタンスに障害が発生した場合の復旧が可能になり、インスタンスの可用性が向上します。自動復旧では、インスタンスは別のハードウェアに移行されて再起動されます。インスタンス ID、プライベート IP アドレス、Elastic IP アドレス、およびすべてのインスタンスメタデータは保持されます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1508,7 +1518,7 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <title type="html"><![CDATA[Generally available: Access time-based lifecycle management rules for Data Lake Storage Gen2]]></title>
         <id>access-time-based-lifecycle-management-adls-gen2</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/access-time-based-lifecycle-management-adls-gen2/"/>
-        <updated>2022-03-29T16:00:33.000Z</updated>
+        <updated>2022-03-29T16:00:36.000Z</updated>
         <summary type="html"><![CDATA[Access time tracking for objects and lifecycle management policies based on last accessed time in Azure Data Lake Storage Gen2.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -1800,16 +1810,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/introducing-grammar-slot-type-amazon-lex/"/>
         <updated>2022-03-25T06:35:46.000Z</updated>
         <summary type="html"><![CDATA[Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex を使用すると、高度な自然言語による会話型ボット (chatbot)、仮想エージェント、IVR システムをすばやく簡単に構築できます。本日、Amazon Lex は文法スロットタイプを導入します。音声認識文法仕様 (SRGS: Speech Recognition Grammar Specification) に準拠した XML 形式の文法を独自に作成し、会話の中で情報を収集することができるようになりました。また、文法ファイル内の ECMAScript タグを使用して意味解釈ルールを提供することも可能です。スロットタイプを使用して、既存の文法を Amazon Lex にポートできます。また、金融サービス、保険、通信などのドメインで一般的に使用されている業界文法をあらかじめ用意し、その一覧から選択することもできます。文法スロットタイプは、ユーザー入力の収集と後処理を細かく制御できるため、効果的なダイアログを管理することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK が最大 1 万人のライブ参加者とのセッションに対応]]></title>
-        <id>a58343026a247bb2439daac866f0bded1df03435</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-chime-10000-live-participants/"/>
-        <updated>2022-03-25T06:34:07.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。プレゼンターは、1 万人の参加者にリアルタイムでメディアを配信できるようになりました。参加者は、既存の WebRTC 接続で「ステージ」に上がることができ、コンテンツを一瞬たりとも逃すことなくライブの会話に貢献することができます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -2290,36 +2290,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-protect-azure-static-web-apps-environments-with-a-password-2/"/>
         <updated>2022-03-16T16:00:18.000Z</updated>
         <summary type="html"><![CDATA[You can now protect your Static Web Apps with a password.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Database for MySQL – Flexible Server in two new regions]]></title>
-        <id>generally-available-azure-database-for-mysql-flexible-server-in-two-new-regions</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-database-for-mysql-flexible-server-in-two-new-regions/"/>
-        <updated>2022-03-15T21:24:11.000Z</updated>
-        <summary type="html"><![CDATA[Provision your Azure Database for MySQL - Flexible Server today in the China East 2 and China North 2 regions.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Synapse Link for Azure Cosmos DB partitioning Spark 3.1]]></title>
-        <id>public-preview-azure-synapse-link-for-azure-cosmos-db-partitioning-spark-31</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-synapse-link-for-azure-cosmos-db-partitioning-spark-31/"/>
-        <updated>2022-03-15T19:39:18.000Z</updated>
-        <summary type="html"><![CDATA[Use Azure Synapse Spark 3.1 to partition your Azure Cosmos DB data in analytical store for improved query performance.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Trusted launch support for Virtual Machines using Ephemeral OS disks]]></title>
-        <id>public-preview-tvm-ephemeral-os-disk</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-tvm-ephemeral-os-disk/"/>
-        <updated>2022-03-15T17:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Trusted launch virtual machine (VM) support for VMs using Ephemeral OS disks improves the security of generation 2 VMs in Azure.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
