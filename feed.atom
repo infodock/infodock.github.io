@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-15T00:21:58.816Z</id>
+    <id>urn:2022-04-16T00:23:37.316Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-15T00:21:58.816Z</updated>
+    <updated>2022-04-16T00:23:37.316Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Fargate でアプリケーションのより高速なスケーリングが可能に]]></title>
+        <id>2558dad38dd720e2f6f04142daeb32fc4fbcbcc7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-fargate-delivers-scaling-applications/"/>
+        <updated>2022-04-15T22:07:21.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Container Service (ECS) および Amazon Elastic Kubernetes Service (EKS) のサーバーレスコンピューティングエンジンである AWS Fargate により、お客様は、アプリケーションをより高速にスケーリングできるようになりました。これにより、パフォーマンスが向上し、待機時間が短縮されます。昨年、アプリケーションを最大 16 倍高速にスケールできるようにするいくつかの改善を行いました。これにより、Fargate での大規模なアプリケーションの構築と実行が容易になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for NetApp ONTAP でシングルアベイラビリティーゾーンデプロイオプションを導入]]></title>
+        <id>160c4025724873e553a7195d1179612a51a9179e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-netapp-ontap-single-availability-zone-deployment/"/>
+        <updated>2022-04-15T22:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for NetApp ONTAP は、シングルアベイラビリティーゾーン (AZ) デプロイをサポートするようになりました。シングル AZ ファイルシステムは、マルチ AZ ファイルシステムのデータ回復モデルを必要としないユースケース向けに設計されています (開発とテストのワークロードの実行、オンプレミスや他の AWS リージョンに既に保存されているデータのセカンダリコピーの保存など)。シングル AZ ファイルシステムは、これらのユースケースでマルチ AZ ファイルシステムよりも低コストのストレージオプションを提供すると同時に、すべてのデータ管理機能を同じように提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript 3.0 および React Components 3.0 用の Amazon Chime SDK を発表]]></title>
+        <id>45787c6debd0c9b58b1303ec661161f3e196af07</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-chime-sdk-javascript-react-3-0/"/>
+        <updated>2022-04-15T21:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。JavaScript 3.0 および React Components 3.0 用の Amazon Chime SDK は、ウェブおよび Electron アプリケーションのデベロッパーに、実装をより高速にするとともに、一般的なブラウザと Chromium ランタイム間での一貫性を実現するための簡素化されたデベロッパーエクスペリエンスを提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Personalize がリソースのタグ付け機能のサポートを開始]]></title>
+        <id>4afe9aa0a5f1a8f5744771642865a33dcd2d0049</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-personalize-resource-tagging/"/>
+        <updated>2022-04-15T18:01:28.000Z</updated>
+        <summary type="html"><![CDATA[本日、リソースの編成やコスト管理を簡素化する Amazon Personalize リソースのタグ付け機能のサポートを発表いたします。Amazon Personalize により、デベロッパーは、ML の専門知識を必要とせず、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。タグは、キーと値のペアの形式のラベルであり、個々の Amazon Personalize リソースに添付して、リソースを検索およびフィルタリングしたり、コストを割り当てたりすることができます。例えば、ウェブサイトのさまざまなユースケースにリンクされている複数のキャンペーンがある場合、キーを「ウェブサイト」に設定し、値を「ホームページ」または「詳細ページ」に設定することで、2 つのキャンペーンそれぞれの個別の支出を把握できます。また、この機能により、マルチテナントをデプロイする顧客は、エンドカスタマー間の支出を追跡することもできます。タグ付け機能は、データセットグループ、ソリューション、キャンペーン、レコメンダー、インポートジョブ、バッチ推論、バッチセグメントジョブ、その他のリソースなど、多数の Amazon Personalize リソースで利用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Single Sign-On が HIPAA 対応になりました]]></title>
+        <id>0f3f8e0d8a126fc9eb9c5b63826dd42177b71d62</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-single-sign-on-hipaa-eligible/"/>
+        <updated>2022-04-15T07:31:14.000Z</updated>
+        <summary type="html"><![CDATA[本日、アマゾン ウェブ サービス (AWS)は、AWS Single Sign-On (AWS SSO) が HIPAA (医療保険の相互運用性と説明責任に関する法律) に対応したことを発表しました。AWS SSO は、お客様がワークフォースアイデンティティを作成または接続し、AWS アカウント全体でアクセスを一元的に管理する場所です。HIPAA に対応するとは、HIPAA の対象となる顧客 (健康保険会社、医療提供者、医療クリアリングハウス、医療費を支払う政府プログラム、軍隊および退役軍人の医療プログラム、およびその従業員を含む) が、保護されるべき医療情報 (PHI) を保存、処理、または送信する AWS ワークロードを設定または管理するユーザー、あるいは PHI を利用する AWS SSO と統合されたアプリケーションにサインインするユーザーの認証と承認に AWS SSO を使用できることを意味します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Connect Wisdom が PrivateLink のサポートを開始]]></title>
         <id>40b0545f26b005a09fbcc5ecef7205c854927498</id>
@@ -406,6 +456,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler が、データソースとして Databricks のサポートを開始]]></title>
+        <id>27f94cc2d7c93d51c34052b9a35180160ac2e9ee</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-databricks-data-source/"/>
+        <updated>2022-04-11T15:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Data Wrangler は、ML の初めての完全統合開発環境 (IDE) である Amazon SageMaker Studio で、機械学習 (ML) のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴量エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。Amazon Simple Storage Service (Amazon S3)、Amazon Athena、Amazon Redshift、Snowflake など幅広い種類のデータソースからデータをインポートできます。本日より、Amazon SageMaker Data Wrangler 内のデータソースとして Databricks を使用し、Databricks 内のデータを機械学習用に簡単に準備できるようになりました。AWS パートナーである Databricks は、組織が分析のためにデータを準備し、組織全体でデータサイエンスとデータ主導の意思決定を強化し、ML を迅速に採用するのを支援します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Generally available: DNS reservations to prevent subdomain takeover in Cloud Services deployments]]></title>
         <id>dns-reservations-to-prevent-subdomain-takeover-in-cloud-services</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/dns-reservations-to-prevent-subdomain-takeover-in-cloud-services/"/>
@@ -535,10 +595,10 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon OpenSearch Service に可観測性インターフェイスが含まれるようになり、ログ分析が拡張されました]]></title>
+        <title type="html"><![CDATA[Amazon OpenSearch Service に 可観測性 インターフェイスが含まれるようになり、ログ分析が拡張されました]]></title>
         <id>80e51e62d129fadd31d087db4dd17945c381e7e7</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-opensearch-observability-interface-log-analytics/"/>
-        <updated>2022-04-08T10:03:01.000Z</updated>
+        <updated>2022-04-08T10:03:02.000Z</updated>
         <summary type="html"><![CDATA[Amazon OpenSearch Service に、可観測性インターフェイスとログモニタリング機能が含まれるようになりました。これにより、デベロッパーや DevOps エンジニアは、パフォーマンスの問題をより迅速に診断し、アプリケーションのダウンタイムを削減するために必要なインサイトを得ることができます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
@@ -648,8 +708,8 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <title type="html"><![CDATA[Amazon FSx が AWS PrivateLink のサポートを開始]]></title>
         <id>574f9840296a0aedc60fa8efc1abe366251ca76e</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-supports-aws-privatelink/"/>
-        <updated>2022-04-07T12:43:00.000Z</updated>
-        <summary type="html"><![CDATA[お客様は AWS PrivateLink を使って、パブリック IP を使用せずに、Amazon Virtual Private Cloud (Amazon VPC) から Amazon FSx Application Programming Interface (Amazon FSx API) にプライベートにアクセスできます。トラフィックはインターネットを経由する必要がありません。]]></summary>
+        <updated>2022-04-07T12:43:01.000Z</updated>
+        <summary type="html"><![CDATA[AWS PrivateLink を使って、パブリック IP を使用せず、さらにインターネットにトラフィックを経由することなく、Amazon Virtual Private Cloud (Amazon VPC) から Amazon FSx Application Programming Interface (Amazon FSx API) にプライベートにアクセスできるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -719,7 +779,7 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <id>acc5d0288a0295756c33d997d252de88d2d46ba5</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-iot-device-management-defender-monitoring-metrics/"/>
         <updated>2022-04-07T04:48:00.000Z</updated>
-        <summary type="html"><![CDATA[本日、IoT Device Defender ListMetricValues API を一般公開をしました。ListMetricValues API を利用することで、お客様はセキュリティプロファイルに属するおけるデバイス側、クラウド側、また接続済みデバイスからのカスタムメトリクスの履歴にアクセスできるようになりました。AWS IoT マネジメントコンソール内のデータの表示に加え、お客様はプログラムに基づく監視ができる他、お客様自身で可視化を構築できる柔軟性が得られるようになりました。さらに、 Fleet Hub for AWS IoT Device Management 内で AWS IoT Device Defender メトリクスの可視化を可能にしました。このような強化策により、お客様は、他のデバイスデータや Fleet Hub 内での問題診断やフリート管理用のフリートレベルデータとともにディフェンダーメトリクスを 1 か所で表示できるようになりました。この新たな API や Fleet Hub との統合が AWS IoT Device Defender  と Fleet Hub for AWS IoT Device Management が利用できる AWS Global Regions で利用可能になりました。]]></summary>
+        <summary type="html"><![CDATA[本日、IoT Device Defender ListMetricValues API を一般公開をしました。ListMetricValues API を利用することで、お客様はセキュリティプロファイルに属する接続済みデバイスからのデバイス側、クラウド側、またカスタムメトリクスの履歴にアクセスできるようになりました。AWS IoT マネジメントコンソール内のデータの表示に加え、お客様はプログラムに基づく監視ができる他、お客様自身で可視化を構築できる柔軟性が得られるようになりました。さらに、 Fleet Hub for AWS IoT Device Management 内で AWS IoT Device Defender メトリクスの可視化を可能にしました。このような強化策により、お客様は、他のデバイスデータや Fleet Hub 内での問題診断やフリート管理用のフリートレベルデータとともにディフェンダーメトリクスを 1 か所で表示できるようになりました。この新たな API や Fleet Hub との統合が AWS IoT Device Defender  と Fleet Hub for AWS IoT Device Management が利用できる AWS Global Regions で利用可能になりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -815,16 +875,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler が、データソースとして Databricks のサポートを開始]]></title>
-        <id>27f94cc2d7c93d51c34052b9a35180160ac2e9ee</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-databricks-data-source/"/>
-        <updated>2022-04-06T23:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker Data Wrangler は、ML の初めての完全統合開発環境 (IDE) である Amazon SageMaker Studio で、機械学習 (ML) のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。Amazon Simple Storage Service (Amazon S3)、Amazon Athena、Amazon Redshift、Snowflake など幅広い種類のデータソースからデータをインポートできます。本日より、Amazon SageMaker Data Wrangler 内のデータソースとして Databricks を使用し、Databricks 内のデータを機械学習用に簡単に準備できるようになりました。AWS パートナーである Databricks は、組織が分析のためにデータを準備し、組織全体でデータサイエンスとデータ主導の意思決定を強化し、ML を迅速に採用するのを支援します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Backup が、VMware Cloud on AWS Outposts のサポートを開始]]></title>
         <id>fd1e08f1c62282deb023c5653a32eca2b01ce79a</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-backup-support-vmware-cloud-aws-outposts/"/>
@@ -838,8 +888,8 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <title type="html"><![CDATA[AWS Glue DataBrew の入力に ORC ファイル形式の使用が可能に]]></title>
         <id>44907188285d21ebfb0cbe907bfb4bac31d57ba5</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-glue-databrew-orc-file-format/"/>
-        <updated>2022-04-06T23:22:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Glue DataBrew をご使用のお客様は、今後、Optimized Row Columnar (ORC) ファイル形式で保存されたデータのクリーニングと変換が行えます。この形式は、Hive データの保存のために広く使用されている形式です。AWS Glue DataBrew 内のデータセットを作成する際、すでにサポート済みである Apache Avro、Apache Parquet、Microsoft Excel、CSV、JSON の各ファイル形式に加えて、ORC ファイルも選択していただけます。]]></summary>
+        <updated>2022-04-06T23:22:01.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue DataBrew をご使用のお客様は、今後、Optimized Row Columnar (ORC) ファイル形式で保存されたデータのクリーニングと変換が行えます。この形式は、Hive データの保存のために広く使用されている形式です。AWS Glue DataBrew 内のデータセットを作成する際、すでにサポート済みである Apache Parquet、Microsoft Excel、CSV、JSON の各ファイル形式に加えて、ORC ファイルも選択していただけます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1518,7 +1568,7 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <title type="html"><![CDATA[Generally available: Access time-based lifecycle management rules for Data Lake Storage Gen2]]></title>
         <id>access-time-based-lifecycle-management-adls-gen2</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/access-time-based-lifecycle-management-adls-gen2/"/>
-        <updated>2022-03-29T16:00:36.000Z</updated>
+        <updated>2022-03-29T16:00:33.000Z</updated>
         <summary type="html"><![CDATA[Access time tracking for objects and lifecycle management policies based on last accessed time in Azure Data Lake Storage Gen2.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -1735,41 +1785,11 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[現在プレビュー中 - Amazon GameSparks]]></title>
-        <id>ac42f434102017539b8a7eef2cc533f257d82012</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-gamesparks-preview/"/>
-        <updated>2022-03-25T17:51:52.000Z</updated>
-        <summary type="html"><![CDATA[Amazon GameSparks のプレビュー版のリリースを発表できることを嬉しく思います。これは、サーバーや低レベルのクラウドプリミティブを管理することなく、ゲームデベロッパーがゲームのバックエンドを構築、実行、スケーリングできるようにする AWS のマネージドサービスです。Amazon GameSparks は、必要なセットアップが最小限にとどまり、Unity ゲームエンジンと事前に統合されているすぐに使えるバックエンド機能を搭載しているため、クラウドエクスペリエンスがほとんどまたはまったくないゲームデベロッパーでもゲームバックエンドを容易に構築できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Terraform オープンソース向けの AWS Proton サポートが一般提供開始]]></title>
         <id>ab73c37a0e1b9bc32193b2bfae31c48522c70245</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-proton-terraform-open-source/"/>
         <updated>2022-03-25T17:51:05.000Z</updated>
         <summary type="html"><![CDATA[HashiCorp Configuration Language (HCL) でインフラストラクチャを定義し、Terraform オープンソースを使用してインフラストラクチャをプロビジョニングするための AWS Proton サポートが、Proton が提供されているすべてのリージョンで一般的にご利用いただけるようになりました。プラットフォームチームは、CloudFormation に加えて、Terraform モジュールを使用して AWS Proton テンプレートを定義できるようになりました。AWS Proton は、お客様が管理する Terraform オートメーションを活用して、インフラストラクチャをプロビジョニングまたは更新します。お客様は、Terraform をインフラストラクチャの定義とプロビジョニングのツールとして使用できます。それによって、AWS Proton は、使用されているモジュールを常に最新の状態に保ちます。この一般提供の開始に合わせて、インフラストラクチャ管理用の BitBucket リポジトリのサポートを開始し、サービス全体のメッセージングを改善してプロビジョニングのステータスをさらに明確にします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal ゲームエンジン用の AWS GameKit が一般提供開始]]></title>
-        <id>c58dc5f71f2391caad3d56a304723ffaf0fe01eb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-gamekit-unreal-engine/"/>
-        <updated>2022-03-25T17:50:17.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS GameKit をリリースします。これは、ゲームデベロッパーが Unreal Engine から直接ゲームバックエンド機能をデプロイおよびカスタマイズできる新しいソリューションです。AWS GameKit には、AWS Solution Architect の設計に従った各機能の AWS CloudFormation テンプレートが含まれています。AWS GameKit には、ゲームバックエンド機能と Unreal Engine 間の統合コードも付属しています。AWS GameKit は、数回クリックするだけで Unreal Engine から直接 AWS を利用したゲーム機能を構築しようとしているゲームデベロッパーを対象としています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Kendra が Slack Connector をリリースし、Slack メッセージング検索を有効化]]></title>
-        <id>1cf417ceb1756bdef2e2bdff46c74ccf698daeb2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-kendra-slack-connector-messaging-search/"/>
-        <updated>2022-03-25T17:49:26.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は Amazon Kendra Slack Connector を使用して、Slack からのメッセージのインデックス作成と検索を行うことができます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1785,31 +1805,11 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon QuickSight が Groups Management UI をローンチ]]></title>
-        <id>dd7366ce79a98cf7036261258c3a9e940dec3942</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-quicksight-groups-management-ui/"/>
-        <updated>2022-03-25T17:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Amazon QuickSight は、インタラクティブなユーザーインターフェイスによるネイティブグループ管理をサポートするようになりました。この変更により、管理者は QuickSight 管理コンソールを介してユーザーグループを効率的かつ簡単に管理できるようになります。グループを作成および管理し、グループ内のユーザーメンバーシップを管理できます。Groups Management UI は、IAM 認証情報を介して QuickSight 管理コンソールページにアクセスできる管理者が利用できます。詳細については、こちらをご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Cost Categories が、リソースおよびタグベースのアクセスコントロールのサポートを開始]]></title>
         <id>4555896aa459c70e3d3094cebbf95f8b061aaa34</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-cost-categories-supports-resource-tag-based-access-controls/"/>
         <updated>2022-03-25T17:47:03.000Z</updated>
         <summary type="html"><![CDATA[AWS Cost Categories が、リソースとタグベースのアクセスコントロールをサポートするようになり、コストカテゴリの管理とそれらへのアクセスが容易になりました。AWS Identity and Access Management (IAM) ポリシーを定義して、リソース名とタグに基づいて AWS Cost Categories のきめ細かい許可を指定し、これら 2 つのきめ細かいアクセスコントロール機能を通じてガバナンスと情報セキュリティを向上させることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Lex で文法スロットタイプを導入]]></title>
-        <id>abf95bcc4efd6c307e0dcc9f17403323984996cd</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/introducing-grammar-slot-type-amazon-lex/"/>
-        <updated>2022-03-25T06:35:46.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex を使用すると、高度な自然言語による会話型ボット (chatbot)、仮想エージェント、IVR システムをすばやく簡単に構築できます。本日、Amazon Lex は文法スロットタイプを導入します。音声認識文法仕様 (SRGS: Speech Recognition Grammar Specification) に準拠した XML 形式の文法を独自に作成し、会話の中で情報を収集することができるようになりました。また、文法ファイル内の ECMAScript タグを使用して意味解釈ルールを提供することも可能です。スロットタイプを使用して、既存の文法を Amazon Lex にポートできます。また、金融サービス、保険、通信などのドメインで一般的に使用されている業界文法をあらかじめ用意し、その一覧から選択することもできます。文法スロットタイプは、ユーザー入力の収集と後処理を細かく制御できるため、効果的なダイアログを管理することができます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -2100,196 +2100,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <link href="https://azure.microsoft.com/ja-jp/updates/combined-password-reset-mfa-registration/"/>
         <updated>2022-03-17T15:00:06.000Z</updated>
         <summary type="html"><![CDATA[Beginning 1 October 2022, combined registration for multifactor authentication and self-service password reset is rolling out to you.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Private Link support in Azure API Management]]></title>
-        <id>public-preview-azure-private-link-support-in-azure-api-management-2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-private-link-support-in-azure-api-management-2/"/>
-        <updated>2022-03-16T23:01:11.000Z</updated>
-        <summary type="html"><![CDATA[You can now integrate to clients in a virtual network privately, using Azure Private Link support in API Management.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premium Container SKU (public preview) will be retired on 30 June 2022]]></title>
-        <id>premiumcontainer</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/premiumcontainer/"/>
-        <updated>2022-03-16T23:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Transition to Premium V3 by 30 June 2022.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Container Monitoring will be retired on 31 March 2025]]></title>
-        <id>omstoci</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/omstoci/"/>
-        <updated>2022-03-16T23:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Migrate your workloads to Azure Monitor container insights by 31 March 2025.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Community support for Node 12 LTS is ending on 30 April 2022]]></title>
-        <id>node12</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/node12/"/>
-        <updated>2022-03-16T23:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Community support for Node 12 LTS is ending on 30 April 2022 – transition to Node 14 LTS by that date]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Community support for .NET 5 is ending on 8 May 2022]]></title>
-        <id>net5</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/net5/"/>
-        <updated>2022-03-16T23:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Community support for .NET 5 will end on 8 May 2022 – transition to .NET 6 by that date]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Site Recovery update rollup 61 - March 2022]]></title>
-        <id>generally-available-azure-site-recovery-update-rollup-61-march-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-site-recovery-update-rollup-61-march-2022/"/>
-        <updated>2022-03-16T17:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Review the improvements and fixes provided in Update Rollup 61.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Best practices assessment for SQL Server on Azure Virtual Machines]]></title>
-        <id>generally-available-best-practices-assessment-for-sql-server-on-azure-virtual-machines</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-best-practices-assessment-for-sql-server-on-azure-virtual-machines/"/>
-        <updated>2022-03-16T16:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Evaluate SQL Server on Azure Virtual Machines for configuration best practices using the SQL best practices assessment feature on the SQL virtual machine blade in the Azure portal.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure SQL—Public preview updates for mid-March 2022]]></title>
-        <id>azure-sql-public-preview-updates-for-midmarch-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-public-preview-updates-for-midmarch-2022/"/>
-        <updated>2022-03-16T16:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Public preview enhancements and updates released for Azure SQL.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Database for MySQL—Flexible Server - New US government region]]></title>
-        <id>general-availability-azure-database-for-mysql-flexible-server-new-us-government-region</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-database-for-mysql-flexible-server-new-us-government-region/"/>
-        <updated>2022-03-16T16:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Provision Azure Database for MySQL—Flexible Server in the US Gov Virginia region.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: New extensions for Azure Database for PostgreSQL - Flexible Server]]></title>
-        <id>general-availability-new-extensions-for-azure-database-for-postgresql-flexible-server</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-new-extensions-for-azure-database-for-postgresql-flexible-server/"/>
-        <updated>2022-03-16T16:01:22.000Z</updated>
-        <summary type="html"><![CDATA[Install timescaleDB, pg_repack and orafce on newly created Flexible Servers on Azure Database for PostgreSQL, a managed service running the open source Postgres database.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: New high availability regions—Azure Database for PostgreSQL - Flexible Server]]></title>
-        <id>general-availability-new-high-availability-regions-azure-database-for-postgresql-flexible-server</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-new-high-availability-regions-azure-database-for-postgresql-flexible-server/"/>
-        <updated>2022-03-16T16:01:15.000Z</updated>
-        <summary type="html"><![CDATA[You can now provision Flexible Server in a zone redundant high availability mode in more regions on Azure Database for PostgreSQL, a managed service running the open source Postgres database.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Database for PostgreSQL - Flexible Server—new US government regions]]></title>
-        <id>general-availability-azure-database-for-postgresql-flexible-server-new-us-government-regions</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-database-for-postgresql-flexible-server-new-us-government-regions/"/>
-        <updated>2022-03-16T16:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Provision Flexible Server in the US Gov Virginia and US Gov Arizona regions on Azure Database for PostgreSQL, a managed service running the open source Postgres database.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Database for PostgreSQL - Flexible Server supports PostgreSQL minor versions]]></title>
-        <id>general-availability-azure-database-for-postgresql-flexible-server-supports-postgresql-minor-versions</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-database-for-postgresql-flexible-server-supports-postgresql-minor-versions/"/>
-        <updated>2022-03-16T16:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Flexible Server now supports PostgreSQL versions 11.14, 12.9, and 13.5 on Azure Database for PostgreSQL,.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Database for PostgreSQL—Hyperscale (Citus) supports PostgreSQL minor versions]]></title>
-        <id>general-availability-azure-database-for-postgresql-hyperscale-citus-supports-postgresql-minor-versions-2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-database-for-postgresql-hyperscale-citus-supports-postgresql-minor-versions-2/"/>
-        <updated>2022-03-16T16:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Use PostgreSQL 11.15, 12.10, 13.6, and 14.2 minor versions with Hyperscale (Citus) for Azure Database for PostgreSQL, a managed service running the open source Postgres database on Azure.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Clustering Support for JBoss EAP on Azure App Service]]></title>
-        <id>public-preview-clustering-support-for-jboss-eap-on-azure-app-service</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-clustering-support-for-jboss-eap-on-azure-app-service/"/>
-        <updated>2022-03-16T16:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Run highly available Java EE apps with Red Hat JBoss EAP on App Service with new clustering support.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Support for private links in Azure Monitor agent]]></title>
-        <id>generally-available-support-for-private-links-in-azure-monitor-agent</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-support-for-private-links-in-azure-monitor-agent/"/>
-        <updated>2022-03-16T16:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Use Azure Monitor agent and data collection rules in restricted environments and maintain network isolation by leveraging private links.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure SignalR Service Premium Tier]]></title>
-        <id>public-preview-azure-signalr-service-premium-tier</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-signalr-service-premium-tier/"/>
-        <updated>2022-03-16T16:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise-focused capabilities to provide resiliency and availability.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure App Configuration soft delete capability]]></title>
-        <id>public-preview-azure-app-configuration-soft-delete-capability</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-app-configuration-soft-delete-capability/"/>
-        <updated>2022-03-16T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Soft deletion, recovery, and purge protection capabilities in standard tier.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Protect Azure Static Web Apps environments with a password]]></title>
-        <id>public-preview-protect-azure-static-web-apps-environments-with-a-password-2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-protect-azure-static-web-apps-environments-with-a-password-2/"/>
-        <updated>2022-03-16T16:00:18.000Z</updated>
-        <summary type="html"><![CDATA[You can now protect your Static Web Apps with a password.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
