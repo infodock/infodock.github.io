@@ -1024,16 +1024,6 @@
           "wordCount": 1998,
           "title": "General availability: Azure HBv3 virtual machines for HPC now upgraded",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-57dd926b9e68ddceecaa8ba19eaa5de5551cb7d45048137ff0f5d6e7693332c7/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "five-azure-classic-networking-services-will-be-retired-on-31-august-2024",
-          "author": null,
-          "description": "Migrate your resources that use classic networking services to Azure Resource Manager before 31 August 2024.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/five-azure-classic-networking-services-will-be-retired-on-31-august-2024/",
-          "publishedOn": "2022-03-19T01:00:25.000Z",
-          "wordCount": 2047,
-          "title": "Five Azure classic networking services will be retired on 31 August 2024",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-57dd926b9e68ddceecaa8ba19eaa5de5551cb7d45048137ff0f5d6e7693332c7/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },

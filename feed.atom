@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-17T00:25:41.515Z</id>
+    <id>urn:2022-04-18T00:30:23.827Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-17T00:25:41.515Z</updated>
+    <updated>2022-04-18T00:30:23.827Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2030,16 +2030,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <link href="https://azure.microsoft.com/ja-jp/updates/azure-hbv3-vms-for-hpc-now-generally-available-with-amd-milanx-cpus/"/>
         <updated>2022-03-21T13:00:01.000Z</updated>
         <summary type="html"><![CDATA[Azure HBv3 virtual machines are now upgraded to and generally available with AMD EPYC 3rd Gen processors with 3D V-Cache, codenamed “Milan-X”, in the Azure East US, South Central US, and West Europe regions.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Azure classic networking services will be retired on 31 August 2024]]></title>
-        <id>five-azure-classic-networking-services-will-be-retired-on-31-august-2024</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/five-azure-classic-networking-services-will-be-retired-on-31-august-2024/"/>
-        <updated>2022-03-19T01:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Migrate your resources that use classic networking services to Azure Resource Manager before 31 August 2024.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
