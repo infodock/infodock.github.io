@@ -1,10 +1,190 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-18T00:30:23.827Z</id>
+    <id>urn:2022-04-19T00:21:42.341Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-18T00:30:23.827Z</updated>
+    <updated>2022-04-19T00:21:42.341Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS DevOps コンピテンシーパートナーからの DevSecOps ソリューションのご紹介]]></title>
+        <id>3626583cbf7359486549ada10eb4edf9c4195e06</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/devsecops-solutions-competency-partners/"/>
+        <updated>2022-04-18T20:08:23.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS DevOps コンピテンシーの DevSecOps カテゴリを発表いたしました。これらの AWS パートナーは、お客様がセキュリティポリシーとガードレールを CI/CD パイプラインに統合するのに役立つ DevSecOps 製品を提供しています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Stable URLs for preview environments in Azure Static Web Apps]]></title>
+        <id>public-preview-stable-urls-for-preview-environments-in-azure-static-web-apps</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-stable-urls-for-preview-environments-in-azure-static-web-apps/"/>
+        <updated>2022-04-18T19:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Azure Static Web Apps preview deployments now support stable URLs.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Archive Storage now available in Switzerland North]]></title>
+        <id>general-availability-azure-archive-storage-now-available-in-switzerland-north</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-archive-storage-now-available-in-switzerland-north/"/>
+        <updated>2022-04-18T19:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Reduce spending by storing cold data to Azure Archive Storage, now in new regions.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Monitor and Azure Managed Grafana integrations]]></title>
+        <id>public-preview-azure-monitor-and-azure-managed-grafana-integrations</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-monitor-and-azure-managed-grafana-integrations/"/>
+        <updated>2022-04-18T16:00:42.000Z</updated>
+        <summary type="html"><![CDATA[New Grafana integrations with Azure Monitor include the ability to pin Azure Monitor visualizations from Azure Portal to Grafana dashboards and new out-of-the-box Azure Monitor dashboards.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppStream 2.0 では、Elastic フリートのカスタムセッションスクリプトを有効にします]]></title>
+        <id>9c934f82a875526a85340b02c50630590dedf0dc</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/appstream-custom-scripts-elastic-fleets/"/>
+        <updated>2022-04-18T12:25:21.000Z</updated>
+        <summary type="html"><![CDATA[Amazon AppStream 2.0 は Elastic フリートのセッションスクプトを発表します。Amazon AppStream 2.0 Elastic フリート は、お客様が容量管理タスクをなくし、コストを削減できるよう支援します。本日より、AppStream 2.0 Elastic フリートは、オンインスタンスセッションスクリプトを提供します。これらのスクリプトは、AppStream 2.0 Elastic フリートの管理者が一般的に行うシナリオを簡素化するものです。これらのスクリプトを使用すると、ユーザーのストリーミングセッションで特定のイベントが発生したときに、独自のカスタムアクションを実行できます。たとえば、ユーザーのセッションスタート前やセッション終了後に実行するカスタムアクションなどです。セッションの開始前に、アプリケーションやストリーミング環境の設定をはじめ、アプリケーションログの収集、セッション中のセッション情報のモニタリング、セッション終了前のアプリケーションのクリーンアップなどのタスクを簡単に実行できます。セッションスクリプトは、AppStream 2.0 の Always-On および On-Demand フリートで既に利用可能です。Elastic フリートのセッションスクリプト構築をスタートするには、Use Session Scripts to Manage Your AppStream 2.0 Users' Streaming Experiencese Session をご参照ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Single Sign-On が Microsoft Active Directory の同期設定機能を開始]]></title>
+        <id>8801a565fb13acdab1a5c250a2c82c72be9d9d86</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-single-sign-on-configurable-synchronization-microsoft-active-directory/"/>
+        <updated>2022-04-18T12:25:21.000Z</updated>
+        <summary type="html"><![CDATA[AWS Single Sign-On (AWS SSO) で Microsoft Active Directory (AD) をアイデンティティソースとして使用している場合、AD から AWS SSO に同期するユーザーとグループのリストを設定し、同期を一時停止することが可能になりました。同期を設定することで、データ主権要件に合致したユーザーとグループの同期を行うことができます。また、必要に応じて同期を一時停止したり、希望する時間帯に同期を行うことも可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS コンテナコンピテンシーパートナーによるエンタープライズコンテナ管理ソリューションの紹介]]></title>
+        <id>d83c6c720b2d063063ab912418be996b46a29465</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/enterprise-container-management-solutions-aws-competency-partners/"/>
+        <updated>2022-04-18T12:19:21.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS コンテナコンピテンシーのエンタープライズコンテナ管理カテゴリを発表しました。これらの AWS パートナーは、お客様が異なる環境間でコンテナインフラストラクチャとコンテナ化されたワークロードを管理するのに役立つコンテナ管理製品を提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudFront Ready プログラムの紹介]]></title>
+        <id>29bf365876e9b859d2f854e8de8587c226b1413b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-cloudfront-ready-program/"/>
+        <updated>2022-04-18T12:15:21.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CloudFront と統合するソフトウェア製品を持つ AWS パートナー向けの新しい Amazon CloudFront Ready プログラムを発表できることを嬉しく思っています。お客様は、クラウドでのアプリケーション構築に移行しており、スケーラブルで非常に魅力的なアプリケーションやオンライン体験を構築および配信するための適切なツールやソフトウェアソリューションを必要としています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECR Public がナビゲーションパンくずリンクの実装やドロップダウンからのイメージ識別子のコピーなどのギャラリーの変更を発表]]></title>
+        <id>e6b790d61597d4a950bc099bb1acb264cde16c75</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ecr-public-gallery-breadcrumbs-image-identifier/"/>
+        <updated>2022-04-18T12:09:22.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Elastic Container Registry Public (ECR Public) は、ギャラリーへの変更を発表します。この変更には、ナビゲーションパンくずリンクの実装、ドロップダウンからのイメージ識別子のコピー、イメージ名への発行者エイリアスの追加、およびレポジトリが見つからない場合に表示されるページの更新が含まれます。これらの変更により、イメージの検索と取得が容易になるので、イメージの識別と取得に費やす時間が短縮されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新しい EC2 起動エクスペリエンスで作成した Amazon EC2 インスタンスに Amazon FSx ファイルシステムを自動的にアタッチすることが可能に]]></title>
+        <id>402bd29ed7db2e2501a7f0978d84b3a22fd68fae</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-file-system-ec2-launch-experience/"/>
+        <updated>2022-04-18T12:05:22.000Z</updated>
+        <summary type="html"><![CDATA[新しい EC2 起動エクスペリエンスで作成した Amazon EC2 インスタンスに Amazon FSx ファイルシステムを自動的にアタッチすることが可能になり、豊富な機能と高いパフォーマンスを備えた FSx 共有ファイルストレージを EC2 インスタンスで簡単に使用できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Canvas が AWS アジアパシフィック (東京) リージョンで利用可能に]]></title>
+        <id>f7acda4fc074aabe450d68aaedce83d139cf03f3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-sagemaker-canvas-available-asia-pacific-tokyo/"/>
+        <updated>2022-04-18T11:59:21.000Z</updated>
+        <summary type="html"><![CDATA[本日より、Amazon SageMaker Canvas が AWS アジアパシフィック (東京) リージョンで一般に利用可能になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch Metric Streams が追加統計情報を新たにサポート]]></title>
+        <id>4b429d8921073aa0f8087e5776dfb0ed1ae8fbfd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-cloudwatch-metric-streams-additional-statistics/"/>
+        <updated>2022-04-18T11:53:21.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CloudWatch は、CloudWatch Metric Streams でパーセンタイルなどの追加統計情報をサポートすることを発表します。Metric Streams により、任意の送信先に対する、継続的でほぼリアルタイムなメトリクスのストリーミングを作成できます。これらの追加統計情報により、メトリクスのパターンと傾向の可視性が向上し、アプリケーションのヘルスとパフォーマンスをより効果的にモニタリングできるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Virtual Private Cloud (VPC) プレフィックスリストが AWS アジアパシフィック (大阪) リージョンで利用可能に]]></title>
+        <id>db860788e01aa725b58b9217ae7e07875af8288c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-vpc-prefix-list-osaka-region/"/>
+        <updated>2022-04-18T11:43:21.000Z</updated>
+        <summary type="html"><![CDATA[本日より、Amazon Virtual Private Cloud (VPC) のお客様は、AWS アジアパシフィック (大阪) リージョンで独自のプレフィックスリストを作成できるようになりました。プレフィックスリストは、VPC セキュリティグループとルートテーブルの設定に使用したり、Resource Access Manager (RAM) を使用して他の AWS アカウントと共有したりできる CIDR ブロックのコレクションです。お客様は、すべてのアカウントでプレフィックスリストを簡単に監査および適用し、一貫したセキュリティ体制とルーティング動作を実現できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS AI & ML Scholarship プログラムが、過小評価され、十分なサービスを受けることができない学生の申請の受付を開始]]></title>
+        <id>b93376970211b63e8f70c70b762da8ece10d6495</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-ai-ml-scholarship-program-underrepresented-underserved-students/"/>
+        <updated>2022-04-18T11:37:21.000Z</updated>
+        <summary type="html"><![CDATA[AWS Artificial Intelligence (AI) and Machine Learning (ML) Scholarship プログラムは、インテルおよび Udacity と協力して、世界中の場所を問わず、技術分野で十分なサービスを受けることができておらず、過小評価されている学生の申請の受付を開始します。これにより、実践的な学習、カスタマイズされたメンタリング、および毎年授与される 2,500 の Udacity Nanodegree の奨学金のうち最大 2 つを取得できる可能性があります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EFS が EC2 コンソールの向上した新しい起動エクスペリエンスと統合]]></title>
+        <id>69eff7e51bafc0ba8ef90ceb99b8b5ee7cbdfaa4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-efs-integration-launch-ec2-console/"/>
+        <updated>2022-04-18T11:31:21.000Z</updated>
+        <summary type="html"><![CDATA[本日から、向上した新しいインスタンス起動エクスペリエンスの [ストレージを設定] セクションで作成した新しい Amazon EC2 インスタンスに Amazon EFS ファイルシステムを自動的に追加できるようになり、サーバーレスで伸縮自在なファイルストレージを EC2 で今までよりもシンプルかつ簡単に使用できるようになりました。この統合により、推奨されるマウントオプションで起動時に EFS ファイルシステムをマウントするための EC2 インスタンスの設定プロセスが簡素化されます。さらに、起動エクスペリエンスの [ストレージを設定] セクションから、推奨設定を使用して新しい EFS ファイルシステムを作成することもできます。Amazon EC2 コンソールを離れる必要はありません。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon WorkSpaces が、パフォーマンスを向上させ、コストを最適化するための新しい Graphics G4dn バンドルをリリース]]></title>
+        <id>6f79be63ffe53a16fa59fb3b44d2870e0359aaee</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-workspaces-graphics-g4dn-bundles/"/>
+        <updated>2022-04-18T11:25:21.000Z</updated>
+        <summary type="html"><![CDATA[Amazon WorkSpaces は、EC2 G4dn ファミリーに基づく 2 つの新しいグラフィックスバンドルである Graphics.g4dn と GraphicsPro.g4dn を導入します。これらのバンドルを使用すると、CUDA、CuDNN、OptiX、Video Codec SDK などの NVIDIA ライブラリを使用して、NVIDIA GPU 向けに最適化されたグラフィックスアプリケーションの費用対効果の高いソリューションとして、クラウド内のデスクトップでグラフィックスおよびコンピューティングが多用されるワークロードを実行できます。マルチプレシジョン Turing Tensor Cores および RT Cores を備えた NVIDIA T4 Tensor Core GPU、AWS カスタム第 2 世代 Intel® Xeon® スケーラブル (Cascade Lake) プロセッサ、およびローカルにデータを保存するために高速アクセスを必要とするアプリケーション向けに設計されたローカル NVMe ストレージが付属しています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS App Runner が AWS X-Ray のサポートを開始]]></title>
+        <id>3dc84306546fbb829d84659c3a84a476e5c8680c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/"/>
+        <updated>2022-04-18T11:08:21.000Z</updated>
+        <summary type="html"><![CDATA[App Runner 上で実行するアプリケーションのすべてのリクエストトレースを AWS App Runner から AWS X-Ray にストリーミングできるようになりました。デベロッパーは、App Runner を使用して、コンテナ化されたウェブアプリケーションと API をスケールでクラウドにすばやく簡単にデプロイできます。インフラストラクチャを管理する必要はありません。App Runner の X-Ray のサポートにより、これらのアプリケーションが Amazon RDS、DynamoDB、Elasticache などの AWS データサービス、および ECS、EKS、または Fargate 上で実行するアプリケーションとやり取りする際のパフォーマンスを測定することができます。さらに、この起動により、App Runner ユーザーは、X-Ray を使用してアプリケーションへのリクエストのエンドツーエンドのビューを取得し、問題や最適化の可能性を識別するためのインサイトを得ることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇宙望遠鏡科学研究所、DNAStack、米国国立公文書館などからオープンデータのレジストリで利用できる新しいデータセットが登場]]></title>
+        <id>8d87f0f0e989c8cdecf2fd22d0b99f5f4d4d547f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/q2-new-datasets-available-registry-open-data/"/>
+        <updated>2022-04-18T10:58:21.000Z</updated>
+        <summary type="html"><![CDATA[宇宙望遠鏡科学研究所、DNAStack、米国国立公文書館などからの新規または更新された 16 のデータセットが、次のカテゴリのオープンデータのレジストリで利用可能ですのでご覧ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Fargate でアプリケーションのより高速なスケーリングが可能に]]></title>
         <id>2558dad38dd720e2f6f04142daeb32fc4fbcbcc7</id>
@@ -60,7 +240,7 @@
         <id>40b0545f26b005a09fbcc5ecef7205c854927498</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-wisdom-supports-privatelink/"/>
         <updated>2022-04-14T10:32:01.000Z</updated>
-        <summary type="html"><![CDATA[お客様は AWS PrivateLink を使って、Amazon Connect Wisdom インスタンスにパブリック IP を使用せずに Amazon Virtual Private Cloud (Amazon VPC) からプライベートにアクセスできます。トラフィックはインターネットを経由する必要がありません。]]></summary>
+        <summary type="html"><![CDATA[AWS PrivateLink を使って、パブリック IP を使用せず、さらにインターネットにトラフィックを経由することなく、Amazon Virtual Private Cloud (Amazon VPC) から Amazon Connect Wisdom インスタンスにプライベートにアクセスできるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1568,7 +1748,7 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <title type="html"><![CDATA[Generally available: Access time-based lifecycle management rules for Data Lake Storage Gen2]]></title>
         <id>access-time-based-lifecycle-management-adls-gen2</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/access-time-based-lifecycle-management-adls-gen2/"/>
-        <updated>2022-03-29T16:00:33.000Z</updated>
+        <updated>2022-03-29T16:00:36.000Z</updated>
         <summary type="html"><![CDATA[Access time tracking for objects and lifecycle management policies based on last accessed time in Azure Data Lake Storage Gen2.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -1635,76 +1815,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon RDS は、RDS Service API での Internet Protocol Version 6 (IPv6) のサポートを開始]]></title>
-        <id>9ba283dcb8d7758e7a1c13757cbf0d621159ca9d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-internet-protocol-version-6-ipv6-rds-service-apis/"/>
-        <updated>2022-03-28T17:42:54.000Z</updated>
-        <summary type="html"><![CDATA[お客様は、Amazon Relational Database Service (Amazon RDS) は、RDS Service API にアクセスしているときに Internet Protocol Version 6 (IPv6) を利用するオプションを使えるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Service Catalog が、プロビジョニングされた製品内のリソースに直接アクセスする新しいコンソール機能を発表]]></title>
-        <id>65fd731c781c03a172eff7b5ef424f53c79ac8ee</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-service-catalog-new-console-feature/"/>
-        <updated>2022-03-28T17:37:57.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS Service Catalog は、プロビジョニングされた製品に関連付けられたリソースへのビルダーのアクセスを簡素化するのに役立つ機能をリリースいたします。従来は、特定のリソースを見つけるために AWS コンソールを手動でナビゲートする必要がありました。今回の機能を使用すると、プロビジョニングされた製品の詳細ページで、プロビジョニングされた製品のリソースを簡単に見つけてアクセスすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Support が、Connector for Jira Service Management を介してケースを効率化]]></title>
-        <id>3f6da3714e5a95ffc40fbf01191a2b00d1b49363</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-support-streamlines-cases-connector-jira-management/"/>
-        <updated>2022-03-28T17:37:08.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Atlassian Jira Service Management (JSM)、データセンターバージョンを単一の場所として使用して、 AWS Support から AWS Service Management Connector for JSM を介してケース (インシデント) を追跡および管理できるようになります。AWS Support により、AWS リソースに関連するケースを一元的に作成、追跡、解決できるため、お客様が問題を解決するまでの時間を短縮できます。AWS Support ケースと Jira Service Management インシデント間の二重同期統合により、JSM ユーザー/デベロッパーは Jira Service Management (インシデント) の既存のワークフローを活用しながら AWS Support ケースを管理できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Polly が、カタロニア語とメキシコスペイン語でニューラル TTS 音声の提供を開始]]></title>
-        <id>4f6e3e1e841091b25d471de1d5c24927a953576a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-polly-offers-neural-tts-voices-catalan-mexican-spanish/"/>
-        <updated>2022-03-28T17:36:20.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly のメキシコスペイン語の女性の合成 (TTS) 音声である Mia のニューラルバージョンと、新しいカタロニア語のニューラル音声である Arlet の 2 つの音声の一般提供開始をお知らせします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Panorama が、アプリケーションエラーに関する Amazon CloudWatch アラームのサポートを開始]]></title>
-        <id>bc85604d2a4f2b21b7f668eaef80e442c693e7c7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-panorama-cloudwatch-alarms-application-errors/"/>
-        <updated>2022-03-28T17:35:31.000Z</updated>
-        <summary type="html"><![CDATA[AWS Panorama アプリケーションでエラーが発生したことを検出するように Amazon CloudWatch アラームを設定できるようになりました。こうした CloudWatch アラームは、緊急のパフォーマンスやオペレーションの問題を特定するのに役立ち、トラブルシューティングを迅速に行い、解決までの平均時間 (MTTR) を短縮できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Panorama が、独自の機械学習ライブラリを提供する機能のサポートを開始]]></title>
-        <id>08cb2f8413e610a967dcbadf9f32da584b989f30</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-panorama-machine-learning-libraries/"/>
-        <updated>2022-03-28T17:34:08.000Z</updated>
-        <summary type="html"><![CDATA[TensorFlow、PyTorch、OpenCV のモデルとアルゴリズムを AWS Panorama Appliance GPU で直接実行して、オブジェクトトラッキング、トラフィック分析、ワーカーの安全などの低レイテンシーのユースケースを実現できるようになりました。また、AWS Panorama は、Nvidia TensorRT または Nvidia CUDA をサポートする任意の機械学習ライブラリで最適化されたモデルもサポートします。Nvidia TensorRT は、特定のユースケースで AWS Panorama Appliance で同時に処理できるカメラストリームの数を 2 倍にすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Panorama アプリケーションが、ローカルエリアネットワークを介したインバウンドメッセージの受信のサポートを開始]]></title>
-        <id>2aad2dd2fbbf81081edf086615c997db949eb97a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-panorama-inbound-messages-local-area-network/"/>
-        <updated>2022-03-28T17:33:20.000Z</updated>
-        <summary type="html"><![CDATA[これで、ローカルエリアネットワークを介してインバウンドメッセージを受信するように AWS Panorama アプリケーションを設定し、AWS Panorama アプリケーションを開始、停止、または調整することができます。例えば、ML モデルを実行して、車両が生産ラインのゲートを通過するときに塗装の欠陥を視覚的に検出できます。また、インバウンドメッセージを使用して、同じネットワーク上の別のコンピューターからアクセス可能なウェブアプリケーションを提供し、人間が関与するプレビューを行うこともできます。人間が関与するプレビューを使用すると、ラインオペレーターは、ML モデルからの異常検出をレビューして、モデルの再トレーニングの精度を確保し、低精度の結果にフラグを立てることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Generally available: On-demand capacity reservation with Azure Site Recovery safeguards VMs failover]]></title>
         <id>ondemand-capacity-reservation-with-azure-site-recovery-safeguards-vms-failover</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/ondemand-capacity-reservation-with-azure-site-recovery-safeguards-vms-failover/"/>
@@ -1752,86 +1862,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <summary type="html"><![CDATA[The Azure Percept March update includes fixes related to security.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda で Lambda 関数用に最大 10 GB のエフェメラルストレージの設定が可能に]]></title>
-        <id>7daf03e5d430a4bfe508728367f6860abcefb1f7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-lambda-configure-ephemeral-storage/"/>
-        <updated>2022-03-28T07:35:34.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda のお客様は、Lambda 関数用に最大 10,240 MB のエフェメラルストレージを設定できるようになりました (以前の制限である 512 MB の 20 倍)。これは、財務分析、機械学習推論、メディア処理アプリケーションなどのワークロードが大量のデータを利用するオペレーションを大規模に実行するのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Comprehend を使用して画像と Textract JSON ファイルからカスタムエンティティを抽出する]]></title>
-        <id>ffbdf5aebbf4d6ad663c86dc3ddf601217d6a128</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-comprehend-custom-entities-images-json/"/>
-        <updated>2022-03-28T07:33:45.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Comprehend は、テキスト、PDF、Word に加えて、画像形式のドキュメントをサポートするようになりました。お客様は、Comprehend カスタムエンティティ認識を使用して画像ファイル (JPG、PNG、TIFF) からエンティティを抽出できるようになりました。また、Amazon Textract の JSON 出力で Comprehend を直接使用して、ドキュメントからカスタムエンティティを抽出することもできます。今回のリリースにより、お客様はインテリジェントドキュメント処理 (IDP) ワークフローを簡素化でき、Comprehend と Textract のすぐに使用できる統合を利用して、ドキュメントからエンティティを抽出できます。これらの機能の詳細な説明を以下に記載しています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 Auto Scaling インスタンスのライフサイクル状態が、インスタンスメタデータサービスを介して利用可能に]]></title>
-        <id>231aef509a8b2bf1964c63388c2d9104f4ca114f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-auto-scaling-lifecycle-instance-metadata/"/>
-        <updated>2022-03-28T07:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EC2 Auto Scaling は、Amazon EC2 インスタンスメタデータサービス (IMDS) で、Auto Scaling インスタンスのライフサイクル状態を発行するようになりました。これにより、インスタンスがあるライフサイクル状態から別のライフサイクル状態に移行するときに、インスタンス上でのアクションを簡単に開始できます。Auto Scaling グループのインスタンスは、起動されてサービスの提供が開始されてから、サービスから削除されて終了するまで、さまざまなライフサイクル状態に移行します。IMDS をポーリングすることで、インスタンス上のアプリケーションをセットアップして、ライフサイクルの状態を簡単に判断できます。Amazon CloudWatch Events やその他のサービスをセットアップする必要はありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terraform オープンソース向けの AWS Proton サポートが一般提供開始]]></title>
-        <id>ab73c37a0e1b9bc32193b2bfae31c48522c70245</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-proton-terraform-open-source/"/>
-        <updated>2022-03-25T17:51:05.000Z</updated>
-        <summary type="html"><![CDATA[HashiCorp Configuration Language (HCL) でインフラストラクチャを定義し、Terraform オープンソースを使用してインフラストラクチャをプロビジョニングするための AWS Proton サポートが、Proton が提供されているすべてのリージョンで一般的にご利用いただけるようになりました。プラットフォームチームは、CloudFormation に加えて、Terraform モジュールを使用して AWS Proton テンプレートを定義できるようになりました。AWS Proton は、お客様が管理する Terraform オートメーションを活用して、インフラストラクチャをプロビジョニングまたは更新します。お客様は、Terraform をインフラストラクチャの定義とプロビジョニングのツールとして使用できます。それによって、AWS Proton は、使用されているモジュールを常に最新の状態に保ちます。この一般提供の開始に合わせて、インフラストラクチャ管理用の BitBucket リポジトリのサポートを開始し、サービス全体のメッセージングを改善してプロビジョニングのステータスをさらに明確にします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS コスト異常検出が、リソースおよびタグベースのアクセス管理のサポートを開始]]></title>
-        <id>80dc29f3d0c9a1591f823ea119ddbe97494bdd68</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-resource-tag-access-management/"/>
-        <updated>2022-03-25T17:48:39.000Z</updated>
-        <summary type="html"><![CDATA[AWS コスト異常検出は、リソースとタグベースのアクセスコントロールをサポートするようになり、コスト異常モニターとアラートサブスクリプションの管理とそれらへのアクセスが容易になりました。AWS Identity and Access Management (IAM) ポリシーを定義して、AWS コスト異常検出モニターとアラートサブスクリプションに対してリソース名とタグに基づいてきめ細かいアクセス許可を指定できるようになりました。これにより、これら 2 つのきめ細かいアクセスコントロール機能を通じてガバナンスと情報セキュリティが向上します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Cost Categories が、リソースおよびタグベースのアクセスコントロールのサポートを開始]]></title>
-        <id>4555896aa459c70e3d3094cebbf95f8b061aaa34</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-cost-categories-supports-resource-tag-based-access-controls/"/>
-        <updated>2022-03-25T17:47:03.000Z</updated>
-        <summary type="html"><![CDATA[AWS Cost Categories が、リソースとタグベースのアクセスコントロールをサポートするようになり、コストカテゴリの管理とそれらへのアクセスが容易になりました。AWS Identity and Access Management (IAM) ポリシーを定義して、リソース名とタグに基づいて AWS Cost Categories のきめ細かい許可を指定し、これら 2 つのきめ細かいアクセスコントロール機能を通じてガバナンスと情報セキュリティを向上させることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ECS で Amazon EC2 Auto Scaling 向けのウォームプールのサポートを開始]]></title>
-        <id>888e9eeb2e834646270f90553627eb0abd4c6026</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-supports-warm-pools-amazon-ec2-auto-scaling/"/>
-        <updated>2022-03-25T05:32:24.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Container Service (Amazon ECS) では、Amazon Elastic Compute Cloud (Amazon EC2) Auto Scaling ウォームプールを Amazon ECS クラスターでご使用いただくことにより、アプリケーションのスケールアウトの高速化とコスト節約を支援できるようになりました。ウォームプールを使用すると、アプリケーショントラフィックを高速で処理できるように事前に初期化された Amazon EC2 インスタンスのプールを作成できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Amplify で、手動でデータを移行せずに GraphQL API を反復処理できる新しい @mapsTo ディレクティブをサポート開始]]></title>
-        <id>ee093b005ed732d592a60ff32df8351d8fbcae2b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-amplify-mapsto-graphql-without-manual-data-migrations/"/>
-        <updated>2022-03-25T05:31:19.000Z</updated>
-        <summary type="html"><![CDATA[AWS Amplify で、新しい @mapsTo GraphQL ディレクティブが利用できるようになりました。これにより、デベロッパーは、データの移行を心配することなく、GraphQL モデルの反復処理や名前の変更が可能です。AWS Amplify CLI は、フロントエンドデベロッパーがクラウドでアプリケーションバックエンドを作成するのに役立つコマンドラインツールチェーンです。Amplify の GraphQL Transformer を使用することで、デベロッパーは GraphQL スキーマ定義言語を使用してバックエンドデータモデルを構成できます。それにより、Amplify CLI が基盤となるデータベーステーブルを使用してに基づいて、スキーマが完全に機能する GraphQL API となるように自動的に変換します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
