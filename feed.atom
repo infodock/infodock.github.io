@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-19T00:21:42.341Z</id>
+    <id>urn:2022-04-20T00:24:30.491Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-19T00:21:42.341Z</updated>
+    <updated>2022-04-20T00:24:30.492Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS DataSync が、Amazon FSx for OpenZFS との間でデータをコピーできるようになりました]]></title>
+        <id>6ef710ed3e8eb519a60f41a7b241684987dee99f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-datasync-amazon-fsx-openzfs/"/>
+        <updated>2022-04-19T12:51:21.000Z</updated>
+        <summary type="html"><![CDATA[AWS DataSync が、Amazon FSx for OpenZFS との間でファイル転送をサポートするようになりました。これは、オープンソースの OpenZFS ファイルシステム上に構築された、信頼性が高く、スケーラブルで、パフォーマンスが高く、機能豊富なファイルストレージを提供するフルマネージドサービスです。DataSync を使用すると、オンプレミスのファイルまたはオブジェクトストレージを FSx for OpenZFS に簡単かつ安全に移行したり、FSx for OpenZFS とオンプレミスストレージまたは AWS ストレージサービスの間でデータの継続的な転送を実行したりできます。また、DataSync を使用して、FSx for OpenZFS ファイルシステムとの間でデータを移動することもできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS DevOps コンピテンシーパートナーからの DevSecOps ソリューションのご紹介]]></title>
         <id>3626583cbf7359486549ada10eb4edf9c4195e06</id>
@@ -1748,7 +1758,7 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <title type="html"><![CDATA[Generally available: Access time-based lifecycle management rules for Data Lake Storage Gen2]]></title>
         <id>access-time-based-lifecycle-management-adls-gen2</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/access-time-based-lifecycle-management-adls-gen2/"/>
-        <updated>2022-03-29T16:00:36.000Z</updated>
+        <updated>2022-03-29T16:00:33.000Z</updated>
         <summary type="html"><![CDATA[Access time tracking for objects and lifecycle management policies based on last accessed time in Azure Data Lake Storage Gen2.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -1782,16 +1792,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <summary type="html"><![CDATA[Migrate to MedTech service feature which provides stronger security and supportability.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[すべての商用リージョンで Amazon RDS 無料利用枠に db.t3.micro、AWS Graviton2 ベースの db.t4g.micro インスタンスが含まれるようになりました]]></title>
-        <id>3ecd8149fc53b97bde9e33ec0438614d5d89d5b7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-free-tier-dbt3micro-graviton2-based-instances/"/>
-        <updated>2022-03-28T20:46:24.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon Relational Database Service (Amazon RDS) の無料利用枠に、すべての商用リージョンでの db.t3.micro および AWS Graviton2 ベースの db.t4g.micro インスタンスが含まれるようになります。これにより、新しい AWS のお客様向けに、現在の AWS 無料利用枠の db.t2.micro インスタンスに加えて、より多くの選択肢が提供されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
