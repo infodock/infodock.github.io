@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-20T00:24:30.491Z</id>
+    <id>urn:2022-04-21T00:26:52.500Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-20T00:24:30.492Z</updated>
+    <updated>2022-04-21T00:26:52.500Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Rehydrate an archived blob to a different storage account]]></title>
+        <id>generally-available-rehydrate-an-archived-blob-to-a-different-storage-account</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-rehydrate-an-archived-blob-to-a-different-storage-account/"/>
+        <updated>2022-04-20T19:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Segregate your backup data in different storage accounts with Archive across-accounts copy.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[設定の変更が可能な暗号スイートが Amazon Aurora MySQL に利用可能になりました]]></title>
+        <id>46a0061a0d0545a51df8f29f2fb3dd7e53303243</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-aurora-mysql-configurable-cipher-suites/"/>
+        <updated>2022-04-20T13:39:21.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Aurora MySQL 互換エディションのデータベース接続を利用可能な暗号のリストから設定できるようになりました。設定の変更が可能な暗号スイートにより、データベースサーバーが受け付け可能な接続の暗号化についてより多くのセキュリティコントロールが可能になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kinesis Data Firehose が Coralogix に対応]]></title>
+        <id>78dc2917d242d9576824ceaa459698d1c3a17032</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-kinesis-data-firehose-coralogix/"/>
+        <updated>2022-04-20T13:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Kinesis Data Firehose は、Coralogix へのストリーミングデータ配信をサポートするようになりました。これにより、Coralogix ユーザーは、アプリケーションの管理やコードの記述なしにストリーミングデータを取り込むことができるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Service Quotas が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>a468f5227660deb2a4b5784e272d046c8f376679</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-service-quotas-available-jakarta-region/"/>
+        <updated>2022-04-20T12:26:21.000Z</updated>
+        <summary type="html"><![CDATA[AWS アジアパシフィック (ジャカルタ) リージョンで Service Quotas をご利用いただけるようになりました。これにより、AWS ワークロードの増加に合わせて Service Quotas を表示して、大規模に管理できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インドネシアおよびフィリピンで Amazon Interactive Video Service のエッジロケーションが利用可能に]]></title>
+        <id>0eb8ffba5540fafbe7d684d4aecdd11d4665d2b5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-interactive-video-service-launches-edge-locations-indonesia-philippines/"/>
+        <updated>2022-04-20T12:18:21.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Interactive Video Service (Amazon IVS) は、インドネシアのジャカルタとフィリピンのマニラの最初の POP (Point Of Presence) を発表しました。この新しいエッジロケーションにより、インドネシアとフィリピンに拠点を置くストリーマーや視聴者は、短いレイテンシーで、より良質の動画を、より多くの容量で楽しめるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Batch が、AWS PrivateLink のサポートを追加]]></title>
+        <id>9566d7bde35034dbb07a3c7ddc2f618bd4d03889</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-batch-adds-privatelink/"/>
+        <updated>2022-04-20T12:12:21.000Z</updated>
+        <summary type="html"><![CDATA[AWS PrivateLink を使用して、仮想プライベートクラウド (AmazonVPC) から AWS Batch API へのプライベートアクセスを行えるようになりました。AWS PrivateLink は、VPC、AWS のサービス、オンプレミスネットワーク間のプライベート接続を提供します。これで、AWS PrivateLink を使用して VPC で AWS Batch リソースを管理し、組織のセキュリティとコンプライアンスの要件を満たすことができるようになりました。AWS PrivateLink を使用するには、Amazon VPC コンソール、SDK、または CLI を使用して、VPC で AWS Batch のインターフェイス VPC エンドポイントを作成します。また、AWS VPN、AWS Direct Connect、VPC ピアリングのいずれかを使用して、オンプレミス環境またはその他の VPC から VPC エンドポイントにアクセスすることもできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS DataSync が、Amazon FSx for OpenZFS との間でデータをコピーできるようになりました]]></title>
         <id>6ef710ed3e8eb519a60f41a7b241684987dee99f</id>
@@ -120,17 +180,17 @@
         <id>f7acda4fc074aabe450d68aaedce83d139cf03f3</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-sagemaker-canvas-available-asia-pacific-tokyo/"/>
         <updated>2022-04-18T11:59:21.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon SageMaker Canvas が AWS アジアパシフィック (東京) リージョンで一般に利用可能になります。]]></summary>
+        <summary type="html"><![CDATA[本日より、Amazon SageMaker Canvas が AWS アジアパシフィック (東京) リージョンで一般提供を開始しました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon CloudWatch Metric Streams が追加統計情報を新たにサポート]]></title>
+        <title type="html"><![CDATA[Amazon CloudWatch メトリクスストリームが追加統計情報を新たにサポート]]></title>
         <id>4b429d8921073aa0f8087e5776dfb0ed1ae8fbfd</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-cloudwatch-metric-streams-additional-statistics/"/>
         <updated>2022-04-18T11:53:21.000Z</updated>
-        <summary type="html"><![CDATA[Amazon CloudWatch は、CloudWatch Metric Streams でパーセンタイルなどの追加統計情報をサポートすることを発表します。Metric Streams により、任意の送信先に対する、継続的でほぼリアルタイムなメトリクスのストリーミングを作成できます。これらの追加統計情報により、メトリクスのパターンと傾向の可視性が向上し、アプリケーションのヘルスとパフォーマンスをより効果的にモニタリングできるようになりました。]]></summary>
+        <summary type="html"><![CDATA[Amazon CloudWatch は、CloudWatch メトリクスストリームでパーセンタイルなどの追加統計情報をサポートすることを発表します。メトリクスストリームにより、任意の送信先に対する、継続的でほぼリアルタイムなメトリクスのストリーミングを作成できます。これらの追加統計情報により、メトリクスのパターンと傾向の可視性が向上し、アプリケーションのヘルスとパフォーマンスをより効果的にモニタリングできるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1315,16 +1375,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Organizations で AWS アカウントの解約を一元管理し、エンドツーエンドのアカウントライフサイクル管理が容易に]]></title>
-        <id>c280b8b6efcf962b6b84697fcfe35b46c5cc6c2d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-organizations-central-account-closure-lifecycle-management/"/>
-        <updated>2022-04-05T11:11:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Organizations のメンバーアカウントの解約は、コンソールを使用するか、AWS Command Line Interface (CLI) または SDK を介してプログラムで一元的に実行できるようになりました。この機能を使用すると、各メンバーアカウントに個別にログインしなくても、組織の管理アカウントからメンバーアカウントを解約できるようになるため、アマゾン ウェブ サービスのワークロードをより簡単かつ効率的に管理できます。また、IAM アクセス許可を使用して、管理アカウントの IAM ロールまたはユーザーを承認することで、インフラストラクチャのミッションクリティカルなアカウントを保護しながらアカウントの解約をセキュアに実行することもできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Glue 2.0 が AWS Glue FindMatches の使用によりファジーマッチングと重複排除をサポート]]></title>
         <id>b99b6e00fc5c7fa3d991165659fc149f764153ec</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-glue-fuzzy-findmatches/"/>
@@ -1445,26 +1495,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Aurora PostgreSQL が、Microsoft SQL Server および Sybase データベース用の外部データラッパーをサポート]]></title>
-        <id>6651b670145219646aeabe57c9494a4792273175</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-aurora-postgresql-foreign-data-wrapper-sql-sybase/"/>
-        <updated>2022-03-31T21:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Aurora PostgreSQL 互換エディションが、Sybase データベースや Microsoft SQL サーバーなど、Tabular Data Stream (TDS) プロトコルを使用するデータベースに接続できる外部データラッパーをサポートするようになりました。この外部データラッパーを使用すると、データを複製またはコピーすることなく他のデータベースのデータソースに接続できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS License Manager の使用権限管理が、AWS Marketplace ライセンスでのライセンス使用の追跡のサポートを開始]]></title>
-        <id>809debd38d549355ab4f1add5bb1372a98aa14c9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-license-manager-entitlements/"/>
-        <updated>2022-03-31T21:41:01.000Z</updated>
-        <summary type="html"><![CDATA[AWS License Manager が、AWS Marketplace からエンタイトルメントを付与するお客様向けにライセンス使用量追跡のサポート開始を発表いたしました。この機能により、AWS Marketplace は、AMI および計測対象 SaaS 製品全体でのライセンス使用量を追跡および計測できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Public preview: Simplified compute node communication]]></title>
         <id>simplified-compute-node-communication</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/simplified-compute-node-communication/"/>
@@ -1502,26 +1532,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <summary type="html"><![CDATA[Bring your own public IP ranges to Azure to retain existing reputation or to prevent your customers from needing to modify dependencies (e.g. firewalls or other hardcoding) on their network.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contact Lens for Amazon Connect が、より大規模で低遅延なシナリオに対応するリアルタイムストリーミングの提供を開始しました]]></title>
-        <id>8a175b757376bfd5021ae9ca548a3a2d6fa88ad2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-connect-contact-lens-real-time-streaming/"/>
-        <updated>2022-03-31T02:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Contact Lens for Amazon Connect は、リアルタイムストリーミングに対応することで、企業の Contact Lens 分析へのリアルタイムアクセスを可能にし、レート制限のある既存の Contact Lens API からの頻繁なリクエストの必要性をなくしました。また、リアルタイムストリーミングでは、低遅延の要求にこたえるため、センテンス単位のトランスクリプトで構成される追加のデータセグメントを提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EventBridge スキーマレジストリが Go 言語へのサポートを拡大しました]]></title>
-        <id>11a61007d6dddeae82e160abc0a741c4ffc82bab</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-eventbridge-schema-registry-support-go-language/"/>
-        <updated>2022-03-31T01:50:01.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EventBridge のスキーマレジストリは、イベントスキーマのコードバインディング生成に Go 言語をサポートすることで、スキーマをコード内のオブジェクトとして簡単に利用できるようにします。EventBridge コンソール、API、または Jetbrains (Intellij、PyCharm、Webstorm、Rider) および VS Code 用の AWS SDK ツールキットを使用して、スキーマ用のコードバインディングを生成できます。これまで、コードバインディング生成には、Java、Python、Typescript をサポートしていました。Go のサポートにより、お好みの IDE でコードバインディングをダウンロードし、コードの検証や自動補完などの機能を利用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -1758,7 +1768,7 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <title type="html"><![CDATA[Generally available: Access time-based lifecycle management rules for Data Lake Storage Gen2]]></title>
         <id>access-time-based-lifecycle-management-adls-gen2</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/access-time-based-lifecycle-management-adls-gen2/"/>
-        <updated>2022-03-29T16:00:33.000Z</updated>
+        <updated>2022-03-29T16:00:36.000Z</updated>
         <summary type="html"><![CDATA[Access time tracking for objects and lifecycle management policies based on last accessed time in Azure Data Lake Storage Gen2.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -1950,116 +1960,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <link href="https://azure.microsoft.com/ja-jp/updates/we-ll-retire-azure-time-series-insights-on-31-of-march-2025/"/>
         <updated>2022-03-22T23:00:21.000Z</updated>
         <summary type="html"><![CDATA[We’re retiring Azure Time Series Insights on 31 March 2025 – transition to Azure Data Explorer]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Inbound NAT rule now supports port management for backend pools]]></title>
-        <id>standard-load-balancer-inbound-nat-rule-now-supports-port-management-for-backend-pools-2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/standard-load-balancer-inbound-nat-rule-now-supports-port-management-for-backend-pools-2/"/>
-        <updated>2022-03-22T03:00:09.000Z</updated>
-        <summary type="html"><![CDATA[You can now specify target backend pool in inbound NAT rule for less management overhead when configuring port forwarding.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update your Azure App Service apps to use Microsoft .NET 6 before 3 December 2022]]></title>
-        <id>netcore31</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/netcore31/"/>
-        <updated>2022-03-21T23:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Extended support for .NET Core 3.1 is ending on 3 December 2022.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure QnA Maker will be retired on 31 March 2025]]></title>
-        <id>azure-qna-maker-will-be-retired-on-31-march-2025</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-qna-maker-will-be-retired-on-31-march-2025/"/>
-        <updated>2022-03-21T23:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Migrate to custom question answering before Azure QnA Maker is retired on 31 March 2025.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transition to using connection strings for data ingestion by 31 March 2025]]></title>
-        <id>technical-support-for-instrumentation-key-based-global-ingestion-in-application-insights-will-end-on-31-march-2025</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/technical-support-for-instrumentation-key-based-global-ingestion-in-application-insights-will-end-on-31-march-2025/"/>
-        <updated>2022-03-21T23:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Technical support for instrumentation key–based global ingestion in Application Insights will end on 31 March 2025.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Community support for Node 14 LTS is ending on 30 April 2023]]></title>
-        <id>community-support-for-node-14-lts-is-ending-on-30-april-2023</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/community-support-for-node-14-lts-is-ending-on-30-april-2023/"/>
-        <updated>2022-03-21T23:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Community support for Node 14 LTS is ending on 30 April 2023 – transition to Node 14 LTS by that date]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Data Lake Analytics will be retired on 29 February 2024]]></title>
-        <id>migrate-to-azure-synapse-analytics</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/migrate-to-azure-synapse-analytics/"/>
-        <updated>2022-03-21T23:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Migrate to Azure Synapse Analytics.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Connect and manage devices in Azure IoT Central without models]]></title>
-        <id>iotc-manage-devices-without-models</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-manage-devices-without-models/"/>
-        <updated>2022-03-21T19:00:04.000Z</updated>
-        <summary type="html"><![CDATA[You now have the ability to connect your devices, send data, run commands, and create relationships without having to first create a model for them in Azure IoT Central.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In development: New planned datacenter region in Finland (Finland Central)]]></title>
-        <id>in-development-new-planned-datacenter-region-in-finland-finland-central</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/in-development-new-planned-datacenter-region-in-finland-finland-central/"/>
-        <updated>2022-03-21T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has announced plans to bring a new datacenter region to Finland, including availability zones.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Container Registry on Azure Stack Hub]]></title>
-        <id>public-preview-azure-container-registry-on-azure-stack-hub</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-container-registry-on-azure-stack-hub/"/>
-        <updated>2022-03-21T16:00:03.000Z</updated>
-        <summary type="html"><![CDATA[A public preview of Azure Container Registry on Azure Stack Hub is available starting with Azure Stack Hub update 2108.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Kubernetes Service on Azure Stack Hub]]></title>
-        <id>public-preview-azure-kubernetes-service-on-azure-stack-hub</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-kubernetes-service-on-azure-stack-hub/"/>
-        <updated>2022-03-21T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[A public preview of Azure Kubernetes Service on Azure Stack Hub is available starting with Azure Stack Hub update 2108.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure HBv3 virtual machines for HPC now upgraded]]></title>
-        <id>azure-hbv3-vms-for-hpc-now-generally-available-with-amd-milanx-cpus</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-hbv3-vms-for-hpc-now-generally-available-with-amd-milanx-cpus/"/>
-        <updated>2022-03-21T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Azure HBv3 virtual machines are now upgraded to and generally available with AMD EPYC 3rd Gen processors with 3D V-Cache, codenamed “Milan-X”, in the Azure East US, South Central US, and West Europe regions.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
