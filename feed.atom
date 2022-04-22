@@ -1,10 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-21T00:26:52.500Z</id>
+    <id>urn:2022-04-22T00:28:09.196Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-21T00:26:52.500Z</updated>
+    <updated>2022-04-22T00:28:09.196Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[General availability: App Service - Networking capabilities added to Basic pricing tier]]></title>
+        <id>general-availability-app-service-networking-capabilities-added-to-basic-pricing-tier</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-app-service-networking-capabilities-added-to-basic-pricing-tier/"/>
+        <updated>2022-04-21T16:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Virtual network integration and private endpoints now supported in Basic pricing tier.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: App Service - Configure networking in Azure Portal during app creation]]></title>
+        <id>public-preview-app-service-configure-networking-in-azure-portal-during-app-creation</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-app-service-configure-networking-in-azure-portal-during-app-creation/"/>
+        <updated>2022-04-21T16:00:28.000Z</updated>
+        <summary type="html"><![CDATA[VNet integration and private endpoints options now configurable when creating a web application.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CloudFormation Registry に 35 の新しいリソースタイプを導入]]></title>
+        <id>1687933e2c424b3cfb9bb215914e09ddff9556a4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/introducing-35-types-cloudformation-registry/"/>
+        <updated>2022-04-21T15:33:53.000Z</updated>
+        <summary type="html"><![CDATA[2022 年 1 月の最終更新以降、AWS CloudFormation Registry を拡張し、2022 年 1 月から 3 月の間に 35 の新しいリソースタイプ (下記の全リストを参照) をサポートするようになりました。リソースタイプにはスキーマ (リソースプロパティおよびハンドラー許可) と、基盤となる AWS またはサードパーティーのサービスとの API インタラクションを許可するハンドラーが含まれます。お客様は、Infrastructure as Code として扱うことで、CloudFormation を介してクラウドインフラストラクチャの一部として新たにサポートされるこれらのリソースのライフサイクルを設定、プロビジョニング、および管理できるようになりました。さらに、1 つの新しい AWS のサービス (AWS Billing Conductor) がリリース日に CloudFormation のサポートを追加したことをお知らせします。CloudFormation は、170 を超える AWS のサービス、900 を超えるリソースタイプ、および 40 を超えるサードパーティーのリソースタイプをサポートしています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Marketplace のお客様は、AMI およびコンテナの事前契約価格ベースのサブスクリプションを変更できるようになりました]]></title>
+        <id>50f5eb2ca709ed03ec444c9b3a96e223944f3da2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-marketplace-modify-ami-container-subscriptions/"/>
+        <updated>2022-04-21T15:27:54.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Marketplace は、2021 年 11 月に開始された、AMI およびコンテナ製品の前払い契約価格に関する既存のコミットメントを簡単にアップグレードおよび/または更新する機能を開始しました。現在、バイヤーは既存の契約を自動更新したり、コミットメントのライセンス数を増やしたりすることを選択できるため、絶えず変化するビジネスニーズに対応し、AWS でのワークロードの拡大に対応できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Interactive Video Service コンソールと API が 4 つの追加リージョンで利用可能に]]></title>
+        <id>713c310bfadb4eae7039ad3ef8bc27772facede1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-interactive-video-service-console-apis-additional-regions/"/>
+        <updated>2022-04-21T15:21:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Interactive Video Service (Amazon IVS) コンソールおよび動画ストリームリソースの制御や作成を行う API が、アジアパシフィック (ムンバイ)、アジアパシフィック (東京)、アジアパシフィック (ソウル)、米国東部 (バージニア北部)、米国西部 (オレゴン)、欧州 (フランクフルト) リージョンで利用可能になりました。動画の取り込みと配信は、ライブ動画用に最適化されたインフラストラクチャによる、専用のマネージド型ネットワークを介して世界中どこでも行えます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EKS、Amazon ECR、Amazon DynamoDB、Amazon S3、AWS Application Autoscaling、AWS API Gateway v2 の ACKコントローラーが一般提供を開始]]></title>
+        <id>be5355307ffdf743006e51e3830c3b35928c2d17</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ack-ecr-dynamodb-s3-aws-application-api-gateway-available/"/>
+        <updated>2022-04-21T15:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EKS、Amazon ECR、Dynamo DB、Amazon S3、AWS Application Autoscaling、AWS API Gateway v2 用 Kubernetes (ACK) コントローラーの AWS コントローラーが一般提供を開始しました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Windows Server guest licensing offer for Azure Stack HCI]]></title>
+        <id>general-availability-windows-server-guest-licensing-offer-for-azure-stack-hci</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-windows-server-guest-licensing-offer-for-azure-stack-hci/"/>
+        <updated>2022-04-21T15:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Bring simplicity and flexibility to licensing when you purchase unlimited Windows Server guest licenses for your Azure Stack HCI cluster through your Azure subscription.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS DataSync が、AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>4cb15d092cc7850d448dcc271cd828f1b2171eb5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-datasync-asia-pacific-jakarta/"/>
+        <updated>2022-04-21T14:17:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS DataSync が AWS アジアパシフィック (ジャカルタ) リージョンでご利用いただけるようになりました。DataSync は、Network File System (NFS) 共有、Server Message Block (SMB) 共有、セルフマネージドオブジェクトストレージ、Hadoop Distributed File System (HDFS)、AWS Snowcone、Amazon Simple Storage Service (Amazon S3) バケット、Amazon Elastic File System (Amazon EFS) ファイルシステム、Amazon FSx for Windows ファイルサーバーのファイルシステム、そして Amazon FSx for Lustre ファイルシステムとの間でデータをコピーできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift が監査ログの新たな機能強化を発表]]></title>
+        <id>d763389aec113994c7c43eb5fcf9113e03ee116d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-enhancements-audit-logging/"/>
+        <updated>2022-04-21T14:11:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift は、新たに機能が強化された監査ログを提供するようになりました。これにより、レイテンシーを最小限に抑えながら、Amazon CloudWatch を新しいログの送信先として追加することで、分析用のログの配信を高速化できます。このリリースでは、お客様は監査ログを Amazon CloudWatch に直接ストリーミングすることを選択できます。これにより、お客様はリアルタイムのモニタリングを実行できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次世代の FSx for Lustre ファイルシステムが、アジアパシフィック (シドニー)、欧州 (ロンドン)、およびアジアパシフィック (シンガポール) の各 AWS リージョンで利用可能に]]></title>
+        <id>ed9abc1bc060fb13920b570c56da093640953f06</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/generation-fsx-luster-system-aws-available-asia-pacific-sydney-europe-london-singapore-regions/"/>
+        <updated>2022-04-21T14:05:53.000Z</updated>
+        <summary type="html"><![CDATA[次世代の Amazon FSx for Lustre ファイルシステムが、アジアパシフィック (シドニー)、アジアパシフィック (シンガポール)、欧州 (ロンドン) の 3 つの追加の AWS リージョンでご利用いただけるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for OpenZFS が、欧州 (ロンドン)、アジアパシフィック (シドニー)、およびアジアパシフィック (シンガポール) の各リージョンで利用可能に]]></title>
+        <id>53ad1734c1d6cdd9ab4a770d8657b07dcc2dcd3e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-openzfs-available-europe-london-signapore-regions/"/>
+        <updated>2022-04-21T13:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for OpenZFS ファイルシステムが、欧州 (ロンドン)、アジアパシフィック (シドニー)、およびアジアパシフィック (シンガポール) の 3 つの追加の AWS リージョンで起動できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kendra が Quip Connector をリリースし、Quip リポジトリでドキュメント検索を可能に]]></title>
+        <id>8f5d8217569dde6fcfa5b0888d92ab17832573ca</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-kendra-quip-connector-enable-document-search-quip-repository/"/>
+        <updated>2022-04-21T13:53:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は、Amazon Kendra Quip コネクタを使用して、Quip リポジトリ内のドキュメントのインデックス作成と検索を行うことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Polly で新しいオーストリアドイツ語のニューラルテキスト読み上げ音声を新たにローンチ]]></title>
+        <id>5587a223f1e55f23793cae20570390dc948ce84c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-launches-austrian-german-neural-text-speech-voice/"/>
+        <updated>2022-04-21T13:47:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、新しいオーストリアドイツ語のニューラルボイスである Hannah の一般提供を発表できることを嬉しく思います。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Corretto が四半期更新情報を発表]]></title>
+        <id>4b27ad378e85eeb5924cc393b5acf2765047a768</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-corretto-april-2022-quartely-updates/"/>
+        <updated>2022-04-21T13:41:53.000Z</updated>
+        <summary type="html"><![CDATA[2022 年 4 月 19 日、Amazon は OpenJDK の Amazon Corretto Long-Term Supported (LTS) バージョンの四半期ごとのセキュリティおよびクリティカルアップデートを発表しました。Corretto 18.0.1、17.0.3、11.0.15 および 8u332 のダウンロードが可能となりました。Amazon Corretto は、マルチプラットフォームで、本稼働に対応した、無料の OpenJDK ディストリビューションです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Keyspaces により、Apache Spark でのデータの読み取りと書き込みがより簡単に]]></title>
+        <id>2b0957ae8bd40d5fd15cf4f3c267d0541b8ed56f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-keyspaces-read-write-data-apache-spark/"/>
+        <updated>2022-04-21T13:35:53.000Z</updated>
+        <summary type="html"><![CDATA[スケーラブルで可用性が高く、フルマネージドの Cassandra 互換データベースサービスである Amazon Keyspaces (Apache Cassandra 用) は、オープンソースの Spark Cassandra Connector を使用して、Apache Spark でのデータの読み取りと書き込みをより簡単に行えるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generally available: Rehydrate an archived blob to a different storage account]]></title>
         <id>generally-available-rehydrate-an-archived-blob-to-a-different-storage-account</id>
@@ -139,7 +289,7 @@
         <title type="html"><![CDATA[AWS コンテナコンピテンシーパートナーによるエンタープライズコンテナ管理ソリューションの紹介]]></title>
         <id>d83c6c720b2d063063ab912418be996b46a29465</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/enterprise-container-management-solutions-aws-competency-partners/"/>
-        <updated>2022-04-18T12:19:21.000Z</updated>
+        <updated>2022-04-18T12:19:22.000Z</updated>
         <summary type="html"><![CDATA[本日、AWS コンテナコンピテンシーのエンタープライズコンテナ管理カテゴリを発表しました。これらの AWS パートナーは、お客様が異なる環境間でコンテナインフラストラクチャとコンテナ化されたワークロードを管理するのに役立つコンテナ管理製品を提供します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
@@ -1165,16 +1315,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon EC2 で、作成から 2 年を経過したパブリック Amazon マシンイメージ (AMI) の可視性が低下]]></title>
-        <id>8991c40d61db1866fe43638740b70a358e6bddb9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-machine-images-public-visibility-two-years/"/>
-        <updated>2022-04-06T22:20:01.000Z</updated>
-        <summary type="html"><![CDATA[本日より、すべてのパブリック AMI の非推奨時期が、作成日から 2 年後に設定されます。つまり、作成から 2 年を経過した後のパブリック AMI は、デフォルトで非推奨になります。AMI が非推奨になると、その AMI の所有者ではないユーザーの DescribeImages API コールには表示されなくなります。AMI が非推奨になった場合、ターゲットを絞らない検索で、その AMI の可視性が低下されるに過ぎず、引き続きご利用いただく上で差し支えございません。非推奨 AMI のユーザーは、インスタンスの起動や、その非推奨 AMI の記述 (AMI ID を使用) を引き続き行うことができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Security Hub でカスタムインテグレーションのために名前を指定できるようになりました]]></title>
         <id>b0c8d4228f707744e812cded98207418054754f2</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-security-hub-custom-integrations/"/>
@@ -1230,16 +1370,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-redshift-concurrency-scaling-europe-stockholm/"/>
         <updated>2022-04-05T18:00:01.000Z</updated>
         <summary type="html"><![CDATA[Amazon Redshift の同時実行スケーリングが欧州 (ストックホルム) リージョンで利用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda コンソールがレイヤーの一括更新をサポート開始]]></title>
-        <id>4d72e498b6dc6164f3cbfc7833b62a53b4d286ec</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-lambda-console-bulk-update-layers/"/>
-        <updated>2022-04-05T17:31:01.000Z</updated>
-        <summary type="html"><![CDATA[これで、Lambda レイヤーを使用する関数のすべてまたはサブセットを選択すると、Lambda コンソールでそれらを新しいレイヤーバージョンに同時に更新できるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1335,76 +1465,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Firewall Manager が Palo Alto Networks Cloud Next Generation Firewall のサポートを開始]]></title>
-        <id>8785b25ff398fb3687ed9abfc353f38e1e5a117d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-firewall-palo-alto-network-cloud-generation/"/>
-        <updated>2022-04-05T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Firewall Manager を使用して、AWS Organization 内のすべての AWS 仮想プライベートクラウド (VPC) で、Palo Alto Networks Cloud Next Generation Firewall (NGFW) を一元的にデプロイし、モニタリングできるようになりました。本リリースにより、AWS のネイティブのファイアウォールに加えて、Palo Alto Networks Cloud NGFW のデプロイと管理も行える、単一のファイアウォール管理ソリューションをお客様に提供できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Security Hub で、セキュリティ体制のモニタリング用の 12 のコントロールが利用可能に]]></title>
-        <id>7322935e0b8c1ae74b393917769ea0c1c2a2d47f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-security-hub-launches-controls-security-posture-monitoring/"/>
-        <updated>2022-04-05T11:38:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Security Hub では、お客様の Cloud Security Posture Management (CSPM) を強化する目的で、基本的なセキュリティのベストプラクティス標準 (FSBP) として 12 の新しいコントロールが利用できるようになりました。これらのコントロールは、Amazon Auto Scaling、Amazon CloudFront、AWS CodeBuild、Amazon EC2、Amazon Elastic Container Service (ECS)、AWS Lambda、Amazon Network Firewall、Amazon Relational Database Service (Amazon RDS)、Amazon Redshift、および Amazon Simple Storage Service (S3) のセキュリティのベストプラクティスに対して完全に自動化されたチェックを実行します。Security Hub で新しいコントロールを自動的に有効にするように設定し、既に AWS Foundational Security Best Practices を使用している場合は、これらのコントロールがデフォルトで有効化されます。Security Hub では、AWS のセキュリティ体制を自動的にチェックするための 187 のセキュリティコントロールがサポートされるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle が、12.1 用の 2022 年 1 月のパッチセットの更新 (PSU)、および 12.2 と 19c 用のリリース更新 (RU) のサポートを開始]]></title>
-        <id>5b0d0473fc38b634972f51b143d6f3634b2cd374</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-patch-set-update-release-ru/"/>
-        <updated>2022-04-05T11:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Database 12.1 用の 2022 年 1 月のパッチセットの更新 (PSU)、および Oracle Database 12.2 と 19c 用のリリース更新 (RU) をサポートするようになりました。21c には既に 2022 年 1 月の RU が適用されていることをご了承ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Textract のテーブルとチェックボックス検出機能に対する更新の発表]]></title>
-        <id>97cf353956596f78d3ca325e1a519eb44aa600e9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-textract-updates-tables-check-detection/"/>
-        <updated>2022-04-05T11:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Textract は、ほぼすべてのドキュメントからテキストとデータを簡単に抽出できるようにする機械学習サービスです。お客様のフィードバックをもとに、基盤となる機械学習モデルを継続的に改善することで、さらに高い精度を実現します。本日、テーブルおよびチェックボックスの検出機能の品質がいくつかの点で強化されたことについてお知らせします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Glue 2.0 が AWS Glue FindMatches の使用によりファジーマッチングと重複排除をサポート]]></title>
-        <id>b99b6e00fc5c7fa3d991165659fc149f764153ec</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-glue-fuzzy-findmatches/"/>
-        <updated>2022-04-05T11:02:01.000Z</updated>
-        <summary type="html"><![CDATA[AWS Glue バージョン 2.0 は、AWS Glue FindMatches 機械学習の変換をサポートするようになりました。AWS Glue FindMatches は、顧客レコードのリンク、製品カタログの重複排除、不正検出などのユースケースにおいて、部分的に一致するレコードを特定するプロセスを自動化します。Glue 2.0 では、FindMatches を使用してファジーマッチングを実行する ETL ジョブは 1 分以内に開始され、1 分の最低料金が適用されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for NetApp ONTAP で、ファイルシステムのスループット容量の変更が可能に]]></title>
-        <id>1241df8c6f359727bfc054827bf2f122f6af823c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-fsx-netapp-ontap-enables-change-throughput-capacity-file-systems/"/>
-        <updated>2022-04-05T10:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx for NetApp ONTAP では、ボタンをクリックするだけでファイルシステムのスループット容量を変更できるようになり、時間の経過とともに変化するニーズに合わせて柔軟にスケールアップまたはスケールダウンができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 でインスタンスの自動復旧がデフォルトで実行]]></title>
-        <id>dc37236e2a9c0e36dbde28a1c097f758d1c621f7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-default-automatic-recovery/"/>
-        <updated>2022-04-05T10:44:00.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon EC2 で自動復旧がデフォルトで実行されるようになりました。この新機能により、インスタンスにアクセスできなくなった場合の復旧がこれまでより容易になります。自動復旧により、基盤となるハードウェアの問題でインスタンスに障害が発生した場合の復旧が可能になり、インスタンスの可用性が向上します。自動復旧では、インスタンスは別のハードウェアに移行されて再起動されます。インスタンス ID、プライベート IP アドレス、Elastic IP アドレス、およびすべてのインスタンスメタデータは保持されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Public preview: Arm64-based Azure VMs can deliver up to 50% better price-performance]]></title>
         <id>public-preview-arm64based-azure-vms-can-deliver-up-to-50-better-priceperformance</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-arm64based-azure-vms-can-deliver-up-to-50-better-priceperformance/"/>
@@ -1442,36 +1502,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <summary type="html"><![CDATA[Azure Bastion now supports the Kerberos authentication protocol in public preview.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CloudWatch が簡単なモニタリング設定のためのオプションを追加]]></title>
-        <id>fdaa150017a8ec87e7c1b5ea50496dd4d83e78df</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cloudwatch-adds-option-easy-monitoring-set-up/"/>
-        <updated>2022-04-02T01:47:00.000Z</updated>
-        <summary type="html"><![CDATA[CloudWatch で、多くのリソースとワークロードのモニタリング、アラーム、およびダッシュボードを簡単に設定できるようになりました。[CloudWatch Getting Started] (CloudWatch の開始方法) ページの新しいワンクリックオプションを使用すると、CloudWatch Application Insights を便利に起動できます。起動すると、Application Insights は、アカウントまたはリソースグループ内の基盤となるリソースを検出し、それらのヘルスをモニタリングするための推奨されるメトリクス、ログ、およびアラームを設定します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Aurora が PostgreSQL 13.6、12.10、11.15、10.20、および Babelfish for Aurora PostgreSQL 1.2.0 をサポート]]></title>
-        <id>ae904b9d03f4e84437fe98599998a6c1214bf52b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-aurora-postgresql-babelfish-version-support/"/>
-        <updated>2022-04-02T01:41:01.000Z</updated>
-        <summary type="html"><![CDATA[オープンソースコミュニティによる PostgreSQL データベースの更新の発表を受け、Amazon Aurora PostgreSQL 互換エディションを更新し、PostgreSQL 13.6、12.10、11.15、および 10.20 をサポートするようになりました。これらのリリースには、PostgreSQL コミュニティによるバグ修正と改善が含まれています。アップグレードの頻度とアップグレードプロセスの計画方法を決定するには、Aurora バージョンポリシーを参照してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EMR Managed Scaling が Spark シャッフルデータに対応]]></title>
-        <id>2f51e4b8de9f036387a53213ba59b6ea7b6c7cba</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-emr-managed-scaling-shuffle-data-aware/"/>
-        <updated>2022-04-02T01:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR Managed Scaling は、EMR クラスターのサイズを自動的に変更して、最高レベルのパフォーマンスとリソース使用状況を実現します。本日、Apache Spark の中間シャッフルデータを保存するインスタンスをスケールダウンできないようにする Managed Scaling の新機能を発表します。中間シャッフルデータを保存するインスタンスを削除せずにクラスターをインテリジェントにスケールダウンすると、ジョブの再試行と再計算が防止され、パフォーマンスが向上し、コストが削減されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -1930,36 +1960,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <link href="https://azure.microsoft.com/ja-jp/updates/ga-amludf-asa/"/>
         <updated>2022-03-24T15:00:06.000Z</updated>
         <summary type="html"><![CDATA[Machine Learning user-defined function in Stream Analytics allows you to perform high throughput, low latency, real-time predictions, allowing you to act on insights which have a very short shelf-life.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Templates functionality preview version in Azure portal will be retired on 31 March 2025]]></title>
-        <id>the-templates-functionality-in-the-azure-portal-will-be-retired-on-31-march-2025</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/the-templates-functionality-in-the-azure-portal-will-be-retired-on-31-march-2025/"/>
-        <updated>2022-03-22T23:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Start using template specs in the Azure portal before 31 March 2025.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review your VNET configurations that may be affected by IP address changes]]></title>
-        <id>ip-address-changes-will-begin-affecting-your-ability-to-manage-your-virtual-networkenabled-api-management-services-on-31-marc</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/ip-address-changes-will-begin-affecting-your-ability-to-manage-your-virtual-networkenabled-api-management-services-on-31-marc/"/>
-        <updated>2022-03-22T23:00:22.000Z</updated>
-        <summary type="html"><![CDATA[IP address changes will begin affecting your ability to manage your virtual network-enabled API Management services on 31 March 2023.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Time Series Insights will be retired on 31 March 2025]]></title>
-        <id>we-ll-retire-azure-time-series-insights-on-31-of-march-2025</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/we-ll-retire-azure-time-series-insights-on-31-of-march-2025/"/>
-        <updated>2022-03-22T23:00:21.000Z</updated>
-        <summary type="html"><![CDATA[We’re retiring Azure Time Series Insights on 31 March 2025 – transition to Azure Data Explorer]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
