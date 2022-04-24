@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-23T00:23:12.570Z</id>
+    <id>urn:2022-04-24T00:24:18.657Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-23T00:23:12.570Z</updated>
+    <updated>2022-04-24T00:24:18.658Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1900,66 +1900,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <link href="https://azure.microsoft.com/ja-jp/updates/apdk2203update/"/>
         <updated>2022-03-28T15:00:06.000Z</updated>
         <summary type="html"><![CDATA[The Azure Percept March update includes fixes related to security.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Operator Assistance in Azure MFA will be retired on 30 September 2023]]></title>
-        <id>azure-multifactor-authentication-operator-assistance-will-be-retired-on-30-september-2023</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-multifactor-authentication-operator-assistance-will-be-retired-on-30-september-2023/"/>
-        <updated>2022-03-24T23:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Turn off Operator Assistance and enable automated attendant features for phone system.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classic data export in Azure IoT Central will be retired by 31 March 2023]]></title>
-        <id>migrate-your-classic-data-exports-to-new-data-exports-by-31-march-2023</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/migrate-your-classic-data-exports-to-new-data-exports-by-31-march-2023/"/>
-        <updated>2022-03-24T23:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Migrate to new data exports in Azure IoT Central before 31 March 2023.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: User-assigned managed identities in Stream Analytics]]></title>
-        <id>asa-uami</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/asa-uami/"/>
-        <updated>2022-03-24T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[You can now use user-assigned managed identity to authenticate your Stream Analytics jobs to inputs and outputs without ever having to worry about credential management.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Intelligent cache for Apache Spark in Azure Synapse]]></title>
-        <id>intelligent-cache-for-apache-spark-in-azure-synapse-now-available-in-public-preview</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/intelligent-cache-for-apache-spark-in-azure-synapse-now-available-in-public-preview/"/>
-        <updated>2022-03-24T16:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Accelerate Apache Spark in Azure Synapse execution speed using the new intelligent cache feature.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Data Explorer supports multiple databases per data connection]]></title>
-        <id>azure-data-explorer-now-supports-multiple-databases-on-a-single-data-connection</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-data-explorer-now-supports-multiple-databases-on-a-single-data-connection/"/>
-        <updated>2022-03-24T16:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Dynamically route Azure Data Explorer data to an alternate database]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Machine Learning user-defined functions in Azure Stream Analytics]]></title>
-        <id>ga-amludf-asa</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/ga-amludf-asa/"/>
-        <updated>2022-03-24T15:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Machine Learning user-defined function in Stream Analytics allows you to perform high throughput, low latency, real-time predictions, allowing you to act on insights which have a very short shelf-life.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>

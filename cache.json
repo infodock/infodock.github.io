@@ -894,66 +894,6 @@
           "wordCount": 1929,
           "title": "Public preview: Azure Percept DK March (2203) software update",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6dd5a25114acf8660e37fccdd16932e5fefbba178f33e711c3864c222f95f1c4/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "azure-multifactor-authentication-operator-assistance-will-be-retired-on-30-september-2023",
-          "author": null,
-          "description": "Turn off Operator Assistance and enable automated attendant features for phone system.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/azure-multifactor-authentication-operator-assistance-will-be-retired-on-30-september-2023/",
-          "publishedOn": "2022-03-24T23:00:20.000Z",
-          "wordCount": 2042,
-          "title": "Operator Assistance in Azure MFA will be retired on 30 September 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6dd5a25114acf8660e37fccdd16932e5fefbba178f33e711c3864c222f95f1c4/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "migrate-your-classic-data-exports-to-new-data-exports-by-31-march-2023",
-          "author": null,
-          "description": "Migrate to new data exports in Azure IoT Central before 31 March 2023.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/migrate-your-classic-data-exports-to-new-data-exports-by-31-march-2023/",
-          "publishedOn": "2022-03-24T23:00:11.000Z",
-          "wordCount": 2049,
-          "title": "Classic data export in Azure IoT Central will be retired by 31 March 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6dd5a25114acf8660e37fccdd16932e5fefbba178f33e711c3864c222f95f1c4/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "asa-uami",
-          "author": null,
-          "description": "You can now use user-assigned managed identity to authenticate your Stream Analytics jobs to inputs and outputs without ever having to worry about credential management.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/asa-uami/",
-          "publishedOn": "2022-03-24T16:00:26.000Z",
-          "wordCount": 1926,
-          "title": "Public preview: User-assigned managed identities in Stream Analytics",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6dd5a25114acf8660e37fccdd16932e5fefbba178f33e711c3864c222f95f1c4/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "intelligent-cache-for-apache-spark-in-azure-synapse-now-available-in-public-preview",
-          "author": null,
-          "description": "Accelerate Apache Spark in Azure Synapse execution speed using the new intelligent cache feature.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/intelligent-cache-for-apache-spark-in-azure-synapse-now-available-in-public-preview/",
-          "publishedOn": "2022-03-24T16:00:18.000Z",
-          "wordCount": 1990,
-          "title": "Public preview: Intelligent cache for Apache Spark in Azure Synapse",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6dd5a25114acf8660e37fccdd16932e5fefbba178f33e711c3864c222f95f1c4/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "azure-data-explorer-now-supports-multiple-databases-on-a-single-data-connection",
-          "author": null,
-          "description": "Dynamically route Azure Data Explorer data to an alternate database",
-          "link": "https://azure.microsoft.com/ja-jp/updates/azure-data-explorer-now-supports-multiple-databases-on-a-single-data-connection/",
-          "publishedOn": "2022-03-24T16:00:07.000Z",
-          "wordCount": 1991,
-          "title": "Generally available: Azure Data Explorer supports multiple databases per data connection",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6dd5a25114acf8660e37fccdd16932e5fefbba178f33e711c3864c222f95f1c4/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "ga-amludf-asa",
-          "author": null,
-          "description": "Machine Learning user-defined function in Stream Analytics allows you to perform high throughput, low latency, real-time predictions, allowing you to act on insights which have a very short shelf-life.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/ga-amludf-asa/",
-          "publishedOn": "2022-03-24T15:00:06.000Z",
-          "wordCount": 1944,
-          "title": "General availability: Azure Machine Learning user-defined functions in Azure Stream Analytics",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-6dd5a25114acf8660e37fccdd16932e5fefbba178f33e711c3864c222f95f1c4/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
