@@ -1,10 +1,180 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-25T00:22:41.148Z</id>
+    <id>urn:2022-04-26T00:27:22.533Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-25T00:22:41.148Z</updated>
+    <updated>2022-04-26T00:27:22.533Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Transit Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>6da8dcb87be24d2cf253ce0828157ec1acfa670a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-transit-gateway-jakarta-region/"/>
+        <updated>2022-04-25T18:38:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Transit Gateway が AWS Direct Connect のサポートとともに、アジアパシフィック (ジャカルタ) の AWS リージョンでご利用いただけるようになりました。AWS Transit Gateway を使えば、何千もの Amazon Virtual Private Cloud (Amazon VPC) とオンプレミスネットワークを 1 つのゲートウェイで接続できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Neptune が AWS IAM ポリシーでグローバル条件キーのサポートを開始]]></title>
+        <id>749a61a18595bdb89386ecd7e046371e7b011fe9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-neptune-global-condition-keys-iam-policies/"/>
+        <updated>2022-04-25T18:32:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS グローバル条件コンテキストキーを使用して、Neptune クラスターやインスタンスなどの Amazon Neptune リソースへのアクセスを制御する AWS Identity and Access Management (IAM) ポリシーをカスタマイズできるようになりました。IAM ポリシーの Condition 要素で指定されている AWS グローバル条件コンテキストキーを使用して、設定された条件に基づいて Neptune リソースへのアクセスを許可または禁止できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenTelemetry Operator の EKS アドオンサポートが一般提供開始]]></title>
+        <id>9d8867a264d0a754757b7054e527a0c8085f7c43</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/eks-opentelemetry-operator-now-available/"/>
+        <updated>2022-04-25T18:26:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (Amazon EKS) は、Amazon EKS コンソール、AWS Command Line Interface (CLI)、および EKS API を使用して、AWS Distro for OpenTelemetry (ADOT) Operator のインストールおよび管理をサポートすることになりました。今回のリリースにより、Amazon EKS で実行されているアプリケーションをインストルメント化して、AWS X-Ray、Amazon Managed Service for Prometheus、Amazon CloudWatch などの複数のモニタリングサービスにメトリクスとトレースを送信する簡素化されたエクスペリエンスが可能になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC2 Auto Scaling で、すべてのインスタンスのスケーリングと置換アクションのデフォルトのインスタンスウォームアップ時間を設定可能に]]></title>
+        <id>aa2ece501ba3ce3176789141f0f87b05f02ba2a2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/ec2-auto-scaling-default-instance-warm-up-replacement-actions/"/>
+        <updated>2022-04-25T18:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Auto Scaling インスタンスのライフサイクルで、すべてのスケーリングアクティビティ、ヘルスチェックの置換、およびその他の置換イベントのデフォルトのインスタンスウォームアップ時間を設定できるようになりました。Amazon EC2 Auto Scaling は、アプリケーションにサービスを提供するインスタンスの論理グループ (Auto Scaling グループと呼ばれます) の自動的なスケールおよび管理を可能にするサービスです。EC2 Auto Scaling は、インスタンスを置き換えたり、Auto Scaling グループから削除したり、Auto Scaling グループに追加したりする必要があるかどうかを判断するために、CPU の使用状況やアプリケーションの需要などのさまざまなメトリクスをモニタリングすることによってこれを可能にします。デフォルトのインスタンスウォームアップ時間パラメータを設定すると、インスタンスが需要に対応できるようになるまでに通常かかる時間をスケーリングおよび置換ポリシーが認識できるようになり、Auto Scaling グループの設定が簡素化されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Neptune が無料トライアルの提供を開始]]></title>
+        <id>1f0bb1739c33b825f159bbf04a7c537dba7ed4eb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-neptune-offers-free-trial/"/>
+        <updated>2022-04-25T18:14:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Neptune を 1 か月の無料トライアルで試用することが可能になりました。Neptune を初めてご利用になるお客様は、最大 750 時間、T3.medium インスタンス、1,000 万回の I/O リクエスト、1 GB のストレージ、1 GB のバックアップストレージを使用して、30 日間無料で Neptune をご利用いただけます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Relational Database Service が、高可用性のために AWS Outposts でのマルチ AZ 配置のサポートを開始]]></title>
+        <id>cebec4328ff9cbb7addc49803fb83ff31b991a20</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-relational-database-service-multi-az-deployments-aws-outposts-high-availability/"/>
+        <updated>2022-04-25T18:08:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) が、すべての商用リージョンの AWS Outposts で PostgreSQL および MySQL のマルチ AZ 配置で高可用性構成をサポートするようになりました。Outposts での Amazon RDS マルチ AZ 配置では、RDS データベース (DB) インスタンスの可用性と耐久性が強化され、プロダクションデータベースのワークロードに適しています。マルチ AZ データベースインスタンスをプロビジョニングすると、Amazon RDS は自動的にプライマリ DB インスタンスを作成し、別のアベイラビリティーゾーン  (AZ) に接続された 2 番目の AWS Outposts のスタンバイインスタンスにデータを同期的にレプリケーションします。それぞれの Outposts は、その独自の、物理的にはっきりと独立したインフラストラクチャ上で稼働しています。また高い信頼性を保つように設計されています。インフラストラクチャに障害が発生した場合、Amazon RDS は自動的にスタンバイデータベースにフェイルオーバーするので、フェイルオーバー完了後すぐにデータベースのオペレーションを再開できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Macie が、より多くの種類の機密データの検出のサポートを追加]]></title>
+        <id>23eb5cdc79a4085f4260f0336afdfa4017a0ec70</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-macie-sensitive-data/"/>
+        <updated>2022-04-25T18:02:54.000Z</updated>
+        <summary type="html"><![CDATA[3 種類の新しいマネージドデータ識別子がAmazon Macie に追加され、Amazon Simple Storage Service (Amazon S3) に存在する HTTP 基本認証ヘッダー、HTTP Cookie、JSON Web トークンの場所を検出および識別できるように拡張されました。これらのタイプのデータが S3 ストレージに存在するかどうか、どこに存在するかを知ることは、組織のデータセキュリティ、ガバナンス、プライバシーのニーズをより適切に計画するのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kendra が Box Connector をリリース、Box Enterprise リポジトリ内のドキュメントの検索が可能に]]></title>
+        <id>6e358f4b7ade8db6aae1d742ceee398ec400ea96</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-kendra-box-connector-documents-enterprise/"/>
+        <updated>2022-04-25T17:52:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は Amazon Kendra Box Connector を使用して、Box からのメッセージのインデックス作成と検索を行うことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS が Amazon Neptune 向け openCypher サポートの一般提供を発表]]></title>
+        <id>66f6666ad3337f5378d420f790dbd1d0a434d5ab</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-announces-general-availability-opencypher-support-amazon-neptune/"/>
+        <updated>2022-04-25T17:46:53.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS は、Amazon Neptune での openCypher クエリ言語サポートの一般提供開始を発表いたしました。お客様は、Amazon Neptune で openCypher を使用できるようになり、グラフアプリケーションを構築したり、可用性の高い、安全なフルマネージドグラフデータベースに移行したりする選択肢が増えました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK が FedRAMP High 認証を取得]]></title>
+        <id>d72d1c0aa0854c58bbe0ba9672da447f1e662cee</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-chime-sdk-achieves-fedramp-high-authorization/"/>
+        <updated>2022-04-25T17:40:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。Amazon Chime SDK が、AWS GovCloud (米国)リージョンで FedRAMP High 認証を取得しました。米国政府機関や請負業者は、Amazon Chime SDK を使用して、FedRAMP High 認証を必要とするワークロード用のアプリケーションを構築できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Key Management Service が新しい HMAC APIを導入]]></title>
+        <id>e740b856a1a0bf9be755b0cd6a521952e751f3a1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/"/>
+        <updated>2022-04-25T17:34:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Key Management Service (AWS KMS) を使用すると、Hash-Based Message Authentication Code (HMAC) の生成と検証に使用できる KMS キーを作成できます。HMAC は強力な暗号化ビルディングブロックであり、ハッシュ関数内にシークレットキーの素材を組み込んで、一意の鍵付きメッセージ認証コードを作成します。HMAC KMS キーは、AWS KMS の FIPS 140-2 検証済み HSM セキュリティ境界内でのみ生成および使用できます。このアーキテクチャは、ローカルアプリケーションソフトウェアでプレーンテキストの HMAC キーを使用するのとは対照的に、これらのシークレットキーが危険にさらされるリスクを最小限に抑えることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Elemental MediaTailor は、チャネルアセンブリでライブソースのサポートを開始]]></title>
+        <id>3058cf32166d697502538eb2193cd9aad66f9699</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-elemental-mediatailor-live-channel-assembly/"/>
+        <updated>2022-04-25T17:28:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Elemental MediaTailor でチャネルアセンブリを使用して作成されたリニアチャネルにライブコンテンツをスケジュールできるようになりました。既存のビデオオンデマンド (VOD) カタログからトランスコードおよびパッケージ化された HLS および DASH ストリームを再利用することは既に可能であり、AWS Elemental MediaPackage などのオリジンからのライブストリームをリニアチャネルのスケジュールされたソースとして使用できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Step Functions が、20 を超える新しい AWS SDK 統合のサポートを拡張]]></title>
+        <id>f3ae893c203b494601185f36904d8747e7e8f392</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-step-functions-expands-support-over-20-new-aws-sdk-integrations/"/>
+        <updated>2022-04-25T17:22:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Step Functions が、20 を超える新しい AWS SDK 統合と 1000 を超える新しい AWS API アクションのサポートを拡張することにより、AWS SDK との統合を強化します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Security Hub が、リージョン間のセキュリティスコアとコンプライアンスステータスを開始]]></title>
+        <id>cc72139c21503bdbe7bd34c19bf84a188d4050b6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-security-hub-cross-region-security-scores-compliance-statuses/"/>
+        <updated>2022-04-25T17:09:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Security Hub が、リージョン間のセキュリティスコアとコンプライアンスステータスのサポートを開始し、すべてのアカウントとリージョンにわたるセキュリティ体制のより完全な表示が可能になりました。昨年、Security Hub は、調査結果に関するリージョン間集計のサポートを追加しました。このリリースにより、Security Hub の機能が拡張され、集約リージョンを設定している場合は、リージョン間のセキュリティスコアとコンプライアンスステータスもサポートされるようになりました。集約リージョン内の各コントロールのそれぞれの標準およびコンプライアンスステータスのセキュリティスコアは、リンクされたリージョン全体での複合ビューを反映します。管理者アカウントと集約リージョンのセキュリティスコアとコンプライアンスステータスは、すべてのアカウントとリージョンの複合ビューを反映します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Migration Hub の新しい移行オーケストレーション機能である Migration Hub Orchestrator を導入]]></title>
+        <id>a7bfb24d1b54ec6ba33fea5ef5858b470655fc2c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-migration-hub-orchestrator/"/>
+        <updated>2022-04-25T17:03:55.000Z</updated>
+        <summary type="html"><![CDATA[AWS Migration Hub は、新しい Migration Hub Orchestrator 機能により、アプリケーションの AWS への移行をオーケストレートするのに役立ちます。大規模な移行プロジェクトの範囲には、通常、移行ツールの選択、段階的な計画、およびさまざまなツールやチームにわたる移行プロセスの追跡が含まれます。Migration Hub Orchestrator は、事前定義されたカスタマイズ可能なワークフローテンプレートを提供し、所定の移行タスク、移行ツール、自動化の機会を提供します。Orchestrator を使用すると、テンプレートをカスタマイズしたり、アプリケーションの移行を自動化したり、進行状況を 1 か所で追跡したりできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Controls to block domain fronting behavior on customer resources]]></title>
+        <id>blocking-domain-fronting-behavior-on-azure-front-door-azure-front-door-classic-and-azure-cdn-standard-from-microsoft-classic</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/blocking-domain-fronting-behavior-on-azure-front-door-azure-front-door-classic-and-azure-cdn-standard-from-microsoft-classic/"/>
+        <updated>2022-04-25T17:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Block domain fronting behavior on Azure Front Door, Azure Front Door (classic), and Azure CDN Standard from Microsoft (classic) resources.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Transit Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>8b8b1b03c15ea680ffca388e109a4b270a2505ce</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-transfer-family-jakarta-region/"/>
+        <updated>2022-04-25T16:56:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Transit Gateway が AWS Direct Connect のサポートとともに、アジアパシフィック (ジャカルタ) の AWS リージョンでご利用いただけるようになりました。AWS Transit Gateway を使えば、何千もの Amazon Virtual Private Cloud (Amazon VPC) とオンプレミスネットワークを 1 つのゲートウェイで接続できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[General availability: App Service - Networking capabilities added to Basic pricing tier]]></title>
         <id>general-availability-app-service-networking-capabilities-added-to-basic-pricing-tier</id>
@@ -200,7 +370,7 @@
         <id>0eb8ffba5540fafbe7d684d4aecdd11d4665d2b5</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-interactive-video-service-launches-edge-locations-indonesia-philippines/"/>
         <updated>2022-04-20T12:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Interactive Video Service (Amazon IVS) は、インドネシアのジャカルタとフィリピンのマニラの最初の POP (Point Of Presence) を発表しました。この新しいエッジロケーションにより、インドネシアとフィリピンに拠点を置くストリーマーや視聴者は、短いレイテンシーで、より良質の動画を、より多くの容量で楽しめるようになります。]]></summary>
+        <summary type="html"><![CDATA[Amazon Interactive Video Service (Amazon IVS) は、インドネシアとフィリピンで初となる PoP (Point of Presence) をジャカルタとマニラに設置したことを発表しました。この新しいエッジロケーションにより、インドネシアとフィリピンに拠点を置くストリーマーや視聴者は、短いレイテンシーで、より良質の動画を、より多くの容量で楽しめるようになります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -236,11 +406,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: Stable URLs for preview environments in Azure Static Web Apps]]></title>
+        <title type="html"><![CDATA[パブリック プレビュー:Azure Static Web Apps のプレビュー環境における安定した URL の提供]]></title>
         <id>public-preview-stable-urls-for-preview-environments-in-azure-static-web-apps</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-stable-urls-for-preview-environments-in-azure-static-web-apps/"/>
         <updated>2022-04-18T19:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Azure Static Web Apps preview deployments now support stable URLs.]]></summary>
+        <summary type="html"><![CDATA[Azure Static Web Apps プレビューのデプロイでは、安定した URL がサポートされるようになりました。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -586,11 +756,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: Visual Studio Code extension for Azure Container Apps]]></title>
+        <title type="html"><![CDATA[パブリック プレビュー:Azure Container Apps 用 Visual Studio Code 拡張機能]]></title>
         <id>public-preview-visual-studio-code-extension-for-azure-container-apps</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-visual-studio-code-extension-for-azure-container-apps/"/>
         <updated>2022-04-13T16:00:30.000Z</updated>
-        <summary type="html"><![CDATA[You can now deploy and manage Azure Container Apps from Visual Studio Code.]]></summary>
+        <summary type="html"><![CDATA[Visual Studio Code から Azure Container Apps をデプロイして管理できるようになりました。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -666,11 +836,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: Recommended alert rules for virtual machines]]></title>
+        <title type="html"><![CDATA[パブリック プレビュー:仮想マシンの推奨されるアラート ルール]]></title>
         <id>public-preview-recommended-alert-rules-for-virtual-machines</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-recommended-alert-rules-for-virtual-machines/"/>
         <updated>2022-04-13T16:00:25.000Z</updated>
-        <summary type="html"><![CDATA[You can now enable a set of recommended alert rules for your existing virtual machines.]]></summary>
+        <summary type="html"><![CDATA[既存の仮想マシンに対して推奨されるアラート ルール セットを有効にできるようになりました。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -853,16 +1023,6 @@
         <summary type="html"><![CDATA[The Azure Purview data catalog search experience now includes glossary terms in the search results.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler が、データソースとして Databricks のサポートを開始]]></title>
-        <id>27f94cc2d7c93d51c34052b9a35180160ac2e9ee</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-databricks-data-source/"/>
-        <updated>2022-04-11T15:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker Data Wrangler は、ML の初めての完全統合開発環境 (IDE) である Amazon SageMaker Studio で、機械学習 (ML) のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴量エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。Amazon Simple Storage Service (Amazon S3)、Amazon Athena、Amazon Redshift、Snowflake など幅広い種類のデータソースからデータをインポートできます。本日より、Amazon SageMaker Data Wrangler 内のデータソースとして Databricks を使用し、Databricks 内のデータを機械学習用に簡単に準備できるようになりました。AWS パートナーである Databricks は、組織が分析のためにデータを準備し、組織全体でデータサイエンスとデータ主導の意思決定を強化し、ML を迅速に採用するのを支援します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -1245,91 +1405,11 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon EKS、Amazon EKS Distro、および Amazon EKS Anywhere で Kubernetes バージョン 1.22 のサポートを開始]]></title>
-        <id>148cff8e5ea8d7947f7f3e48d45abd1de2883cb7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-eks-distro-eks-anywhere-kubernetes-1-22/"/>
-        <updated>2022-04-07T03:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EKS、Amazon EKS Distro、および Amazon EKS Anywhere で Kubernetes バージョン 1.22 を実行できるようになりました。Kubernetes バージョン 1.22 リリースの注目機能としては、外部認証情報プロバイダー、サーバー側での適用、バインドされたサービスアカウントトークンボリュームの安定版への移行、非推奨になった API の使用に関する警告メカニズムなどがあります。Kubernetes 1.22 リリースの詳細は、EKS ブログ記事および Kubernetes プロジェクトの「リリースノート」でご覧いただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon RDS Proxy が PostgreSQL メジャーバージョン 13 のサポートを開始]]></title>
         <id>9b94c7de08badb5ad494e8eab14db20448645bad</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-proxy-supports-postgresql-major-version-13/"/>
         <updated>2022-04-07T02:56:00.000Z</updated>
         <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) Proxy が、Amazon RDS for PostgreSQL および Amazon Aurora PostgreSQL - 互換版メジャーバージョン 13 のサポートを開始。PostgreSQL 13 には、B ツリーインデックスエントリーの重複排除、パーティション化されたテーブルを使用するクエリのパフォーマンス強化、拡張統計を使用した場合のクエリプランニング改善、インデックスの並列化バキューム、増分ソートなど、新機能やパフォーマンスの改善が多数含まれています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Data Lifecycle Manager が AWS アジアパシフィック (ジャカルタ) リージョンで提供開始]]></title>
-        <id>f5c2f5e7d9e60a9bbea215a5976f890d96272cbe</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-data-lifecycle-manager-jakarta-region/"/>
-        <updated>2022-04-07T02:50:00.000Z</updated>
-        <summary type="html"><![CDATA[今日、AWS アジアパシフィック (ジャカルタ) リージョンで Amazon Data Lifecycle Manager が利用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup が、VMware Cloud on AWS Outposts のサポートを開始]]></title>
-        <id>fd1e08f1c62282deb023c5653a32eca2b01ce79a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-backup-support-vmware-cloud-aws-outposts/"/>
-        <updated>2022-04-06T23:34:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup が、VMware Cloud on AWS Outposts で VMware のソフトウェア定義データセンター (SDDC) を保護できるようになり、ビジネスおよび規制コンプライアンスのニーズを満たすことができるようになりました。お客様は、オンプレミスの VMware、VMware Cloud on AWS、VMware Cloud on AWS Outposts の各環境でのデータ保護やライフサイクル管理を、AWS Backup で単一のポリシーを使用することで一元的に自動化できます。さらに、AWS Backup がサポートする (コンピューティング、ストレージ、データベースまでを包含する) 12 種類の AWS のサービスにも対応しています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Glue DataBrew の入力に ORC ファイル形式の使用が可能に]]></title>
-        <id>44907188285d21ebfb0cbe907bfb4bac31d57ba5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-glue-databrew-orc-file-format/"/>
-        <updated>2022-04-06T23:22:01.000Z</updated>
-        <summary type="html"><![CDATA[AWS Glue DataBrew をご使用のお客様は、今後、Optimized Row Columnar (ORC) ファイル形式で保存されたデータのクリーニングと変換が行えます。この形式は、Hive データの保存のために広く使用されている形式です。AWS Glue DataBrew 内のデータセットを作成する際、すでにサポート済みである Apache Parquet、Microsoft Excel、CSV、JSON の各ファイル形式に加えて、ORC ファイルも選択していただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ElastiCache for Redis が 2 つの新しいリージョンで Global Datastore をサポート開始しました]]></title>
-        <id>ea0424ffaa06972865b1e681b59d6bea04548745</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-elasticache-redis-global-datastore-regions/"/>
-        <updated>2022-04-06T23:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Amazon ElastiCache for Redis は、アジアパシフィック (大阪) およびヨーロッパ (ストックホルム) リージョンで Global Datastore をサポート開始しました。Global Datastore は、ElastiCache for Redis の機能の 1 つです。高速で、信頼性が高く、安全なフルマネージド型クロスリージョンレプリケーションを実現できます。Global Datastore を使用すると、1 つのリージョンで ElastiCache for Redis クラスターに書き込みながら、他の 2 つのクロスリージョンレプリカクラスターでデータ読み取りができるようになります。これにより、リージョンをまたいだ低レイテンシーの読み取りおよび災害対策が可能となります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup で VMware 仮想マシンの保護されたコピーから仮想ディスクの復元が可能に]]></title>
-        <id>54cfabb669afbb510732c3a1ac419b321ee01a1d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-backup-virtual-disks-protected-copies-vmware-machines/"/>
-        <updated>2022-04-06T22:41:01.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backupで、保護されたコピーから VMware の仮想マシン (VM) 全体を復元することが可能になり、また、VM にアタッチされた仮想ディスクを個別に復元できる柔軟性も加わりました。AWS Backup を使用することで、VMware の仮想ディスクを、別の VMware 環境や AWS 内の Amazon Elastic Block Store (EBS) ボリュームにある VM に対し、復元することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Security Hub でカスタムインテグレーションのために名前を指定できるようになりました]]></title>
-        <id>b0c8d4228f707744e812cded98207418054754f2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-security-hub-custom-integrations/"/>
-        <updated>2022-04-06T22:13:01.000Z</updated>
-        <summary type="html"><![CDATA[AWS Security Hub で、カスタムインテグレーションに対する、企業名および製品名の指定がサポートされました。これにより検索や集計が容易になり、カスタムインテグレーションでの検出結果を基にアクションを起こす際に使用できます。Security Hub では、75 種類のオフィシャルインテグレーションが用意されており、加えてユーザーは、自身で作成したカスタムインテグレーションから検出結果を取り込むことも可能です。従来、これらのカスタムインテグレーション向けの企業名や製品名は、それぞれに固有なデフォルト値が設定されており、ユーザーが変更することはできませんでした。今後は、Security Hub の BatchImportFindings API を使用することで、企業名と製品名をユーザーが指定できます。これら新しい企業名と製品名は、各検出結果と対応して、JSON 形式で Security Hub コンソール上に反映されます。カスタマイズされた企業と製品の名称は、情報の検索やインサイト作成での使用が可能で、それらによりトリガーされる対応や修正のための自動ワークフローを構築できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon WorkSpaces では、カスタムブランディングのための API をローンチ]]></title>
-        <id>052de419cccf8af0bb6a95b0fd273283b6d12f9f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-workspace-apis-custom-branding/"/>
-        <updated>2022-04-06T22:06:00.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon WorkSpaces では、WorkSpaces クライアントログインページに御社のロゴ、ログインメッセージ、およびヘルプリンクを表示してユーザーの Amazon WorkSpaces エクスペリエンスをカスタマイズできる API を提供します。独自のブランドを使用すると、ユーザーが WorkSpaces にアクセスする際に、使い慣れたルックアンドフィールが提供されます。独自のヘルプリンクを追加すると、ユーザーは組織内のサポートリソースに簡単にアクセスできるようになります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1362,56 +1442,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <summary type="html"><![CDATA[You can now monitor the restore job health of your backed up blobs via Azure Monitor metrics and write custom alert rules on these metrics.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift の同時実行スケーリングが欧州 (ストックホルム) リージョンで利用可能に]]></title>
-        <id>43578c8b7e471efbb091f02b18b370afa810add3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-redshift-concurrency-scaling-europe-stockholm/"/>
-        <updated>2022-04-05T18:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift の同時実行スケーリングが欧州 (ストックホルム) リージョンで利用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Pinpoint コンソールで、テンプレートのタグ付けおよび検索をサポート]]></title>
-        <id>ae38c4eb2f3f765e5dbcc70aa9b3ac4c6e979172</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-pinpoint-template-tagging-search-console/"/>
-        <updated>2022-04-05T17:15:00.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Pinpoint では、テンプレートエディタでメッセージングテンプレートにタグを追加する機能の提供を開始しました。Amazon Pinpoint は、E メール、SMS、プッシュ通知、アプリ内、ソーシャルメディアなどのチャネルで、ターゲットを絞ったメッセージングキャンペーンを通じてメッセージを送信することにより、お客様がユーザーを引き込むのに役立つオムニチャネルマーケティングコミュニケーションサービスです。タグは、お客様が定義し、AWS リソースに関連付けることができるラベルです。 メッセージングテンプレートにタグを追加すると、特定のテンプレートを表示、編集、または使用できるユーザーを設定できます。タグは組織のニーズに合わせてカスタマイズできるため、目的、所有者、リージョン、その他の基準などの条件ごとにテンプレートを整理できます。Amazon Pinpoint の新しいテンプレート検索機能を使用すると、タグを利用して必要なテンプレートをより簡単に検索することもできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon AppStream 2.0 が AWS カナダ (中部) リージョンで利用可能に]]></title>
-        <id>c7304c68c6db050b3b50b8c5db5a93aeced74e82</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-appstream-2-0-aws-canada/"/>
-        <updated>2022-04-05T17:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon AppStream 2.0 を、AWS カナダ (中部) リージョンでデプロイできるようになりました。ローカルリージョンで AppStream 2.0 をデプロイすると、応答性の高いパフォーマンスを実現でき、ローカルなデータレジデンシーの義務の遵守に役立ちます。このリリースによって、ユーザーのニーズを満たすために、汎用、コンピューティング最適化、メモリ最適化、グラフィックデザイン、メモリ最適化、グラフィックプロおよびグラフィック G4 インスタンスをデプロイできるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Storage Gateway で VMware および Microsoft のハイパーバイザーのサポートを更新]]></title>
-        <id>f124fa0c2ab235f7d431695be6430cb83a599754</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-storage-gateway-vmware-microsoft-hypervisors/"/>
-        <updated>2022-04-05T17:01:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Storage Gateway で VMware ESXi 7.0、Microsoft Hyper-V 2022 および 2019 のハイパーバイザーのサポートが追加されました。これにより、最新バージョンのハイパーバイザーにゲートウェイの仮想マシンをデプロイできるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[持続可能性の柱が AWS Well-Architected Tool で利用可能に]]></title>
-        <id>37aa9a2455fa1d3896d2e08c54a822b9996107e8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-sustainability-pillar-available-in-well-architected-tool/"/>
-        <updated>2022-04-05T16:55:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS は、re:Invent 2021 で 持続可能性の柱 について発表しました。これは、実行中のクラウドワークロードが環境に与える影響を、最小化するのに役立ちます。持続可能性の柱は、クラウドアーキテクチャのベストプラクティスとガイダンスの中心となる AWS Well-Architected Tool でのワークロードレビューの際に利用いただけます。持続可能性の柱は、CTO、アーキテクト、デベロッパー、および運用チームのメンバーが、組織が設定する持続可能性の目標の増加に対応できるよう設計されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -1505,26 +1535,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon CloudFront がサーバータイミングヘッダーをサポートするようになりました。]]></title>
-        <id>00e262e7db186d3900b134cf1ef6766bcff7e97a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cloudfront-server-timing-headers/"/>
-        <updated>2022-04-02T00:11:01.000Z</updated>
-        <summary type="html"><![CDATA[本日より、CloudFront ディストリビューションを設定して、CloudFront の動作とパフォーマンスを監視するサーバータイミングヘッダーを含めることができます。サーバータイミングヘッダーは、リクエストの受信時にコンテンツがキャッシュから提供されたかどうか、リクエストが CloudFront エッジロケーションにルーティングされた方法、接続およびレスポンスプロセスの各ステージで経過した時間などの詳細なパフォーマンス情報を提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EBS CSI ドライバーの EKS アドオンサポートが一般提供になりました。]]></title>
-        <id>117b8899aa137f77839d2b6603802fdc4bbd1df3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/eks-add-ons-ebs-csi-driver-available/"/>
-        <updated>2022-04-02T00:05:01.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (Amazon EKS) は、Amazon EKS コンソール、AWS Command Line Interface (CLI)、および EKS API を使用して、AmazonElastic Block Store (EBS)コンテナストレージインターフェース (CSI) ドライバーのインストールおよび管理をサポートすることになりました。これにより、永続的ストレージを EKS クラスターに簡単に接続できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Public preview: Simplified compute node communication]]></title>
         <id>simplified-compute-node-communication</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/simplified-compute-node-communication/"/>
@@ -1605,11 +1615,11 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: Azure Cosmos DB partition key advisor notebook]]></title>
+        <title type="html"><![CDATA[パブリック プレビュー:Azure Cosmos DB パーティション キー アドバイザー ノートブック]]></title>
         <id>public-preview-azure-cosmos-db-partition-key-advisor-notebook</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-cosmos-db-partition-key-advisor-notebook/"/>
         <updated>2022-03-30T16:01:51.000Z</updated>
-        <summary type="html"><![CDATA[The Azure Cosmos DB partition key advisor notebook helps recommend an optimal partition key based on information you provide about your workload traffic patterns and queries.]]></summary>
+        <summary type="html"><![CDATA[Azure Cosmos DB パーティション キー アドバイザー ノートブックは、ワークロードのトラフィック パターンとクエリに関するお客様の情報に基づいて、最適なパーティション キーを推奨するのに役立ちます。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1685,11 +1695,11 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: Azure dedicated host support in AKS]]></title>
+        <title type="html"><![CDATA[パブリック プレビュー:AKS での Azure 専用ホストのサポート]]></title>
         <id>public-preview-azure-dedicated-host-support-in-aks</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-dedicated-host-support-in-aks/"/>
-        <updated>2022-03-30T16:00:46.000Z</updated>
-        <summary type="html"><![CDATA[You can now use Azure Dedicated Hosts with the Azure Kubernetes Service (AKS)]]></summary>
+        <updated>2022-03-30T16:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Azure Dedicated Host を Azure Kubernetes サービス (AKS) で使用できるようになりました。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1795,11 +1805,11 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generally available: Access time-based lifecycle management rules for Data Lake Storage Gen2]]></title>
+        <title type="html"><![CDATA[一般提供:Data Lake Storage Gen2 のアクセス時間ベースのライフサイクル管理ルール]]></title>
         <id>access-time-based-lifecycle-management-adls-gen2</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/access-time-based-lifecycle-management-adls-gen2/"/>
-        <updated>2022-03-29T16:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Access time tracking for objects and lifecycle management policies based on last accessed time in Azure Data Lake Storage Gen2.]]></summary>
+        <updated>2022-03-29T16:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Azure Data Lake Storage Gen2 におけるオブジェクトのアクセス時間追跡と最終アクセス時間に基づくライフサイクル管理ポリシー。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1815,11 +1825,11 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[App Service Environment version 1 and version 2 will be retired on 31 August 2024]]></title>
+        <title type="html"><![CDATA[App Service Environment バージョン 1 とバージョン 2 は、2024 年 8 月 31 日に廃止されます]]></title>
         <id>app-service-environment-v1-and-v2-retirement-announcement</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/app-service-environment-v1-and-v2-retirement-announcement/"/>
-        <updated>2022-03-28T23:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Migrate to App Service Environment version 3 by 31 August 2024.]]></summary>
+        <updated>2022-03-28T23:00:25.000Z</updated>
+        <summary type="html"><![CDATA[2024 年 8 月 31 日までに App Service Environment バージョン 3 に移行してください。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1865,21 +1875,21 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General availability: Azure Bastion native client support]]></title>
+        <title type="html"><![CDATA[一般提供:Azure Bastion ネイティブ クライアントのサポート]]></title>
         <id>general-availability-azure-bastion-native-client-support</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-bastion-native-client-support/"/>
         <updated>2022-03-28T16:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Azure Bastion native client support brings you the ability to connect to target VMs from the command line and log in using your Azure Active Directory credentials.]]></summary>
+        <summary type="html"><![CDATA[Azure Bastion ネイティブ クライアントのサポートにより、コマンド ラインからターゲット VM に接続し、Azure Active Directory の資格情報を使用してログインする機能が提供されます。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General availability: On-demand capacity reservations]]></title>
+        <title type="html"><![CDATA[一般提供:オンデマンド容量予約]]></title>
         <id>general-availability-ondemand-capacity-reservations</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-ondemand-capacity-reservations/"/>
         <updated>2022-03-28T16:00:22.000Z</updated>
-        <summary type="html"><![CDATA[On-demand capacity reservations let you reserve compute capacity for one or more VM size(s) in an Azure region or availability zone for any length of time.]]></summary>
+        <summary type="html"><![CDATA[オンデマンド容量予約を使用すると、お客様は Azure リージョンまたは可用性ゾーンの 1 つ以上の VM サイズに対して、任意の期間、コンピューティング容量を予約することができます。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1895,11 +1905,11 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: Azure Percept DK March (2203) software update]]></title>
+        <title type="html"><![CDATA[パブリック プレビュー:Azure Percept DK 3 月 (2203) のソフトウェア更新プログラム]]></title>
         <id>apdk2203update</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/apdk2203update/"/>
         <updated>2022-03-28T15:00:06.000Z</updated>
-        <summary type="html"><![CDATA[The Azure Percept March update includes fixes related to security.]]></summary>
+        <summary type="html"><![CDATA[Azure Percept の 3 月の更新プログラムには、セキュリティに関連する修正プログラムが含まれています。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
