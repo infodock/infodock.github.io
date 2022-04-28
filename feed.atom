@@ -1,10 +1,344 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-27T00:30:51.824Z</id>
+    <id>urn:2022-04-28T00:34:39.412Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-27T00:30:51.824Z</updated>
+    <updated>2022-04-28T00:34:39.412Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Compute Gallery feature ‘community gallery’]]></title>
+        <id>communitygallerypreview</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/communitygallerypreview/"/>
+        <updated>2022-04-27T19:00:12.000Z</updated>
+        <summary type="html"><![CDATA[New Azure Compute Gallery feature ‘community gallery’ makes your private images public.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Azure SQL Database storage limits increase for selected compute sizes]]></title>
+        <id>azure-sql-database-storage-limits-increase-for-selected-compute-sizes-in-general-purpose-and-business-critical-tiers</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-database-storage-limits-increase-for-selected-compute-sizes-in-general-purpose-and-business-critical-tiers/"/>
+        <updated>2022-04-27T18:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Data storage limits have increased over 30% for selected mid-size compute configurations to help reduce costs.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Nimble Studio がアジアパシフィック (東京) リージョンで利用可能に]]></title>
+        <id>56d24bbd4c5d4ef887bc92d7143c9203ef1ee5d9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-nimble-studio-tokyo-region/"/>
+        <updated>2022-04-27T17:50:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Nimble Studio がアジアパシフィック (東京) リージョンで利用可能になりました。Nimble Studio をローカルリージョンにデプロイすると、より応答性の高いエクスペリエンスを実現できます。わずか数時間で、NVIDIA Graphical Processing Units (GPU) を備えた Amazon Elastic Compute Cloud (EC2) G4dn インスタンスと、Amazon FSx が実現する高速ストレージを利用できる仮想ワークステーションにクリエイティブな才能を持つ人材がアクセスできる、新しいスタジオ環境を作成できます。Windows と Linux の両方のオペレーティングシステムをサポートしているため、アーティストは Amazon マシンイメージ (AMI) を使用して、任意のクリエイティブツールで、オンプレミスからクラウドへのシームレスな移行を実現できます。画像をレンダリングする準備ができたら、Nimble Studio で AWS Thinkbox Deadline を使用してコンピューティングリソースをスケールできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amplify Geo for Android の一般提供の開始を発表]]></title>
+        <id>153244cd0d6bbf9ccb6a94a08d43b83008676d61</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/general-availability-amplify-geo-android/"/>
+        <updated>2022-04-27T16:41:53.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amplify Geo for JavaScript と iOS のリリースに続いて、Amplify Geo for Android の一般提供をしたことをお知らせします。Amplify Geo for Android を使用すると、デベロッパーは、Android アプリに地図や場所の検索のためにクラウドにコネクトされた UI コンポーネントを追加できます。Auth、DataStore、Storage などの AWS Amplify の機能に加えて、Amplify Geo は、Amazon Location Service API 上に構築された一連のクライアントライブラリを提供するとともに、人気のある MapLibre オープンソースライブラリに基づくクラウドにコネクトされたマップ UI コンポーネントを含みます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MQ が ActiveMQ バージョン 5.16.4 のサポートを開始]]></title>
+        <id>8e16d6d04f615745487e04c8db28c29cd1c13d7a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-activemq-version/"/>
+        <updated>2022-04-27T16:33:53.000Z</updated>
+        <summary type="html"><![CDATA[現在 Amazon MQ では、ActiveMQ 5.16.4 をサポートしています。この ActiveMQ のアップデートには、これまでサポートしていた ActiveMQ 5.16.3 バージョンからのいくつかの修正と機能の強化が含まれています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora Serverless v2 の一般提供を開始]]></title>
+        <id>39d3e36eaf896382d4b6860dea6e2506a7608f55</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-aurora-serverless-v2/"/>
+        <updated>2022-04-27T16:19:54.000Z</updated>
+        <summary type="html"><![CDATA[Aurora Serverless の次のバージョンである Amazon Aurora Serverless v2が一般に利用可能になりました。Aurora Serverless v2 は、最も要求の厳しいアプリケーションもサポートできるよう瞬時にスケールでき、ピーク時容量のプロビジョニングと比較して最大90%のコスト削減を実現します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Athenaで新しいデータソースコネクタが一般に利用可能に]]></title>
+        <id>bcad59f858f61f814dcbc2a5f9f798c8b5237392</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/new-data-source-connectors-generally-available-amazon-athena/"/>
+        <updated>2022-04-27T16:13:53.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Athena の 10 の新しいデータソースコネクタの一般提供を発表します。Athena　を使用すると、データを前処理またはコピーするための ETL スクリプトを必要とせずに、リレーショナル、非リレーショナル、オブジェクト、およびカスタムのデータソースに保存されているデータをクエリできます。このリリースでは、Athena でクエリできるデータソースの数が拡大され、アナリスト、データエンジニア、データサイエンティスト、デベロッパーがオンプレミスまたはクラウドで稼働するデータベースに保存されているデータからビジネス価値を引き出すのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Textract が、Analyze Document API 内に新しいクエリ機能を提供開始]]></title>
+        <id>acfff182edcefa7a807baca0974c6fcec7c88ab5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-textract-launches-queries-feature-analyze-document-api/"/>
+        <updated>2022-04-27T16:07:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Textract は、あらゆるドキュメントまたは画像からテキスト、手書き文字、およびデータを自動的に抽出する機械学習サービスです。Textract では、Analyze Document API の新しいクエリ機能を使って、ドキュメントから抽出する必要があるデータを柔軟に指定することができるようになりました。ドキュメント内のデータの構造 (テーブル、フォーム、黙示のフィールド、ネストされたデータ) を知る必要はなく、ドキュメントのバージョンやフォーマットの違いについて心配する必要もありません。クエリは、視覚的、空間的、および言語的な手がかりの組み合わせを活用して、求める情報を高精度で抽出します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Amplify Studio の Figma-to-React コード機能が一般に提供開始]]></title>
+        <id>e3997ab0512dae2fbd42879198892a2d49618f0c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-amplify-studio-figma-to-react-code-capabilities/"/>
+        <updated>2022-04-27T16:01:53.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS は AWS Amplify Studio Figma-to-React コード機能の一般提供を発表し、フロントエンドデベロッパーにフルスタックのアプリケーションを構築するためのより高速なワークフローを提供します。これらの新機能は、既存の Amplify Studio のバックエンド作成・管理機能に加え、デベロッパーの UI 開発のスピードアップに役立ちます。一般的に、フロントエンドデベロッパーとデザイナーの間で多くのやり取りが行われ、納期に間に合わせるために妥協した結果、最適とは言えないエンドユーザーエクスペリエンスがもたらされることがあります。Amplify Studio を使用すると、Figma からインポートし、コードにエクスポート、カスタムロジックを使用してコードを拡張することと同じくらい簡単に、設計どおりに UI を開発できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure SQL—Generally available updates for late April 2022]]></title>
+        <id>azure-sql-generally-available-updates-for-late-april-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-generally-available-updates-for-late-april-2022/"/>
+        <updated>2022-04-27T16:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Generally available enhancements and updates released for Azure SQL.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure SQL—Public preview updates for late April 2022]]></title>
+        <id>azure-sql-public-preview-updates-for-late-april-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-public-preview-updates-for-late-april-2022/"/>
+        <updated>2022-04-27T16:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Public preview enhancements and updates released for Azure SQL.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Azure Database for MySQL – Flexible Server higher burstable compute]]></title>
+        <id>generally-available-azure-database-for-mysql-flexible-server-higher-burstable-compute</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-database-for-mysql-flexible-server-higher-burstable-compute/"/>
+        <updated>2022-04-27T16:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Azure Database for MySQL - Flexible Server is now offering more options for burstable compute for you to choose from depending on your workload.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Azure Database for PostgreSQL – Hyperscale (Citus) now includes PgBouncer 1.17]]></title>
+        <id>generally-available-azure-database-for-postgresql-hyperscale-citus-now-includes-pgbouncer-117</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-database-for-postgresql-hyperscale-citus-now-includes-pgbouncer-117/"/>
+        <updated>2022-04-27T16:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Create a Hyperscale Citus) server group using the latest 1.7 version of PgBouncer, a popular connection pooler for Postgres used with Azure Database for PostgreSQL – Hyperscale (Citus).]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Managed Instance for Apache Cassandra enhancements]]></title>
+        <id>public-preview-azure-managed-instance-for-apache-cassandra-enhancements</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-managed-instance-for-apache-cassandra-enhancements/"/>
+        <updated>2022-04-27T16:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Azure Managed Instance for Apache Cassandra now includes support for deploying Cassandra 4.0 clusters and running nodetool commands using Azure CLI.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Database templates in Azure Synapse Analytics]]></title>
+        <id>generally-available-database-templates-in-azure-synapse-analytics</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-database-templates-in-azure-synapse-analytics/"/>
+        <updated>2022-04-27T16:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Azure Synapse database templates are industry-specific schema definitions that provide a standardized way for you to store and shape data, enabling rapid digital transformation.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Synapse Link now supports existing Azure Cosmos DB containers]]></title>
+        <id>general-availability-azure-synapse-link-now-supports-existing-azure-cosmos-db-containers</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-synapse-link-now-supports-existing-azure-cosmos-db-containers/"/>
+        <updated>2022-04-27T16:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Enable Azure Synapse Link on your existing Azure Cosmos DB containers using the SQL API for Azure Cosmos DB.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Cosmos DB portal—Azure Synapse Link seamless Power BI]]></title>
+        <id>general-availability-azure-cosmos-db-portal-azure-synapse-link-seamless-power-bi</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-cosmos-db-portal-azure-synapse-link-seamless-power-bi/"/>
+        <updated>2022-04-27T16:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Build Power BI reports using Azure Synapse Link from the Azure Cosmos DB portal.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Unique partial indexes in Azure Cosmos DB API for MongoDB]]></title>
+        <id>general-availability-unique-partial-indexes-in-azure-cosmos-db-api-for-mongodb</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-unique-partial-indexes-in-azure-cosmos-db-api-for-mongodb/"/>
+        <updated>2022-04-27T16:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Specify a partialFilterExpression along with the 'unique' constraint in your Azure Cosmos DB API for MongoDB index.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Storage as share in Windows Code in App Service]]></title>
+        <id>public-preview-azure-storage-as-share-in-windows-code-in-app-service</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-storage-as-share-in-windows-code-in-app-service/"/>
+        <updated>2022-04-27T16:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Mount Azure Files as a local share in Windows Code in Azure App Service.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Functions now supports PowerShell 7.2]]></title>
+        <id>public-preview-azure-functions-now-supports-powershell-72</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-functions-now-supports-powershell-72/"/>
+        <updated>2022-04-27T16:00:43.000Z</updated>
+        <summary type="html"><![CDATA[You can now use the latest version of PowerShell with Azure Functions.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Static Web Apps now supports Gitlab and Bitbucket for CI/CD]]></title>
+        <id>public-preview-static-web-apps-now-supports-gitlab-and-bitbucket-for-cicd</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-static-web-apps-now-supports-gitlab-and-bitbucket-for-cicd/"/>
+        <updated>2022-04-27T16:00:42.000Z</updated>
+        <summary type="html"><![CDATA[You can now use Gitlab and Bitbucket as your CI/CD providers for Static Web Apps.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Static Web Apps now support skipping API builds]]></title>
+        <id>public-preview-azure-static-web-apps-now-support-skipping-api-builds</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-static-web-apps-now-support-skipping-api-builds/"/>
+        <updated>2022-04-27T16:00:41.000Z</updated>
+        <summary type="html"><![CDATA[You can now choose to skip your default API builds.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Scale-down mode in AKS]]></title>
+        <id>generally-available-scaledown-mode-in-aks</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-scaledown-mode-in-aks/"/>
+        <updated>2022-04-27T16:00:34.000Z</updated>
+        <summary type="html"><![CDATA[You can now select if you would like your AKS nodes to be deleted or deallocated when scaled down.When a node is deallocated, the attached storage as well as the container image is still present on the node. When scaling up your deployments, all deallocated nodes will be started first before provisioning new nodes. This allows for faster operation speeds as your deployment leverages cached images. Scale-down mode allows you to no longer have to pre-provision nodes and pre-pull container images.
+
+With the move of preview to GA, scale-down mode now supports spot node pools.
+
+For more info, visit: https://docs.microsoft.com/en-us/azure/aks/scale-down-mode]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Node pool snapshot]]></title>
+        <id>generally-available-node-pool-snapshot</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-node-pool-snapshot/"/>
+        <updated>2022-04-27T16:00:27.000Z</updated>
+        <summary type="html"><![CDATA[You can now take a snapshot of the node pool configuration and then create a node pool from that snapshot.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Group Managed Service Accounts security policy support on Windows]]></title>
+        <id>generally-available-group-managed-service-accounts-security-policy-support-on-windows</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-group-managed-service-accounts-security-policy-support-on-windows/"/>
+        <updated>2022-04-27T16:00:20.000Z</updated>
+        <summary type="html"><![CDATA[AKS now supports Group Managed Service Accounts (GMSA) configuration, as well as maintaining trust during scale operations in the Windows nodepool.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Container Apps built-in authentication Microsoft Azure Container Apps]]></title>
+        <id>public-preview-azure-container-apps-builtin-authentication-microsoft-azure-container-apps</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-container-apps-builtin-authentication-microsoft-azure-container-apps/"/>
+        <updated>2022-04-27T16:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Use configured identify providers to sign in to your container apps by writing little or no code.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight の 1 クリックの公開埋め込みがプレビューで利用可能に]]></title>
+        <id>81c06c59b36f6291e88fb0929ca9cdd408606074</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-quicksight-public-embedding-available-now/"/>
+        <updated>2022-04-27T15:55:54.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight は、1 クリックの公開埋め込みに対応しました。これは、コーディングや開発なしに、ダッシュボードを公開アプリケーション、Wiki、ポータルに埋め込むことができる機能です。一旦有効にすると、インターネット上の誰もが、サーバーのデプロイやインフラストラクチャのライセンスを必要とせずに、最新の情報を使用してこれらの組み込みダッシュボードに即座にアクセスできるようになります！ 1 クリックの公開埋め込みにより、エンドユーザーが数秒でインサイトにアクセスできるようになります。この機能にプレビューでアクセスするには、quicksight-public-embedding-preview@amazon.com までご連絡ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Serverless Inference の一般提供を開始]]></title>
+        <id>b6e1d75e8ab1cf00364aa966dda228fed2551108</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-sagemaker-serverless-inference/"/>
+        <updated>2022-04-27T15:48:53.000Z</updated>
+        <summary type="html"><![CDATA[本日、SageMaker が一般的に利用可能なすべての AWS リージョン (AWS 中国リージョンを除く) において、Amazon SageMaker Serverless Inference の一般提供の開始を発表できることを嬉しく思います。SageMaker Serverless Inference を使用すると、基盤となるインフラストラクチャを設定または管理することなく、推論用の機械学習 (ML) モデルを迅速にデプロイすることができます。ML モデルをデプロイするときにサーバーレスオプションを選択するだけで、Amazon SageMaker は推論リクエストのボリュームに基づいてコンピューティング性能の自動的なプロビジョンやスケールを実行したり、コンピューティング性能をオフにしたりします。SageMaker Serverless Inference では、推論リクエストの処理に使用されるコンピューティング性能 (ミリ秒単位で請求)、および処理されるデータ量に対してのみ料金を支払い、アイドル時間に対する支払いはありません。SageMaker Serverless Inference は、トラフィックが断続的または予測できないアプリケーションに最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DevOps Guru がAWS サーバーレスアプリケーションの問題に早期にフラグを立てるプロアクティブインサイトを提供開始]]></title>
+        <id>0d82f5322557d60bc72c4efdd98ffb73b24c1590</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-devops-guru-provides-proactive-insights-flag-early-issues-aws-serverless-applications/"/>
+        <updated>2022-04-27T15:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DevOps Guru は、可用性の向上、パフォーマンスの改善、アプリケーションリソースの利用最適化に役立つプロアクティブインサイトを提供するようになりました。プロアクティブなモニタリングは、アプリケーションとインフラストラクチャの潜在的な問題に早期にフラグを立て、迅速に対応し、コストのかかるダウンタイムを削減るためのキーです。Amazon DevOps Guru は、機械学習 (ML) を使用してアプリケーションリソース、構成、およびアプリケーションメトリクスを分析し、潜在的な将来のオペレーション上の問題を特定して、ユーザーへの影響を防ぎ、アプリケーションのアップタイムを増やします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue のオートスケーリングが一般利用可能に]]></title>
+        <id>8bb04ed8343bc94210cc78ef5c04e638ba27c6bb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/autoscaling-aws-glue-now-generally-available/"/>
+        <updated>2022-04-27T15:36:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue Apache Spark ジョブにおけるオートスケーリングの一般利用が可能になりました。AWS Glue 3.0 では、ワークロードに基づいてリソースを動的にスケールアップおよびスケールダウンできるようになりました。オートスケーリングを使用すると、ジョブのリソースを過剰にプロビジョニングしたり、ワーカー数の最適化に時間を費やしたり、アイドル状態のワーカーに料金を支払ったりすることについて心配する必要がなくなります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue におけるインタラクティブなノートブックベースのジョブオーサリングを発表]]></title>
+        <id>d6e9b035ae1915a89650ac21837eb9acee8576ff</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-glue-notebook-based-job-authoring/"/>
+        <updated>2022-04-27T15:30:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue Studio ジョブノートブックが一般に利用可能になり、AWS Glue インタラクティブなノートブックベースのジョブオーサリングを提供します。データ統合ジョブの開発プロセスを簡素化するのに役立ちます。ジョブノートブックは、AWS Glue インタラクティブセッションのサーバーレスのビルトインインターフェースも提供します。これは、お客様がインタラクティブな Apache Spark ワークロードをオンデマンドで実行できるようにするもう1つの新機能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue における機密データの検出と処理の発表]]></title>
+        <id>6d720c9aa948222f8b9aff5ef23e41cf56a9cfb4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-announcing-sensitive-data-detection-glue/"/>
+        <updated>2022-04-27T15:24:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue における機密データの検出と処理の一般提供を開始しました。この機能は、パターンマッチングと機械学習を使用して、AWS Glue ジョブの実行中に、列レベルとセルレベルの両方で個人識別情報 (PII) やその他の機密データを自動的に検出します。AWS Glue には、PII の種類とその場所をログに記録し、アクションを実行するためのオプションが含まれています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue インタラクティブセッションの一般提供開始を発表]]></title>
+        <id>c3a9104596478ff03037ae787b8ec2e20a298e5f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-glue-interactive-sessions/"/>
+        <updated>2022-04-27T15:18:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue インタラクティブセッションが、一般提供を開始しました。AWS Glue の高度にスケーラブルな Serverless Spark 環境に新しいインターフェースを提供します。インタラクティブなデータ統合ジョブの開発、データ調査、お客様自身のアプリケーション向けのオンデマンド配信のデータ処理などをサポートします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Personalize がレコメンダーの開始と停止のサポートを開始]]></title>
         <id>123d5cc8fed367f273de99daa5861f990819249e</id>
@@ -300,7 +634,7 @@
         <id>be5355307ffdf743006e51e3830c3b35928c2d17</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ack-ecr-dynamodb-s3-aws-application-api-gateway-available/"/>
         <updated>2022-04-21T15:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EKS、Amazon ECR、Dynamo DB、Amazon S3、AWS Application Autoscaling、AWS API Gateway v2 用 Kubernetes (ACK) コントローラーの AWS コントローラーが一般提供を開始しました。]]></summary>
+        <summary type="html"><![CDATA[Amazon EKS、Amazon ECR、Dynamo DB、Amazon S3、AWS Application Autoscaling、AWS API Gateway v2 用 AWS Controllers for Kubernetes (ACK) コントローラーが一般提供を開始しました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1126,26 +1460,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Athena が Amazon Ion データのクエリのサポートを追加]]></title>
-        <id>b416ec9e41ae42b5a34d8300537a9979f2f14088</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-athena-querying-ion-data/"/>
-        <updated>2022-04-11T11:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Athena は、Amazon によって開発およびオープンソース化された豊富なタイプの自己記述型フォーマットである Amazon Ion フォーマットで保存されたデータをサポートするようになりました。Amazon Ion は、テキストの使いやすさとバイナリエンコーディングの効率を組み合わせた、代替可能なバイナリ形式とテキスト形式を提供します。Ion 形式は現在、Amazon の社内チーム、Amazon Quantum Ledger Database (Amazon QLDB) などの AWS のサービス、およびオープンソースの SQL クエリ言語 PartiQL で使用されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Amplify Studio が新しいファイルストレージおよびファイル管理機能を発表]]></title>
-        <id>3a9756ab961316e125bd588486659100f53c9dcb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-amplify-studio-file-storage-management/"/>
-        <updated>2022-04-11T11:11:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Amplify Studio は、ファイルストレージリソースを設定および管理するためのビジュアルインターフェイスを提供するようになりました。これにより、ウェブまたはモバイルアプリケーションからユーザー生成コンテンツ (写真や動画など) を簡単に保存および提供できるようになりました。Amplify Studio を使用すると、Amazon S3 バケットの作成、ファイルアクセスレベルの設定、ストレージクライアントライブラリのウェブまたはモバイルアプリケーションへの統合、Studio のドラッグアンドドロップファイルエクスプローラーでのファイル管理が簡単にできるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS、APAC デジタルスキル調査 第 2 弾を公開]]></title>
         <id>0baa57f50e929bd881c812f807a63e8d4c2738d3</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/announcing-new-report-digital-skills-training-changing-workforce-asia-pacific-japan/"/>
@@ -1255,26 +1569,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2 種類の新しい Amazon EC2 ベアメタルインスタンスのご紹介]]></title>
-        <id>c10bfe13b88720df4def426c2590a2fc578f7137</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ec2-bare-metal-instances/"/>
-        <updated>2022-04-08T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) が、汎用 Amazon EC2 M6a および C6a ベアメタルインスタンスの一般提供を開始したことをお知らせいたします。M6a および C6a インスタンスは、3.6 GHz のオールコアターボ周波数を備えた第 3 世代 AMD EPYC (コードネーム: Milan) プロセッサを搭載しています。M6a インスタンスは M5a インスタンスと比較して最大35% 優れた価格パフォーマンスを提供します。また、C6a インスタンスは C5a インスタンスと比較して最大 15% 優れた価格パフォーマンスを提供し、同等の x86 ベースの EC2 インスタンスよりもコストが 10% 低くなります。M6a および C6a インスタンスは、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これは、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供します。M6a インスタンスは、SAP 認定であり、ウェブサーバーおよびアプリケーションサーバー、エンタープライズアプリケーション向けバックエンドサーバー、ウェブサーバー、マイクロサービス、マルチプレイヤーゲームサーバー、キャッシュフリート、ならびにアプリケーション開発環境などのワークロードに最適です。C6a インスタンスは、バッチ処理、分散分析、高性能コンピューティング (HPC)、広告配信、高度にスケーラブルなマルチプレイヤーゲーム、ビデオエンコーディングのような計算量の多いアプリケーションに最適です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Network Firewall が FedRAMP Moderate コンプライアンスを達成]]></title>
-        <id>e3a68f6b9618be263da28737ac26049913e4018a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-network-firewall-fedramp-moderate-compliance/"/>
-        <updated>2022-04-08T09:37:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Network Firewall は、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) の各 AWS リージョンで FedRAMP Moderate として認証されました。これで、AWS Network Firewall を使用して、FedRAMP Moderate の分類レベルを必要とするワークロードのために、これらのリージョンの Amazon Virtual Private Cloud (VPC) との間のアクセスを保護および制御できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Update: Azure AD Graph retirement date]]></title>
         <id>update-your-apps-to-use-microsoft-graph-before-30-june-2022</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/update-your-apps-to-use-microsoft-graph-before-30-june-2022/"/>
@@ -1312,106 +1606,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <summary type="html"><![CDATA[Enhance your security posture by leveraging Azure private endpoints to connect to your Azure Data Explorer cluster privately]]></summary>
         <author>
             <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amplify Geo for iOS の一般提供の開始を発表]]></title>
-        <id>aac359445495b9d0598404480f0550513c037a7c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amplify-geo-available-ios/"/>
-        <updated>2022-04-07T12:55:00.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amplify Geo for JavaScript のリリースに続いて、Amplify Geo for iOS の一般提供の開始をお知らせします。Amplify Geo for iOS を使用すると、デベロッパーは、iOS アプリに地図や場所の検索のためにクラウド接続された UI コンポーネントを追加できます。Auth、DataStore、Storage などの AWS Amplify の機能に加えて、Amplify Geo は、Amazon Location Service API 上に構築された一連のクライアントライブラリを提供するとともに、人気のある MapLibre オープンソースライブラリに基づくクラウド接続されたマップ UI コンポーネントを含みます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Iceberg を利用した Amazon Athena ACID トランザクションの一般提供の開始を発表]]></title>
-        <id>3198cacd703acc2272fd604f8fb7128d00eed038</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-athena-acid-transactions-powered-apache-iceberg/"/>
-        <updated>2022-04-07T12:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Athena ACID トランザクションの一般提供の開始をお知らせします。この新機能は、Athena の SQL のデータ操作言語 (DML) に、挿入、更新、削除、タイムトラベルのオペレーションを追加します。Athena ACID トランザクションにより、複数の同時実行ユーザーが、Athena のコンソール、API、ならびに ODBC および JDBC ドライバーから、自らの Amazon S3 データに信頼できる、行レベルの変更を加えることが可能となります。Apache Iceberg テーブル形式に基づいて構築された Athena ACID トランザクションは、Amazon S3 ストレージ用に最適化され、シームレスなスキーマの進化をサポートし、Amazon EMR、Apache Spark、Apache Flink などの Iceberg テーブル形式をサポートする他の複数のサービスやエンジンでのアトミックオペレーションを確実に実行できるようにします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx が AWS PrivateLink のサポートを開始]]></title>
-        <id>574f9840296a0aedc60fa8efc1abe366251ca76e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-supports-aws-privatelink/"/>
-        <updated>2022-04-07T12:43:01.000Z</updated>
-        <summary type="html"><![CDATA[AWS PrivateLink を使って、パブリック IP を使用せず、さらにインターネットにトラフィックを経由することなく、Amazon Virtual Private Cloud (Amazon VPC) から Amazon FSx Application Programming Interface (Amazon FSx API) にプライベートにアクセスできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Amplify Hosting が GitHub アプリを使用して CI/CD ワークフローのリポジトリへのアクセスの承認を開始]]></title>
-        <id>a8831efe534182b1c6e56e15677857bdb2f390fb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-amplify-hosting-github-access-workflows/"/>
-        <updated>2022-04-07T12:29:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Amplify Hosting は、GitHub アプリを使用して GitHub コードリポジトリへのアクセスを取得するようになりました。Amplify GitHub アプリは、既存の OAuth アプリと同じ機能をすべて提供し、さらに、アカウントまたは組織内の特定のリポジトリへのスコープ許可を完全に制御することを可能にします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup が Amazon FSx for Lustre ファイルシステムの Persistent 2 デプロイタイプのサポートを追加]]></title>
-        <id>cd2f027c9747ed968cb607039117e1a0809a7afa</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-deployment-amazon-fsx-lustre-file-systems/"/>
-        <updated>2022-04-07T12:23:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup は、Persistent 2 デプロイタイプのデータを保護できるようにすることで、Amazon FSx for Lustre ファイルシステムのサポートを強化します。複数の AWS リージョンとアカウントで論理的にエアギャップのあるイミュータブルなバックアップを作成する機能、実証可能なコンプライアンス、シングルクリックでの復元など、AWS のサービス全体における AWS Backup の一元的なデータ保護機能を、Amazon FSx for Lustre Persistent 2 ファイルシステムでご利用いただけるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Resource Access Manager が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
-        <id>7c2b79a12ed4d49a5af9e55faefc1f4235428016</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-resource-access-manager-jakarta/"/>
-        <updated>2022-04-07T12:17:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Resource Access Manager (AWS RAM) が、AWS アジアパシフィック (ジャカルタ) リージョンのお客様にご利用いただけるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 が EC2 コンソールの改善された新しい起動エクスペリエンスの提供を開始]]></title>
-        <id>e6611c9bb235eabbe25f83f60276bf493764e630</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ec2-launch-experience-console/"/>
-        <updated>2022-04-07T12:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EC2 コンソールは、改善された新しい起動エクスペリエンスを導入します。これにより、より迅速かつ簡単にインスタンスを起動できます。新しいデザインでは、すべての設定を 1 か所で表示できる単一ページレイアウトを利用できます。設定が正しいことを確認するために、ステップを行ったり来たりする必要がなくなりました。新しいデザインでは、概要を提供し、ページ間を移動するのに役立つ概要パネルも導入されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[既存の Amazon OpenSearch Service ドメインでクラスター間レプリケーションのサポートを開始]]></title>
-        <id>cff2f7e06e8e193d524cd8845ee59ee3d472a45b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/cross-cluster-replication-amazon-opensearch-domains/"/>
-        <updated>2022-04-07T04:55:01.000Z</updated>
-        <summary type="html"><![CDATA[Amazon OpenSearch Service が既存のドメインでクラスター間レプリケーションのサポートを始めました。クラスター間レプリケーションは、AWS アカウントやリージョンが異なっていても、ドメインからドメインへのインデックスのコピーや同期を低レイテンシーで自動でできるようになります クラスター間レプリケーションが行われることで、データの逐次一貫性が担保されミッションクリティカルなアプリケーションの高可用性を実現できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Device Management および AWS IoT Device Defender が ListMetricValues API を介してデバイスメトリクスのモニタリングのサポートを開始]]></title>
-        <id>acc5d0288a0295756c33d997d252de88d2d46ba5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-iot-device-management-defender-monitoring-metrics/"/>
-        <updated>2022-04-07T04:48:00.000Z</updated>
-        <summary type="html"><![CDATA[本日、IoT Device Defender ListMetricValues API を一般公開をしました。ListMetricValues API を利用することで、お客様はセキュリティプロファイルに属する接続済みデバイスからのデバイス側、クラウド側、またカスタムメトリクスの履歴にアクセスできるようになりました。AWS IoT マネジメントコンソール内のデータの表示に加え、お客様はプログラムに基づく監視ができる他、お客様自身で可視化を構築できる柔軟性が得られるようになりました。さらに、 Fleet Hub for AWS IoT Device Management 内で AWS IoT Device Defender メトリクスの可視化を可能にしました。このような強化策により、お客様は、他のデバイスデータや Fleet Hub 内での問題診断やフリート管理用のフリートレベルデータとともにディフェンダーメトリクスを 1 か所で表示できるようになりました。この新たな API や Fleet Hub との統合が AWS IoT Device Defender  と Fleet Hub for AWS IoT Device Management が利用できる AWS Global Regions で利用可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[既存の Amazon OpenSearch Service ドメインでクラスター間検索のサポートを開始]]></title>
-        <id>f72d5e08fd2a0f3ad63e9d08affb43f3415d81b4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-opensearch-domains-cross-cluster-search/"/>
-        <updated>2022-04-07T04:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon OpenSearch Service が既存のドメインでクラスター間検索のサポートを始めました。クラスター間検索はクエリが 1 つ、または OpenSearch Dashboard インターフェイスが 1 つの複数のドメインの集合体を横断検索するのに有効です。この機能を使用すると、異種ワークロードを複数のドメインに分離できます。これにより、リソースの分離が向上し、特定のワークロードに合わせて各ドメインを調整して、効率を改善し、コストを削減できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -1820,96 +2014,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-the-new-azure-front-door-a-modern-cloud-cdn-service/"/>
         <updated>2022-03-29T16:00:21.000Z</updated>
         <summary type="html"><![CDATA[Azure Front Door is a modern cloud CDN that enables you to accelerate the delivery of applications, APIs, and content on Azure or anywhere at scale.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App Service Environment バージョン 1 とバージョン 2 は、2024 年 8 月 31 日に廃止されます]]></title>
-        <id>app-service-environment-v1-and-v2-retirement-announcement</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/app-service-environment-v1-and-v2-retirement-announcement/"/>
-        <updated>2022-03-28T23:00:25.000Z</updated>
-        <summary type="html"><![CDATA[2024 年 8 月 31 日までに App Service Environment バージョン 3 に移行してください。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT connector preview feature in Azure API for FHIR retiring on 30 September 2022]]></title>
-        <id>retirement-of-feature-iot-connector-within-azure-api-for-fhir</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/retirement-of-feature-iot-connector-within-azure-api-for-fhir/"/>
-        <updated>2022-03-28T23:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Migrate to MedTech service feature which provides stronger security and supportability.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Copy data directly to Archive Storage with Data Box]]></title>
-        <id>generally-available-copy-data-directly-to-archive-storage-with-data-box</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-copy-data-directly-to-archive-storage-with-data-box/"/>
-        <updated>2022-03-28T20:00:09.000Z</updated>
-        <summary type="html"><![CDATA[You can now use Data Box to copy data directly to Archive tier by indicating this when ordering and then copying to the corresponding share on the Data Box.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In development: New planned datacenter region in India (India South Central)]]></title>
-        <id>in-development-new-planned-datacenter-region-in-india-india-south-central</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/in-development-new-planned-datacenter-region-in-india-india-south-central/"/>
-        <updated>2022-03-28T19:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has announced plans to bring a new datacenter region to India, including availability zones.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: On-demand capacity reservation with Azure Site Recovery safeguards VMs failover]]></title>
-        <id>ondemand-capacity-reservation-with-azure-site-recovery-safeguards-vms-failover</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/ondemand-capacity-reservation-with-azure-site-recovery-safeguards-vms-failover/"/>
-        <updated>2022-03-28T17:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Integrating Site Recovery with capacity reservation to reserve compute capacity in the disaster recovery region and use that for failover.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:Azure Bastion ネイティブ クライアントのサポート]]></title>
-        <id>general-availability-azure-bastion-native-client-support</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-bastion-native-client-support/"/>
-        <updated>2022-03-28T16:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Azure Bastion ネイティブ クライアントのサポートにより、コマンド ラインからターゲット VM に接続し、Azure Active Directory の資格情報を使用してログインする機能が提供されます。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:オンデマンド容量予約]]></title>
-        <id>general-availability-ondemand-capacity-reservations</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-ondemand-capacity-reservations/"/>
-        <updated>2022-03-28T16:00:22.000Z</updated>
-        <summary type="html"><![CDATA[オンデマンド容量予約を使用すると、お客様は Azure リージョンまたは可用性ゾーンの 1 つ以上の VM サイズに対して、任意の期間、コンピューティング容量を予約することができます。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Batch supports Spot Virtual Machines]]></title>
-        <id>batch-spot-vms-2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/batch-spot-vms-2/"/>
-        <updated>2022-03-28T16:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Azure Batch supports Spot Virtual Machine's in user-subscription mode and is offered at a significantly reduced price compared with dedicated virtual machines.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Azure Percept DK 3 月 (2203) のソフトウェア更新プログラム]]></title>
-        <id>apdk2203update</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/apdk2203update/"/>
-        <updated>2022-03-28T15:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Azure Percept の 3 月の更新プログラムには、セキュリティに関連する修正プログラムが含まれています。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
