@@ -6,6 +6,26 @@
       "siteUrl": "https://azure.microsoft.com/ja-jp/updates/",
       "articles": [
         {
+          "id": "public-preview-azure-lab-services-april-2022-update",
+          "author": null,
+          "description": "Improve performance, reliability, and scalability for Azure Lab Services in the latest update.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-azure-lab-services-april-2022-update/",
+          "publishedOn": "2022-04-28T17:00:04.000Z",
+          "wordCount": 1917,
+          "title": "Public preview: Azure Lab Services April 2022 update",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits",
+          "author": null,
+          "description": "Maximum scale-out limits for Functions Linux Premium plans have been increased in a number of regions.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits/",
+          "publishedOn": "2022-04-28T15:00:03.000Z",
+          "wordCount": 1895,
+          "title": "Generally available: Azure Functions Linux Elastic Premium plan increased maximum scale-out limits",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
+        },
+        {
           "id": "communitygallerypreview",
           "author": null,
           "description": "New Azure Compute Gallery feature ‘community gallery’ makes your private images public.",
@@ -158,10 +178,10 @@
         {
           "id": "generally-available-scaledown-mode-in-aks",
           "author": null,
-          "description": "You can now select if you would like your AKS nodes to be deleted or deallocated when scaled down.When a node is deallocated, the attached storage as well as the container image is still present on the node. When scaling up your deployments, all deallocated nodes will be started first before provisioning new nodes. This allows for faster operation speeds as your deployment leverages cached images. Scale-down mode allows you to no longer have to pre-provision nodes and pre-pull container images.\n\nWith the move of preview to GA, scale-down mode now supports spot node pools.\n\nFor more info, visit: https://docs.microsoft.com/en-us/azure/aks/scale-down-mode",
+          "description": "You can now select if you would like your AKS nodes to be deleted or deallocated when scaled down.",
           "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-scaledown-mode-in-aks/",
           "publishedOn": "2022-04-27T16:00:34.000Z",
-          "wordCount": 1851,
+          "wordCount": 1931,
           "title": "Generally available: Scale-down mode in AKS",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
         },
@@ -894,116 +914,6 @@
           "wordCount": 1953,
           "title": "Public preview: Node auto-drain for AKS",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "classic-azure-storage-accounts-will-be-retired-on-31-august-2024",
-          "author": null,
-          "description": "Migrate your classic storage accounts to Azure Resource Manager by 31 August 2024.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/classic-azure-storage-accounts-will-be-retired-on-31-august-2024/",
-          "publishedOn": "2022-03-29T23:00:25.000Z",
-          "wordCount": 2021,
-          "title": "Azure classic storage accounts will be retired on 31 August 2024",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "nvseries-and-nv-promo-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023",
-          "author": null,
-          "description": "Move to GPU accelerated virtual machines by 31 August 2023.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/nvseries-and-nv-promo-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023/",
-          "publishedOn": "2022-03-29T21:16:29.000Z",
-          "wordCount": 2041,
-          "title": "NV-series and NV Promo Azure Virtual Machines retirement extended to 31 August 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "ndseries-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023",
-          "author": null,
-          "description": "Transition to new HPC virtual machines by 31 August 2023.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/ndseries-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023/",
-          "publishedOn": "2022-03-29T21:14:54.000Z",
-          "wordCount": 1991,
-          "title": "ND-series Azure Virtual Machines retirement extended to 31 August 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "nvseries-and-nvpromo-azure-virtual-machines-will-be-retired-by-31-august-2022",
-          "author": null,
-          "description": "Move to GPU accelerated virtual machines by 31 August 2023.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/nvseries-and-nvpromo-azure-virtual-machines-will-be-retired-by-31-august-2022/",
-          "publishedOn": "2022-03-29T19:55:33.000Z",
-          "wordCount": 2114,
-          "title": "Update: NV-series and NV_Promo Azure Virtual Machines will be retired on 31 August 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "ndseries-azure-virtual-machines-will-be-retired-by-31-august-2022",
-          "author": null,
-          "description": "Transition to new HPC virtual machines by 31 August 2023.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/ndseries-azure-virtual-machines-will-be-retired-by-31-august-2022/",
-          "publishedOn": "2022-03-29T19:54:49.000Z",
-          "wordCount": 2117,
-          "title": "Update: ND-series Azure Virtual Machines will be retired on 31 August 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "nc-v2series-azure-virtual-machines-will-be-retired-by-31-august-2022",
-          "author": null,
-          "description": "Transition to new HPC virtual machines by 31 August 2023.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/nc-v2series-azure-virtual-machines-will-be-retired-by-31-august-2022/",
-          "publishedOn": "2022-03-29T19:10:42.000Z",
-          "wordCount": 2136,
-          "title": "Update: NC v2-series Azure Virtual Machines will be retired on 31 August 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "nc-v2-series-azure-virtual-machines-retirement-extended-to-31-august-2023",
-          "author": null,
-          "description": "Transition to new HPC virtual machines by 31 August 2023.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/nc-v2-series-azure-virtual-machines-retirement-extended-to-31-august-2023/",
-          "publishedOn": "2022-03-29T19:03:25.000Z",
-          "wordCount": 1997,
-          "title": "NC v2-series Azure Virtual Machines retirement extended to 31 August 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "ncseries-azure-virtual-machines-retirement-extended-to-31-august-2023",
-          "author": null,
-          "description": "Transition to new HPC virtual machines by 31 August 2023.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/ncseries-azure-virtual-machines-retirement-extended-to-31-august-2023/",
-          "publishedOn": "2022-03-29T18:20:14.000Z",
-          "wordCount": 1993,
-          "title": "NC-series Azure Virtual Machines retirement extended to 31 August 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022",
-          "author": null,
-          "description": "Transition to new HPC virtual machines by 31 August 2023.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022/",
-          "publishedOn": "2022-03-29T18:19:45.000Z",
-          "wordCount": 2121,
-          "title": "Update: NC-series Azure Virtual Machines will be retired on 31 August 2023",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "access-time-based-lifecycle-management-adls-gen2",
-          "author": null,
-          "description": "Azure Data Lake Storage Gen2 におけるオブジェクトのアクセス時間追跡と最終アクセス時間に基づくライフサイクル管理ポリシー。",
-          "link": "https://azure.microsoft.com/ja-jp/updates/access-time-based-lifecycle-management-adls-gen2/",
-          "publishedOn": "2022-03-29T16:00:36.000Z",
-          "wordCount": 1892,
-          "title": "一般提供:Data Lake Storage Gen2 のアクセス時間ベースのライフサイクル管理ルール",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "generally-available-the-new-azure-front-door-a-modern-cloud-cdn-service",
-          "author": null,
-          "description": "Azure Front Door is a modern cloud CDN that enables you to accelerate the delivery of applications, APIs, and content on Azure or anywhere at scale.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-the-new-azure-front-door-a-modern-cloud-cdn-service/",
-          "publishedOn": "2022-03-29T16:00:21.000Z",
-          "wordCount": 2059,
-          "title": "Generally available: The new Azure Front Door – a modern cloud CDN service",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb8924c53d854f5116cecac2eb082f89a930b89eac5af53457e6e9e1533575ca/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
@@ -1058,7 +968,7 @@
           "description": "本日、Amazon Athena の 10 の新しいデータソースコネクタの一般提供を発表します。Athena　を使用すると、データを前処理またはコピーするための ETL スクリプトを必要とせずに、リレーショナル、非リレーショナル、オブジェクト、およびカスタムのデータソースに保存されているデータをクエリできます。このリリースでは、Athena でクエリできるデータソースの数が拡大され、アナリスト、データエンジニア、データサイエンティスト、デベロッパーがオンプレミスまたはクラウドで稼働するデータベースに保存されているデータからビジネス価値を引き出すのに役立ちます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/new-data-source-connectors-generally-available-amazon-athena/",
           "publishedOn": "2022-04-27T16:13:53.000Z",
-          "wordCount": 260,
+          "wordCount": 258,
           "title": "Amazon Athenaで新しいデータソースコネクタが一般に利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1068,7 +978,7 @@
           "description": "Amazon Textract は、あらゆるドキュメントまたは画像からテキスト、手書き文字、およびデータを自動的に抽出する機械学習サービスです。Textract では、Analyze Document API の新しいクエリ機能を使って、ドキュメントから抽出する必要があるデータを柔軟に指定することができるようになりました。ドキュメント内のデータの構造 (テーブル、フォーム、黙示のフィールド、ネストされたデータ) を知る必要はなく、ドキュメントのバージョンやフォーマットの違いについて心配する必要もありません。クエリは、視覚的、空間的、および言語的な手がかりの組み合わせを活用して、求める情報を高精度で抽出します。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-textract-launches-queries-feature-analyze-document-api/",
           "publishedOn": "2022-04-27T16:07:53.000Z",
-          "wordCount": 276,
+          "wordCount": 274,
           "title": "Amazon Textract が、Analyze Document API 内に新しいクエリ機能を提供開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1078,7 +988,7 @@
           "description": "本日、AWS は AWS Amplify Studio Figma-to-React コード機能の一般提供を発表し、フロントエンドデベロッパーにフルスタックのアプリケーションを構築するためのより高速なワークフローを提供します。これらの新機能は、既存の Amplify Studio のバックエンド作成・管理機能に加え、デベロッパーの UI 開発のスピードアップに役立ちます。一般的に、フロントエンドデベロッパーとデザイナーの間で多くのやり取りが行われ、納期に間に合わせるために妥協した結果、最適とは言えないエンドユーザーエクスペリエンスがもたらされることがあります。Amplify Studio を使用すると、Figma からインポートし、コードにエクスポート、カスタムロジックを使用してコードを拡張することと同じくらい簡単に、設計どおりに UI を開発できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-amplify-studio-figma-to-react-code-capabilities/",
           "publishedOn": "2022-04-27T16:01:53.000Z",
-          "wordCount": 286,
+          "wordCount": 284,
           "title": "AWS Amplify Studio の Figma-to-React コード機能が一般に提供開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1088,7 +998,7 @@
           "description": "Amazon QuickSight は、1 クリックの公開埋め込みに対応しました。これは、コーディングや開発なしに、ダッシュボードを公開アプリケーション、Wiki、ポータルに埋め込むことができる機能です。一旦有効にすると、インターネット上の誰もが、サーバーのデプロイやインフラストラクチャのライセンスを必要とせずに、最新の情報を使用してこれらの組み込みダッシュボードに即座にアクセスできるようになります！ 1 クリックの公開埋め込みにより、エンドユーザーが数秒でインサイトにアクセスできるようになります。この機能にプレビューでアクセスするには、quicksight-public-embedding-preview@amazon.com までご連絡ください。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-quicksight-public-embedding-available-now/",
           "publishedOn": "2022-04-27T15:55:54.000Z",
-          "wordCount": 238,
+          "wordCount": 236,
           "title": "Amazon QuickSight の 1 クリックの公開埋め込みがプレビューで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1098,7 +1008,7 @@
           "description": "本日、SageMaker が一般的に利用可能なすべての AWS リージョン (AWS 中国リージョンを除く) において、Amazon SageMaker Serverless Inference の一般提供の開始を発表できることを嬉しく思います。SageMaker Serverless Inference を使用すると、基盤となるインフラストラクチャを設定または管理することなく、推論用の機械学習 (ML) モデルを迅速にデプロイすることができます。ML モデルをデプロイするときにサーバーレスオプションを選択するだけで、Amazon SageMaker は推論リクエストのボリュームに基づいてコンピューティング性能の自動的なプロビジョンやスケールを実行したり、コンピューティング性能をオフにしたりします。SageMaker Serverless Inference では、推論リクエストの処理に使用されるコンピューティング性能 (ミリ秒単位で請求)、および処理されるデータ量に対してのみ料金を支払い、アイドル時間に対する支払いはありません。SageMaker Serverless Inference は、トラフィックが断続的または予測できないアプリケーションに最適です。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-sagemaker-serverless-inference/",
           "publishedOn": "2022-04-27T15:48:53.000Z",
-          "wordCount": 326,
+          "wordCount": 324,
           "title": "Amazon SageMaker Serverless Inference の一般提供を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1108,7 +1018,7 @@
           "description": "Amazon DevOps Guru は、可用性の向上、パフォーマンスの改善、アプリケーションリソースの利用最適化に役立つプロアクティブインサイトを提供するようになりました。プロアクティブなモニタリングは、アプリケーションとインフラストラクチャの潜在的な問題に早期にフラグを立て、迅速に対応し、コストのかかるダウンタイムを削減るためのキーです。Amazon DevOps Guru は、機械学習 (ML) を使用してアプリケーションリソース、構成、およびアプリケーションメトリクスを分析し、潜在的な将来のオペレーション上の問題を特定して、ユーザーへの影響を防ぎ、アプリケーションのアップタイムを増やします。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-devops-guru-provides-proactive-insights-flag-early-issues-aws-serverless-applications/",
           "publishedOn": "2022-04-27T15:42:53.000Z",
-          "wordCount": 286,
+          "wordCount": 284,
           "title": "Amazon DevOps Guru がAWS サーバーレスアプリケーションの問題に早期にフラグを立てるプロアクティブインサイトを提供開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1118,7 +1028,7 @@
           "description": "AWS Glue Apache Spark ジョブにおけるオートスケーリングの一般利用が可能になりました。AWS Glue 3.0 では、ワークロードに基づいてリソースを動的にスケールアップおよびスケールダウンできるようになりました。オートスケーリングを使用すると、ジョブのリソースを過剰にプロビジョニングしたり、ワーカー数の最適化に時間を費やしたり、アイドル状態のワーカーに料金を支払ったりすることについて心配する必要がなくなります。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/autoscaling-aws-glue-now-generally-available/",
           "publishedOn": "2022-04-27T15:36:53.000Z",
-          "wordCount": 235,
+          "wordCount": 233,
           "title": "AWS Glue のオートスケーリングが一般利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1128,7 +1038,7 @@
           "description": "AWS Glue Studio ジョブノートブックが一般に利用可能になり、AWS Glue インタラクティブなノートブックベースのジョブオーサリングを提供します。データ統合ジョブの開発プロセスを簡素化するのに役立ちます。ジョブノートブックは、AWS Glue インタラクティブセッションのサーバーレスのビルトインインターフェースも提供します。これは、お客様がインタラクティブな Apache Spark ワークロードをオンデマンドで実行できるようにするもう1つの新機能です。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-glue-notebook-based-job-authoring/",
           "publishedOn": "2022-04-27T15:30:53.000Z",
-          "wordCount": 238,
+          "wordCount": 236,
           "title": "AWS Glue におけるインタラクティブなノートブックベースのジョブオーサリングを発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1138,7 +1048,7 @@
           "description": "AWS Glue における機密データの検出と処理の一般提供を開始しました。この機能は、パターンマッチングと機械学習を使用して、AWS Glue ジョブの実行中に、列レベルとセルレベルの両方で個人識別情報 (PII) やその他の機密データを自動的に検出します。AWS Glue には、PII の種類とその場所をログに記録し、アクションを実行するためのオプションが含まれています。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-announcing-sensitive-data-detection-glue/",
           "publishedOn": "2022-04-27T15:24:53.000Z",
-          "wordCount": 236,
+          "wordCount": 234,
           "title": "AWS Glue における機密データの検出と処理の発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1148,7 +1058,7 @@
           "description": "AWS Glue インタラクティブセッションが、一般提供を開始しました。AWS Glue の高度にスケーラブルな Serverless Spark 環境に新しいインターフェースを提供します。インタラクティブなデータ統合ジョブの開発、データ調査、お客様自身のアプリケーション向けのオンデマンド配信のデータ処理などをサポートします。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-glue-interactive-sessions/",
           "publishedOn": "2022-04-27T15:18:53.000Z",
-          "wordCount": 235,
+          "wordCount": 233,
           "title": "AWS Glue インタラクティブセッションの一般提供開始を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1158,7 +1068,7 @@
           "description": "Amazon Personalize では、レコメンダーの停止および開始が可能となったことにより、リソースをよりきめ細かく制御できるようになりました。Amazon Personalize により、デベロッパーは、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。機械学習の専門知識は必要ありません。レコメンダーは、「よく一緒に購入されています」(小売業向け) や、「お客様のための上位のおすすめ」(メディアとエンターテインメント向け) など、特定のユースケースに最適化されたリソースです。使用していないときにレコメンダーを停止すると、レコメンダーを削除することなく、非アクティブ状態に移行します。開始によってアクティブ状態に移行し、レコメンダーのリソースを再作成することなく、中断したポイントから再開します。例えば、テストフェーズ中に、数日間だけレコメンデーションを取得する必要がある場合があります。不要なときにレコメンダーを停止し、いつでもレコメンダーを再開してレコメンデーションリクエストを再開できます。停止したレコメンダーには利用料金はかかりません。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-personalize-starting-stopping-recommenders/",
           "publishedOn": "2022-04-26T20:44:53.000Z",
-          "wordCount": 239,
+          "wordCount": 237,
           "title": "Amazon Personalize がレコメンダーの開始と停止のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1168,7 +1078,7 @@
           "description": "AWS Batch は、コンピューティング環境 (CE) を再作成することなく更新できるコンピューティング環境の設定パラメータを拡張するようになりました。これまでお客様は、UpdateComputeEnvironment API を使用して、CE の状態、希望する CPU 数、最小および最大 vCPU 数、およびサービスロールを変更していました。追加の設定パラメータを更新する場合、お客様は新しい CE を作成する必要がありました。今回のローンチでは、お客様は、UpdateComputeEnvironment API を使用して、AMI、EC2 起動テンプレート、インスタンスタイプなどの CE 設定パラメータを動的に更新できるようになりました。更新された設定を使用するために新しい CE を手作業で作成する必要はなく、Batch は新しいインスタンスを起動する際に更新された CE 設定を使用し、その上で実行中のジョブが完了したら古い CE 設定を使用するインスタンスを終了させます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-batch-adds-improvement-updatecomputeenvironment-api/",
           "publishedOn": "2022-04-26T16:58:53.000Z",
-          "wordCount": 258,
+          "wordCount": 256,
           "title": "AWS Batch、UpdateComputeEnvironment API の改良を追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1178,7 +1088,7 @@
           "description": "AWS Launch Wizard を使って、 Amazon Elastic Compute Cloud (Amazon EC2) にあるセルフマネージドの Microsoft Exchange Server のベストプラクティスのデプロイをリードできるようになりました。AWS Launch Wizard は AWS Well-Architected Framework を使用して、AWS クラウド上での Microsoft Exchange Server の設定、サイジング、デプロイをガイドし、個々の AWS リソースを手動で特定してプロビジョニングする必要はありません。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-microsoft-exchange-server/",
           "publishedOn": "2022-04-26T16:52:53.000Z",
-          "wordCount": 310,
+          "wordCount": 308,
           "title": "AWS Launch Wizard は Microsoft Exchange Server のガイド付きデプロイを提供開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1188,7 +1098,7 @@
           "description": "Amazon Connect では、AWS GovCloud (米国西部) リージョンで、Amazon Connect コンタクトセンターの問い合わせ (音声通話、チャット、タスク) のイベント (通話がキューに入っているなど) に対して、ほぼリアルタイムのストリームをサブスクライブできるようになりました。これらのイベントには、音声通話、チャット、タスクが開始された、1 人のエージェントに割り当てるためキューに入った、エージェントにつながった、別のエージェントまたはキューに転送された、切断されたなどのイベントが含まれます。Contact Events は、コンタクトアクティビティをモニタおよび追跡するための分析ダッシュボードを作成する、コンタクトセンターのパフォーマンスをより的確に理解するためにワークフォースマネジメント (WFM) ソリューションに統合する、または、イベント (通話が切断されたなど) にリアルタイムで対応するアプリケーションを統合するために使用できます。Amazon Connect Contact Events は、Amazon EventBridge を通じて発行され、Amazon EventBridge AWS コンソールに行き、新しいルールを作成することで、数クリックでセットアップできます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-regions/",
           "publishedOn": "2022-04-26T16:45:53.000Z",
-          "wordCount": 259,
+          "wordCount": 257,
           "title": "AWS GovCloud (米国西部) リージョンで、Amazon Connect の音声通話、チャット、タスクなどのアクティビティにほぼリアルタイムで詳細情報を追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1198,7 +1108,7 @@
           "description": "AWS Launch Wizard を使用して、複数のアベイラビリティーゾーン (AZ) にまたがる Amazon Elastic Compute Cloud (Amazon EC2) Auto Scaling グループ上に、セルフマネージドの Windows Server 向け IIS (Internet Information Services) のベストプラクティスのデプロイをリードできるようになりました。AWS Launch Wizard は AWS Well-Architected Framework を使用して、AWS クラウド上での Microsoft IIS の設定、サイジング、デプロイをガイドし、個々の AWS リソースを手動で特定してプロビジョニングする必要はありません。高可用性を実現するために、ノードは複数のアベイラビリティーゾーンにまたがる別々のサブネットにデプロイします。Windows Server 向け Internet Information Services (IIS) は、ウェブ上のあらゆるものをホスティングするための、柔軟で安全、かつ管理しやすいウェブサーバーです。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-internet-information-services-windows-server/",
           "publishedOn": "2022-04-26T16:39:53.000Z",
-          "wordCount": 298,
+          "wordCount": 296,
           "title": "AWS Launch Wizard で Windows Server 向け Internet Information Services (IIS) のガイド付きデプロイを提供開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1208,7 +1118,7 @@
           "description": "Amazon Connectでプログラムを使用して新しい電話番号を要求し、それらを設定するための API が利用可能にこの API を使用すると、利用可能な電話番号をプログラムを使用して検索して要求したり、電話番号を問い合わせフローに関連付けたり、不要になった電話番号をリリースしたりすることができます。さらに、電話番号 API には、AWS CloudFormation のサポートが付いています。詳細については、AWS CloudFormation ユーザーガイドの API ドキュメントと Amazon Connect リソースタイプリファレンスを参照してください。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-api-claim-phone-numbers/",
           "publishedOn": "2022-04-26T16:33:53.000Z",
-          "wordCount": 245,
+          "wordCount": 243,
           "title": "Amazon Connectでプログラムを使用して電話番号を要求および設定するための API が利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1218,7 +1128,7 @@
           "description": "Amazon Elastic Container Service (Amazon ECS) は、本日、Amazon ECS 最適化 Amazon Linux 2022 Amazon マシンイメージ (AMI) のパブリックプレビューを発表しました。Amazon Linux 2022 (AL2022) は、Amazon Web Services (AWS) が提供する次世代 Amazon Linux で、クラウドアプリケーションを開発および実行するために、安全で安定した高性能の実行環境を提供するように設計されています。AL2022 以降、新しい Amazon Linux メジャーバージョンが 2 年ごとに利用可能になり、各メジャーバージョンは 5 年間サポートされます。Amazon ECS は、Amazon Linux の新しいメジャーバージョンごとに、同じ 2 年間のリリースと 5 年間のサポートサイクルをサポートするために、Amazon ECS 最適化 AMI を公開します。2 年というメジャーリリースサイクルにより、ソフトウェアを最新の状態に保つことができ、各メジャーリリースに対して 5 年間のサポートコミットメントにより、長いプロジェクトのライフサイクルを管理するために必要な安定性を提供します。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ecs-optimized-linux-2022-ami-available-preview/",
           "publishedOn": "2022-04-26T16:26:53.000Z",
-          "wordCount": 314,
+          "wordCount": 312,
           "title": "Amazon ECS 最適化 Amazon Linux 2022 AMI のプレビュー版が利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1228,7 +1138,7 @@
           "description": "AWS Transit Gateway が AWS Direct Connect のサポートとともに、アジアパシフィック (ジャカルタ) の AWS リージョンでご利用いただけるようになりました。AWS Transit Gateway を使えば、何千もの Amazon Virtual Private Cloud (Amazon VPC) とオンプレミスネットワークを 1 つのゲートウェイで接続できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-transit-gateway-jakarta-region/",
           "publishedOn": "2022-04-25T18:38:53.000Z",
-          "wordCount": 270,
+          "wordCount": 268,
           "title": "AWS Transit Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1238,7 +1148,7 @@
           "description": "AWS グローバル条件コンテキストキーを使用して、Neptune クラスターやインスタンスなどの Amazon Neptune リソースへのアクセスを制御する AWS Identity and Access Management (IAM) ポリシーをカスタマイズできるようになりました。IAM ポリシーの Condition 要素で指定されている AWS グローバル条件コンテキストキーを使用して、設定された条件に基づいて Neptune リソースへのアクセスを許可または禁止できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-neptune-global-condition-keys-iam-policies/",
           "publishedOn": "2022-04-25T18:32:53.000Z",
-          "wordCount": 254,
+          "wordCount": 252,
           "title": "Amazon Neptune が AWS IAM ポリシーでグローバル条件キーのサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1248,7 +1158,7 @@
           "description": "Amazon Elastic Kubernetes Service (Amazon EKS) は、Amazon EKS コンソール、AWS Command Line Interface (CLI)、および EKS API を使用して、AWS Distro for OpenTelemetry (ADOT) Operator のインストールおよび管理をサポートすることになりました。今回のリリースにより、Amazon EKS で実行されているアプリケーションをインストルメント化して、AWS X-Ray、Amazon Managed Service for Prometheus、Amazon CloudWatch などの複数のモニタリングサービスにメトリクスとトレースを送信する簡素化されたエクスペリエンスが可能になります。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/eks-opentelemetry-operator-now-available/",
           "publishedOn": "2022-04-25T18:26:53.000Z",
-          "wordCount": 274,
+          "wordCount": 272,
           "title": "OpenTelemetry Operator の EKS アドオンサポートが一般提供開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1258,7 +1168,7 @@
           "description": "Auto Scaling インスタンスのライフサイクルで、すべてのスケーリングアクティビティ、ヘルスチェックの置換、およびその他の置換イベントのデフォルトのインスタンスウォームアップ時間を設定できるようになりました。Amazon EC2 Auto Scaling は、アプリケーションにサービスを提供するインスタンスの論理グループ (Auto Scaling グループと呼ばれます) の自動的なスケールおよび管理を可能にするサービスです。EC2 Auto Scaling は、インスタンスを置き換えたり、Auto Scaling グループから削除したり、Auto Scaling グループに追加したりする必要があるかどうかを判断するために、CPU の使用状況やアプリケーションの需要などのさまざまなメトリクスをモニタリングすることによってこれを可能にします。デフォルトのインスタンスウォームアップ時間パラメータを設定すると、インスタンスが需要に対応できるようになるまでに通常かかる時間をスケーリングおよび置換ポリシーが認識できるようになり、Auto Scaling グループの設定が簡素化されます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/ec2-auto-scaling-default-instance-warm-up-replacement-actions/",
           "publishedOn": "2022-04-25T18:20:53.000Z",
-          "wordCount": 265,
+          "wordCount": 263,
           "title": "EC2 Auto Scaling で、すべてのインスタンスのスケーリングと置換アクションのデフォルトのインスタンスウォームアップ時間を設定可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1268,7 +1178,7 @@
           "description": "Amazon Neptune を 1 か月の無料トライアルで試用することが可能になりました。Neptune を初めてご利用になるお客様は、最大 750 時間、T3.medium インスタンス、1,000 万回の I/O リクエスト、1 GB のストレージ、1 GB のバックアップストレージを使用して、30 日間無料で Neptune をご利用いただけます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-neptune-offers-free-trial/",
           "publishedOn": "2022-04-25T18:14:53.000Z",
-          "wordCount": 255,
+          "wordCount": 253,
           "title": "Amazon Neptune が無料トライアルの提供を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1278,7 +1188,7 @@
           "description": "Amazon Relational Database Service (Amazon RDS) が、すべての商用リージョンの AWS Outposts で PostgreSQL および MySQL のマルチ AZ 配置で高可用性構成をサポートするようになりました。Outposts での Amazon RDS マルチ AZ 配置では、RDS データベース (DB) インスタンスの可用性と耐久性が強化され、プロダクションデータベースのワークロードに適しています。マルチ AZ データベースインスタンスをプロビジョニングすると、Amazon RDS は自動的にプライマリ DB インスタンスを作成し、別のアベイラビリティーゾーン  (AZ) に接続された 2 番目の AWS Outposts のスタンバイインスタンスにデータを同期的にレプリケーションします。それぞれの Outposts は、その独自の、物理的にはっきりと独立したインフラストラクチャ上で稼働しています。また高い信頼性を保つように設計されています。インフラストラクチャに障害が発生した場合、Amazon RDS は自動的にスタンバイデータベースにフェイルオーバーするので、フェイルオーバー完了後すぐにデータベースのオペレーションを再開できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-relational-database-service-multi-az-deployments-aws-outposts-high-availability/",
           "publishedOn": "2022-04-25T18:08:53.000Z",
-          "wordCount": 309,
+          "wordCount": 307,
           "title": "Amazon Relational Database Service が、高可用性のために AWS Outposts でのマルチ AZ 配置のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1288,7 +1198,7 @@
           "description": "3 種類の新しいマネージドデータ識別子がAmazon Macie に追加され、Amazon Simple Storage Service (Amazon S3) に存在する HTTP 基本認証ヘッダー、HTTP Cookie、JSON Web トークンの場所を検出および識別できるように拡張されました。これらのタイプのデータが S3 ストレージに存在するかどうか、どこに存在するかを知ることは、組織のデータセキュリティ、ガバナンス、プライバシーのニーズをより適切に計画するのに役立ちます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-macie-sensitive-data/",
           "publishedOn": "2022-04-25T18:02:54.000Z",
-          "wordCount": 291,
+          "wordCount": 289,
           "title": "Amazon Macie が、より多くの種類の機密データの検出のサポートを追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1298,7 +1208,7 @@
           "description": "Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は Amazon Kendra Box Connector を使用して、Box からのメッセージのインデックス作成と検索を行うことができます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-kendra-box-connector-documents-enterprise/",
           "publishedOn": "2022-04-25T17:52:53.000Z",
-          "wordCount": 259,
+          "wordCount": 257,
           "title": "Amazon Kendra が Box Connector をリリース、Box Enterprise リポジトリ内のドキュメントの検索が可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1308,7 +1218,7 @@
           "description": "本日、AWS は、Amazon Neptune での openCypher クエリ言語サポートの一般提供開始を発表いたしました。お客様は、Amazon Neptune で openCypher を使用できるようになり、グラフアプリケーションを構築したり、可用性の高い、安全なフルマネージドグラフデータベースに移行したりする選択肢が増えました。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-announces-general-availability-opencypher-support-amazon-neptune/",
           "publishedOn": "2022-04-25T17:46:53.000Z",
-          "wordCount": 257,
+          "wordCount": 255,
           "title": "AWS が Amazon Neptune 向け openCypher サポートの一般提供を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1318,7 +1228,7 @@
           "description": "Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。Amazon Chime SDK が、AWS GovCloud (米国)リージョンで FedRAMP High 認証を取得しました。米国政府機関や請負業者は、Amazon Chime SDK を使用して、FedRAMP High 認証を必要とするワークロード用のアプリケーションを構築できるようになりました。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-chime-sdk-achieves-fedramp-high-authorization/",
           "publishedOn": "2022-04-25T17:40:53.000Z",
-          "wordCount": 268,
+          "wordCount": 266,
           "title": "Amazon Chime SDK が FedRAMP High 認証を取得",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1328,7 +1238,7 @@
           "description": "AWS Key Management Service (AWS KMS) を使用すると、Hash-Based Message Authentication Code (HMAC) の生成と検証に使用できる KMS キーを作成できます。HMAC は強力な暗号化ビルディングブロックであり、ハッシュ関数内にシークレットキーの素材を組み込んで、一意の鍵付きメッセージ認証コードを作成します。HMAC KMS キーは、AWS KMS の FIPS 140-2 検証済み HSM セキュリティ境界内でのみ生成および使用できます。このアーキテクチャは、ローカルアプリケーションソフトウェアでプレーンテキストの HMAC キーを使用するのとは対照的に、これらのシークレットキーが危険にさらされるリスクを最小限に抑えることができます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/",
           "publishedOn": "2022-04-25T17:34:53.000Z",
-          "wordCount": 282,
+          "wordCount": 280,
           "title": "AWS Key Management Service が新しい HMAC APIを導入",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1338,7 +1248,7 @@
           "description": "AWS Elemental MediaTailor でチャネルアセンブリを使用して作成されたリニアチャネルにライブコンテンツをスケジュールできるようになりました。既存のビデオオンデマンド (VOD) カタログからトランスコードおよびパッケージ化された HLS および DASH ストリームを再利用することは既に可能であり、AWS Elemental MediaPackage などのオリジンからのライブストリームをリニアチャネルのスケジュールされたソースとして使用できるようになりました。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-elemental-mediatailor-live-channel-assembly/",
           "publishedOn": "2022-04-25T17:28:53.000Z",
-          "wordCount": 245,
+          "wordCount": 243,
           "title": "AWS Elemental MediaTailor は、チャネルアセンブリでライブソースのサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1348,7 +1258,7 @@
           "description": "AWS Step Functions が、20 を超える新しい AWS SDK 統合と 1000 を超える新しい AWS API アクションのサポートを拡張することにより、AWS SDK との統合を強化します。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-step-functions-expands-support-over-20-new-aws-sdk-integrations/",
           "publishedOn": "2022-04-25T17:22:53.000Z",
-          "wordCount": 266,
+          "wordCount": 264,
           "title": "AWS Step Functions が、20 を超える新しい AWS SDK 統合のサポートを拡張",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1358,7 +1268,7 @@
           "description": "AWS Security Hub が、リージョン間のセキュリティスコアとコンプライアンスステータスのサポートを開始し、すべてのアカウントとリージョンにわたるセキュリティ体制のより完全な表示が可能になりました。昨年、Security Hub は、調査結果に関するリージョン間集計のサポートを追加しました。このリリースにより、Security Hub の機能が拡張され、集約リージョンを設定している場合は、リージョン間のセキュリティスコアとコンプライアンスステータスもサポートされるようになりました。集約リージョン内の各コントロールのそれぞれの標準およびコンプライアンスステータスのセキュリティスコアは、リンクされたリージョン全体での複合ビューを反映します。管理者アカウントと集約リージョンのセキュリティスコアとコンプライアンスステータスは、すべてのアカウントとリージョンの複合ビューを反映します。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-security-hub-cross-region-security-scores-compliance-statuses/",
           "publishedOn": "2022-04-25T17:09:53.000Z",
-          "wordCount": 303,
+          "wordCount": 301,
           "title": "AWS Security Hub が、リージョン間のセキュリティスコアとコンプライアンスステータスを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1367,8 +1277,8 @@
           "author": "aws@amazon.com",
           "description": "AWS Migration Hub は、新しい Migration Hub Orchestrator 機能により、アプリケーションの AWS への移行をオーケストレートするのに役立ちます。大規模な移行プロジェクトの範囲には、通常、移行ツールの選択、段階的な計画、およびさまざまなツールやチームにわたる移行プロセスの追跡が含まれます。Migration Hub Orchestrator は、事前定義されたカスタマイズ可能なワークフローテンプレートを提供し、所定の移行タスク、移行ツール、自動化の機会を提供します。Orchestrator を使用すると、テンプレートをカスタマイズしたり、アプリケーションの移行を自動化したり、進行状況を 1 か所で追跡したりできます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-migration-hub-orchestrator/",
-          "publishedOn": "2022-04-25T17:03:55.000Z",
-          "wordCount": 269,
+          "publishedOn": "2022-04-25T17:03:56.000Z",
+          "wordCount": 267,
           "title": "AWS Migration Hub の新しい移行オーケストレーション機能である Migration Hub Orchestrator を導入",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1378,7 +1288,7 @@
           "description": "AWS Transit Gateway が AWS Direct Connect のサポートとともに、アジアパシフィック (ジャカルタ) の AWS リージョンでご利用いただけるようになりました。AWS Transit Gateway を使えば、何千もの Amazon Virtual Private Cloud (Amazon VPC) とオンプレミスネットワークを 1 つのゲートウェイで接続できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-transfer-family-jakarta-region/",
           "publishedOn": "2022-04-25T16:56:53.000Z",
-          "wordCount": 270,
+          "wordCount": 268,
           "title": "AWS Transit Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1388,7 +1298,7 @@
           "description": "2022 年 1 月の最終更新以降、AWS CloudFormation Registry を拡張し、2022 年 1 月から 3 月の間に 35 の新しいリソースタイプ (下記の全リストを参照) をサポートするようになりました。リソースタイプにはスキーマ (リソースプロパティおよびハンドラー許可) と、基盤となる AWS またはサードパーティーのサービスとの API インタラクションを許可するハンドラーが含まれます。お客様は、Infrastructure as Code として扱うことで、CloudFormation を介してクラウドインフラストラクチャの一部として新たにサポートされるこれらのリソースのライフサイクルを設定、プロビジョニング、および管理できるようになりました。さらに、1 つの新しい AWS のサービス (AWS Billing Conductor) がリリース日に CloudFormation のサポートを追加したことをお知らせします。CloudFormation は、170 を超える AWS のサービス、900 を超えるリソースタイプ、および 40 を超えるサードパーティーのリソースタイプをサポートしています。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/introducing-35-types-cloudformation-registry/",
           "publishedOn": "2022-04-21T15:33:53.000Z",
-          "wordCount": 322,
+          "wordCount": 320,
           "title": "CloudFormation Registry に 35 の新しいリソースタイプを導入",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1398,7 +1308,7 @@
           "description": "本日、AWS Marketplace は、2021 年 11 月に開始された、AMI およびコンテナ製品の前払い契約価格に関する既存のコミットメントを簡単にアップグレードおよび/または更新する機能を開始しました。現在、バイヤーは既存の契約を自動更新したり、コミットメントのライセンス数を増やしたりすることを選択できるため、絶えず変化するビジネスニーズに対応し、AWS でのワークロードの拡大に対応できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-marketplace-modify-ami-container-subscriptions/",
           "publishedOn": "2022-04-21T15:27:54.000Z",
-          "wordCount": 227,
+          "wordCount": 225,
           "title": "AWS Marketplace のお客様は、AMI およびコンテナの事前契約価格ベースのサブスクリプションを変更できるようになりました",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1408,7 +1318,7 @@
           "description": "Amazon Interactive Video Service (Amazon IVS) コンソールおよび動画ストリームリソースの制御や作成を行う API が、アジアパシフィック (ムンバイ)、アジアパシフィック (東京)、アジアパシフィック (ソウル)、米国東部 (バージニア北部)、米国西部 (オレゴン)、欧州 (フランクフルト) リージョンで利用可能になりました。動画の取り込みと配信は、ライブ動画用に最適化されたインフラストラクチャによる、専用のマネージド型ネットワークを介して世界中どこでも行えます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-interactive-video-service-console-apis-additional-regions/",
           "publishedOn": "2022-04-21T15:21:53.000Z",
-          "wordCount": 294,
+          "wordCount": 292,
           "title": "Amazon Interactive Video Service コンソールと API が 4 つの追加リージョンで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1428,7 +1338,7 @@
           "description": "AWS DataSync が AWS アジアパシフィック (ジャカルタ) リージョンでご利用いただけるようになりました。DataSync は、Network File System (NFS) 共有、Server Message Block (SMB) 共有、セルフマネージドオブジェクトストレージ、Hadoop Distributed File System (HDFS)、AWS Snowcone、Amazon Simple Storage Service (Amazon S3) バケット、Amazon Elastic File System (Amazon EFS) ファイルシステム、Amazon FSx for Windows ファイルサーバーのファイルシステム、そして Amazon FSx for Lustre ファイルシステムとの間でデータをコピーできます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-datasync-asia-pacific-jakarta/",
           "publishedOn": "2022-04-21T14:17:53.000Z",
-          "wordCount": 291,
+          "wordCount": 289,
           "title": "AWS DataSync が、AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1438,7 +1348,7 @@
           "description": "Amazon Redshift は、新たに機能が強化された監査ログを提供するようになりました。これにより、レイテンシーを最小限に抑えながら、Amazon CloudWatch を新しいログの送信先として追加することで、分析用のログの配信を高速化できます。このリリースでは、お客様は監査ログを Amazon CloudWatch に直接ストリーミングすることを選択できます。これにより、お客様はリアルタイムのモニタリングを実行できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-enhancements-audit-logging/",
           "publishedOn": "2022-04-21T14:11:53.000Z",
-          "wordCount": 267,
+          "wordCount": 265,
           "title": "Amazon Redshift が監査ログの新たな機能強化を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1448,7 +1358,7 @@
           "description": "次世代の Amazon FSx for Lustre ファイルシステムが、アジアパシフィック (シドニー)、アジアパシフィック (シンガポール)、欧州 (ロンドン) の 3 つの追加の AWS リージョンでご利用いただけるようになりました。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/generation-fsx-luster-system-aws-available-asia-pacific-sydney-europe-london-singapore-regions/",
           "publishedOn": "2022-04-21T14:05:53.000Z",
-          "wordCount": 270,
+          "wordCount": 268,
           "title": "次世代の FSx for Lustre ファイルシステムが、アジアパシフィック (シドニー)、欧州 (ロンドン)、およびアジアパシフィック (シンガポール) の各 AWS リージョンで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1458,7 +1368,7 @@
           "description": "Amazon FSx for OpenZFS ファイルシステムが、欧州 (ロンドン)、アジアパシフィック (シドニー)、およびアジアパシフィック (シンガポール) の 3 つの追加の AWS リージョンで起動できるようになりました。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-openzfs-available-europe-london-signapore-regions/",
           "publishedOn": "2022-04-21T13:59:53.000Z",
-          "wordCount": 268,
+          "wordCount": 266,
           "title": "Amazon FSx for OpenZFS が、欧州 (ロンドン)、アジアパシフィック (シドニー)、およびアジアパシフィック (シンガポール) の各リージョンで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1468,7 +1378,7 @@
           "description": "Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は、Amazon Kendra Quip コネクタを使用して、Quip リポジトリ内のドキュメントのインデックス作成と検索を行うことができます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-kendra-quip-connector-enable-document-search-quip-repository/",
           "publishedOn": "2022-04-21T13:53:53.000Z",
-          "wordCount": 257,
+          "wordCount": 255,
           "title": "Amazon Kendra が Quip Connector をリリースし、Quip リポジトリでドキュメント検索を可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1478,7 +1388,7 @@
           "description": "Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、新しいオーストリアドイツ語のニューラルボイスである Hannah の一般提供を発表できることを嬉しく思います。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-launches-austrian-german-neural-text-speech-voice/",
           "publishedOn": "2022-04-21T13:47:53.000Z",
-          "wordCount": 231,
+          "wordCount": 229,
           "title": "Amazon Polly で新しいオーストリアドイツ語のニューラルテキスト読み上げ音声を新たにローンチ",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1488,7 +1398,7 @@
           "description": "2022 年 4 月 19 日、Amazon は OpenJDK の Amazon Corretto Long-Term Supported (LTS) バージョンの四半期ごとのセキュリティおよびクリティカルアップデートを発表しました。Corretto 18.0.1、17.0.3、11.0.15 および 8u332 のダウンロードが可能となりました。Amazon Corretto は、マルチプラットフォームで、本稼働に対応した、無料の OpenJDK ディストリビューションです。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-corretto-april-2022-quartely-updates/",
           "publishedOn": "2022-04-21T13:41:53.000Z",
-          "wordCount": 250,
+          "wordCount": 248,
           "title": "Amazon Corretto が四半期更新情報を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1498,7 +1408,7 @@
           "description": "スケーラブルで可用性が高く、フルマネージドの Cassandra 互換データベースサービスである Amazon Keyspaces (Apache Cassandra 用) は、オープンソースの Spark Cassandra Connector を使用して、Apache Spark でのデータの読み取りと書き込みをより簡単に行えるようになりました。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-keyspaces-read-write-data-apache-spark/",
           "publishedOn": "2022-04-21T13:35:53.000Z",
-          "wordCount": 288,
+          "wordCount": 286,
           "title": "Amazon Keyspaces により、Apache Spark でのデータの読み取りと書き込みがより簡単に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1508,7 +1418,7 @@
           "description": "Amazon Aurora MySQL 互換エディションのデータベース接続を利用可能な暗号のリストから設定できるようになりました。設定の変更が可能な暗号スイートにより、データベースサーバーが受け付け可能な接続の暗号化についてより多くのセキュリティコントロールが可能になります。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-aurora-mysql-configurable-cipher-suites/",
           "publishedOn": "2022-04-20T13:39:21.000Z",
-          "wordCount": 250,
+          "wordCount": 248,
           "title": "設定の変更が可能な暗号スイートが Amazon Aurora MySQL に利用可能になりました",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1518,7 +1428,7 @@
           "description": "Amazon Kinesis Data Firehose は、Coralogix へのストリーミングデータ配信をサポートするようになりました。これにより、Coralogix ユーザーは、アプリケーションの管理やコードの記述なしにストリーミングデータを取り込むことができるようになりました。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-kinesis-data-firehose-coralogix/",
           "publishedOn": "2022-04-20T13:31:21.000Z",
-          "wordCount": 274,
+          "wordCount": 272,
           "title": "Amazon Kinesis Data Firehose が Coralogix に対応",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1528,7 +1438,7 @@
           "description": "AWS アジアパシフィック (ジャカルタ) リージョンで Service Quotas をご利用いただけるようになりました。これにより、AWS ワークロードの増加に合わせて Service Quotas を表示して、大規模に管理できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-service-quotas-available-jakarta-region/",
           "publishedOn": "2022-04-20T12:26:21.000Z",
-          "wordCount": 278,
+          "wordCount": 276,
           "title": "Service Quotas が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1538,7 +1448,7 @@
           "description": "Amazon Interactive Video Service (Amazon IVS) は、インドネシアとフィリピンで初となる PoP (Point of Presence) をジャカルタとマニラに設置したことを発表しました。この新しいエッジロケーションにより、インドネシアとフィリピンに拠点を置くストリーマーや視聴者は、短いレイテンシーで、より良質の動画を、より多くの容量で楽しめるようになります。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-interactive-video-service-launches-edge-locations-indonesia-philippines/",
           "publishedOn": "2022-04-20T12:18:21.000Z",
-          "wordCount": 264,
+          "wordCount": 262,
           "title": "インドネシアおよびフィリピンで Amazon Interactive Video Service のエッジロケーションが利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1548,7 +1458,7 @@
           "description": "AWS PrivateLink を使用して、仮想プライベートクラウド (AmazonVPC) から AWS Batch API へのプライベートアクセスを行えるようになりました。AWS PrivateLink は、VPC、AWS のサービス、オンプレミスネットワーク間のプライベート接続を提供します。これで、AWS PrivateLink を使用して VPC で AWS Batch リソースを管理し、組織のセキュリティとコンプライアンスの要件を満たすことができるようになりました。AWS PrivateLink を使用するには、Amazon VPC コンソール、SDK、または CLI を使用して、VPC で AWS Batch のインターフェイス VPC エンドポイントを作成します。また、AWS VPN、AWS Direct Connect、VPC ピアリングのいずれかを使用して、オンプレミス環境またはその他の VPC から VPC エンドポイントにアクセスすることもできます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-batch-adds-privatelink/",
           "publishedOn": "2022-04-20T12:12:21.000Z",
-          "wordCount": 273,
+          "wordCount": 271,
           "title": "AWS Batch が、AWS PrivateLink のサポートを追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1558,7 +1468,7 @@
           "description": "AWS DataSync が、Amazon FSx for OpenZFS との間でファイル転送をサポートするようになりました。これは、オープンソースの OpenZFS ファイルシステム上に構築された、信頼性が高く、スケーラブルで、パフォーマンスが高く、機能豊富なファイルストレージを提供するフルマネージドサービスです。DataSync を使用すると、オンプレミスのファイルまたはオブジェクトストレージを FSx for OpenZFS に簡単かつ安全に移行したり、FSx for OpenZFS とオンプレミスストレージまたは AWS ストレージサービスの間でデータの継続的な転送を実行したりできます。また、DataSync を使用して、FSx for OpenZFS ファイルシステムとの間でデータを移動することもできます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-datasync-amazon-fsx-openzfs/",
           "publishedOn": "2022-04-19T12:51:21.000Z",
-          "wordCount": 302,
+          "wordCount": 300,
           "title": "AWS DataSync が、Amazon FSx for OpenZFS との間でデータをコピーできるようになりました",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1568,7 +1478,7 @@
           "description": "本日、AWS DevOps コンピテンシーの DevSecOps カテゴリを発表いたしました。これらの AWS パートナーは、お客様がセキュリティポリシーとガードレールを CI/CD パイプラインに統合するのに役立つ DevSecOps 製品を提供しています。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/devsecops-solutions-competency-partners/",
           "publishedOn": "2022-04-18T20:08:23.000Z",
-          "wordCount": 242,
+          "wordCount": 240,
           "title": "AWS DevOps コンピテンシーパートナーからの DevSecOps ソリューションのご紹介",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1578,7 +1488,7 @@
           "description": "Amazon AppStream 2.0 は Elastic フリートのセッションスクプトを発表します。Amazon AppStream 2.0 Elastic フリート は、お客様が容量管理タスクをなくし、コストを削減できるよう支援します。本日より、AppStream 2.0 Elastic フリートは、オンインスタンスセッションスクリプトを提供します。これらのスクリプトは、AppStream 2.0 Elastic フリートの管理者が一般的に行うシナリオを簡素化するものです。これらのスクリプトを使用すると、ユーザーのストリーミングセッションで特定のイベントが発生したときに、独自のカスタムアクションを実行できます。たとえば、ユーザーのセッションスタート前やセッション終了後に実行するカスタムアクションなどです。セッションの開始前に、アプリケーションやストリーミング環境の設定をはじめ、アプリケーションログの収集、セッション中のセッション情報のモニタリング、セッション終了前のアプリケーションのクリーンアップなどのタスクを簡単に実行できます。セッションスクリプトは、AppStream 2.0 の Always-On および On-Demand フリートで既に利用可能です。Elastic フリートのセッションスクリプト構築をスタートするには、Use Session Scripts to Manage Your AppStream 2.0 Users' Streaming Experiencese Session をご参照ください。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/appstream-custom-scripts-elastic-fleets/",
           "publishedOn": "2022-04-18T12:25:21.000Z",
-          "wordCount": 259,
+          "wordCount": 257,
           "title": "AppStream 2.0 では、Elastic フリートのカスタムセッションスクリプトを有効にします",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1588,7 +1498,7 @@
           "description": "AWS Single Sign-On (AWS SSO) で Microsoft Active Directory (AD) をアイデンティティソースとして使用している場合、AD から AWS SSO に同期するユーザーとグループのリストを設定し、同期を一時停止することが可能になりました。同期を設定することで、データ主権要件に合致したユーザーとグループの同期を行うことができます。また、必要に応じて同期を一時停止したり、希望する時間帯に同期を行うことも可能です。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-single-sign-on-configurable-synchronization-microsoft-active-directory/",
           "publishedOn": "2022-04-18T12:25:21.000Z",
-          "wordCount": 286,
+          "wordCount": 284,
           "title": "AWS Single Sign-On が Microsoft Active Directory の同期設定機能を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1598,7 +1508,7 @@
           "description": "本日、AWS コンテナコンピテンシーのエンタープライズコンテナ管理カテゴリを発表しました。これらの AWS パートナーは、お客様が異なる環境間でコンテナインフラストラクチャとコンテナ化されたワークロードを管理するのに役立つコンテナ管理製品を提供します。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/enterprise-container-management-solutions-aws-competency-partners/",
           "publishedOn": "2022-04-18T12:19:22.000Z",
-          "wordCount": 227,
+          "wordCount": 225,
           "title": "AWS コンテナコンピテンシーパートナーによるエンタープライズコンテナ管理ソリューションの紹介",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1608,7 +1518,7 @@
           "description": "Amazon CloudFront と統合するソフトウェア製品を持つ AWS パートナー向けの新しい Amazon CloudFront Ready プログラムを発表できることを嬉しく思っています。お客様は、クラウドでのアプリケーション構築に移行しており、スケーラブルで非常に魅力的なアプリケーションやオンライン体験を構築および配信するための適切なツールやソフトウェアソリューションを必要としています。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-cloudfront-ready-program/",
           "publishedOn": "2022-04-18T12:15:21.000Z",
-          "wordCount": 251,
+          "wordCount": 249,
           "title": "Amazon CloudFront Ready プログラムの紹介",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1618,7 +1528,7 @@
           "description": "本日、Amazon Elastic Container Registry Public (ECR Public) は、ギャラリーへの変更を発表します。この変更には、ナビゲーションパンくずリンクの実装、ドロップダウンからのイメージ識別子のコピー、イメージ名への発行者エイリアスの追加、およびレポジトリが見つからない場合に表示されるページの更新が含まれます。これらの変更により、イメージの検索と取得が容易になるので、イメージの識別と取得に費やす時間が短縮されます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ecr-public-gallery-breadcrumbs-image-identifier/",
           "publishedOn": "2022-04-18T12:09:22.000Z",
-          "wordCount": 227,
+          "wordCount": 225,
           "title": "Amazon ECR Public がナビゲーションパンくずリンクの実装やドロップダウンからのイメージ識別子のコピーなどのギャラリーの変更を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1628,7 +1538,7 @@
           "description": "新しい EC2 起動エクスペリエンスで作成した Amazon EC2 インスタンスに Amazon FSx ファイルシステムを自動的にアタッチすることが可能になり、豊富な機能と高いパフォーマンスを備えた FSx 共有ファイルストレージを EC2 インスタンスで簡単に使用できるようになりました。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-file-system-ec2-launch-experience/",
           "publishedOn": "2022-04-18T12:05:22.000Z",
-          "wordCount": 279,
+          "wordCount": 277,
           "title": "新しい EC2 起動エクスペリエンスで作成した Amazon EC2 インスタンスに Amazon FSx ファイルシステムを自動的にアタッチすることが可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1638,7 +1548,7 @@
           "description": "本日より、Amazon SageMaker Canvas が AWS アジアパシフィック (東京) リージョンで一般提供を開始しました。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-sagemaker-canvas-available-asia-pacific-tokyo/",
           "publishedOn": "2022-04-18T11:59:21.000Z",
-          "wordCount": 253,
+          "wordCount": 251,
           "title": "Amazon SageMaker Canvas が AWS アジアパシフィック (東京) リージョンで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1648,7 +1558,7 @@
           "description": "Amazon CloudWatch は、CloudWatch メトリクスストリームでパーセンタイルなどの追加統計情報をサポートすることを発表します。メトリクスストリームにより、任意の送信先に対する、継続的でほぼリアルタイムなメトリクスのストリーミングを作成できます。これらの追加統計情報により、メトリクスのパターンと傾向の可視性が向上し、アプリケーションのヘルスとパフォーマンスをより効果的にモニタリングできるようになりました。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-cloudwatch-metric-streams-additional-statistics/",
           "publishedOn": "2022-04-18T11:53:21.000Z",
-          "wordCount": 271,
+          "wordCount": 269,
           "title": "Amazon CloudWatch メトリクスストリームが追加統計情報を新たにサポート",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1658,7 +1568,7 @@
           "description": "本日より、Amazon Virtual Private Cloud (VPC) のお客様は、AWS アジアパシフィック (大阪) リージョンで独自のプレフィックスリストを作成できるようになりました。プレフィックスリストは、VPC セキュリティグループとルートテーブルの設定に使用したり、Resource Access Manager (RAM) を使用して他の AWS アカウントと共有したりできる CIDR ブロックのコレクションです。お客様は、すべてのアカウントでプレフィックスリストを簡単に監査および適用し、一貫したセキュリティ体制とルーティング動作を実現できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-vpc-prefix-list-osaka-region/",
           "publishedOn": "2022-04-18T11:43:21.000Z",
-          "wordCount": 275,
+          "wordCount": 273,
           "title": "Amazon Virtual Private Cloud (VPC) プレフィックスリストが AWS アジアパシフィック (大阪) リージョンで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1668,7 +1578,7 @@
           "description": "AWS Artificial Intelligence (AI) and Machine Learning (ML) Scholarship プログラムは、インテルおよび Udacity と協力して、世界中の場所を問わず、技術分野で十分なサービスを受けることができておらず、過小評価されている学生の申請の受付を開始します。これにより、実践的な学習、カスタマイズされたメンタリング、および毎年授与される 2,500 の Udacity Nanodegree の奨学金のうち最大 2 つを取得できる可能性があります。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-ai-ml-scholarship-program-underrepresented-underserved-students/",
           "publishedOn": "2022-04-18T11:37:21.000Z",
-          "wordCount": 291,
+          "wordCount": 289,
           "title": "AWS AI & ML Scholarship プログラムが、過小評価され、十分なサービスを受けることができない学生の申請の受付を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1678,7 +1588,7 @@
           "description": "本日から、向上した新しいインスタンス起動エクスペリエンスの [ストレージを設定] セクションで作成した新しい Amazon EC2 インスタンスに Amazon EFS ファイルシステムを自動的に追加できるようになり、サーバーレスで伸縮自在なファイルストレージを EC2 で今までよりもシンプルかつ簡単に使用できるようになりました。この統合により、推奨されるマウントオプションで起動時に EFS ファイルシステムをマウントするための EC2 インスタンスの設定プロセスが簡素化されます。さらに、起動エクスペリエンスの [ストレージを設定] セクションから、推奨設定を使用して新しい EFS ファイルシステムを作成することもできます。Amazon EC2 コンソールを離れる必要はありません。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-efs-integration-launch-ec2-console/",
           "publishedOn": "2022-04-18T11:31:21.000Z",
-          "wordCount": 262,
+          "wordCount": 260,
           "title": "Amazon EFS が EC2 コンソールの向上した新しい起動エクスペリエンスと統合",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1688,7 +1598,7 @@
           "description": "Amazon WorkSpaces は、EC2 G4dn ファミリーに基づく 2 つの新しいグラフィックスバンドルである Graphics.g4dn と GraphicsPro.g4dn を導入します。これらのバンドルを使用すると、CUDA、CuDNN、OptiX、Video Codec SDK などの NVIDIA ライブラリを使用して、NVIDIA GPU 向けに最適化されたグラフィックスアプリケーションの費用対効果の高いソリューションとして、クラウド内のデスクトップでグラフィックスおよびコンピューティングが多用されるワークロードを実行できます。マルチプレシジョン Turing Tensor Cores および RT Cores を備えた NVIDIA T4 Tensor Core GPU、AWS カスタム第 2 世代 Intel® Xeon® スケーラブル (Cascade Lake) プロセッサ、およびローカルにデータを保存するために高速アクセスを必要とするアプリケーション向けに設計されたローカル NVMe ストレージが付属しています。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-workspaces-graphics-g4dn-bundles/",
           "publishedOn": "2022-04-18T11:25:21.000Z",
-          "wordCount": 329,
+          "wordCount": 327,
           "title": "Amazon WorkSpaces が、パフォーマンスを向上させ、コストを最適化するための新しい Graphics G4dn バンドルをリリース",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1698,7 +1608,7 @@
           "description": "App Runner 上で実行するアプリケーションのすべてのリクエストトレースを AWS App Runner から AWS X-Ray にストリーミングできるようになりました。デベロッパーは、App Runner を使用して、コンテナ化されたウェブアプリケーションと API をスケールでクラウドにすばやく簡単にデプロイできます。インフラストラクチャを管理する必要はありません。App Runner の X-Ray のサポートにより、これらのアプリケーションが Amazon RDS、DynamoDB、Elasticache などの AWS データサービス、および ECS、EKS、または Fargate 上で実行するアプリケーションとやり取りする際のパフォーマンスを測定することができます。さらに、この起動により、App Runner ユーザーは、X-Ray を使用してアプリケーションへのリクエストのエンドツーエンドのビューを取得し、問題や最適化の可能性を識別するためのインサイトを得ることができます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/",
           "publishedOn": "2022-04-18T11:08:21.000Z",
-          "wordCount": 293,
+          "wordCount": 291,
           "title": "AWS App Runner が AWS X-Ray のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1708,7 +1618,7 @@
           "description": "宇宙望遠鏡科学研究所、DNAStack、米国国立公文書館などからの新規または更新された 16 のデータセットが、次のカテゴリのオープンデータのレジストリで利用可能ですのでご覧ください。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/q2-new-datasets-available-registry-open-data/",
           "publishedOn": "2022-04-18T10:58:21.000Z",
-          "wordCount": 311,
+          "wordCount": 309,
           "title": "宇宙望遠鏡科学研究所、DNAStack、米国国立公文書館などからオープンデータのレジストリで利用できる新しいデータセットが登場",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1718,7 +1628,7 @@
           "description": "Amazon Elastic Container Service (ECS) および Amazon Elastic Kubernetes Service (EKS) のサーバーレスコンピューティングエンジンである AWS Fargate により、お客様は、アプリケーションをより高速にスケーリングできるようになりました。これにより、パフォーマンスが向上し、待機時間が短縮されます。昨年、アプリケーションを最大 16 倍高速にスケールできるようにするいくつかの改善を行いました。これにより、Fargate での大規模なアプリケーションの構築と実行が容易になりました。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-fargate-delivers-scaling-applications/",
           "publishedOn": "2022-04-15T22:07:21.000Z",
-          "wordCount": 269,
+          "wordCount": 267,
           "title": "AWS Fargate でアプリケーションのより高速なスケーリングが可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1728,7 +1638,7 @@
           "description": "Amazon FSx for NetApp ONTAP は、シングルアベイラビリティーゾーン (AZ) デプロイをサポートするようになりました。シングル AZ ファイルシステムは、マルチ AZ ファイルシステムのデータ回復モデルを必要としないユースケース向けに設計されています (開発とテストのワークロードの実行、オンプレミスや他の AWS リージョンに既に保存されているデータのセカンダリコピーの保存など)。シングル AZ ファイルシステムは、これらのユースケースでマルチ AZ ファイルシステムよりも低コストのストレージオプションを提供すると同時に、すべてのデータ管理機能を同じように提供します。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-netapp-ontap-single-availability-zone-deployment/",
           "publishedOn": "2022-04-15T22:01:29.000Z",
-          "wordCount": 283,
+          "wordCount": 281,
           "title": "Amazon FSx for NetApp ONTAP でシングルアベイラビリティーゾーンデプロイオプションを導入",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1738,7 +1648,7 @@
           "description": "Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。JavaScript 3.0 および React Components 3.0 用の Amazon Chime SDK は、ウェブおよび Electron アプリケーションのデベロッパーに、実装をより高速にするとともに、一般的なブラウザと Chromium ランタイム間での一貫性を実現するための簡素化されたデベロッパーエクスペリエンスを提供します。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-chime-sdk-javascript-react-3-0/",
           "publishedOn": "2022-04-15T21:55:21.000Z",
-          "wordCount": 300,
+          "wordCount": 298,
           "title": "JavaScript 3.0 および React Components 3.0 用の Amazon Chime SDK を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1748,7 +1658,7 @@
           "description": "本日、リソースの編成やコスト管理を簡素化する Amazon Personalize リソースのタグ付け機能のサポートを発表いたします。Amazon Personalize により、デベロッパーは、ML の専門知識を必要とせず、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。タグは、キーと値のペアの形式のラベルであり、個々の Amazon Personalize リソースに添付して、リソースを検索およびフィルタリングしたり、コストを割り当てたりすることができます。例えば、ウェブサイトのさまざまなユースケースにリンクされている複数のキャンペーンがある場合、キーを「ウェブサイト」に設定し、値を「ホームページ」または「詳細ページ」に設定することで、2 つのキャンペーンそれぞれの個別の支出を把握できます。また、この機能により、マルチテナントをデプロイする顧客は、エンドカスタマー間の支出を追跡することもできます。タグ付け機能は、データセットグループ、ソリューション、キャンペーン、レコメンダー、インポートジョブ、バッチ推論、バッチセグメントジョブ、その他のリソースなど、多数の Amazon Personalize リソースで利用できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-personalize-resource-tagging/",
           "publishedOn": "2022-04-15T18:01:28.000Z",
-          "wordCount": 241,
+          "wordCount": 239,
           "title": "Amazon Personalize がリソースのタグ付け機能のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1758,7 +1668,7 @@
           "description": "本日、アマゾン ウェブ サービス (AWS)は、AWS Single Sign-On (AWS SSO) が HIPAA (医療保険の相互運用性と説明責任に関する法律) に対応したことを発表しました。AWS SSO は、お客様がワークフォースアイデンティティを作成または接続し、AWS アカウント全体でアクセスを一元的に管理する場所です。HIPAA に対応するとは、HIPAA の対象となる顧客 (健康保険会社、医療提供者、医療クリアリングハウス、医療費を支払う政府プログラム、軍隊および退役軍人の医療プログラム、およびその従業員を含む) が、保護されるべき医療情報 (PHI) を保存、処理、または送信する AWS ワークロードを設定または管理するユーザー、あるいは PHI を利用する AWS SSO と統合されたアプリケーションにサインインするユーザーの認証と承認に AWS SSO を使用できることを意味します。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-single-sign-on-hipaa-eligible/",
           "publishedOn": "2022-04-15T07:31:14.000Z",
-          "wordCount": 348,
+          "wordCount": 346,
           "title": "AWS Single Sign-On が HIPAA 対応になりました",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1768,7 +1678,7 @@
           "description": "AWS PrivateLink を使って、パブリック IP を使用せず、さらにインターネットにトラフィックを経由することなく、Amazon Virtual Private Cloud (Amazon VPC) から Amazon Connect Wisdom インスタンスにプライベートにアクセスできるようになりました。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-wisdom-supports-privatelink/",
           "publishedOn": "2022-04-14T10:32:01.000Z",
-          "wordCount": 293,
+          "wordCount": 291,
           "title": "Amazon Connect Wisdom が PrivateLink のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1778,7 +1688,7 @@
           "description": "AWS OpsWorks for Configuration Management が Puppet Enterprise LTS バージョン 2019.8.10 をサポートするようになりました。お客様は、個別にスケジュールした毎週のシステムメンテナンス期間中に更新を自動的に受け取ることができます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-opsworks-configuration-management-version-puppet-enterprise/",
           "publishedOn": "2022-04-12T08:53:23.000Z",
-          "wordCount": 263,
+          "wordCount": 261,
           "title": "AWS OpsWorks for Configuration Management が Puppet Enterprise をサポート",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1788,7 +1698,7 @@
           "description": "Amazon Redshift が Microsoft Azure Active Directory (AD) とのネイティブ統合を提供するようになり、Microsoft Power BI などのツールでの認証と認可が可能になりました。Azure AD を使用して Amazon Redshift へのアクセスを認証することができるようになったので、エンドユーザーは、Azure AD で定義されたグループメンバーシップに基づいてアクセス許可を取得できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-native-integration-azure-active-directory-power-bi/",
           "publishedOn": "2022-04-12T08:52:36.000Z",
-          "wordCount": 288,
+          "wordCount": 286,
           "title": "Amazon Redshift が Microsoft Azure Active Directory と Microsoft Power BI とのネイティブ統合を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1798,7 +1708,7 @@
           "description": "Amazon RDS for SQL Server が SQL Server エージェントジョブレプリケーションをサポートするようになりました。この新機能では、プライマリインスタンス上で作成、変更、または削除された SQL Server エージェントジョブがマルチ AZ 構成内のセカンダリインスタンスに自動的に同期されます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-sql-server-sql-agent-job-replication/",
           "publishedOn": "2022-04-12T08:51:48.000Z",
-          "wordCount": 253,
+          "wordCount": 251,
           "title": "Amazon RDS for SQL Server が SQL Server エージェントジョブレプリケーションをサポート",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1808,7 +1718,7 @@
           "description": "Amazon Redshift がロールベースのアクセスコントロール (RBAC) をサポートするようになりました。RBAC は、Amazon Redshift のセキュリティ特権の管理を簡素化することのできる新しい機能強化です。RBAC の機能を使用すると、ユーザーのジョブロール/アクセス許可権限とデータの機密レベルに応じて、データへのエンドユーザーアクセスを広範なレベルまたは詳細なレベルで制御できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-role-based-access-control/",
           "publishedOn": "2022-04-12T08:51:00.000Z",
-          "wordCount": 247,
+          "wordCount": 245,
           "title": "Amazon Redshift がロールベースのアクセスコントロール (RBAC) のサポートを発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1818,7 +1728,7 @@
           "description": "2022 年 4 月 1 日から、同じ AWS リージョン内のアベイラビリティーゾーン（AZ）間での AWS PrivateLink、AWS Transit Gateway、および AWS Client VPN のデータ転送が無料になります。以前は、これらのネットワークサービスを使用する際にアベイラビリティーゾーン間でデータを送信すると AZ 間のデータ転送料金が発生していました。この料金変更に伴い、これらのサービスの AZ 間のデータ転送は無料になり、マルチ AZ ワークロードを実行する際のコスト効果がさらに向上します。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-data-transfer-price-reduction-privatelink-transit-gateway-client-vpn-services/",
           "publishedOn": "2022-04-12T08:50:13.000Z",
-          "wordCount": 310,
+          "wordCount": 308,
           "title": "AWS が AWS PrivateLink、AWS Transit Gateway、AWS Client VPN サービスのデータ転送料金の値下げを発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1828,7 +1738,7 @@
           "description": "Amazon Elastic Container Service (Amazon ECS) Exec を使用して、AWS Fargate 上で実行する Windows コンテナでコマンドを実行できるようになりました。ECS Exec を使用すると、実行中のコンテナへのインタラクティブなシェルまたは単一コマンドによるアクセスが可能になり、問題のデバッグ、エラーの診断、1 回限りのダンプと統計の収集、コンテナ内のプロセスとのやり取りが簡単になります。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-commands-windows-container-aws-fargate/",
           "publishedOn": "2022-04-12T08:48:59.000Z",
-          "wordCount": 289,
+          "wordCount": 287,
           "title": "Amazon ECS で AWS Fargate 上の Windows コンテナでのコマンド実行が可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1838,7 +1748,7 @@
           "description": "CloudFront ディストリビューションに加えて、AWS Shield Advanced で保護された Application Load Balancer (ALB) リソースのアプリケーションレイヤーの DDoS 自動緩和を有効にすることができるようになりました。AWS Shield Advanced でリソースを保護し、アプリケーションレイヤーの DDoS 自動緩和を有効にすると、ウエブアクセスコントロールリスト (ACL) に AWS WAF ルールを自動的に作成することでレイヤー 7 の DDoS イベントに関連付けられたパターンの識別と隔離が行われます。これらのルールは、カウントモードで実装して、リソースのトラフィックにどのような影響を与えるかを観察した後、ブロックモードでいつでもデプロイすることができます。また、アプリケーションレイヤーの DDoS イベントに関連する検知、緩和、上位コントリビューターのメトリクスを表示して、さらなる調査や、Shield Advanced が作成した緩和の効果を評価することができます。これらの機能により、アプリケーションの可用性を脅かす DDoS イベントにすばやく対応して緩和することができます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-shield-application-balancer-automatic-ddos-mitigation/",
           "publishedOn": "2022-04-12T03:39:00.000Z",
-          "wordCount": 272,
+          "wordCount": 270,
           "title": "AWS Shield Advanced がアプリケーションレイヤーの DDoS 自動緩和で Application Load Balancer をサポート",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1848,7 +1758,7 @@
           "description": "AWS Lambda の新しい機能である Lambda 関数 URL の提供開始をお知らせします。この新機能は、AWS Lambda サービスの組み込み機能として、HTTPS エンドポイントを介して関数を簡単に呼び出せるようにします。コンソールで 1 回クリックするか、AWS CloudFormation または AWS Serverless Application Model を使用して数行で、関数 URL を新規および既存の関数に追加できます。関数 URL は、Lambda でのウェブサービスの構築を開始する場合や、ウェブフックの構築などの一般的なタスクに最適です。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-lambda-function-urls-built-in-https-endpoints/",
           "publishedOn": "2022-04-12T03:34:51.000Z",
-          "wordCount": 285,
+          "wordCount": 283,
           "title": "AWS Lambda 関数 URL: Lambda 関数用の組み込み HTTPS エンドポイント",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1858,7 +1768,7 @@
           "description": "Amazon Connect が、AWS CloudTrail でイベントとして行われたすべての変更を記録する、ユーザー、ルーティングプロファイル、キューの UI を更新しました。これにより、AWS CloudTrail を調べて、誰がどのアクションを実行したか、どのリソースが実行されたか、イベントがいつ発生したか、ならびに分析や応答に役立つその他の詳細を特定できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-ui-routing-profiles-queues-cloudtrail/",
           "publishedOn": "2022-04-12T03:34:03.000Z",
-          "wordCount": 254,
+          "wordCount": 252,
           "title": "Amazon Connect が、AWS CloudTrail のサポートにより、ユーザー、ルーティングプロファイル、キューの更新された UI のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1868,7 +1778,7 @@
           "description": "AWS Resource Access Manager (AWS RAM) は、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、米国西部 (オレゴン) ではFedRAMPモデレートとして、AWS GovCloud (米国西部) および AWS GovCloud (米国東部) ではFedRAMP Highとして承認されています。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-resource-access-manager-fedramp-compliance/",
           "publishedOn": "2022-04-12T03:33:16.000Z",
-          "wordCount": 292,
+          "wordCount": 290,
           "title": "AWS Resource Access Manager が FedRAMP に準拠",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1878,7 +1788,7 @@
           "description": "AWS Security Hub では、お客様の Cloud Security Posture Management (CSPM) を強化する目的で、基本的なセキュリティのベストプラクティス標準 (FSBP) として 5 つの新しいコントロールが利用できるようになりました。これらのコントロールは、Amazon CloudFront、Amazon Elastic Container Registry (ECR)、Amazon Elastic Load Balancer (ELB)、Amazon Simple Storage Service (S3) のセキュリティベストプラクティスに対する完全な自動チェックを実行します。Security Hub で新しいコントロールを自動的に有効にするように設定し、既に AWS Foundational Security Best Practices を使用している場合は、これらのコントロールがデフォルトで有効化されます。Security Hub では、AWS のセキュリティ体制を自動的にチェックするための 192 のセキュリティコントロールがサポートされるようになりました。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-security-hub-controls-new-integration-partner/",
           "publishedOn": "2022-04-12T03:31:57.000Z",
-          "wordCount": 381,
+          "wordCount": 379,
           "title": "AWS Security Hub が 5 つのコントロールと 1 つの新しい統合パートナーを発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1888,7 +1798,7 @@
           "description": "Amazon Relational Database Service (Amazon RDS) for Oracle が、M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリ集約型のワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-oracle-m6i-r6i-instances/",
           "publishedOn": "2022-04-12T03:31:02.000Z",
-          "wordCount": 358,
+          "wordCount": 356,
           "title": "Amazon RDS for Oracle が M6i と R6i インスタンスのサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1898,7 +1808,7 @@
           "description": "Amazon OpenSearch Service で、IK (中国語) Analysis プラグインでのカスタムディクショナリの使用が可能になりました。カスタムディクショナリのサポートにより、IK Analyzer で適切なキーワードや類義語を使用して、検索結果をビジネスニーズに合わせてカスタマイズすることができます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-opensearch-supports-custom-dictionaries-ik-analysis-plugin/",
           "publishedOn": "2022-04-11T14:08:00.000Z",
-          "wordCount": 264,
+          "wordCount": 262,
           "title": "Amazon OpenSearch Service が IK Analysis プラグインでのカスタムディクショナリの使用のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1908,7 +1818,7 @@
           "description": "AWS マネジメントコンソールで Unified Settings の提供を開始します。Unified Settings を使用すると、設定はデバイス、ブラウザ、およびサービス間で保持されます。起動時に、Unified Settings は、デフォルトの言語、デフォルトのリージョン、およびお気に入りのサービス表示と呼ばれる設定をサポートします。デフォルト言語は、マネジメントコンソール全体で優先言語を表示します。デフォルトリージョンは、ログインまたはサービスコンソールをロードするたびにロードされる AWS リージョンを設定します。お気に入りのサービス表示では、サービスアイコンとフルネームで、またはサービスアイコンのみで、サービスをお気に入りバーに表示します。Unified Settings は、すべてのパブリック AWS リージョンでご利用いただけます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/unified-settings-aws-management-console/",
           "publishedOn": "2022-04-11T12:07:00.000Z",
-          "wordCount": 236,
+          "wordCount": 234,
           "title": "AWS マネジメントコンソールでの Unified Settings 機能の発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1918,7 +1828,7 @@
           "description": "日本の労働者の 78% がコロナ禍に伴う仕事の変化に対応するため、より多くのデジタルスキルが必要になったと回答。一方、デジタルスキル習得を支援するためのレーニング計画を策定している企業・団体は全体の 5 分の 1 未満であることが明らかに\n \n \n2025 年までに最も需要の高いデジタルスキルは、クラウドとサイバーセキュリティ関連スキル\n \n \nデジタルスキルトレーニングに投資する企業・団体の 75% が売上の伸長を、また、84% が従業員の生産性向上、75% がイノベーションのサイクルが迅速になったと回答\n \n \nAWS は本日より、組織全体で継続的なクラウドスキルの学習文化を育む包括的なスキル向上プログラム「AWS Skills Guild」を日本で開始し、企業のお客様のイノベーション支援を強化",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/announcing-new-report-digital-skills-training-changing-workforce-asia-pacific-japan/",
           "publishedOn": "2022-04-11T06:26:00.000Z",
-          "wordCount": 409,
+          "wordCount": 407,
           "title": "AWS、APAC デジタルスキル調査 第 2 弾を公開",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1928,7 +1838,7 @@
           "description": "AWS Compute Optimizer が 66 個の追加の Amazon Elastic Compute Cloud (Amazon EC2) インスタンスタイプをサポートするようになりました。新しくサポートされるインスタンスタイプには、インテルと AMD 両方からの最新世代の汎用インスタンスファミリー (M6i、M6a)、コンピューティング最適化インスタンスファミリー (C6i、C6a)、メモリ最適化インスタンスファミリー (R6i)、およびストレージ最適化インスタンスファミリー (Im4gn、Is4gen) が含まれます。Compute Optimizer へのこれらの追加は、最低コストでの最高のパフォーマンスを確実にするためのレコメンデーションを提供することによって、お客様が常に最適な EC2 インスタンスタイプサイズを確保できるようにします。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-compute-optimizer-ec2-instance-types/",
           "publishedOn": "2022-04-11T05:06:00.000Z",
-          "wordCount": 275,
+          "wordCount": 273,
           "title": "AWS Compute Optimizer が 66 個の新しい EC2 インスタンスタイプをサポート",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1938,7 +1848,7 @@
           "description": "AWS から、AWS AppConfig と Atlassian Marketplace の Jira との統合を発表します。この統合は、AWS AppConfig からの機能フラグを、Atlassian の Jira で個別の問題として追跡することを可能にするため、チームはそのソフトウェアの新機能のリリースを簡単に追跡することができます。AWS AppConfig は AWS Systems Manager の機能です。この統合は、米国ラスベガスでの Atlassian Team 2022 カンファレンスで発表されています。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-jira-integration-appconfig-feature-flag-atlassian-cloud/",
           "publishedOn": "2022-04-11T05:00:00.000Z",
-          "wordCount": 286,
+          "wordCount": 284,
           "title": "AWS が AWS AppConfig 機能フラグと Atlassian の Jira Cloud との統合を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1948,7 +1858,7 @@
           "description": "本日、React を使用して構築されたウェブアプリケーションのための Map および Location Search UI コンポーネントが利用可能になったことをお知らせします。昨年一般公開された Amplify Geo は、フロントエンドデベロッパーが Amazon Location Service を使用してウェブアプリケーションに位置認識機能を追加できるようにします。デベロッパーは今後、コードを 1 行使用するだけで、React ベースのウェブアプリケーションへの最新マッピング機能の追加に React コンポーネントを活用できるようになります。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-amplify-geo-react-maps-location-service/",
           "publishedOn": "2022-04-11T04:54:00.000Z",
-          "wordCount": 273,
+          "wordCount": 271,
           "title": "Amplify Geo が Amazon Location Service を使用したマップ用の React コンポーネントの提供を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1958,7 +1868,7 @@
           "description": "Amazon MemoryDB 向け AWS Controllers for Kubernetes (ACK) は、Kubernetes クラスターから MemoryDB リソースを直接定義して使用することを可能にします。これは、Kubernetes アプリケーションのサポートに MemoryDB を活用できるようにするもので、クラスター外で MemoryDB リソースを定義したり、クラスター内でインメモリデータベース機能を実行して管理したりする必要はありません。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-kubernetes-amazon-memorydb-preview/",
           "publishedOn": "2022-04-11T04:48:00.000Z",
-          "wordCount": 274,
+          "wordCount": 272,
           "title": "Amazon MemoryDB 向け AWS Controllers for Kubernetes プレビューの発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1968,7 +1878,7 @@
           "description": "Amazon DocumentDB (MongoDB 互換) Performance Insights は、データベースの負荷をすばやく評価し、いつどこに措置を講じたらよいかを判断するために役立つ、データベースパフォーマンスのチューニングとモニタリングの機能です。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-documentdb-mongodb-performance-insights-preview/",
           "publishedOn": "2022-04-11T04:42:00.000Z",
-          "wordCount": 266,
+          "wordCount": 264,
           "title": "Amazon DocumentDB (MongoDB 互換) Performance Insights のプレビューが開始されました",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1978,7 +1888,7 @@
           "description": "Amazon EventBridge がグローバルエンドポイントのサポートを開始しました。これは、お客様が AWS でイベント駆動型アプリケーションの可用性を向上させるためのよりシンプルで信頼性の高い方法です。グローバルエンドポイントは、サービスの中断時に、手動での操作を必要とすることなくイベントの取り込みをセカンダリリージョンに自動でフェイルオーバーすることによって、お客様が堅牢で信頼性のあるアプリケーションを簡単に構築できるようにする新しい機能です。お客様は、レプリケーションを使用して、これらのサービス中断時にリスクにさらされるデータを最小限に抑えることができます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-eventbridge-global-endpoints-automatic-failover-recovery/",
           "publishedOn": "2022-04-11T04:36:01.000Z",
-          "wordCount": 255,
+          "wordCount": 253,
           "title": "Amazon EventBridge が自動フェイルオーバーと復旧のためのグローバルエンドポイントを導入",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1988,7 +1898,7 @@
           "description": "Amazon OpenSearch Service に、可観測性インターフェイスとログモニタリング機能が含まれるようになりました。これにより、デベロッパーや DevOps エンジニアは、パフォーマンスの問題をより迅速に診断し、アプリケーションのダウンタイムを削減するために必要なインサイトを得ることができます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-opensearch-observability-interface-log-analytics/",
           "publishedOn": "2022-04-08T10:03:02.000Z",
-          "wordCount": 294,
+          "wordCount": 292,
           "title": "Amazon OpenSearch Service に 可観測性 インターフェイスが含まれるようになり、ログ分析が拡張されました",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1998,7 +1908,7 @@
           "description": "Metrics Insights は、一般公開開始となった Amazon CloudWatch の新機能です。高速で柔軟な、SQL ベースのクエリエンジンである Metrics Insights は、デベロッパー、オペレーター、システムエンジニア、クラウドソリューションアーキテクトが何百万ものオペレーションメトリクスをリアルタイムで傾向とパターンを識別するのを支援し、これらのインサイトを使用して解決までの時間を短縮できるようにします。Metrics Insights を使用すると、柔軟なクエリとオンザフライのメトリクス集計により、インフラストラクチャの可視性と大規模アプリケーションのパフォーマンスを向上させることができます。Metrics Insights およびその他の CloudWatch の機能を使用して、AWS 環境およびハイブリッド環境をモニタリングし、オペレーション上の問題に迅速に対応します。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-cloudwatch-metrics-insights/",
           "publishedOn": "2022-04-08T09:57:01.000Z",
-          "wordCount": 262,
+          "wordCount": 260,
           "title": "Amazon CloudWatch Metrics Insights のご紹介 (一般公開)",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -2008,7 +1918,7 @@
           "description": "Amazon Connect が、録音された音声プロンプトを Amazon S3 バケットから直接再生できるようになり、自動音声システムでパーソナライズされたカスタマーエクスペリエンスを簡単に作成できるようになりました。音声プロンプトとは、ウェルカムグリーティングの再生、顧客からの情報の要求、顧客の希望する取引の案内など、顧客とのやり取り中に再生される音声ファイルです。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-dynamic-voice-playback-s3/",
           "publishedOn": "2022-04-08T09:51:00.000Z",
-          "wordCount": 237,
+          "wordCount": 235,
           "title": "Amazon Connect が、Amazon S3 からの動的な音声プロンプト再生を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }

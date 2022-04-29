@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-28T00:34:39.412Z</id>
+    <id>urn:2022-04-29T00:26:39.368Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-28T00:34:39.412Z</updated>
+    <updated>2022-04-29T00:26:39.368Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Lab Services April 2022 update]]></title>
+        <id>public-preview-azure-lab-services-april-2022-update</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-lab-services-april-2022-update/"/>
+        <updated>2022-04-28T17:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Improve performance, reliability, and scalability for Azure Lab Services in the latest update.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Azure Functions Linux Elastic Premium plan increased maximum scale-out limits]]></title>
+        <id>generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits/"/>
+        <updated>2022-04-28T15:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Maximum scale-out limits for Functions Linux Premium plans have been increased in a number of regions.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public preview: Azure Compute Gallery feature ‘community gallery’]]></title>
         <id>communitygallerypreview</id>
@@ -230,11 +250,7 @@
         <id>generally-available-scaledown-mode-in-aks</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-scaledown-mode-in-aks/"/>
         <updated>2022-04-27T16:00:34.000Z</updated>
-        <summary type="html"><![CDATA[You can now select if you would like your AKS nodes to be deleted or deallocated when scaled down.When a node is deallocated, the attached storage as well as the container image is still present on the node. When scaling up your deployments, all deallocated nodes will be started first before provisioning new nodes. This allows for faster operation speeds as your deployment leverages cached images. Scale-down mode allows you to no longer have to pre-provision nodes and pre-pull container images.
-
-With the move of preview to GA, scale-down mode now supports spot node pools.
-
-For more info, visit: https://docs.microsoft.com/en-us/azure/aks/scale-down-mode]]></summary>
+        <summary type="html"><![CDATA[You can now select if you would like your AKS nodes to be deleted or deallocated when scaled down.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -553,7 +569,7 @@ For more info, visit: https://docs.microsoft.com/en-us/azure/aks/scale-down-mode
         <title type="html"><![CDATA[AWS Migration Hub の新しい移行オーケストレーション機能である Migration Hub Orchestrator を導入]]></title>
         <id>a7bfb24d1b54ec6ba33fea5ef5858b470655fc2c</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-migration-hub-orchestrator/"/>
-        <updated>2022-04-25T17:03:55.000Z</updated>
+        <updated>2022-04-25T17:03:56.000Z</updated>
         <summary type="html"><![CDATA[AWS Migration Hub は、新しい Migration Hub Orchestrator 機能により、アプリケーションの AWS への移行をオーケストレートするのに役立ちます。大規模な移行プロジェクトの範囲には、通常、移行ツールの選択、段階的な計画、およびさまざまなツールやチームにわたる移行プロセスの追跡が含まれます。Migration Hub Orchestrator は、事前定義されたカスタマイズ可能なワークフローテンプレートを提供し、所定の移行タスク、移行ツール、自動化の機会を提供します。Orchestrator を使用すると、テンプレートをカスタマイズしたり、アプリケーションの移行を自動化したり、進行状況を 1 か所で追跡したりできます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
@@ -1904,116 +1920,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-node-autodrain-for-aks/"/>
         <updated>2022-03-30T16:00:36.000Z</updated>
         <summary type="html"><![CDATA[AKS now minimizes unexpected disruptions by handling maintenance events and offloading applications via auto-drain node feature.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure classic storage accounts will be retired on 31 August 2024]]></title>
-        <id>classic-azure-storage-accounts-will-be-retired-on-31-august-2024</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/classic-azure-storage-accounts-will-be-retired-on-31-august-2024/"/>
-        <updated>2022-03-29T23:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Migrate your classic storage accounts to Azure Resource Manager by 31 August 2024.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NV-series and NV Promo Azure Virtual Machines retirement extended to 31 August 2023]]></title>
-        <id>nvseries-and-nv-promo-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/nvseries-and-nv-promo-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023/"/>
-        <updated>2022-03-29T21:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Move to GPU accelerated virtual machines by 31 August 2023.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ND-series Azure Virtual Machines retirement extended to 31 August 2023]]></title>
-        <id>ndseries-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/ndseries-azure-virtual-machines-retirement-will-be-extended-to-31-august-2023/"/>
-        <updated>2022-03-29T21:14:54.000Z</updated>
-        <summary type="html"><![CDATA[Transition to new HPC virtual machines by 31 August 2023.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update: NV-series and NV_Promo Azure Virtual Machines will be retired on 31 August 2023]]></title>
-        <id>nvseries-and-nvpromo-azure-virtual-machines-will-be-retired-by-31-august-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/nvseries-and-nvpromo-azure-virtual-machines-will-be-retired-by-31-august-2022/"/>
-        <updated>2022-03-29T19:55:33.000Z</updated>
-        <summary type="html"><![CDATA[Move to GPU accelerated virtual machines by 31 August 2023.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update: ND-series Azure Virtual Machines will be retired on 31 August 2023]]></title>
-        <id>ndseries-azure-virtual-machines-will-be-retired-by-31-august-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/ndseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"/>
-        <updated>2022-03-29T19:54:49.000Z</updated>
-        <summary type="html"><![CDATA[Transition to new HPC virtual machines by 31 August 2023.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update: NC v2-series Azure Virtual Machines will be retired on 31 August 2023]]></title>
-        <id>nc-v2series-azure-virtual-machines-will-be-retired-by-31-august-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/nc-v2series-azure-virtual-machines-will-be-retired-by-31-august-2022/"/>
-        <updated>2022-03-29T19:10:42.000Z</updated>
-        <summary type="html"><![CDATA[Transition to new HPC virtual machines by 31 August 2023.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NC v2-series Azure Virtual Machines retirement extended to 31 August 2023]]></title>
-        <id>nc-v2-series-azure-virtual-machines-retirement-extended-to-31-august-2023</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/nc-v2-series-azure-virtual-machines-retirement-extended-to-31-august-2023/"/>
-        <updated>2022-03-29T19:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Transition to new HPC virtual machines by 31 August 2023.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NC-series Azure Virtual Machines retirement extended to 31 August 2023]]></title>
-        <id>ncseries-azure-virtual-machines-retirement-extended-to-31-august-2023</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/ncseries-azure-virtual-machines-retirement-extended-to-31-august-2023/"/>
-        <updated>2022-03-29T18:20:14.000Z</updated>
-        <summary type="html"><![CDATA[Transition to new HPC virtual machines by 31 August 2023.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update: NC-series Azure Virtual Machines will be retired on 31 August 2023]]></title>
-        <id>ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"/>
-        <updated>2022-03-29T18:19:45.000Z</updated>
-        <summary type="html"><![CDATA[Transition to new HPC virtual machines by 31 August 2023.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:Data Lake Storage Gen2 のアクセス時間ベースのライフサイクル管理ルール]]></title>
-        <id>access-time-based-lifecycle-management-adls-gen2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/access-time-based-lifecycle-management-adls-gen2/"/>
-        <updated>2022-03-29T16:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Azure Data Lake Storage Gen2 におけるオブジェクトのアクセス時間追跡と最終アクセス時間に基づくライフサイクル管理ポリシー。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: The new Azure Front Door – a modern cloud CDN service]]></title>
-        <id>generally-available-the-new-azure-front-door-a-modern-cloud-cdn-service</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-the-new-azure-front-door-a-modern-cloud-cdn-service/"/>
-        <updated>2022-03-29T16:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Azure Front Door is a modern cloud CDN that enables you to accelerate the delivery of applications, APIs, and content on Azure or anywhere at scale.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
