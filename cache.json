@@ -754,46 +754,6 @@
           "wordCount": 1913,
           "title": "Public preview: Azure Bastion support for Kerberos authentication",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-2c27a7473944b88f17a8878febc35ba6af5170145b5b9e4ce8117f8ba9a4c591/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "simplified-compute-node-communication",
-          "author": null,
-          "description": "Azure Batch offers simplified, efficient node communication within the Batch pool and Azure resources (storage, AppPackage storage accounts, output files, and other resources).",
-          "link": "https://azure.microsoft.com/ja-jp/updates/simplified-compute-node-communication/",
-          "publishedOn": "2022-03-31T17:00:07.000Z",
-          "wordCount": 1902,
-          "title": "Public preview: Simplified compute node communication",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-2c27a7473944b88f17a8878febc35ba6af5170145b5b9e4ce8117f8ba9a4c591/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "public-preview-azure-arc-integration-with-vmware-vsphere",
-          "author": null,
-          "description": "Manage the lifecycle and guest OS operations of VMware vSphere VMs through Azure Arc by connecting your VMware vCenter servers (on-premises or on Azure VMware Solution) to Azure.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-azure-arc-integration-with-vmware-vsphere/",
-          "publishedOn": "2022-03-31T16:00:08.000Z",
-          "wordCount": 1984,
-          "title": "Public preview: Azure Arc integration with VMware vSphere and Azure VMware Solution",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-2c27a7473944b88f17a8878febc35ba6af5170145b5b9e4ce8117f8ba9a4c591/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "azure-stream-analytics-11-new-regions-are-now-generally-available",
-          "author": null,
-          "description": "Azure Stream Analytics is a fully managed, real-time analytics service designed to help you analyze and process fast moving streams of data.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/azure-stream-analytics-11-new-regions-are-now-generally-available/",
-          "publishedOn": "2022-03-31T16:00:07.000Z",
-          "wordCount": 1901,
-          "title": "Generally available: Azure Stream Analytics in 10 new regions",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-2c27a7473944b88f17a8878febc35ba6af5170145b5b9e4ce8117f8ba9a4c591/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "general-availability-bring-your-own-ip-byoip-ranges-to-azure",
-          "author": null,
-          "description": "Bring your own public IP ranges to Azure to retain existing reputation or to prevent your customers from needing to modify dependencies (e.g. firewalls or other hardcoding) on their network.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-bring-your-own-ip-byoip-ranges-to-azure/",
-          "publishedOn": "2022-03-31T16:00:06.000Z",
-          "wordCount": 1939,
-          "title": "General availability: Bring your own IP ranges to Azure",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-2c27a7473944b88f17a8878febc35ba6af5170145b5b9e4ce8117f8ba9a4c591/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },

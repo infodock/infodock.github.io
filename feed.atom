@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-30T00:30:29.740Z</id>
+    <id>urn:2022-05-01T00:33:42.997Z</id>
     <title>Info Dock</title>
-    <updated>2022-04-30T00:30:29.740Z</updated>
+    <updated>2022-05-01T00:33:42.997Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1760,46 +1760,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-bastion-support-for-kerberos-authentication/"/>
         <updated>2022-04-04T16:00:08.000Z</updated>
         <summary type="html"><![CDATA[Azure Bastion now supports the Kerberos authentication protocol in public preview.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Simplified compute node communication]]></title>
-        <id>simplified-compute-node-communication</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/simplified-compute-node-communication/"/>
-        <updated>2022-03-31T17:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Azure Batch offers simplified, efficient node communication within the Batch pool and Azure resources (storage, AppPackage storage accounts, output files, and other resources).]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Arc integration with VMware vSphere and Azure VMware Solution]]></title>
-        <id>public-preview-azure-arc-integration-with-vmware-vsphere</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-arc-integration-with-vmware-vsphere/"/>
-        <updated>2022-03-31T16:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Manage the lifecycle and guest OS operations of VMware vSphere VMs through Azure Arc by connecting your VMware vCenter servers (on-premises or on Azure VMware Solution) to Azure.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Stream Analytics in 10 new regions]]></title>
-        <id>azure-stream-analytics-11-new-regions-are-now-generally-available</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-stream-analytics-11-new-regions-are-now-generally-available/"/>
-        <updated>2022-03-31T16:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Azure Stream Analytics is a fully managed, real-time analytics service designed to help you analyze and process fast moving streams of data.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Bring your own IP ranges to Azure]]></title>
-        <id>general-availability-bring-your-own-ip-byoip-ranges-to-azure</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-bring-your-own-ip-byoip-ranges-to-azure/"/>
-        <updated>2022-03-31T16:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Bring your own public IP ranges to Azure to retain existing reputation or to prevent your customers from needing to modify dependencies (e.g. firewalls or other hardcoding) on their network.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
