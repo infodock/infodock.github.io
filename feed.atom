@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-02T00:26:04.984Z</id>
+    <id>urn:2022-05-03T00:28:09.866Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-02T00:26:04.984Z</updated>
+    <updated>2022-05-03T00:28:09.866Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Static Web Apps support for preview environments in Azure DevOps]]></title>
+        <id>public-preview-static-web-apps-support-for-preview-environments-in-azure-devops</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-static-web-apps-support-for-preview-environments-in-azure-devops/"/>
+        <updated>2022-05-02T20:56:48.000Z</updated>
+        <summary type="html"><![CDATA[You can now deploy Static Web Apps to staging environments using Azure DevOps.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Object replication on premium blob storage and rule limit increased]]></title>
+        <id>generally-available-object-replication-for-premium-block-blob-and-rule-limit-increase-to-1000-on-azure-blob-storage</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-object-replication-for-premium-block-blob-and-rule-limit-increase-to-1000-on-azure-blob-storage/"/>
+        <updated>2022-05-02T19:00:07.000Z</updated>
+        <summary type="html"><![CDATA[You can now replicate your block blobs to region of your choice with object replication for premium block blobs and rule limit is increased to 1000 containers per replication policy.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IAM を使用して、リソースを含むアカウント、OU、または組織に基づいてリソースへのアクセスをコントロール]]></title>
+        <id>a143273fc036c93d3f8d76eee89cb99c778e4f43</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/iam-access-resource-organization/"/>
+        <updated>2022-05-02T18:49:41.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Identity and Access Management (IAM) は、リソースを含む AWS Organizations のアカウント、組織単位 (OU)、または組織に基づいてリソースへのアクセスをコントロールできる新しい方法を導入しました。AWS では、ワークロードの増大に応じて、複数のアカウントを設定することをお勧めしています。マルチアカウント環境を使用すると、特定のセキュリティ要件があるワークロードまたはアプリケーションを分離することによる柔軟なセキュリティコントロールなど、いくつかの利点があります。この新しい IAM 機能を使用すると、IAM ポリシーを作成して、プリンシパルが特定の AWS アカウント、OU、または組織内のリソースのみにアクセスできるようにできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Polly が、ポルトガル語でニューラル TTS 音声の提供を開始]]></title>
+        <id>2f14c73ca99bc2c22f320f47a8d17cb0ffcc0dfe</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-offers-neural-tts-voice-portuguese/"/>
+        <updated>2022-05-02T18:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly のイベリアポルトガル語の女性の音声合成 (TTS) 音声である 「Inês」のニューラルバージョンの一般提供開始をお知らせいたします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) が、ポッドアフィニティをサポートする Karpenter v0.9.0 を発表]]></title>
+        <id>fa728e0a89e4c2265acbae984fe080de9bcfc9e6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-eks-karpenter-v0-9-0-pod-affinity/"/>
+        <updated>2022-05-02T18:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) が、Karpenter オープンソースクラスター自動スケーリングプロジェクトの v0.9.0 o発表しました。Karpenter は、柔軟性のある高性能の Kubernetes Cluster Autoscaler で、アプリケーションの可用性とリソースの使用率を向上させることができます。Karpenter v0.9.0 はKubernetes podAffinity および podAntiAffinity のスケジュール制約のサポートを追加します。これにより、一般的なサードパーティの Helm チャートとの互換性が高まり、高可用性のユースケースのサポートが拡張されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Video Analyzer (preview) will be retired on 30 November 2022]]></title>
+        <id>video-analyzer-retirement</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/video-analyzer-retirement/"/>
+        <updated>2022-05-02T16:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Azure Video Analyzer (preview) will be retired on 30 November 2022 – transition to either Dynamics Connected Spaces or Open Source solutions by that date]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Machine Learning announcements for March 2022]]></title>
+        <id>general-availability-azure-machine-learning-announcements-for-march-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-machine-learning-announcements-for-march-2022/"/>
+        <updated>2022-05-02T15:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Label data with text classification using machine learning assist.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Machine Learning announcements for March 2022]]></title>
+        <id>public-preview-azure-machine-learning-announcements-for-march-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-machine-learning-announcements-for-march-2022/"/>
+        <updated>2022-05-02T15:00:05.000Z</updated>
+        <summary type="html"><![CDATA[New features include multi-class, multi-label, and named entity recognition, search for Azure Machine Learning assets across multiple workspaces, and label with text named entity recognition.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Machine Learning announcements for April 2022]]></title>
+        <id>public-preview-azure-machine-learning-announcements-for-april-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-machine-learning-announcements-for-april-2022/"/>
+        <updated>2022-05-02T15:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Compartmentalize access to data with identity passthrough and configure email notifications from Azure Learning.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure Machine Learning Reinforcement Learning preview will be retired on 30 June 2022]]></title>
         <id>azure-machine-learning-reinforcement-learning-preview-will-be-retired-after-june-2022</id>
@@ -539,7 +629,7 @@
         <title type="html"><![CDATA[Amazon Chime SDK が FedRAMP High 認証を取得]]></title>
         <id>d72d1c0aa0854c58bbe0ba9672da447f1e662cee</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-chime-sdk-achieves-fedramp-high-authorization/"/>
-        <updated>2022-04-25T17:40:53.000Z</updated>
+        <updated>2022-04-25T17:40:55.000Z</updated>
         <summary type="html"><![CDATA[Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。Amazon Chime SDK が、AWS GovCloud (米国)リージョンで FedRAMP High 認証を取得しました。米国政府機関や請負業者は、Amazon Chime SDK を使用して、FedRAMP High 認証を必要とするワークロード用のアプリケーションを構築できるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
@@ -569,7 +659,7 @@
         <title type="html"><![CDATA[AWS Step Functions が、20 を超える新しい AWS SDK 統合のサポートを拡張]]></title>
         <id>f3ae893c203b494601185f36904d8747e7e8f392</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-step-functions-expands-support-over-20-new-aws-sdk-integrations/"/>
-        <updated>2022-04-25T17:22:53.000Z</updated>
+        <updated>2022-04-25T17:22:54.000Z</updated>
         <summary type="html"><![CDATA[AWS Step Functions が、20 を超える新しい AWS SDK 統合と 1000 を超える新しい AWS API アクションのサポートを拡張することにより、AWS SDK との統合を強化します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
@@ -1486,16 +1576,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS マネジメントコンソールでの Unified Settings 機能の発表]]></title>
-        <id>e9e18d2f0d38e91683d0df409c5ddabb5ef8b414</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/unified-settings-aws-management-console/"/>
-        <updated>2022-04-11T12:07:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS マネジメントコンソールで Unified Settings の提供を開始します。Unified Settings を使用すると、設定はデバイス、ブラウザ、およびサービス間で保持されます。起動時に、Unified Settings は、デフォルトの言語、デフォルトのリージョン、およびお気に入りのサービス表示と呼ばれる設定をサポートします。デフォルト言語は、マネジメントコンソール全体で優先言語を表示します。デフォルトリージョンは、ログインまたはサービスコンソールをロードするたびにロードされる AWS リージョンを設定します。お気に入りのサービス表示では、サービスアイコンとフルネームで、またはサービスアイコンのみで、サービスをお気に入りバーに表示します。Unified Settings は、すべてのパブリック AWS リージョンでご利用いただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS、APAC デジタルスキル調査 第 2 弾を公開]]></title>
         <id>0baa57f50e929bd881c812f807a63e8d4c2738d3</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/announcing-new-report-digital-skills-training-changing-workforce-asia-pacific-japan/"/>
@@ -1575,31 +1655,11 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon OpenSearch Service に 可観測性 インターフェイスが含まれるようになり、ログ分析が拡張されました]]></title>
-        <id>80e51e62d129fadd31d087db4dd17945c381e7e7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-opensearch-observability-interface-log-analytics/"/>
-        <updated>2022-04-08T10:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazon OpenSearch Service に、可観測性インターフェイスとログモニタリング機能が含まれるようになりました。これにより、デベロッパーや DevOps エンジニアは、パフォーマンスの問題をより迅速に診断し、アプリケーションのダウンタイムを削減するために必要なインサイトを得ることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon CloudWatch Metrics Insights のご紹介 (一般公開)]]></title>
         <id>f74ed4f7cfb6e7e31403b6a3554d872c6d0854ec</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-cloudwatch-metrics-insights/"/>
         <updated>2022-04-08T09:57:01.000Z</updated>
         <summary type="html"><![CDATA[Metrics Insights は、一般公開開始となった Amazon CloudWatch の新機能です。高速で柔軟な、SQL ベースのクエリエンジンである Metrics Insights は、デベロッパー、オペレーター、システムエンジニア、クラウドソリューションアーキテクトが何百万ものオペレーションメトリクスをリアルタイムで傾向とパターンを識別するのを支援し、これらのインサイトを使用して解決までの時間を短縮できるようにします。Metrics Insights を使用すると、柔軟なクエリとオンザフライのメトリクス集計により、インフラストラクチャの可視性と大規模アプリケーションのパフォーマンスを向上させることができます。Metrics Insights およびその他の CloudWatch の機能を使用して、AWS 環境およびハイブリッド環境をモニタリングし、オペレーション上の問題に迅速に対応します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect が、Amazon S3 からの動的な音声プロンプト再生を開始]]></title>
-        <id>127dc40c9c6c6158b82b016ec9926a8ec172312d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-dynamic-voice-playback-s3/"/>
-        <updated>2022-04-08T09:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect が、録音された音声プロンプトを Amazon S3 バケットから直接再生できるようになり、自動音声システムでパーソナライズされたカスタマーエクスペリエンスを簡単に作成できるようになりました。音声プロンプトとは、ウェルカムグリーティングの再生、顧客からの情報の要求、顧客の希望する取引の案内など、顧客とのやり取り中に再生される音声ファイルです。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
