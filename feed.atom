@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-03T00:28:09.866Z</id>
+    <id>urn:2022-05-04T00:26:22.207Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-03T00:28:09.866Z</updated>
+    <updated>2022-05-04T00:26:22.207Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Enhancements to Azure Web Application Firewall]]></title>
+        <id>generally-available-enhancements-to-azure-web-application-firewall</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-enhancements-to-azure-web-application-firewall/"/>
+        <updated>2022-05-03T17:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Latest updates and new enhancements available for Azure Web Application Firewall (WAF).]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Event Grid enables user authorization to create partner topics]]></title>
+        <id>public-preview-event-grid-enables-user-authorization-to-create-partner-topics</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-event-grid-enables-user-authorization-to-create-partner-topics/"/>
+        <updated>2022-05-03T16:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Gain a greater security stance by explicitly authorizing a partner to create partner topics or partner destinations in your Azure subscription.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT TwinMaker の一般提供を開始]]></title>
+        <id>199ec1db2abd212a2cb55129692d7cebfa8206d3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-iot-twinmaker-now-generally-available/"/>
+        <updated>2022-05-03T04:24:33.000Z</updated>
+        <summary type="html"><![CDATA[本日、建物や工場、生産ライン、設備などの実際実際のシステムのデジタルツインをデベロッパーが簡単に作成できるサービス AWS IoT TwinMaker の一般提供を発表します。スマートビルディング、製造、建設、エネルギー、電力・ユーティリティなどの業界で、お客様がより良いオペレーションと戦略的な意思決定を行うために、デジタルツインの導入が進んでいます。AWS IoT TwinMaker を使用することで、デジタルツインを構築するために必要なツールを手に入れ、生産工程のモニタリングと改善に役立てることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public preview: Static Web Apps support for preview environments in Azure DevOps]]></title>
         <id>public-preview-static-web-apps-support-for-preview-environments-in-azure-devops</id>
@@ -1590,16 +1620,6 @@
  
  
 AWS は本日より、組織全体で継続的なクラウドスキルの学習文化を育む包括的なスキル向上プログラム「AWS Skills Guild」を日本で開始し、企業のお客様のイノベーション支援を強化]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Compute Optimizer が 66 個の新しい EC2 インスタンスタイプをサポート]]></title>
-        <id>8ea5a540077bdb08a1f63221d236f47cb3219a5c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-compute-optimizer-ec2-instance-types/"/>
-        <updated>2022-04-11T05:06:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Compute Optimizer が 66 個の追加の Amazon Elastic Compute Cloud (Amazon EC2) インスタンスタイプをサポートするようになりました。新しくサポートされるインスタンスタイプには、インテルと AMD 両方からの最新世代の汎用インスタンスファミリー (M6i、M6a)、コンピューティング最適化インスタンスファミリー (C6i、C6a)、メモリ最適化インスタンスファミリー (R6i)、およびストレージ最適化インスタンスファミリー (Im4gn、Is4gen) が含まれます。Compute Optimizer へのこれらの追加は、最低コストでの最高のパフォーマンスを確実にするためのレコメンデーションを提供することによって、お客様が常に最適な EC2 インスタンスタイプサイズを確保できるようにします。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
