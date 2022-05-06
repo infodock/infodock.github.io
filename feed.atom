@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-05T00:26:30.267Z</id>
+    <id>urn:2022-05-06T00:25:39.179Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-05T00:26:30.267Z</updated>
+    <updated>2022-05-06T00:25:39.179Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Control the minimum TLS version used with Azure Service Bus]]></title>
+        <id>policy-to-control-the-minimum-tls-version-used-with-azure-service-bus-now-in-public-preview</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/policy-to-control-the-minimum-tls-version-used-with-azure-service-bus-now-in-public-preview/"/>
+        <updated>2022-05-05T19:00:53.000Z</updated>
+        <summary type="html"><![CDATA[To enforce stricter security measures, you can now configure your Service Bus namespace to require that clients send and receive data with a minimum version of TLS.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Virtual Network NAT health checks available via Resource Health]]></title>
+        <id>azure-resource-health-for-virtual-network-nat</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-resource-health-for-virtual-network-nat/"/>
+        <updated>2022-05-05T17:00:52.000Z</updated>
+        <summary type="html"><![CDATA[With Azure Resource Health, diagnose and get support for service problems that affect Virtual Network NAT (NAT gateway).]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for PostgreSQL が、最大 128 vCPU と 1,024 GiB RAM の新しいインスタンスサイズを持つ M6i および R6i インスタンスをサポート]]></title>
+        <id>91ff9edad29ddf78f3c7253faceab855832744dc</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-postgresql-supports-m6i-r6i-instances/"/>
+        <updated>2022-05-05T10:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for PostgreSQL  のバージョン 11 以降が、M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリを多用するワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将来の SAP デプロイを簡略化するために、AWS Launch Wizard の入力のクローンを作成する]]></title>
+        <id>2a6f50fc2952071073e786cc89bf64bbf4890342</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-launch-wizard-simplify-future-sap-deployments/"/>
+        <updated>2022-05-05T10:35:05.000Z</updated>
+        <summary type="html"><![CDATA[AWS Launch Wizard で新たに、SAP システムをデプロイするときに、将来のデプロイ用として、入力のクローンを作成できるようになりました。ほとんどのケースで、これらのパラメータの主なものは、デプロイ間で変化しません。今回のリリースで、後のデプロイ時にすべてのパラメータを手作業ですべて入力し直す必要がなくなり、時間を短縮し、デプロイごとに異なるわずかなパラメータに集中することでエラーを減らすことにつながります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Service Catalog で AWS クラウド開発キット (AWS CDK) のサポートを開始]]></title>
+        <id>470c6c70e35257e279d544aeea50f5c52d86425c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-service-catalog-support-aws-cloud-development-kit-aws-cdk-available/"/>
+        <updated>2022-05-05T10:33:47.000Z</updated>
+        <summary type="html"><![CDATA[AWS Service Catalog で AWS クラウド開発キット (AWS CDK) の構成要素がご利用いただけるようになりました。Service Catalog の管理者は、AWS CloudFormation をデプロイする CDK アプリケーションでコードにカタログを定義できるようになりました。また、Amazon Simple Storage Service (Amazon S3) または AWS CodeCommit で最初に CloudFormation テンプレートをアップロードしたり、参照したりすることなく、CDK のコードで Service Catalog 製品をすべて定義することもできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Network Firewall で AWS Managed Threat Signatures のサポートを開始]]></title>
+        <id>20799cd045fff5fd9ee5acc5dfc298f459516154</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-network-firewall-threat-signatures/"/>
+        <updated>2022-05-05T10:32:59.000Z</updated>
+        <summary type="html"><![CDATA[AWS Network Firewall で AWS Managed Threat Signatures のサポートが始まりました。この機能は脅威を検出し、既知の脆弱性に対する攻撃を阻止します。これにより、独自のルールを書いたり保守したりすることなく最新のセキュリティの脅威に対し、常に防御を固めることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Polly が、ポルトガル語 (ブラジル) で新しいニューラル TTS 音声の提供を開始]]></title>
+        <id>54bb8f236d66147e208f19080e360f8073e2510d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-offers-new-neural-tts-voice-brazilian-portuguese/"/>
+        <updated>2022-05-05T10:32:11.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly のポルトガル語 (ブラジル) の女性の音声合成 (TTS) 音声である 「Vitória」のニューラルバージョンの一般提供が開始されました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Rekognition でライブの動画ストリーミングにリアルタイムのアラートを出す Streaming Video Events の利用が開始に]]></title>
+        <id>b70ed2645eb11f63ed52bf76d4af201d8706f4ce</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rekognition-streaming-video-events-real-time-alerts-live-video-streams/"/>
+        <updated>2022-05-05T10:31:18.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS は Amazon Rekognition Streaming Video Events の一般提供開始を発表しました。本サービスは接続されたカメラから受信したライブの動画ストリーミングで、人、ペット、荷物などの対象を検出するために機械学習 (ML) を使用するカメラメーカーおよびサービスプロバイダー向けのフルマネージドサービスです。Amazon Rekognition Streaming Video Events は指定したオブジェクトがライブの動画ストリーミングで検出されるとすぐに、ユーザーに通知を送信します。このイベント通知機能を使用すると、サービスプロバイダーは「裏庭にペットがいます」などタイミングよく、有効なスマートアラートをユーザーに送信できます。また、人の動きが確認されたときに車庫の照明をつけるなどホームオートメーション、荷物に関する特定の動画イベントが何時間分もの記録をスクロールしないでも見つかるスマート検索などに活用することもできます。さらに、ドアの呼び鈴で宅配業者がパッケージを配達しているところが認識されたときに「荷物が表玄関に配達されました」など、Alexa の音声サポートと連動させるよう Echo デバイスにこれらのアラートを統合することも可能です。その一方で、コストとレイテンシーは低く抑えることができます。こちらより Amazon Rekognition Streaming Video Events についてさらに詳しくご覧いただけます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon RDS が Internet Protocol Version 6 (IPv6) をサポート]]></title>
         <id>331fb0bc9a3bc64235ccd6412387c3e5f4df341d</id>
@@ -1276,41 +1356,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Virtual Private Cloud (VPC) プレフィックスリストが AWS アジアパシフィック (大阪) リージョンで利用可能に]]></title>
-        <id>db860788e01aa725b58b9217ae7e07875af8288c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-vpc-prefix-list-osaka-region/"/>
-        <updated>2022-04-18T11:43:21.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon Virtual Private Cloud (VPC) のお客様は、AWS アジアパシフィック (大阪) リージョンで独自のプレフィックスリストを作成できるようになりました。プレフィックスリストは、VPC セキュリティグループとルートテーブルの設定に使用したり、Resource Access Manager (RAM) を使用して他の AWS アカウントと共有したりできる CIDR ブロックのコレクションです。お客様は、すべてのアカウントでプレフィックスリストを簡単に監査および適用し、一貫したセキュリティ体制とルーティング動作を実現できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS AI & ML Scholarship プログラムが、過小評価され、十分なサービスを受けることができない学生の申請の受付を開始]]></title>
-        <id>b93376970211b63e8f70c70b762da8ece10d6495</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-ai-ml-scholarship-program-underrepresented-underserved-students/"/>
-        <updated>2022-04-18T11:37:21.000Z</updated>
-        <summary type="html"><![CDATA[AWS Artificial Intelligence (AI) and Machine Learning (ML) Scholarship プログラムは、インテルおよび Udacity と協力して、世界中の場所を問わず、技術分野で十分なサービスを受けることができておらず、過小評価されている学生の申請の受付を開始します。これにより、実践的な学習、カスタマイズされたメンタリング、および毎年授与される 2,500 の Udacity Nanodegree の奨学金のうち最大 2 つを取得できる可能性があります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon EFS が EC2 コンソールの向上した新しい起動エクスペリエンスと統合]]></title>
         <id>69eff7e51bafc0ba8ef90ceb99b8b5ee7cbdfaa4</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-efs-integration-launch-ec2-console/"/>
         <updated>2022-04-18T11:31:21.000Z</updated>
         <summary type="html"><![CDATA[本日から、向上した新しいインスタンス起動エクスペリエンスの [ストレージを設定] セクションで作成した新しい Amazon EC2 インスタンスに Amazon EFS ファイルシステムを自動的に追加できるようになり、サーバーレスで伸縮自在なファイルストレージを EC2 で今までよりもシンプルかつ簡単に使用できるようになりました。この統合により、推奨されるマウントオプションで起動時に EFS ファイルシステムをマウントするための EC2 インスタンスの設定プロセスが簡素化されます。さらに、起動エクスペリエンスの [ストレージを設定] セクションから、推奨設定を使用して新しい EFS ファイルシステムを作成することもできます。Amazon EC2 コンソールを離れる必要はありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon WorkSpaces が、パフォーマンスを向上させ、コストを最適化するための新しい Graphics G4dn バンドルをリリース]]></title>
-        <id>6f79be63ffe53a16fa59fb3b44d2870e0359aaee</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-workspaces-graphics-g4dn-bundles/"/>
-        <updated>2022-04-18T11:25:21.000Z</updated>
-        <summary type="html"><![CDATA[Amazon WorkSpaces は、EC2 G4dn ファミリーに基づく 2 つの新しいグラフィックスバンドルである Graphics.g4dn と GraphicsPro.g4dn を導入します。これらのバンドルを使用すると、CUDA、CuDNN、OptiX、Video Codec SDK などの NVIDIA ライブラリを使用して、NVIDIA GPU 向けに最適化されたグラフィックスアプリケーションの費用対効果の高いソリューションとして、クラウド内のデスクトップでグラフィックスおよびコンピューティングが多用されるワークロードを実行できます。マルチプレシジョン Turing Tensor Cores および RT Cores を備えた NVIDIA T4 Tensor Core GPU、AWS カスタム第 2 世代 Intel® Xeon® スケーラブル (Cascade Lake) プロセッサ、およびローカルにデータを保存するために高速アクセスを必要とするアプリケーション向けに設計されたローカル NVMe ストレージが付属しています。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1361,26 +1411,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-chime-sdk-javascript-react-3-0/"/>
         <updated>2022-04-15T21:55:21.000Z</updated>
         <summary type="html"><![CDATA[Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。JavaScript 3.0 および React Components 3.0 用の Amazon Chime SDK は、ウェブおよび Electron アプリケーションのデベロッパーに、実装をより高速にするとともに、一般的なブラウザと Chromium ランタイム間での一貫性を実現するための簡素化されたデベロッパーエクスペリエンスを提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Single Sign-On が HIPAA 対応になりました]]></title>
-        <id>0f3f8e0d8a126fc9eb9c5b63826dd42177b71d62</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-single-sign-on-hipaa-eligible/"/>
-        <updated>2022-04-15T07:31:14.000Z</updated>
-        <summary type="html"><![CDATA[本日、アマゾン ウェブ サービス (AWS)は、AWS Single Sign-On (AWS SSO) が HIPAA (医療保険の相互運用性と説明責任に関する法律) に対応したことを発表しました。AWS SSO は、お客様がワークフォースアイデンティティを作成または接続し、AWS アカウント全体でアクセスを一元的に管理する場所です。HIPAA に対応するとは、HIPAA の対象となる顧客 (健康保険会社、医療提供者、医療クリアリングハウス、医療費を支払う政府プログラム、軍隊および退役軍人の医療プログラム、およびその従業員を含む) が、保護されるべき医療情報 (PHI) を保存、処理、または送信する AWS ワークロードを設定または管理するユーザー、あるいは PHI を利用する AWS SSO と統合されたアプリケーションにサインインするユーザーの認証と承認に AWS SSO を使用できることを意味します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Wisdom が PrivateLink のサポートを開始]]></title>
-        <id>40b0545f26b005a09fbcc5ecef7205c854927498</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-wisdom-supports-privatelink/"/>
-        <updated>2022-04-14T10:32:01.000Z</updated>
-        <summary type="html"><![CDATA[AWS PrivateLink を使って、パブリック IP を使用せず、さらにインターネットにトラフィックを経由することなく、Amazon Virtual Private Cloud (Amazon VPC) から Amazon Connect Wisdom インスタンスにプライベートにアクセスできるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1666,25 +1696,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS、APAC デジタルスキル調査 第 2 弾を公開]]></title>
-        <id>0baa57f50e929bd881c812f807a63e8d4c2738d3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/announcing-new-report-digital-skills-training-changing-workforce-asia-pacific-japan/"/>
-        <updated>2022-04-11T06:26:00.000Z</updated>
-        <summary type="html"><![CDATA[日本の労働者の 78% がコロナ禍に伴う仕事の変化に対応するため、より多くのデジタルスキルが必要になったと回答。一方、デジタルスキル習得を支援するためのレーニング計画を策定している企業・団体は全体の 5 分の 1 未満であることが明らかに
- 
- 
-2025 年までに最も需要の高いデジタルスキルは、クラウドとサイバーセキュリティ関連スキル
- 
- 
-デジタルスキルトレーニングに投資する企業・団体の 75% が売上の伸長を、また、84% が従業員の生産性向上、75% がイノベーションのサイクルが迅速になったと回答
- 
- 
-AWS は本日より、組織全体で継続的なクラウドスキルの学習文化を育む包括的なスキル向上プログラム「AWS Skills Guild」を日本で開始し、企業のお客様のイノベーション支援を強化]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Update: Azure AD Graph retirement date]]></title>
         <id>update-your-apps-to-use-microsoft-graph-before-30-june-2022</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/update-your-apps-to-use-microsoft-graph-before-30-june-2022/"/>
@@ -1750,56 +1761,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <link href="https://azure.microsoft.com/ja-jp/updates/azure-backup-now-supports-metrics-and-metric-alerts-for-azure-blobs/"/>
         <updated>2022-04-06T16:00:10.000Z</updated>
         <summary type="html"><![CDATA[You can now monitor the restore job health of your backed up blobs via Azure Monitor metrics and write custom alert rules on these metrics.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:AKS での容量予約のサポート]]></title>
-        <id>public-preview-capacity-reservation-support-in-aks</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-capacity-reservation-support-in-aks/"/>
-        <updated>2022-04-05T16:19:36.000Z</updated>
-        <summary type="html"><![CDATA[容量予約機能を使用して、AKS で予約容量を使用できるようになりました。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Virtual Machines increase storage throughput by up to 300%]]></title>
-        <id>generally-available-azure-virtual-machines-increase-storage-throughput-by-up-to-300</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-virtual-machines-increase-storage-throughput-by-up-to-300/"/>
-        <updated>2022-04-05T16:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft is announcing the general availability of the Ebs/Ebds v5 memory optimized Azure VM series, that deliver up to 300% increase in remote storage performance compared to prior generation VMs.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Virtual Machines DCsv3 available in Switzerland and West US]]></title>
-        <id>expanding-dcsv3-to-europe-usa</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/expanding-dcsv3-to-europe-usa/"/>
-        <updated>2022-04-05T16:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Confidential computing DCsv3 and DCdsv3-series virtual machines (VMs) are in preview in Switzerland North and West US.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Data Explorer Inline script deployment with ARM Template]]></title>
-        <id>e2e-adx-pipeline-arm-template</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/e2e-adx-pipeline-arm-template/"/>
-        <updated>2022-04-05T15:00:16.000Z</updated>
-        <summary type="html"><![CDATA[We can now build an entire Azure Data Explorer environment with ARM template.  Schema entities (e.g. tables, functions, policies) can be deployed without an external storage account.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Support for copying tiles added to Azure IoT Central]]></title>
-        <id>iotc-copy-tiles</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-copy-tiles/"/>
-        <updated>2022-04-05T15:00:04.000Z</updated>
-        <summary type="html"><![CDATA[IoT Central customers will now be able to quickly build new visuals in their dashboards by simply copying an existing tile.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
