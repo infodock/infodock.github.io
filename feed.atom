@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-06T00:25:39.179Z</id>
+    <id>urn:2022-05-07T00:24:25.088Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-06T00:25:39.179Z</updated>
+    <updated>2022-05-07T00:24:25.088Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Azure VM insights guest health (preview) will be retired on 30 November 2022]]></title>
+        <id>transition-to-azure-monitor-log-alerts-for-vm-guest-health-by-30-november-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/transition-to-azure-monitor-log-alerts-for-vm-guest-health-by-30-november-2022/"/>
+        <updated>2022-05-06T16:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Transition to Azure Monitor log alerts for VM guest health by 30 November 2022.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update your IoT Edge devices on Raspberry Pi OS Stretch]]></title>
+        <id>update-rpios-stretch-to-latest</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/update-rpios-stretch-to-latest/"/>
+        <updated>2022-05-06T16:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Transition to using Bullseye to continue receiving patches.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS RoboMaker が AWS GovCloud (米国西部) リージョンで利用可能になりました]]></title>
+        <id>9c8c49fb733130f7ec1cc8dd52f1c4bef24e5e82</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-robomaker-govcloud-us-west/"/>
+        <updated>2022-05-06T11:34:25.000Z</updated>
+        <summary type="html"><![CDATA[ロボット工学アプリケーションを大規模に簡単にシミュレートできるサービスである AWS RoboMaker が、AWS GovCloud (米国西部) リージョンで利用できるようになりました。GovCloud リージョンでのサポートにより、米国の政府機関や請負業者は、特定の規制およびコンプライアンス要件に対応することで、AWS RoboMaker で機密性の高いシミュレーションワークロードを実行できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for PostgreSQL は、カスケード読み取りレプリカをサポートして、最大 30 倍の読み取り容量を実現します]]></title>
+        <id>e9739d61632895a6e483df3eb7630a36e95f73c5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-rds-postgresql-cascaded-read-replicas-30x-capacity/"/>
+        <updated>2022-05-06T11:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for PostgreSQL は、カスケードされた読み取りレプリカの 3 つのレベル (インスタンスごとに 5 つのレプリカ) を備えた PostgreSQL 14 のサポートを発表し、ソースインスタンスごとに最大 155 の読み取りレプリカをサポートします。シングル AZ またはマルチ AZ カスケードリードレプリカ DB インスタンスを同じリージョンに作成することも、別のリードレプリカインスタンスから任意のクロスリージョンに作成することもできるため、より堅牢な災害対策アーキテクチャを構築できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS サーバーレスアプリケーションモデル CLI で、AWS X-Ray トレースの有効化がサポートされるようになりました]]></title>
+        <id>e423e2516fdcfa5e87e25dd3358c969bbf74c748</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-serverless-application-model-cli-supports-x-ray-tracing/"/>
+        <updated>2022-05-06T11:31:59.000Z</updated>
+        <summary type="html"><![CDATA[これで、AWS サーバーレスアプリケーションモデル (AWS SAM) CLI を使用して、AWS SAM テンプレートを手動でオーサリングすることなく、AWS SAM テンプレートで AWS X-Ray トレースを自動的に有効にできます。これにより、サーバーレスアプリケーションの Lambda 関数全体で AWS X-Ray トレースを一元管理することが容易になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kinesis Video Streams が画像抽出のマネージドサポートを発表]]></title>
+        <id>63407a5d8640395498a3fa353cdf56b3b20dc40a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-kinesis-video-streams-announces-managed-support-image-extraction/"/>
+        <updated>2022-05-06T11:31:11.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Kinesis Video Streams は、ビデオストリーミングから画像を抽出するのに役立つ新しい API と SDK を発表しました。この完全に管理された機能により、顧客は API コールを介して画像を要求したり、取り込んだビデオのメタデータタグに基づいて自動画像生成を設定したりできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect からキューに入ったコールバックをプログラムで停止するための API がリリース]]></title>
+        <id>8c2a7ca96b5ecbacf5f39d13d8c9313035082e89</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-launches-api-to-programmatically-stop-queued-callbacks/"/>
+        <updated>2022-05-06T00:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect ではキューに入ったコールバックを StopContact API からプログラムで停止できるようになりました。通話をキューに入れることで、発信者はエージェントが空くまで待つ必要がなくなります。キューに入るためには、自身の電話番号を登録する必要があります。ただ、一部の状況では、お客様が繰り返し電話するため、同一の発信者へのコールバックリクエストが複数登録されることがあります。今後は、StopContact API を使用してコールバックリクエストの重複を回避できます。それにより、発信者は同じ問題で複数のコールバックを受けとることがなくなり、カスタマーエクスペリエンスが改善され、コンタクトセンターのコストも削減されます。詳細については、「API ドキュメント」を参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CodeGuru Reviewer でコードレビュー時にファイルとフォルダのサプレッション機能が利用可能に]]></title>
+        <id>4e316c15368d30fb7d0bebfb1008d5d58167df12</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-codeguru-reviewer-supports-suppression-files-folders-code-reviews/"/>
+        <updated>2022-05-06T00:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CodeGuru Reviewer は、自動推論と機械学習を活用して、発見が難しい潜在的なコードの欠陥を検出し、改善のための提案を提供するデベロッパーツールです。本日、Amazon CodeGuru Reviewer の新機能、ファイル/フォルダサプレッション機能のサポート開始が発表されました。この新機能により、Amazon CodeGuru Reviewer でコードベースの一部を検査対象から外すことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS が AWS GovCloud (米国) リージョンでの Internet Protocol version 6 (IPv6) のサポートを開始]]></title>
+        <id>360c9e2c300559079826391736e20c835d386c6d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-rds-ipv6-aws-govcloud-us-regions/"/>
+        <updated>2022-05-06T00:22:48.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) のお客様に、新規および既存の RDS インスタンスの仮想プライベートクラウド (VPC) で Internet Protocol version 6 (IPv6) アドレスの利用をお選びいただけるようになりました。IPv6 に移行するお客様は、IPv4 と IPv6 のどちらもサポートするネットワークでデータベースを実行することにより、ネットワークスタックを簡素化できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EKS が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>f0ec7a3dfdcc45c171e1bb353ffe2ac2ee2cf04e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-eks-available-asia-pacific-jakarta-region/"/>
+        <updated>2022-05-06T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) のお客様は、今後、AWS アジアパシフィック (ジャカルタ) リージョンでクラスターを作成および管理できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public preview: Control the minimum TLS version used with Azure Service Bus]]></title>
         <id>policy-to-control-the-minimum-tls-version-used-with-azure-service-bus-now-in-public-preview</id>
@@ -116,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Polly が、ポルトガル語 (ブラジル) で新しいニューラル TTS 音声の提供を開始]]></title>
-        <id>9a9afb36797c9c856ddbca913e7024eed6dc840a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-offers-new-neural-tts-voices-brazilian-portuguese/"/>
-        <updated>2022-05-04T13:02:35.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly のポルトガル語 (ブラジル) の女性の音声合成 (TTS) 音声である 「Vitória」のニューラルバージョンの一般提供開始をお知らせいたします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon MSK Serverless が一般提供を開始]]></title>
         <id>bd9505f890c393d2c865fdc15961c015410a53ac</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-msk-serverless-now-generally-available/"/>
@@ -226,21 +316,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon RDS for Postgres が、最大 128 vCPU と 1,024 GiB RAM の新しいインスタンスサイズを持つ M6i および R6i インスタンスをサポート]]></title>
-        <id>ad2fa3ddf26fe5e428946216a99dee858762aceb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-postgres-supports-m6i-r6i-instances/"/>
-        <updated>2022-05-04T08:47:09.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Postgres のバージョン 11 以降が、M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリ集約型のワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Snow、お客様のプレミスから AWS への大規模なデータ移行を計画および管理する Large Data Migration Manager の提供を開始]]></title>
         <id>ff78c9fcba272505dfb102e6462333b6cfb62dda</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-snow-large-data-migration-manager/"/>
         <updated>2022-05-04T08:46:20.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS Snow Family は、複数の Snowball Edge サービス製品を使用する際に、大規模データ移行の計画、追跡、管理を可能にする新機能 Large Data Migration Manager の提供を開始しました。最小 500 テラバイトからペタバイトスケールのデータ移行まで、簡単にジョブの計画、モニタリングができるようになりました。Large Data Migration Manager を使用することで、すべての Snow ジョブとそのデータ取り込みの状況を手動で追跡する必要がなくなります。]]></summary>
+        <summary type="html"><![CDATA[本日、AWS Snow Family は、複数の Snowball Edge サービス製品を使用する際の大規模データ移行の計画、追跡、管理を可能にする新機能 Large Data Migration Manager の提供を開始しました。最小 500 テラバイトからペタバイトスケールのデータ移行まで、簡単にジョブの計画とモニタリングができるようになりました。Large Data Migration Manager を使用することで、すべての Snow ジョブとそのデータ取り込みの状況を手動で追跡する必要がなくなります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1316,26 +1396,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon ECR Public がナビゲーションパンくずリンクの実装やドロップダウンからのイメージ識別子のコピーなどのギャラリーの変更を発表]]></title>
-        <id>e6b790d61597d4a950bc099bb1acb264cde16c75</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ecr-public-gallery-breadcrumbs-image-identifier/"/>
-        <updated>2022-04-18T12:09:22.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Elastic Container Registry Public (ECR Public) は、ギャラリーへの変更を発表します。この変更には、ナビゲーションパンくずリンクの実装、ドロップダウンからのイメージ識別子のコピー、イメージ名への発行者エイリアスの追加、およびレポジトリが見つからない場合に表示されるページの更新が含まれます。これらの変更により、イメージの検索と取得が容易になるので、イメージの識別と取得に費やす時間が短縮されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しい EC2 起動エクスペリエンスで作成した Amazon EC2 インスタンスに Amazon FSx ファイルシステムを自動的にアタッチすることが可能に]]></title>
-        <id>402bd29ed7db2e2501a7f0978d84b3a22fd68fae</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-file-system-ec2-launch-experience/"/>
-        <updated>2022-04-18T12:05:22.000Z</updated>
-        <summary type="html"><![CDATA[新しい EC2 起動エクスペリエンスで作成した Amazon EC2 インスタンスに Amazon FSx ファイルシステムを自動的にアタッチすることが可能になり、豊富な機能と高いパフォーマンスを備えた FSx 共有ファイルストレージを EC2 インスタンスで簡単に使用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon SageMaker Canvas が AWS アジアパシフィック (東京) リージョンで利用可能に]]></title>
         <id>f7acda4fc074aabe450d68aaedce83d139cf03f3</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-sagemaker-canvas-available-asia-pacific-tokyo/"/>
@@ -1356,51 +1416,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon EFS が EC2 コンソールの向上した新しい起動エクスペリエンスと統合]]></title>
-        <id>69eff7e51bafc0ba8ef90ceb99b8b5ee7cbdfaa4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-efs-integration-launch-ec2-console/"/>
-        <updated>2022-04-18T11:31:21.000Z</updated>
-        <summary type="html"><![CDATA[本日から、向上した新しいインスタンス起動エクスペリエンスの [ストレージを設定] セクションで作成した新しい Amazon EC2 インスタンスに Amazon EFS ファイルシステムを自動的に追加できるようになり、サーバーレスで伸縮自在なファイルストレージを EC2 で今までよりもシンプルかつ簡単に使用できるようになりました。この統合により、推奨されるマウントオプションで起動時に EFS ファイルシステムをマウントするための EC2 インスタンスの設定プロセスが簡素化されます。さらに、起動エクスペリエンスの [ストレージを設定] セクションから、推奨設定を使用して新しい EFS ファイルシステムを作成することもできます。Amazon EC2 コンソールを離れる必要はありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS App Runner が AWS X-Ray のサポートを開始]]></title>
-        <id>3dc84306546fbb829d84659c3a84a476e5c8680c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/"/>
-        <updated>2022-04-18T11:08:21.000Z</updated>
-        <summary type="html"><![CDATA[App Runner 上で実行するアプリケーションのすべてのリクエストトレースを AWS App Runner から AWS X-Ray にストリーミングできるようになりました。デベロッパーは、App Runner を使用して、コンテナ化されたウェブアプリケーションと API をスケールでクラウドにすばやく簡単にデプロイできます。インフラストラクチャを管理する必要はありません。App Runner の X-Ray のサポートにより、これらのアプリケーションが Amazon RDS、DynamoDB、Elasticache などの AWS データサービス、および ECS、EKS、または Fargate 上で実行するアプリケーションとやり取りする際のパフォーマンスを測定することができます。さらに、この起動により、App Runner ユーザーは、X-Ray を使用してアプリケーションへのリクエストのエンドツーエンドのビューを取得し、問題や最適化の可能性を識別するためのインサイトを得ることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[宇宙望遠鏡科学研究所、DNAStack、米国国立公文書館などからオープンデータのレジストリで利用できる新しいデータセットが登場]]></title>
         <id>8d87f0f0e989c8cdecf2fd22d0b99f5f4d4d547f</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/q2-new-datasets-available-registry-open-data/"/>
         <updated>2022-04-18T10:58:21.000Z</updated>
         <summary type="html"><![CDATA[宇宙望遠鏡科学研究所、DNAStack、米国国立公文書館などからの新規または更新された 16 のデータセットが、次のカテゴリのオープンデータのレジストリで利用可能ですのでご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Fargate でアプリケーションのより高速なスケーリングが可能に]]></title>
-        <id>2558dad38dd720e2f6f04142daeb32fc4fbcbcc7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-fargate-delivers-scaling-applications/"/>
-        <updated>2022-04-15T22:07:21.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Container Service (ECS) および Amazon Elastic Kubernetes Service (EKS) のサーバーレスコンピューティングエンジンである AWS Fargate により、お客様は、アプリケーションをより高速にスケーリングできるようになりました。これにより、パフォーマンスが向上し、待機時間が短縮されます。昨年、アプリケーションを最大 16 倍高速にスケールできるようにするいくつかの改善を行いました。これにより、Fargate での大規模なアプリケーションの構築と実行が容易になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for NetApp ONTAP でシングルアベイラビリティーゾーンデプロイオプションを導入]]></title>
-        <id>160c4025724873e553a7195d1179612a51a9179e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-netapp-ontap-single-availability-zone-deployment/"/>
-        <updated>2022-04-15T22:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx for NetApp ONTAP は、シングルアベイラビリティーゾーン (AZ) デプロイをサポートするようになりました。シングル AZ ファイルシステムは、マルチ AZ ファイルシステムのデータ回復モデルを必要としないユースケース向けに設計されています (開発とテストのワークロードの実行、オンプレミスや他の AWS リージョンに既に保存されているデータのセカンダリコピーの保存など)。シングル AZ ファイルシステムは、これらのユースケースでマルチ AZ ファイルシステムよりも低コストのストレージオプションを提供すると同時に、すべてのデータ管理機能を同じように提供します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1731,36 +1751,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/adx-pe/"/>
         <updated>2022-04-07T16:00:22.000Z</updated>
         <summary type="html"><![CDATA[Enhance your security posture by leveraging Azure private endpoints to connect to your Azure Data Explorer cluster privately]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure storage table access using Azure Active Directory]]></title>
-        <id>generally-available-azure-storage-table-access-using-azure-active-directory</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-storage-table-access-using-azure-active-directory/"/>
-        <updated>2022-04-06T17:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Accessing Azure storage table using Azure AD for authentication and Azure RBAC for authorization provides superior security over using shared key for access.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Support for Private Link in Azure IoT Central]]></title>
-        <id>iotc-private-link</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-private-link/"/>
-        <updated>2022-04-06T17:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Enhance your security posture by privately connecting devices to Azure IoT Central via private endpoint, eliminating exposure to the public internet.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Backup supports metrics and metric alerts for Azure Blobs]]></title>
-        <id>azure-backup-now-supports-metrics-and-metric-alerts-for-azure-blobs</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-backup-now-supports-metrics-and-metric-alerts-for-azure-blobs/"/>
-        <updated>2022-04-06T16:00:10.000Z</updated>
-        <summary type="html"><![CDATA[You can now monitor the restore job health of your backed up blobs via Azure Monitor metrics and write custom alert rules on these metrics.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
