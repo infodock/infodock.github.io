@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-07T00:24:25.088Z</id>
+    <id>urn:2022-05-08T00:25:09.657Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-07T00:24:25.088Z</updated>
+    <updated>2022-05-08T00:25:09.657Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1711,46 +1711,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/dns-reservations-to-prevent-subdomain-takeover-in-cloud-services/"/>
         <updated>2022-04-11T15:09:52.000Z</updated>
         <summary type="html"><![CDATA[As a preventive measure, DNS record is reserved for seven days to allow clean-up of dangling DNS domains or reclaim from same Azure Active Directory tenant only.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update: Azure AD Graph retirement date]]></title>
-        <id>update-your-apps-to-use-microsoft-graph-before-30-june-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/update-your-apps-to-use-microsoft-graph-before-30-june-2022/"/>
-        <updated>2022-04-07T20:35:59.000Z</updated>
-        <summary type="html"><![CDATA[Update your apps to use Microsoft Graph.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Diagnostic audit logs for Automation accounts]]></title>
-        <id>diagnostic-audit-logs</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/diagnostic-audit-logs/"/>
-        <updated>2022-04-07T16:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Forward Azure Automation diagnostic audit logs to Log analytics workspace to keep track of changes at the automation account level.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Backup now supports vault-archive tier for Azure VMs]]></title>
-        <id>general-availability-azure-backup-now-supports-vaultarchive-tier-for-backups-of-azure-vms</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-backup-now-supports-vaultarchive-tier-for-backups-of-azure-vms/"/>
-        <updated>2022-04-07T16:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Azure Backup now provides the capability to move long term retention (LTR) recovery points to low-cost archive tier for Azure Virtual Machines.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Data Explorer supports Azure private endpoints]]></title>
-        <id>adx-pe</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/adx-pe/"/>
-        <updated>2022-04-07T16:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Enhance your security posture by leveraging Azure private endpoints to connect to your Azure Data Explorer cluster privately]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>

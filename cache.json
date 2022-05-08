@@ -714,46 +714,6 @@
           "wordCount": 2016,
           "title": "Generally available: DNS reservations to prevent subdomain takeover in Cloud Services deployments",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "update-your-apps-to-use-microsoft-graph-before-30-june-2022",
-          "author": null,
-          "description": "Update your apps to use Microsoft Graph.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/update-your-apps-to-use-microsoft-graph-before-30-june-2022/",
-          "publishedOn": "2022-04-07T20:35:59.000Z",
-          "wordCount": 2057,
-          "title": "Update: Azure AD Graph retirement date",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "diagnostic-audit-logs",
-          "author": null,
-          "description": "Forward Azure Automation diagnostic audit logs to Log analytics workspace to keep track of changes at the automation account level.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/diagnostic-audit-logs/",
-          "publishedOn": "2022-04-07T16:00:40.000Z",
-          "wordCount": 1982,
-          "title": "Generally available: Diagnostic audit logs for Automation accounts",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "general-availability-azure-backup-now-supports-vaultarchive-tier-for-backups-of-azure-vms",
-          "author": null,
-          "description": "Azure Backup now provides the capability to move long term retention (LTR) recovery points to low-cost archive tier for Azure Virtual Machines.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-azure-backup-now-supports-vaultarchive-tier-for-backups-of-azure-vms/",
-          "publishedOn": "2022-04-07T16:00:32.000Z",
-          "wordCount": 2112,
-          "title": "General availability: Azure Backup now supports vault-archive tier for Azure VMs",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "adx-pe",
-          "author": null,
-          "description": "Enhance your security posture by leveraging Azure private endpoints to connect to your Azure Data Explorer cluster privately",
-          "link": "https://azure.microsoft.com/ja-jp/updates/adx-pe/",
-          "publishedOn": "2022-04-07T16:00:22.000Z",
-          "wordCount": 2008,
-          "title": "General availability: Azure Data Explorer supports Azure private endpoints",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
