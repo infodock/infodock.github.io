@@ -6,6 +6,36 @@
       "siteUrl": "https://azure.microsoft.com/ja-jp/updates/",
       "articles": [
         {
+          "id": "azure-iot-edge-supports-debian-bullseye-arm32v7",
+          "author": null,
+          "description": "Debian is included in the Tier 1 OS support list for ARM32v7 devices. Official packages for Bullseye on ARM32v7 are now available on packages.microsoft.com.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/azure-iot-edge-supports-debian-bullseye-arm32v7/",
+          "publishedOn": "2022-05-09T16:00:58.000Z",
+          "wordCount": 1933,
+          "title": "Generally available: Azure IoT Edge supports Debian Bullseye on ARM32v7",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "arc-server-private-endpoints-ga",
+          "author": null,
+          "description": "Enhance your security posture by leveraging Azure private endpoints to connect your on-premises servers to Azure Arc privately.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/arc-server-private-endpoints-ga/",
+          "publishedOn": "2022-05-09T16:00:54.000Z",
+          "wordCount": 1952,
+          "title": "Generally available: Azure Arc-enabled servers support for private endpoints",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "expanding-dcsv3-to-asia-australia-japan-us",
+          "author": null,
+          "description": "Confidential computing DCsv3 and DCdsv3-series virtual machines (VMs) are in public preview in Australia East, Japan East, South Central US, and Southeast Asia.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/expanding-dcsv3-to-asia-australia-japan-us/",
+          "publishedOn": "2022-05-09T15:00:53.000Z",
+          "wordCount": 1985,
+          "title": "Public preview: Azure Virtual Machines DCsv3 in Australia, Japan, US, and Asia",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
+        },
+        {
           "id": "transition-to-azure-monitor-log-alerts-for-vm-guest-health-by-30-november-2022",
           "author": null,
           "description": "Transition to Azure Monitor log alerts for VM guest health by 30 November 2022.",
@@ -13,7 +43,7 @@
           "publishedOn": "2022-05-06T16:00:08.000Z",
           "wordCount": 2023,
           "title": "Azure VM insights guest health (preview) will be retired on 30 November 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "update-rpios-stretch-to-latest",
@@ -23,7 +53,7 @@
           "publishedOn": "2022-05-06T16:00:07.000Z",
           "wordCount": 1955,
           "title": "Update your IoT Edge devices on Raspberry Pi OS Stretch",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "policy-to-control-the-minimum-tls-version-used-with-azure-service-bus-now-in-public-preview",
@@ -33,7 +63,7 @@
           "publishedOn": "2022-05-05T19:00:53.000Z",
           "wordCount": 2024,
           "title": "Public preview: Control the minimum TLS version used with Azure Service Bus",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-resource-health-for-virtual-network-nat",
@@ -43,7 +73,7 @@
           "publishedOn": "2022-05-05T17:00:52.000Z",
           "wordCount": 2037,
           "title": "General availability: Virtual Network NAT health checks available via Resource Health",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-enhancements-to-azure-web-application-firewall",
@@ -53,7 +83,7 @@
           "publishedOn": "2022-05-03T17:00:21.000Z",
           "wordCount": 2104,
           "title": "Generally available: Enhancements to Azure Web Application Firewall",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-event-grid-enables-user-authorization-to-create-partner-topics",
@@ -63,7 +93,7 @@
           "publishedOn": "2022-05-03T16:00:21.000Z",
           "wordCount": 1951,
           "title": "Public preview: Event Grid enables user authorization to create partner topics",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-static-web-apps-support-for-preview-environments-in-azure-devops",
@@ -73,7 +103,7 @@
           "publishedOn": "2022-05-02T20:56:48.000Z",
           "wordCount": 1965,
           "title": "Public preview: Static Web Apps support for preview environments in Azure DevOps",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-object-replication-for-premium-block-blob-and-rule-limit-increase-to-1000-on-azure-blob-storage",
@@ -83,7 +113,7 @@
           "publishedOn": "2022-05-02T19:00:07.000Z",
           "wordCount": 2038,
           "title": "General availability: Object replication on premium blob storage and rule limit increased",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "video-analyzer-retirement",
@@ -93,7 +123,7 @@
           "publishedOn": "2022-05-02T16:24:49.000Z",
           "wordCount": 1982,
           "title": "Azure Video Analyzer (preview) will be retired on 30 November 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-machine-learning-announcements-for-march-2022",
@@ -103,7 +133,7 @@
           "publishedOn": "2022-05-02T15:00:06.000Z",
           "wordCount": 1886,
           "title": "General availability: Azure Machine Learning announcements for March 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-machine-learning-announcements-for-march-2022",
@@ -113,7 +143,7 @@
           "publishedOn": "2022-05-02T15:00:05.000Z",
           "wordCount": 1973,
           "title": "Public preview: Azure Machine Learning announcements for March 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-machine-learning-announcements-for-april-2022",
@@ -123,7 +153,7 @@
           "publishedOn": "2022-05-02T15:00:04.000Z",
           "wordCount": 1932,
           "title": "Public preview: Azure Machine Learning announcements for April 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-machine-learning-reinforcement-learning-preview-will-be-retired-after-june-2022",
@@ -133,7 +163,7 @@
           "publishedOn": "2022-04-30T00:00:24.000Z",
           "wordCount": 2040,
           "title": "Azure Machine Learning Reinforcement Learning preview will be retired on 30 June 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "automated-key-rotation-in-azure-key-vault-is-now-available",
@@ -143,7 +173,7 @@
           "publishedOn": "2022-04-29T04:00:11.000Z",
           "wordCount": 1954,
           "title": "Generally available: Automated key rotation in Azure Key Vault",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-lab-services-april-2022-update",
@@ -153,7 +183,7 @@
           "publishedOn": "2022-04-28T17:00:04.000Z",
           "wordCount": 1918,
           "title": "Public preview: Azure Lab Services April 2022 update",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits",
@@ -163,7 +193,7 @@
           "publishedOn": "2022-04-28T15:00:03.000Z",
           "wordCount": 1896,
           "title": "Generally available: Azure Functions Linux Elastic Premium plan increased maximum scale-out limits",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "communitygallerypreview",
@@ -173,7 +203,7 @@
           "publishedOn": "2022-04-27T19:00:12.000Z",
           "wordCount": 1920,
           "title": "Public preview: Azure Compute Gallery feature ‘community gallery’",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-sql-database-storage-limits-increase-for-selected-compute-sizes-in-general-purpose-and-business-critical-tiers",
@@ -183,7 +213,7 @@
           "publishedOn": "2022-04-27T18:00:11.000Z",
           "wordCount": 1954,
           "title": "Generally available: Azure SQL Database storage limits increase for selected compute sizes",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-sql-generally-available-updates-for-late-april-2022",
@@ -193,7 +223,7 @@
           "publishedOn": "2022-04-27T16:00:51.000Z",
           "wordCount": 1886,
           "title": "Azure SQL—Generally available updates for late April 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-sql-public-preview-updates-for-late-april-2022",
@@ -203,7 +233,7 @@
           "publishedOn": "2022-04-27T16:00:50.000Z",
           "wordCount": 1885,
           "title": "Azure SQL—Public preview updates for late April 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-azure-database-for-mysql-flexible-server-higher-burstable-compute",
@@ -213,7 +243,7 @@
           "publishedOn": "2022-04-27T16:00:50.000Z",
           "wordCount": 1992,
           "title": "Generally available: Azure Database for MySQL – Flexible Server higher burstable compute",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-azure-database-for-postgresql-hyperscale-citus-now-includes-pgbouncer-117",
@@ -223,7 +253,7 @@
           "publishedOn": "2022-04-27T16:00:49.000Z",
           "wordCount": 2001,
           "title": "Generally available: Azure Database for PostgreSQL – Hyperscale (Citus) now includes PgBouncer 1.17",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-managed-instance-for-apache-cassandra-enhancements",
@@ -233,7 +263,7 @@
           "publishedOn": "2022-04-27T16:00:48.000Z",
           "wordCount": 1930,
           "title": "Public preview: Azure Managed Instance for Apache Cassandra enhancements",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-database-templates-in-azure-synapse-analytics",
@@ -243,7 +273,7 @@
           "publishedOn": "2022-04-27T16:00:48.000Z",
           "wordCount": 1989,
           "title": "Generally available: Database templates in Azure Synapse Analytics",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-synapse-link-now-supports-existing-azure-cosmos-db-containers",
@@ -253,7 +283,7 @@
           "publishedOn": "2022-04-27T16:00:47.000Z",
           "wordCount": 1933,
           "title": "General availability: Azure Synapse Link now supports existing Azure Cosmos DB containers",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-cosmos-db-portal-azure-synapse-link-seamless-power-bi",
@@ -263,7 +293,7 @@
           "publishedOn": "2022-04-27T16:00:47.000Z",
           "wordCount": 1938,
           "title": "General availability: Azure Cosmos DB portal—Azure Synapse Link seamless Power BI",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-unique-partial-indexes-in-azure-cosmos-db-api-for-mongodb",
@@ -273,7 +303,7 @@
           "publishedOn": "2022-04-27T16:00:44.000Z",
           "wordCount": 1943,
           "title": "General availability: Unique partial indexes in Azure Cosmos DB API for MongoDB",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-storage-as-share-in-windows-code-in-app-service",
@@ -283,7 +313,7 @@
           "publishedOn": "2022-04-27T16:00:44.000Z",
           "wordCount": 1951,
           "title": "Public preview: Azure Storage as share in Windows Code in App Service",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-functions-now-supports-powershell-72",
@@ -293,7 +323,7 @@
           "publishedOn": "2022-04-27T16:00:43.000Z",
           "wordCount": 1885,
           "title": "Public preview: Azure Functions now supports PowerShell 7.2",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-static-web-apps-now-supports-gitlab-and-bitbucket-for-cicd",
@@ -303,7 +333,7 @@
           "publishedOn": "2022-04-27T16:00:42.000Z",
           "wordCount": 1905,
           "title": "Public preview: Static Web Apps now supports Gitlab and Bitbucket for CI/CD",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-static-web-apps-now-support-skipping-api-builds",
@@ -313,7 +343,7 @@
           "publishedOn": "2022-04-27T16:00:41.000Z",
           "wordCount": 1905,
           "title": "Public preview: Azure Static Web Apps now support skipping API builds",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-scaledown-mode-in-aks",
@@ -323,7 +353,7 @@
           "publishedOn": "2022-04-27T16:00:34.000Z",
           "wordCount": 1932,
           "title": "Generally available: Scale-down mode in AKS",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-node-pool-snapshot",
@@ -333,7 +363,7 @@
           "publishedOn": "2022-04-27T16:00:27.000Z",
           "wordCount": 1889,
           "title": "Generally available: Node pool snapshot",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-group-managed-service-accounts-security-policy-support-on-windows",
@@ -343,7 +373,7 @@
           "publishedOn": "2022-04-27T16:00:20.000Z",
           "wordCount": 1908,
           "title": "Generally available: Group Managed Service Accounts security policy support on Windows",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-container-apps-builtin-authentication-microsoft-azure-container-apps",
@@ -353,7 +383,7 @@
           "publishedOn": "2022-04-27T16:00:10.000Z",
           "wordCount": 1942,
           "title": "Public preview: Azure Container Apps built-in authentication Microsoft Azure Container Apps",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "blocking-domain-fronting-behavior-on-azure-front-door-azure-front-door-classic-and-azure-cdn-standard-from-microsoft-classic",
@@ -363,7 +393,7 @@
           "publishedOn": "2022-04-25T17:00:31.000Z",
           "wordCount": 2013,
           "title": "Generally available: Controls to block domain fronting behavior on customer resources",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-app-service-networking-capabilities-added-to-basic-pricing-tier",
@@ -373,7 +403,7 @@
           "publishedOn": "2022-04-21T16:00:29.000Z",
           "wordCount": 1991,
           "title": "General availability: App Service - Networking capabilities added to Basic pricing tier",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-app-service-configure-networking-in-azure-portal-during-app-creation",
@@ -383,7 +413,7 @@
           "publishedOn": "2022-04-21T16:00:28.000Z",
           "wordCount": 1934,
           "title": "Public preview: App Service - Configure networking in Azure Portal during app creation",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-windows-server-guest-licensing-offer-for-azure-stack-hci",
@@ -393,7 +423,7 @@
           "publishedOn": "2022-04-21T15:00:28.000Z",
           "wordCount": 1977,
           "title": "General availability: Windows Server guest licensing offer for Azure Stack HCI",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-rehydrate-an-archived-blob-to-a-different-storage-account",
@@ -403,7 +433,7 @@
           "publishedOn": "2022-04-20T19:00:15.000Z",
           "wordCount": 1936,
           "title": "Generally available: Rehydrate an archived blob to a different storage account",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-stable-urls-for-preview-environments-in-azure-static-web-apps",
@@ -413,7 +443,7 @@
           "publishedOn": "2022-04-18T19:14:23.000Z",
           "wordCount": 1878,
           "title": "パブリック プレビュー:Azure Static Web Apps のプレビュー環境における安定した URL の提供",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-archive-storage-now-available-in-switzerland-north",
@@ -423,7 +453,7 @@
           "publishedOn": "2022-04-18T19:00:44.000Z",
           "wordCount": 1921,
           "title": "General availability: Azure Archive Storage now available in Switzerland North",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-monitor-and-azure-managed-grafana-integrations",
@@ -433,7 +463,7 @@
           "publishedOn": "2022-04-18T16:00:42.000Z",
           "wordCount": 1967,
           "title": "Public preview: Azure Monitor and Azure Managed Grafana integrations",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-media-services-lo-latency-live-streaming-llhls",
@@ -443,7 +473,7 @@
           "publishedOn": "2022-04-13T17:00:26.000Z",
           "wordCount": 2067,
           "title": "In development: Azure Media Services low-latency live streaming",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-azure-sql-migration-extension-for-azure-data-studio",
@@ -453,7 +483,7 @@
           "publishedOn": "2022-04-13T16:00:37.000Z",
           "wordCount": 1960,
           "title": "Generally available: Azure SQL Migration extension for Azure Data Studio",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-cosmos-db-autoscale-rus-entry-point-is-4x-lower",
@@ -463,7 +493,7 @@
           "publishedOn": "2022-04-13T16:00:36.000Z",
           "wordCount": 2013,
           "title": "General availability: Azure Cosmos DB autoscale RU/s entry point is 4x lower",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-cosmos-db-api-for-mongodb-unique-index-reindexing",
@@ -473,7 +503,7 @@
           "publishedOn": "2022-04-13T16:00:35.000Z",
           "wordCount": 1939,
           "title": "Public preview: Azure Cosmos DB API for MongoDB unique index re-indexing",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-zone-redundancy-for-azure-sql-database-general-purpose-tier",
@@ -483,7 +513,7 @@
           "publishedOn": "2022-04-13T16:00:35.000Z",
           "wordCount": 1929,
           "title": "General availability: Zone redundancy for Azure SQL Database general purpose tier",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-sql-public-preview-updates-for-midapril-2022",
@@ -493,7 +523,7 @@
           "publishedOn": "2022-04-13T16:00:34.000Z",
           "wordCount": 1895,
           "title": "Azure SQL—Public preview updates for mid-April 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-sql-database-hyperscale-reverse-migration-to-general-purpose-tier",
@@ -503,7 +533,7 @@
           "publishedOn": "2022-04-13T16:00:34.000Z",
           "wordCount": 1950,
           "title": "Public preview: Azure SQL Database Hyperscale reverse migration to general purpose tier",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-monitoring-agent-supports-custom-and-iis-logs",
@@ -513,7 +543,7 @@
           "publishedOn": "2022-04-13T16:00:33.000Z",
           "wordCount": 1927,
           "title": "Public preview: Azure Monitoring Agent supports custom and IIS logs",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-azure-static-web-apps-support-for-private-endpoints",
@@ -523,7 +553,7 @@
           "publishedOn": "2022-04-13T16:00:32.000Z",
           "wordCount": 1938,
           "title": "Generally available: Azure Static Web Apps support for private endpoints",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-metrics-and-alerts-support-in-azure-container-apps",
@@ -533,7 +563,7 @@
           "publishedOn": "2022-04-13T16:00:31.000Z",
           "wordCount": 1920,
           "title": "Public preview: Metrics and alerts support in Azure Container Apps",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-health-probes-support-in-azure-container-apps",
@@ -543,7 +573,7 @@
           "publishedOn": "2022-04-13T16:00:31.000Z",
           "wordCount": 1900,
           "title": "Public preview: Health probes support in Azure Container Apps",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-visual-studio-support-for-azure-container-apps",
@@ -553,7 +583,7 @@
           "publishedOn": "2022-04-13T16:00:30.000Z",
           "wordCount": 1896,
           "title": "Public preview: Visual Studio support for Azure Container Apps",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-visual-studio-code-extension-for-azure-container-apps",
@@ -563,7 +593,7 @@
           "publishedOn": "2022-04-13T16:00:30.000Z",
           "wordCount": 1884,
           "title": "パブリック プレビュー:Azure Container Apps 用 Visual Studio Code 拡張機能",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-ibm-websphere-on-azure-with-evaluation-licensing",
@@ -573,7 +603,7 @@
           "publishedOn": "2022-04-13T16:00:29.000Z",
           "wordCount": 2054,
           "title": "Generally available: IBM WebSphere on Azure with evaluation licensing",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-managed-identities-support-in-azure-container-apps",
@@ -583,7 +613,7 @@
           "publishedOn": "2022-04-13T16:00:29.000Z",
           "wordCount": 1936,
           "title": "Public preview: Managed identities support in Azure Container Apps",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-support-for-windows-clients-using-azure-monitor-agent",
@@ -593,7 +623,7 @@
           "publishedOn": "2022-04-13T16:00:28.000Z",
           "wordCount": 1951,
           "title": "Public preview: Support for Windows clients using Azure Monitor agent",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-java-17-and-tomcat-100-on-azure-app-service-2",
@@ -603,7 +633,7 @@
           "publishedOn": "2022-04-13T16:00:28.000Z",
           "wordCount": 2028,
           "title": "Generally available: Java 17 and Tomcat 10.0 on Azure App Service",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-new-result-set-grid-in-azure-monitor-log-analytics",
@@ -613,7 +643,7 @@
           "publishedOn": "2022-04-13T16:00:27.000Z",
           "wordCount": 2003,
           "title": "Generally available: new result set grid in Azure Monitor log analytics",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-monitor-activity-log-insights",
@@ -623,7 +653,7 @@
           "publishedOn": "2022-04-13T16:00:27.000Z",
           "wordCount": 1925,
           "title": "Public preview: Azure Monitor activity log insights",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-redesign-of-alerts-summary-landing-page",
@@ -633,7 +663,7 @@
           "publishedOn": "2022-04-13T16:00:26.000Z",
           "wordCount": 1887,
           "title": "Public preview: Redesign of alerts summary (landing) page",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-recommended-alert-rules-for-virtual-machines",
@@ -643,7 +673,7 @@
           "publishedOn": "2022-04-13T16:00:25.000Z",
           "wordCount": 1851,
           "title": "パブリック プレビュー:仮想マシンの推奨されるアラート ルール",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "iotc-migrate-devices-across-templates",
@@ -653,7 +683,7 @@
           "publishedOn": "2022-04-12T16:00:10.000Z",
           "wordCount": 1964,
           "title": "Generally available: Migrate devices across templates at scale in Azure IoT Central",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-sphere-os-version-2204",
@@ -663,7 +693,7 @@
           "publishedOn": "2022-04-12T15:00:09.000Z",
           "wordCount": 1964,
           "title": "General availability: Azure Sphere OS version 22.04",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-service-tags-support-for-user-defined-routing",
@@ -673,7 +703,7 @@
           "publishedOn": "2022-04-11T18:00:15.000Z",
           "wordCount": 2070,
           "title": "Generally available: Service tags support for user-defined routing",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "iotc-replacetextlabels",
@@ -683,7 +713,7 @@
           "publishedOn": "2022-04-11T16:00:34.000Z",
           "wordCount": 1957,
           "title": "Generally available: Customize application text labels in Azure IoT Central",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-azure-databricks-delta-live-tables",
@@ -693,7 +723,7 @@
           "publishedOn": "2022-04-11T16:00:27.000Z",
           "wordCount": 1972,
           "title": "Generally available: Azure Databricks Delta Live Tables",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "purview-glossary-search",
@@ -703,7 +733,7 @@
           "publishedOn": "2022-04-11T16:00:14.000Z",
           "wordCount": 1944,
           "title": "General availability: Glossary terms in Azure Purview data catalog search",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "dns-reservations-to-prevent-subdomain-takeover-in-cloud-services",
@@ -713,7 +743,7 @@
           "publishedOn": "2022-04-11T15:09:52.000Z",
           "wordCount": 2016,
           "title": "Generally available: DNS reservations to prevent subdomain takeover in Cloud Services deployments",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-504a45383022e8b30d063e51f6eb19630c4df0b377df3a3473f6ee04f9e8a85d/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-b6532101d9ea03ed4ccb578c58428572829f7bc399aabc685c3d2ecfdb599189/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
@@ -722,6 +752,256 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "142e3eb329c4444c42ce9d42a279b6cf56e8964e",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。本日より、カスタム語彙を作成することによって、入力音声の処理方法について、Amazon Lex に追加情報を提供できます。カスタム語彙とは、認識が比較的困難なドメイン固有の用語または聞きなれない単語 (例えば、ブランド名、製品名) のリストです。そのようなリストを作成し bot 定義に追加すると、Amazon Lex はユーザーの意向を識別したり会話の情報を収集したりするときにそれらの言葉を利用できるようになります。これにより、音声認識を強化し、エンドユーザーのエクスペリエンスを改善できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-lex-supports-custom-vocabulary/",
+          "publishedOn": "2022-05-09T20:23:32.000Z",
+          "wordCount": 235,
+          "title": "Amazon Lex でカスタム語彙のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f19e8c8aa7f5216c40795824ef56cd33e6ca7d7d",
+          "author": "aws@amazon.com",
+          "description": "AWSが提供する量子コンピュータサービス Amazon Braket は、お客様が量子コンピュータを用いた科学研究やソフトウェア開発を容易に行えるように設計されています。本日、量子コンピューティングと古典コンピューティングを組み合わせてハイブリッドなアルゴリズムを探求する機能である Amazon Braket Hybrid Jobs が、組み込み用回路シミュレーターをサポートし、性能を最大10倍以上向上させたことを発表します。量子シミュレーターを古典アルゴリズムに近づけることで、Braket 社 のオンデマンド回路シミュレーターを使用する場合と比較して、シミュレータのラウンドトリップ時間を短縮できます。この新機能により、比較的少数の量子ビット（通常は最大25量子ビット）しか使用しない量子シミュレーションタスクを大量に実行する際の性能ボトルネックを軽減するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-braket-hybrid-jobs-embedded-circuit-simulations-quantum-classical-algorithms-10x/",
+          "publishedOn": "2022-05-09T20:22:45.000Z",
+          "wordCount": 265,
+          "title": "Amazon Braket Hybrid Jobs は、組み込み回路シミュレーションをサポートするようになり、特定のハイブリッド量子古典アルゴリズムのパフォーマンスを 10 倍以上向上させました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6a66c82f0b57171e99b1cebf31edbb7129a5b88a",
+          "author": "aws@amazon.com",
+          "description": "新しい Amazon ElastiCache コンソールは、よりシンプルなナビゲーションとより豊富なコンテキスト情報によって、ElastiCacheリソースを直感的に管理する方法を提供します。新しいコンソールは、他の AWS のサービスコンソールと、より一貫したルックアンドフィールを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-elasticache-console-available/",
+          "publishedOn": "2022-05-09T20:21:49.000Z",
+          "wordCount": 234,
+          "title": "新しい Amazon ElastiCache コンソールが利用可能になりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7f09fd2fb47f2764378df94253a439170e204e30",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Canvas は、ビジュアルなポイントアンドクリック式のインターフェースで、 ビジネスアナリストが機械学習の経験を持たずに、また一行のコードも書き込まなくても、正確なML予測を自分で生成できるようにします。SageMaker Canvasは、様々なソースからデータにアクセスしてそれらを組み合わせ、データを自動的にクリーニングして様々なデータ調整を施し、数クリックで正確な予測を生成するMLモデルを簡単に構築することができる製品です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-sagemaker-canvas-adds-new-data-capabilities-usability-updates/",
+          "publishedOn": "2022-05-09T20:21:01.000Z",
+          "wordCount": 240,
+          "title": "Amazon SageMaker Canvas に新しいデータ準備機能と使いやすさの更新を追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d73930cbcfe89f015a9c5620de630d883dc33381",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect で顧客のサービスコール 1 つにつき 6 人までの参加者をサポート開始しました。問い合わせを効率よく解決するために必要なすべての関係者を追加できます。例えば、金融サービス企業のエージェントは、抵当の取引き締結を進めるため、抵当のブローカー、顧客の配偶者、翻訳者、コールの監督者を追加して、問題を迅速に解決するのに役立てることができます。この機能はすぐに利用でき、AWS コンソールで有効化できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-six-participants-customer-service-call/",
+          "publishedOn": "2022-05-09T20:20:12.000Z",
+          "wordCount": 236,
+          "title": "Amazon Connect で顧客のサービスコール 1 つにつき 6 人までの参加者をサポート開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2f6d938e9702ba3e840ec3d31b521cab9a62ea3c",
+          "author": "aws@amazon.com",
+          "description": "AWS Panorama を搭載した Lenovo ThinkEdge SE70 デバイスが販売されました。既存の AWS Panorama アプライアンスに加え、Lenovo ThinkEdge SE70 デバイスは、AWS Panorama を使用したコンピュータビジョンのユースケースにおいて、価格と性能の面で新たな選択肢をお客様に提供します。お客様は AWS Panorama Partners と協力して、輸送、物流、産業、ホスピタリティなどの業界全体で CV ユースケースに対応した様々なソリューションを構築することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/lenovo-thinkedge-se70-aws-panorama-available-sale/",
+          "publishedOn": "2022-05-09T20:19:24.000Z",
+          "wordCount": 289,
+          "title": "AWS Panorama を搭載した Lenovo ThinkEdge SE70 デバイスが販売されました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7851e8abd2c35a60d1698ae682bd0ad1b9e27f18",
+          "author": "aws@amazon.com",
+          "description": "Microsoft SQL Server の新しいマイナーバージョンが Amazon RDS for SQL Server で利用可能になり、パフォーマンスとセキュリティの修正が行われました。Amazon RDS for SQL Server はExpress、Web、Standard、Enterprise Editionにおいて、Microsoft SQL Server 2016、2017、2019の新マイナーバージョンに対応するようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-rds-sql-server-supports-sql-server-2016-sp3-2017-cu27-2019-cu15/",
+          "publishedOn": "2022-05-09T20:18:35.000Z",
+          "wordCount": 291,
+          "title": "Amazon RDS for SQL Server は、SQL Server 2016 SP3、2017 CU27、および 2019 CU15 のサポートを開始しました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f9dc676766e6f07f071262f8ded16021ed5a5d1d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Interactive Video Service (Amazon IVS) は、アルゼンチンとチリで初となる PoP (Point of Presence) をブエノスアイレスとサンティアゴに設置したことを発表しました。この新しいエッジロケーションにより、アルゼンチンとチリに拠点を置くストリーマーや視聴者は、短いレイテンシーで、より良質の動画を、より多くの容量で楽しめるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-interactive-video-service-launches-edge-locations-argentina-chile/",
+          "publishedOn": "2022-05-09T20:17:47.000Z",
+          "wordCount": 260,
+          "title": "Amazon Interactive Video Service では、アルゼンチンとチリののエッジロケーションが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "19ade2ebc1acec87236270fe1d8e09a2405fc71f",
+          "author": "aws@amazon.com",
+          "description": "AWS アジアパシフィック (ジャカルタ) リージョンで AWS Lambda のお客様は、Amazon Elastic File System (Amazon EFS) にアクセスする関数を有効にできるようになりました。Amazon EFS に対する AWS Lambda サポートにより、お客様は関数呼び出し間でデータを簡単に共有し、大きな参照データファイルを読み取り、永続的で共有されたデータストアに関数出力を書き込むことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-lambda-support-amazon-elastic-file-system-available-asia-pacific-jakarta-region/",
+          "publishedOn": "2022-05-09T20:16:56.000Z",
+          "wordCount": 253,
+          "title": "アジアパシフィック (ジャカルタ) リージョンで Amazon Elastic File System に対する AWS Lambda サポートが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "406587420490ad0e1a2085ee661956d02c3c72f1",
+          "author": "aws@amazon.com",
+          "description": "AWS Service Catalogプロビジョニングのコンストラクトは、AWS クラウド開発キット (AWS CDK) 用に提供され、ビルダーが、承認されたService Catalog製品からクラウドリソースをプロビジョニングするアプリケーションインフラストラクチャストラクチャを、コードを用いて作成することができるようになりました。サービスカタログのビルダーは、TypescriptやPythonなどの使い慣れたプログラミング言語で承認されたコンストラクトを使用して、統合開発環境上で直接AWS CDKアプリケーションを作成することができるようになりました。cdk-import を使用すると、ビルダーは、AWS Service Catalog製品のプロビジョンライブラリにローカル開発環境でアクセスでき、管理者が設定したガバナンスが自動的に組みこまれたプロビジョニングコンストラクトを利用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-service-catalog-provisioning-constructs-aws-cloud-development-kit-aws-cdk-available/",
+          "publishedOn": "2022-05-09T20:16:09.000Z",
+          "wordCount": 271,
+          "title": "AWS クラウド開発キット (AWS CDK) 用の AWS Service Catalog プロビジョニングコンストラクトが利用可能になりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ada090d5812f0cc3cb9dc5f650cccfbb5e713548",
+          "author": "aws@amazon.com",
+          "description": "Amazon Quicksight の折れ線グラフは、10,000 データポイントをサポートするようになりました。この更新により、折れ線グラフのパフォーマンスが改善され、以前の 2,500 データポイントの制限から 10,000 データポイントがサポートされるようになり、他の軽微なバグ修正も導入されました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-quicksight-line-chart-support-10000-data-points/",
+          "publishedOn": "2022-05-09T19:53:11.000Z",
+          "wordCount": 226,
+          "title": "Amazon Quicksight 折れ線グラフで 10,000 データポイントをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e3f7838f18cdbf9fbd6118d4168b9c23669464c4",
+          "author": "aws@amazon.com",
+          "description": "AWS Certificate Manager (ACM) Private Certificate Authority (CA) が、アジアパシフィック (ジャカルタ) リージョンでご利用いただけるようになりました。今回のリージョンの追加により、世界中で ACM プライベート CA を利用できる範囲が拡大し、そのリージョン数は 24 に増加します。ジャカルタリージョンは、FIPS 140-2 レベル 2 HSM に保存されているシークレットキーを持つ CA をサポートします。キーストレージ認定レベルの詳細については、AWS プライベート CA のドキュメントを参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/acm-private-certification-authority-now-available-asia-pacific-jakarta-region/",
+          "publishedOn": "2022-05-09T19:52:23.000Z",
+          "wordCount": 274,
+          "title": "ACM プライベート認証機関がアジアパシフィック (ジャカルタ) リージョンで利用開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "fcd06f00efc7fd4159da205e57b75c56113036fe",
+          "author": "aws@amazon.com",
+          "description": "Amazon Managed Service for Prometheus が欧州 (ロンドン) リージョンで利用可能になりました。Amazon Managed Service for Prometheus は、フルマネージドの Prometheus 互換のモニタリングサービスであり、運用メトリクスを大規模かつ簡単にモニタリングして、アラートを発信できます。Prometheus は、コンテナ環境向けに最適化された、モニタリングとアラートのための人気のある Cloud Native Computing Foundation オープンソースプロジェクトです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-managed-service-prometheus-now-available-europe-london-region/",
+          "publishedOn": "2022-05-09T19:51:36.000Z",
+          "wordCount": 257,
+          "title": "Amazon Managed Service for Prometheus が欧州 (ロンドン) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "60fc03298ddc4e53eb0712d2d141844b7078431f",
+          "author": "aws@amazon.com",
+          "description": "AWS Audit Managerでは、AWS Config からカスタムルールを使用して、AWS Config でカスタム管理を定義することができるようになりました。Audit Manager のユーザーは、すでに構築された AWS のマネージドルールをインポートできるようになっています。また、既存の Custom Config ルールを利用して、これらのコンプライアンスチェックを直接報告できるようになりました。そのためには、ユーザーの希望する Config 設定方法で AWS Config アカウントを有効にする必要があります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-audit-manager-allows-custom-rules-config/",
+          "publishedOn": "2022-05-09T19:50:48.000Z",
+          "wordCount": 307,
+          "title": "AWS Audit Manager では、AWS Config からカスタムルールをご利用いただけるようになりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "bd34791b75d2c3c0525182cb179e01dda964638d",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon Relational Database Service (Amazon RDS) は、Amazon CloudWatch に使用メトリクス を公開し、ユーザーがアカウント全体のサービスの制限に対する監視を行えるようになりました。このような利用状況を公開することで、運用状況を可視化し、ユーザーの利用状況を管理したり、使用メトリクスがサービスの制限に近づくとアラームを出したりすることができます。11種類のサービス制限メトリクスのサポートを追加しました。AllocatedStorage, DBInstances, DBClusters, DBSecurityGroups, ReservedDBInstances, DBClusterParameterGroups, DBParameterGroups, ManualSnapshots, ManualClusterSnapshots, DBSubnetGroups, OptionGroups です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-monitor-rds-metrics-against-aws-service-limits/",
+          "publishedOn": "2022-05-09T19:49:57.000Z",
+          "wordCount": 268,
+          "title": "Amazon RDS の使用メトリクスを AWS のサービスの制限に照らして監視します",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "17a8badf9d1db69e2721412688491d69a1e04274",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS のユーザーは、EC2 キーペアを管理する追加機能へのアクセスを開始することができます。ユーザーは、EC2 キーペアを使用して作成された既存と新規のキーペアの作成日および公開キーの資料をご覧いただけます。ユーザーは pem フォーマットに加え、ppk フォーマットでも ED25519 キーペアを作成できるようになり、Cloud Formation テンプレートを使用してキーペアを作成することができるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-management-features-ec2-key-pairs/",
+          "publishedOn": "2022-05-09T19:49:09.000Z",
+          "wordCount": 239,
+          "title": "AWS は EC2 キーペア用に新しい管理機能を追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ca32942ba6b1a78c13f26885e4852c44703b683f",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) マルチ AZ デプロイオプション として、3つの利用可能ゾーン（AZ）に1つのプライマリおよび2つの読み取り可能なスタンバイデータベース（DB）インスタンスを配置して、アジアパシフィック（シンガポール）およびアジアパシフィック（シドニー）リージョンで利用可能になりました。このデプロイオプションにより、トランザクションのコミットレイテンシーを最大2倍高速化し、通常35秒以下でフェイルオーバーを自動化し、読み取り可能なスタンバイ・インスタンスを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-multi-az-2x-faster-transaction-commit-latency/",
+          "publishedOn": "2022-05-09T19:48:22.000Z",
+          "wordCount": 289,
+          "title": "トランザクションのコミットレイテンシーを最大2倍短縮する新しい Amazon RDS マルチ-AZ オプションを(アジアパシフィック（シンガポール）)と(アジアパシフィック（シドニー）)リージョンで提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1b6f60bf376fd6660f38fb93477cd5c167087d9e",
+          "author": "aws@amazon.com",
+          "description": "AWS Trusted Advisor は、AWS Compute Optimizer から自動的に取り込まれる 4 つのチェックを追加します。AWS Trusted Advisor は、AWS のベストプラクティスに従う際に役立つレコメンデーションを提供します。Trusted Advisor は、チェックを使用してアカウントを評価し、セキュリティとパフォーマンスを改善し、コストを削減し、サービスクォータをモニタリングするための機会を明らかにします。現在、AWS Compute Optimizer のチェックは、Business Support、Enterprise Support On-Ramp、および Enterprise Support の各プランでご利用いただけます。新しいチェックは次のとおりです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-compute-optimizer-adds-trusted-advisor-checks/",
+          "publishedOn": "2022-05-09T19:47:34.000Z",
+          "wordCount": 296,
+          "title": "AWS Compute Optimizer が 4 つの新しい Trusted Advisor チェックを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e689ac9bf23db52ef314472721bc460688ead760",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT Secure Tunneling を使用すると、リモートサイトで制限されたファイアウォールの背後にデプロイされているデバイスにアクセスできます。トンネルが作成されると、クライアントアクセストークン (CAT) のペアが生成され、接続元デバイスと接続先デバイスが Secure Tunneling サービスに接続するために使用します。これまでは、トークンを保存して再利用できたため、悪意のある使用の影響を受けやすくなっていました。今後は、接続が成功すると、ワンタイムトークンが取り消されます。接続が切断されると、CAT をローカルデバイスに保存してトークンの再配信メソッドを確立する代わりに、RotateTunnelAccessToken API を呼び出して、新しい CAT のペアを接続元デバイスと接続先デバイスに配信し、事前定義されたトンネル期間中に元のデバイスとの接続を再開できます。再接続すると、Secure Tunneling を使用してリモートデバイスに安全にアクセスし、トラブルシューティングを続行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-iot-device-management-secure-tunneling-single-use-token-rotation-capabilities-remote-connections-secure/",
+          "publishedOn": "2022-05-09T19:46:45.000Z",
+          "wordCount": 271,
+          "title": "AWS IoT Device Management Secure Tunneling が、ワンタイムトークンとトークンローテーション機能をサポートするようになり、リモート接続がより安全に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b5dd0ee7562cb92e43a1ab904d0efa4b06e1cb35",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connectは、エージェントの現在のステータスをプログラムで変更するためのAPIの提供を開始しました。エージェントのステータス は、エージェントが「アクセス可能」で、Connectで連絡をルーティングできる場合と、「オフライン」に設定されていたり、「昼食」や「休憩」などのカスタムステータスで、連絡を送信すべきでない場合とを判断するために使用されます。企業では、この API を使用し て、カスタムダッシュボードを構築し、コンタクトセンターの管理者がエージェントの現在のステータスを変更できるようになります。例えば、エージェントがその日のコンタクト処理を終了したときに、ステータスを「オフライン」に変更することを忘れていた場合などに利用できます。従来は、この機能はAmazon Connectのリアルタイムメトリクスのページからのみ利用可能でした。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-api-agent-current-status/",
+          "publishedOn": "2022-05-09T19:45:56.000Z",
+          "wordCount": 230,
+          "title": "Amazon Connect起動、エージェントの現在のステータスを変更するAPIを提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1efd9a41ceb8663000315335ead4f82bd1ceac1e",
+          "author": "aws@amazon.com",
+          "description": "Amazon EBS Snapshots Archive がアジアパシフィック (ソウル)、アジアパシフィック (大阪)、カナダ (中部)、および南米 (サンパウロ) の各リージョンで利用可能になりました。2021 年 11 月、90 日以上保持する意向でも、アクセスすることはほとんどないという EBS スナップショットのストレージコストを最大 75％ 節約するために役立つ EBS Snapshots Archive の提供が 17 の商用リージョンで開始されました。EBS Snapshots は増分的な性質を持っているため、最後のスナップショット以降の変更のみを保存します。これは、頻繁にアクセスする必要がある日次および週次バックアップのためのスナップショットのコスト効率性を高めます。数か月ごと、または数年ごとにアクセスするスナップショットがあり、法律上または規制上の理由からそれらを長期的に保持したいという場合は、EBS Snapshot Archive を使用して、標準階層で保存する場合に発生するコストよりも低いコストで完全なポイントインタイムスナップショットを保存することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ebs-snapshots-archive/",
+          "publishedOn": "2022-05-09T19:20:48.000Z",
+          "wordCount": 275,
+          "title": "Amazon EBS Snapshots Archive が追加のリージョンで利用可能になりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e5cbfefe2b6fdf0e992cff96344145cd731d165b",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Kubernetes Service (Amazon EKS) では、AWS マネジメントコンソールを使用して、Amazon EKS クラスターで実行されているすべての標準的な Kubernetes API リソースタイプを表示できるようになりました。これは、Amazon EKS を使用した Kubernetes アプリケーションの視覚化とトラブルシューティングを容易にします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-eks-console-supports-standard-kubernetes-resources-cluster-management/",
+          "publishedOn": "2022-05-09T19:19:01.000Z",
+          "wordCount": 277,
+          "title": "クラスター管理を簡素化するために Amazon EKS コンソールがすべての標準 Kubernetes リソースのサポートを開始しました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f0440c0da2cd8a2107899dd1ef35bc1449d12522",
+          "author": "aws@amazon.com",
+          "description": "Amazon Managed Blockchain (AMB) が、Ethereum の Proof-of-Authority テストネットワークである Goerli テストネット (Goerli) の一般提供を発表しました。フルマネージドサービスとして、AMB による Goerli のサポートは、Ethereum の次のコンセンサスアップグレード (The Merge) に先立って分散アプリケーションのための安定したテスト環境をお客様に提供し、複雑なブロックチェーンインフラストラクチャを管理する必要はありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-managed-blockchain-goerli-testnet-ethereum/",
+          "publishedOn": "2022-05-09T19:18:13.000Z",
+          "wordCount": 304,
+          "title": "Amazon Managed Blockchain (AMB) が Ethereum の Goerli テストネットのサポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1dc67d18e15f8b4c883552ae862652c98dadc7f8",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) Performance Insights では、保持期間内のカスタム時間枠を選択することによって、分析したい正確な期間のデータベースパフォーマンスメトリクスをさらに簡単に表示できるようになりました。これまでは、過去 1 時間、過去 24 時間などの相対的な時間間隔を選択することで、Performance Insights にメトリクスを表示することしかできませんでした。Amazon RDS Performance Insights は Amazon RDS と Amazon Aurora のデータベースパフォーマンスのチューニングとモニタリングを行う機能で、データベースの負荷をすばやく評価し、いつ、どこでアクションを実行するのかを判断するために役立ちます。これは、専門家以外のユーザーが、データベースの負荷を視覚化する理解しやすいダッシュボードを使用して、データベースパフォーマンスの測定できるようにします。ワンクリックするだけで、フルマネージドパフォーマンスのモニタリングソリューションを Amazon Aurora クラスターや Amazon RDS インスタンスに追加できます。Amazon RDS Performance Insights は、必要なパフォーマンスメトリクスのすべてを自動的に収集し、それらを Amazon RDS コンソールの動的なダッシュボードで可視化します。ユーザーは、単一のグラフからデータベース最大のパフォーマンスボトルネックを特定することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-rds-performance-insights-see-metrics-any-time-interval/",
+          "publishedOn": "2022-05-09T19:17:25.000Z",
+          "wordCount": 288,
+          "title": "Amazon RDS Performance Insights で任意の時間間隔でのメトリクスをより簡単に表示できるようになりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f14b7e2142e2ad358e4bb1f3d74121675fe4a196",
+          "author": "aws@amazon.com",
+          "description": "AWS AppConfig Lambda 拡張機能の最新リリースでは、Arm/Graviton2 プロセッサがサポートされています。AWS Systems Manager の機能である AWS AppConfig を使用することで、お客様は機能フラグやその他の動的/ランタイム設定を簡単に作成して、更新を安全にデプロイすることができます。AWS AppConfig Lambda 拡張機能は、お客様が Lambda 関数内のこの機能フラグと動的設定データにアクセスすることを可能にします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-appconfig-feature-flag-lambda-extension-arm-graviton2-processors/",
+          "publishedOn": "2022-05-09T19:16:01.000Z",
+          "wordCount": 267,
+          "title": "AWS AppConfig 機能フラグ Lambda 拡張機能が Arm/Graviton2 プロセッサのサポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
         {
           "id": "9c8c49fb733130f7ec1cc8dd52f1c4bef24e5e82",
           "author": "aws@amazon.com",
@@ -760,6 +1040,16 @@
           "publishedOn": "2022-05-06T11:31:11.000Z",
           "wordCount": 251,
           "title": "Amazon Kinesis Video Streams が画像抽出のマネージドサポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ff78c9fcba272505dfb102e6462333b6cfb62dda",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Snow Family は、複数の Snowball Edge サービス製品を使用する際の大規模データ移行の計画、追跡、管理を可能にする新機能 Large Data Migration Manager の提供を開始しました。最小 500 テラバイトからペタバイトスケールのデータ移行まで、簡単にジョブの計画とモニタリングができるようになりました。Large Data Migration Manager を使用することで、すべての Snow ジョブとそのデータ取り込みの状況を手動で追跡する必要がなくなります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-snow-large-data-migration-manager/",
+          "publishedOn": "2022-05-06T10:31:01.000Z",
+          "wordCount": 330,
+          "title": "AWS Snow、お客様の拠点から AWS への大規模なデータ移行を計画および管理する Large Data Migration Manager の提供を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
@@ -990,16 +1280,6 @@
           "publishedOn": "2022-05-04T08:47:57.000Z",
           "wordCount": 263,
           "title": "AWS Control Tower が Python 3.9 ランタイムを新たにサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ff78c9fcba272505dfb102e6462333b6cfb62dda",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Snow Family は、複数の Snowball Edge サービス製品を使用する際の大規模データ移行の計画、追跡、管理を可能にする新機能 Large Data Migration Manager の提供を開始しました。最小 500 テラバイトからペタバイトスケールのデータ移行まで、簡単にジョブの計画とモニタリングができるようになりました。Large Data Migration Manager を使用することで、すべての Snow ジョブとそのデータ取り込みの状況を手動で追跡する必要がなくなります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-snow-large-data-migration-manager/",
-          "publishedOn": "2022-05-04T08:46:20.000Z",
-          "wordCount": 330,
-          "title": "AWS Snow、お客様のプレミスから AWS への大規模なデータ移行を計画および管理する Large Data Migration Manager の提供を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
@@ -1463,46 +1743,6 @@
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
-          "id": "50f5eb2ca709ed03ec444c9b3a96e223944f3da2",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Marketplace は、2021 年 11 月に開始された、AMI およびコンテナ製品の前払い契約価格に関する既存のコミットメントを簡単にアップグレードおよび/または更新する機能を開始しました。現在、バイヤーは既存の契約を自動更新したり、コミットメントのライセンス数を増やしたりすることを選択できるため、絶えず変化するビジネスニーズに対応し、AWS でのワークロードの拡大に対応できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-marketplace-modify-ami-container-subscriptions/",
-          "publishedOn": "2022-04-21T15:27:54.000Z",
-          "wordCount": 225,
-          "title": "AWS Marketplace のお客様は、AMI およびコンテナの事前契約価格ベースのサブスクリプションを変更できるようになりました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "713c310bfadb4eae7039ad3ef8bc27772facede1",
-          "author": "aws@amazon.com",
-          "description": "Amazon Interactive Video Service (Amazon IVS) コンソールおよび動画ストリームリソースの制御や作成を行う API が、アジアパシフィック (ムンバイ)、アジアパシフィック (東京)、アジアパシフィック (ソウル)、米国東部 (バージニア北部)、米国西部 (オレゴン)、欧州 (フランクフルト) リージョンで利用可能になりました。動画の取り込みと配信は、ライブ動画用に最適化されたインフラストラクチャによる、専用のマネージド型ネットワークを介して世界中どこでも行えます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-interactive-video-service-console-apis-additional-regions/",
-          "publishedOn": "2022-04-21T15:21:53.000Z",
-          "wordCount": 292,
-          "title": "Amazon Interactive Video Service コンソールと API が 4 つの追加リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "be5355307ffdf743006e51e3830c3b35928c2d17",
-          "author": "aws@amazon.com",
-          "description": "Amazon EKS、Amazon ECR、Dynamo DB、Amazon S3、AWS Application Autoscaling、AWS API Gateway v2 用 AWS Controllers for Kubernetes (ACK) コントローラーが一般提供を開始しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ack-ecr-dynamodb-s3-aws-application-api-gateway-available/",
-          "publishedOn": "2022-04-21T15:13:53.000Z",
-          "wordCount": 261,
-          "title": "Amazon EKS、Amazon ECR、Amazon DynamoDB、Amazon S3、AWS Application Autoscaling、AWS API Gateway v2 の ACKコントローラーが一般提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4cb15d092cc7850d448dcc271cd828f1b2171eb5",
-          "author": "aws@amazon.com",
-          "description": "AWS DataSync が AWS アジアパシフィック (ジャカルタ) リージョンでご利用いただけるようになりました。DataSync は、Network File System (NFS) 共有、Server Message Block (SMB) 共有、セルフマネージドオブジェクトストレージ、Hadoop Distributed File System (HDFS)、AWS Snowcone、Amazon Simple Storage Service (Amazon S3) バケット、Amazon Elastic File System (Amazon EFS) ファイルシステム、Amazon FSx for Windows ファイルサーバーのファイルシステム、そして Amazon FSx for Lustre ファイルシステムとの間でデータをコピーできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-datasync-asia-pacific-jakarta/",
-          "publishedOn": "2022-04-21T14:17:53.000Z",
-          "wordCount": 289,
-          "title": "AWS DataSync が、AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
           "id": "d763389aec113994c7c43eb5fcf9113e03ee116d",
           "author": "aws@amazon.com",
           "description": "Amazon Redshift は、新たに機能が強化された監査ログを提供するようになりました。これにより、レイテンシーを最小限に抑えながら、Amazon CloudWatch を新しいログの送信先として追加することで、分析用のログの配信を高速化できます。このリリースでは、お客様は監査ログを Amazon CloudWatch に直接ストリーミングすることを選択できます。これにより、お客様はリアルタイムのモニタリングを実行できます。",
@@ -1510,216 +1750,6 @@
           "publishedOn": "2022-04-21T14:11:53.000Z",
           "wordCount": 265,
           "title": "Amazon Redshift が監査ログの新たな機能強化を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ed9abc1bc060fb13920b570c56da093640953f06",
-          "author": "aws@amazon.com",
-          "description": "次世代の Amazon FSx for Lustre ファイルシステムが、アジアパシフィック (シドニー)、アジアパシフィック (シンガポール)、欧州 (ロンドン) の 3 つの追加の AWS リージョンでご利用いただけるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/generation-fsx-luster-system-aws-available-asia-pacific-sydney-europe-london-singapore-regions/",
-          "publishedOn": "2022-04-21T14:05:53.000Z",
-          "wordCount": 268,
-          "title": "次世代の FSx for Lustre ファイルシステムが、アジアパシフィック (シドニー)、欧州 (ロンドン)、およびアジアパシフィック (シンガポール) の各 AWS リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "53ad1734c1d6cdd9ab4a770d8657b07dcc2dcd3e",
-          "author": "aws@amazon.com",
-          "description": "Amazon FSx for OpenZFS ファイルシステムが、欧州 (ロンドン)、アジアパシフィック (シドニー)、およびアジアパシフィック (シンガポール) の 3 つの追加の AWS リージョンで起動できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-openzfs-available-europe-london-signapore-regions/",
-          "publishedOn": "2022-04-21T13:59:53.000Z",
-          "wordCount": 266,
-          "title": "Amazon FSx for OpenZFS が、欧州 (ロンドン)、アジアパシフィック (シドニー)、およびアジアパシフィック (シンガポール) の各リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8f5d8217569dde6fcfa5b0888d92ab17832573ca",
-          "author": "aws@amazon.com",
-          "description": "Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は、Amazon Kendra Quip コネクタを使用して、Quip リポジトリ内のドキュメントのインデックス作成と検索を行うことができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-kendra-quip-connector-enable-document-search-quip-repository/",
-          "publishedOn": "2022-04-21T13:53:53.000Z",
-          "wordCount": 255,
-          "title": "Amazon Kendra が Quip Connector をリリースし、Quip リポジトリでドキュメント検索を可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "5587a223f1e55f23793cae20570390dc948ce84c",
-          "author": "aws@amazon.com",
-          "description": "Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、新しいオーストリアドイツ語のニューラルボイスである Hannah の一般提供を発表できることを嬉しく思います。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-launches-austrian-german-neural-text-speech-voice/",
-          "publishedOn": "2022-04-21T13:47:53.000Z",
-          "wordCount": 229,
-          "title": "Amazon Polly で新しいオーストリアドイツ語のニューラルテキスト読み上げ音声を新たにローンチ",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4b27ad378e85eeb5924cc393b5acf2765047a768",
-          "author": "aws@amazon.com",
-          "description": "2022 年 4 月 19 日、Amazon は OpenJDK の Amazon Corretto Long-Term Supported (LTS) バージョンの四半期ごとのセキュリティおよびクリティカルアップデートを発表しました。Corretto 18.0.1、17.0.3、11.0.15 および 8u332 のダウンロードが可能となりました。Amazon Corretto は、マルチプラットフォームで、本稼働に対応した、無料の OpenJDK ディストリビューションです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-corretto-april-2022-quartely-updates/",
-          "publishedOn": "2022-04-21T13:41:53.000Z",
-          "wordCount": 248,
-          "title": "Amazon Corretto が四半期更新情報を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2b0957ae8bd40d5fd15cf4f3c267d0541b8ed56f",
-          "author": "aws@amazon.com",
-          "description": "スケーラブルで可用性が高く、フルマネージドの Cassandra 互換データベースサービスである Amazon Keyspaces (Apache Cassandra 用) は、オープンソースの Spark Cassandra Connector を使用して、Apache Spark でのデータの読み取りと書き込みをより簡単に行えるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-keyspaces-read-write-data-apache-spark/",
-          "publishedOn": "2022-04-21T13:35:53.000Z",
-          "wordCount": 286,
-          "title": "Amazon Keyspaces により、Apache Spark でのデータの読み取りと書き込みがより簡単に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "46a0061a0d0545a51df8f29f2fb3dd7e53303243",
-          "author": "aws@amazon.com",
-          "description": "Amazon Aurora MySQL 互換エディションのデータベース接続を利用可能な暗号のリストから設定できるようになりました。設定の変更が可能な暗号スイートにより、データベースサーバーが受け付け可能な接続の暗号化についてより多くのセキュリティコントロールが可能になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-aurora-mysql-configurable-cipher-suites/",
-          "publishedOn": "2022-04-20T13:39:21.000Z",
-          "wordCount": 248,
-          "title": "設定の変更が可能な暗号スイートが Amazon Aurora MySQL に利用可能になりました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "78dc2917d242d9576824ceaa459698d1c3a17032",
-          "author": "aws@amazon.com",
-          "description": "Amazon Kinesis Data Firehose は、Coralogix へのストリーミングデータ配信をサポートするようになりました。これにより、Coralogix ユーザーは、アプリケーションの管理やコードの記述なしにストリーミングデータを取り込むことができるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-kinesis-data-firehose-coralogix/",
-          "publishedOn": "2022-04-20T13:31:21.000Z",
-          "wordCount": 272,
-          "title": "Amazon Kinesis Data Firehose が Coralogix に対応",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a468f5227660deb2a4b5784e272d046c8f376679",
-          "author": "aws@amazon.com",
-          "description": "AWS アジアパシフィック (ジャカルタ) リージョンで Service Quotas をご利用いただけるようになりました。これにより、AWS ワークロードの増加に合わせて Service Quotas を表示して、大規模に管理できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-service-quotas-available-jakarta-region/",
-          "publishedOn": "2022-04-20T12:26:21.000Z",
-          "wordCount": 276,
-          "title": "Service Quotas が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "0eb8ffba5540fafbe7d684d4aecdd11d4665d2b5",
-          "author": "aws@amazon.com",
-          "description": "Amazon Interactive Video Service (Amazon IVS) は、インドネシアとフィリピンで初となる PoP (Point of Presence) をジャカルタとマニラに設置したことを発表しました。この新しいエッジロケーションにより、インドネシアとフィリピンに拠点を置くストリーマーや視聴者は、短いレイテンシーで、より良質の動画を、より多くの容量で楽しめるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-interactive-video-service-launches-edge-locations-indonesia-philippines/",
-          "publishedOn": "2022-04-20T12:18:21.000Z",
-          "wordCount": 262,
-          "title": "インドネシアおよびフィリピンで Amazon Interactive Video Service のエッジロケーションが利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9566d7bde35034dbb07a3c7ddc2f618bd4d03889",
-          "author": "aws@amazon.com",
-          "description": "AWS PrivateLink を使用して、仮想プライベートクラウド (AmazonVPC) から AWS Batch API へのプライベートアクセスを行えるようになりました。AWS PrivateLink は、VPC、AWS のサービス、オンプレミスネットワーク間のプライベート接続を提供します。これで、AWS PrivateLink を使用して VPC で AWS Batch リソースを管理し、組織のセキュリティとコンプライアンスの要件を満たすことができるようになりました。AWS PrivateLink を使用するには、Amazon VPC コンソール、SDK、または CLI を使用して、VPC で AWS Batch のインターフェイス VPC エンドポイントを作成します。また、AWS VPN、AWS Direct Connect、VPC ピアリングのいずれかを使用して、オンプレミス環境またはその他の VPC から VPC エンドポイントにアクセスすることもできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-batch-adds-privatelink/",
-          "publishedOn": "2022-04-20T12:12:21.000Z",
-          "wordCount": 271,
-          "title": "AWS Batch が、AWS PrivateLink のサポートを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "6ef710ed3e8eb519a60f41a7b241684987dee99f",
-          "author": "aws@amazon.com",
-          "description": "AWS DataSync が、Amazon FSx for OpenZFS との間でファイル転送をサポートするようになりました。これは、オープンソースの OpenZFS ファイルシステム上に構築された、信頼性が高く、スケーラブルで、パフォーマンスが高く、機能豊富なファイルストレージを提供するフルマネージドサービスです。DataSync を使用すると、オンプレミスのファイルまたはオブジェクトストレージを FSx for OpenZFS に簡単かつ安全に移行したり、FSx for OpenZFS とオンプレミスストレージまたは AWS ストレージサービスの間でデータの継続的な転送を実行したりできます。また、DataSync を使用して、FSx for OpenZFS ファイルシステムとの間でデータを移動することもできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-datasync-amazon-fsx-openzfs/",
-          "publishedOn": "2022-04-19T12:51:21.000Z",
-          "wordCount": 300,
-          "title": "AWS DataSync が、Amazon FSx for OpenZFS との間でデータをコピーできるようになりました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3626583cbf7359486549ada10eb4edf9c4195e06",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS DevOps コンピテンシーの DevSecOps カテゴリを発表いたしました。これらの AWS パートナーは、お客様がセキュリティポリシーとガードレールを CI/CD パイプラインに統合するのに役立つ DevSecOps 製品を提供しています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/devsecops-solutions-competency-partners/",
-          "publishedOn": "2022-04-18T20:08:23.000Z",
-          "wordCount": 240,
-          "title": "AWS DevOps コンピテンシーパートナーからの DevSecOps ソリューションのご紹介",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9c934f82a875526a85340b02c50630590dedf0dc",
-          "author": "aws@amazon.com",
-          "description": "Amazon AppStream 2.0 は Elastic フリートのセッションスクプトを発表します。Amazon AppStream 2.0 Elastic フリート は、お客様が容量管理タスクをなくし、コストを削減できるよう支援します。本日より、AppStream 2.0 Elastic フリートは、オンインスタンスセッションスクリプトを提供します。これらのスクリプトは、AppStream 2.0 Elastic フリートの管理者が一般的に行うシナリオを簡素化するものです。これらのスクリプトを使用すると、ユーザーのストリーミングセッションで特定のイベントが発生したときに、独自のカスタムアクションを実行できます。たとえば、ユーザーのセッションスタート前やセッション終了後に実行するカスタムアクションなどです。セッションの開始前に、アプリケーションやストリーミング環境の設定をはじめ、アプリケーションログの収集、セッション中のセッション情報のモニタリング、セッション終了前のアプリケーションのクリーンアップなどのタスクを簡単に実行できます。セッションスクリプトは、AppStream 2.0 の Always-On および On-Demand フリートで既に利用可能です。Elastic フリートのセッションスクリプト構築をスタートするには、Use Session Scripts to Manage Your AppStream 2.0 Users' Streaming Experiencese Session をご参照ください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/appstream-custom-scripts-elastic-fleets/",
-          "publishedOn": "2022-04-18T12:25:21.000Z",
-          "wordCount": 257,
-          "title": "AppStream 2.0 では、Elastic フリートのカスタムセッションスクリプトを有効にします",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8801a565fb13acdab1a5c250a2c82c72be9d9d86",
-          "author": "aws@amazon.com",
-          "description": "AWS Single Sign-On (AWS SSO) で Microsoft Active Directory (AD) をアイデンティティソースとして使用している場合、AD から AWS SSO に同期するユーザーとグループのリストを設定し、同期を一時停止することが可能になりました。同期を設定することで、データ主権要件に合致したユーザーとグループの同期を行うことができます。また、必要に応じて同期を一時停止したり、希望する時間帯に同期を行うことも可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-single-sign-on-configurable-synchronization-microsoft-active-directory/",
-          "publishedOn": "2022-04-18T12:25:21.000Z",
-          "wordCount": 284,
-          "title": "AWS Single Sign-On が Microsoft Active Directory の同期設定機能を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "d83c6c720b2d063063ab912418be996b46a29465",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS コンテナコンピテンシーのエンタープライズコンテナ管理カテゴリを発表しました。これらの AWS パートナーは、お客様が異なる環境間でコンテナインフラストラクチャとコンテナ化されたワークロードを管理するのに役立つコンテナ管理製品を提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/enterprise-container-management-solutions-aws-competency-partners/",
-          "publishedOn": "2022-04-18T12:19:22.000Z",
-          "wordCount": 225,
-          "title": "AWS コンテナコンピテンシーパートナーによるエンタープライズコンテナ管理ソリューションの紹介",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "29bf365876e9b859d2f854e8de8587c226b1413b",
-          "author": "aws@amazon.com",
-          "description": "Amazon CloudFront と統合するソフトウェア製品を持つ AWS パートナー向けの新しい Amazon CloudFront Ready プログラムを発表できることを嬉しく思っています。お客様は、クラウドでのアプリケーション構築に移行しており、スケーラブルで非常に魅力的なアプリケーションやオンライン体験を構築および配信するための適切なツールやソフトウェアソリューションを必要としています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-cloudfront-ready-program/",
-          "publishedOn": "2022-04-18T12:15:21.000Z",
-          "wordCount": 249,
-          "title": "Amazon CloudFront Ready プログラムの紹介",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f7acda4fc074aabe450d68aaedce83d139cf03f3",
-          "author": "aws@amazon.com",
-          "description": "本日より、Amazon SageMaker Canvas が AWS アジアパシフィック (東京) リージョンで一般提供を開始しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-sagemaker-canvas-available-asia-pacific-tokyo/",
-          "publishedOn": "2022-04-18T11:59:21.000Z",
-          "wordCount": 251,
-          "title": "Amazon SageMaker Canvas が AWS アジアパシフィック (東京) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4b429d8921073aa0f8087e5776dfb0ed1ae8fbfd",
-          "author": "aws@amazon.com",
-          "description": "Amazon CloudWatch は、CloudWatch メトリクスストリームでパーセンタイルなどの追加統計情報をサポートすることを発表します。メトリクスストリームにより、任意の送信先に対する、継続的でほぼリアルタイムなメトリクスのストリーミングを作成できます。これらの追加統計情報により、メトリクスのパターンと傾向の可視性が向上し、アプリケーションのヘルスとパフォーマンスをより効果的にモニタリングできるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-cloudwatch-metric-streams-additional-statistics/",
-          "publishedOn": "2022-04-18T11:53:21.000Z",
-          "wordCount": 269,
-          "title": "Amazon CloudWatch メトリクスストリームが追加統計情報を新たにサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8d87f0f0e989c8cdecf2fd22d0b99f5f4d4d547f",
-          "author": "aws@amazon.com",
-          "description": "宇宙望遠鏡科学研究所、DNAStack、米国国立公文書館などからの新規または更新された 16 のデータセットが、次のカテゴリのオープンデータのレジストリで利用可能ですのでご覧ください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/q2-new-datasets-available-registry-open-data/",
-          "publishedOn": "2022-04-18T10:58:21.000Z",
-          "wordCount": 309,
-          "title": "宇宙望遠鏡科学研究所、DNAStack、米国国立公文書館などからオープンデータのレジストリで利用できる新しいデータセットが登場",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "45787c6debd0c9b58b1303ec661161f3e196af07",
-          "author": "aws@amazon.com",
-          "description": "Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。JavaScript 3.0 および React Components 3.0 用の Amazon Chime SDK は、ウェブおよび Electron アプリケーションのデベロッパーに、実装をより高速にするとともに、一般的なブラウザと Chromium ランタイム間での一貫性を実現するための簡素化されたデベロッパーエクスペリエンスを提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-chime-sdk-javascript-react-3-0/",
-          "publishedOn": "2022-04-15T21:55:21.000Z",
-          "wordCount": 298,
-          "title": "JavaScript 3.0 および React Components 3.0 用の Amazon Chime SDK を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
