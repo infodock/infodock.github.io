@@ -753,6 +753,76 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "d425a61e3052311af6362c7da8576ba9fa49f545",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kinesis Data Firehose がアジアパシフィック (ジャカルタ) AWS リージョンで利用できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-kinesis-data-firehose-available-asia-jakarta-aws-region/",
+          "publishedOn": "2022-05-10T23:40:20.000Z",
+          "wordCount": 267,
+          "title": "Amazon Kinesis Data Firehose がアジアパシフィック (ジャカルタ) AWS リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f7e8d92b2ee5f7ddd793b97061bdd7a0f2415dae",
+          "author": "aws@amazon.com",
+          "description": "お客様は、機械学習の専門知識を必要することなく、画像や動画内の顔を大規模に分析するために、Amazon Rekognition Face API を使用します。これにより、本人確認、写真検索、メディア分析などのユースケースが可能となります。Amazon Rekognition は、顔の検出、比較、および検索機能の精度を高めるために、Face API バージョン 6 をリリースしました。さらに、顔検出のレイテンシーが 70% 短縮されました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-rekognition-face-apis-version-6-accuracy/",
+          "publishedOn": "2022-05-10T23:39:31.000Z",
+          "wordCount": 245,
+          "title": "Amazon Rekognition が精度を向上させるために Face API バージョン 6 をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "97d822f71d1455d05f0c28544d352a9774212aa2",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon EC2 X2idn と X2iedn が追加のリージョンとベアメタルサイズでご利用いただけるようになりました。現在、X2idn インスタンスは、米国東部 (オハイオ)、米国西部 (オレゴン)、および AWS GovCloud (米国西部) でご利用いただけます。X2iedn インスタンスは、アジアパシフィック (ムンバイ) と AWS GovCloud (米国西部) でご利用いただけます。X2idn および X2iedn は、最大 3.5 GHz のオールコアターボ周波数を持つ第 3 世代インテル Xeon スケーラブルプロセッサを搭載しており、コンピューティングについては、同等の X1 インスタンスと比べて最大 50% 高い料金パフォーマンスを提供します。X2idn と X2iedn の両方のインスタンスは、最大 3.8 TB のローカル NVMe SSD ストレージと最大 100 Gbps のネットワーク帯域幅を含みます。X2idn は最大 2 TiB のメモリを提供し、X2iedn は最大 4 TiB のメモリを提供します。X2idn のメモリと vCPU の比率は 16:1 で、X2iedn の比率は 32:1 です。そのため、これらのインスタンスは、インメモリデータベースや分析、ビッグデータ処理エンジン、Electronic Design Automation (EDA) などのワークロードに最適です。X2idn と X2iedn インスタンスは SAP 認定です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-additional-regions-metal-sizes/",
+          "publishedOn": "2022-05-10T23:38:43.000Z",
+          "wordCount": 354,
+          "title": "Amazon EC2 X2idn と X2iedn インスタンスが追加のリージョンとベアメタルサイズで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "794a38a0d0b1103fabf5dc3ad0f587384e4b6e0b",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon Chime SDK メッセージングの一般提供が欧州 (フランクフルト) リージョンで開始されました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-chime-sdk-messaging-features-available-europe-frankfurt-aws-region/",
+          "publishedOn": "2022-05-10T23:35:27.000Z",
+          "wordCount": 245,
+          "title": "Amazon Chime SDK メッセージング機能が欧州 (フランクフルト) AWS リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "54e03039ecda22fd0c9635bc2e5824728c4012c8",
+          "author": "aws@amazon.com",
+          "description": "本日より、汎用 Amazon EC2 M6a インスタンスが 米国東部 (オハイオ) および欧州 (フランクフルト)で利用可能になりました。さらに、コンピューティングに最適化された Amazon EC2 C6a インスタンスが 米国東部 (オハイオ)、アジアパシフィック (ムンバイ)、そして欧州 (フランクフルト) で利用可能になりました。M6a および C6a インスタンスは、3.6 GHz のオールコアターボ周波数を備えた第 3 世代 AMD EPYC (コードネーム: Milan) プロセッサを搭載しています。M6a インスタンスは M5a インスタンスと比較して最大35% 優れた価格パフォーマンスを提供し、C6a インスタンス は C5a インスタンスと比較して最大 15% 優れた価格パフォーマンスを提供します。M6a と C6a の両方のインスタンスのコストは、同等の x86 ベースの EC2 インスタンスに比べて 10% 低くなります。M6a および C6a インスタンスは、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これは、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供します。M6a インスタンスは、SAP 認定であり、ウェブサーバーおよびアプリケーションサーバー、エンタープライズアプリケーション向けバックエンドサーバー、ウェブサーバー、マイクロサービス、マルチプレイヤーゲームサーバー、キャッシュフリート、ならびにアプリケーション開発環境などのワークロードに最適です。C6a インスタンスは、バッチ処理、分散分析、ハイパフォーマンスコンピューティング (HPC)、広告配信、高度にスケーラブルなマルチプレイヤーゲーム、ビデオエンコーディングのような計算量の多い用途に最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-m6a-c6a-available-additional-regions/",
+          "publishedOn": "2022-05-10T23:33:50.000Z",
+          "wordCount": 351,
+          "title": "Amazon EC2 M6a および C6a インスタンスをご利用いただけるリージョンが増えました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5c40f978abb110059b67d06260ef5a7557d2af56",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect は、コンタクトセンターのマネージャーがエージェントのスケジュールを効率的に管理するのに役立つように、スケジュール管理のユーザーエクスペリエンス内にスケジュールメトリクスを表示するようになりました。マネージャーは、必要なエージェントの予測数と、15 分または 30 分の時間ブロックごとにスケジュールされたエージェントの数の差など、ビジネスの成果を促進する主要なメトリクスをすばやく表示してアクションを実行できます。これらのメトリクスはエージェントのスケジュールの隣に表示されるため、マネージャーは、スケジュール画面とメトリクス画面を度々切り替えることなく正確な調整を行うことができ、エージェントのワークロードのバランスを取りながらビジネスの成果を最適化できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-displays-metrics-schedule-management-user-experience/",
+          "publishedOn": "2022-05-10T23:33:02.000Z",
+          "wordCount": 224,
+          "title": "Amazon Connect が、スケジュール管理のユーザーエクスペリエンス内にメトリクスを表示",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d2d04fc9a293775b091bcce8bf1f4b04e9ed22ed",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Data Wrangler は、ML の初めての完全統合開発環境 (IDE) である Amazon SageMaker Studio で、機械学習 (ML) のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴量エンジニアリングのプロセスを簡素化し、データの選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。SageMaker Data Wrangler は、デフォルトで ml.m5.4xlarge 上で実行します。SageMaker Data Wrangler には PySpark で記述された組み込みのデータ変換および分析が含まれるので、デフォルトインスタンスで大規模なデータセット (最大数百ギガバイト (GB) のデータ) を効率的に処理できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-sagemaker-data-wrangler-m5-r5-instances-data-preparation/",
+          "publishedOn": "2022-05-10T23:32:14.000Z",
+          "wordCount": 293,
+          "title": "Amazon SageMaker Data Wrangler がインタラクティブなデータ準備のための追加の M5 および R5 インスタンスのサポートを提供",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "142e3eb329c4444c42ce9d42a279b6cf56e8964e",
           "author": "aws@amazon.com",
           "description": "Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。本日より、カスタム語彙を作成することによって、入力音声の処理方法について、Amazon Lex に追加情報を提供できます。カスタム語彙とは、認識が比較的困難なドメイン固有の用語または聞きなれない単語 (例えば、ブランド名、製品名) のリストです。そのようなリストを作成し bot 定義に追加すると、Amazon Lex はユーザーの意向を識別したり会話の情報を収集したりするときにそれらの言葉を利用できるようになります。これにより、音声認識を強化し、エンドユーザーのエクスペリエンスを改善できます。",
@@ -1038,7 +1108,7 @@
           "description": "本日、Amazon Kinesis Video Streams は、ビデオストリーミングから画像を抽出するのに役立つ新しい API と SDK を発表しました。この完全に管理された機能により、顧客は API コールを介して画像を要求したり、取り込んだビデオのメタデータタグに基づいて自動画像生成を設定したりできます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-kinesis-video-streams-announces-managed-support-image-extraction/",
           "publishedOn": "2022-05-06T11:31:11.000Z",
-          "wordCount": 251,
+          "wordCount": 252,
           "title": "Amazon Kinesis Video Streams が画像抽出のマネージドサポートを発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
@@ -1245,7 +1315,7 @@
         {
           "id": "11ccc1862c9bef2b5ab3447a315236dab1aecc77",
           "author": "aws@amazon.com",
-          "description": "Amazon Connect は、Amazon Connect インスタンスでユーザーレコードを検索できる新しい API をサポート開始しました。この新しい API は、名前、姓、ユーザー名、ルーティングプロファイル、セキュリティプロファイル、エージェント階層、またはタグでユーザーを検索できるプログラム的で柔軟な方法を提供します。例えば、この API を使用して、Department:A のキーと値のペアでタグ付けされたすべてのユーザーを検索できます。また、特定のセキュリティプロファイル、ルーティングプロファイル、またはエージェント階層に割り当てられているすべてのユーザーのリストをすばやく見つけることができます。この新しい API の詳細については、「API ドキュメント」を参照してください。",
+          "description": "Amazon Connect は、Amazon Connect インスタンスでユーザーレコードを検索できる新しい API をサポート開始しました。この新しい API は、名前、姓、ユーザー名、ルーティングプロファイル、セキュリティプロファイル、エージェント階層、またはタグを使い、プログラミングで柔軟にユーザーを検索できる方法を提供します。例えば、この API を使用して、Department:A のキーと値のペアでタグ付けされたすべてのユーザーを検索できます。また、特定のセキュリティプロファイル、ルーティングプロファイル、またはエージェント階層に割り当てられているすべてのユーザーのリストをすばやく見つけることができます。この新しい API の詳細については、「API ドキュメント」を参照してください。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-api-search-users-name-agent-hierarchies-tags/",
           "publishedOn": "2022-05-04T11:32:02.000Z",
           "wordCount": 241,
@@ -1365,7 +1435,7 @@
         {
           "id": "fa728e0a89e4c2265acbae984fe080de9bcfc9e6",
           "author": "aws@amazon.com",
-          "description": "Amazon Elastic Kubernetes Service (EKS) が、Karpenter オープンソースクラスター自動スケーリングプロジェクトの v0.9.0 o発表しました。Karpenter は、柔軟性のある高性能の Kubernetes Cluster Autoscaler で、アプリケーションの可用性とリソースの使用率を向上させることができます。Karpenter v0.9.0 はKubernetes podAffinity および podAntiAffinity のスケジュール制約のサポートを追加します。これにより、一般的なサードパーティの Helm チャートとの互換性が高まり、高可用性のユースケースのサポートが拡張されます。",
+          "description": "Amazon Elastic Kubernetes Service (EKS) が、Karpenter オープンソースクラスター自動スケーリングプロジェクトの v0.9.0 を発表しました。Karpenter は、柔軟性のある高性能の Kubernetes Cluster Autoscaler で、アプリケーションの可用性とリソースの使用率を向上させることができます。Karpenter v0.9.0 はKubernetes podAffinity および podAntiAffinity のスケジュール制約のサポートを追加します。これにより、一般的なサードパーティの Helm チャートとの互換性が高まり、高可用性のユースケースのサポートが拡張されます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-eks-karpenter-v0-9-0-pod-affinity/",
           "publishedOn": "2022-05-02T18:46:14.000Z",
           "wordCount": 280,
@@ -1633,16 +1703,6 @@
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
-          "id": "cebec4328ff9cbb7addc49803fb83ff31b991a20",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) が、すべての商用リージョンの AWS Outposts で PostgreSQL および MySQL のマルチ AZ 配置で高可用性構成をサポートするようになりました。Outposts での Amazon RDS マルチ AZ 配置では、RDS データベース (DB) インスタンスの可用性と耐久性が強化され、プロダクションデータベースのワークロードに適しています。マルチ AZ データベースインスタンスをプロビジョニングすると、Amazon RDS は自動的にプライマリ DB インスタンスを作成し、別のアベイラビリティーゾーン  (AZ) に接続された 2 番目の AWS Outposts のスタンバイインスタンスにデータを同期的にレプリケーションします。それぞれの Outposts は、その独自の、物理的にはっきりと独立したインフラストラクチャ上で稼働しています。また高い信頼性を保つように設計されています。インフラストラクチャに障害が発生した場合、Amazon RDS は自動的にスタンバイデータベースにフェイルオーバーするので、フェイルオーバー完了後すぐにデータベースのオペレーションを再開できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-relational-database-service-multi-az-deployments-aws-outposts-high-availability/",
-          "publishedOn": "2022-04-25T18:08:53.000Z",
-          "wordCount": 307,
-          "title": "Amazon Relational Database Service が、高可用性のために AWS Outposts でのマルチ AZ 配置のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
           "id": "23eb5cdc79a4085f4260f0336afdfa4017a0ec70",
           "author": "aws@amazon.com",
           "description": "3 種類の新しいマネージドデータ識別子がAmazon Macie に追加され、Amazon Simple Storage Service (Amazon S3) に存在する HTTP 基本認証ヘッダー、HTTP Cookie、JSON Web トークンの場所を検出および識別できるように拡張されました。これらのタイプのデータが S3 ストレージに存在するかどうか、どこに存在するかを知ることは、組織のデータセキュリティ、ガバナンス、プライバシーのニーズをより適切に計画するのに役立ちます。",
@@ -1663,16 +1723,6 @@
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
-          "id": "66f6666ad3337f5378d420f790dbd1d0a434d5ab",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS は、Amazon Neptune での openCypher クエリ言語サポートの一般提供開始を発表いたしました。お客様は、Amazon Neptune で openCypher を使用できるようになり、グラフアプリケーションを構築したり、可用性の高い、安全なフルマネージドグラフデータベースに移行したりする選択肢が増えました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-announces-general-availability-opencypher-support-amazon-neptune/",
-          "publishedOn": "2022-04-25T17:46:53.000Z",
-          "wordCount": 255,
-          "title": "AWS が Amazon Neptune 向け openCypher サポートの一般提供を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
           "id": "d72d1c0aa0854c58bbe0ba9672da447f1e662cee",
           "author": "aws@amazon.com",
           "description": "Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。Amazon Chime SDK が、AWS GovCloud (米国)リージョンで FedRAMP High 認証を取得しました。米国政府機関や請負業者は、Amazon Chime SDK を使用して、FedRAMP High 認証を必要とするワークロード用のアプリケーションを構築できるようになりました。",
@@ -1680,16 +1730,6 @@
           "publishedOn": "2022-04-25T17:40:55.000Z",
           "wordCount": 266,
           "title": "Amazon Chime SDK が FedRAMP High 認証を取得",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e740b856a1a0bf9be755b0cd6a521952e751f3a1",
-          "author": "aws@amazon.com",
-          "description": "AWS Key Management Service (AWS KMS) を使用すると、Hash-Based Message Authentication Code (HMAC) の生成と検証に使用できる KMS キーを作成できます。HMAC は強力な暗号化ビルディングブロックであり、ハッシュ関数内にシークレットキーの素材を組み込んで、一意の鍵付きメッセージ認証コードを作成します。HMAC KMS キーは、AWS KMS の FIPS 140-2 検証済み HSM セキュリティ境界内でのみ生成および使用できます。このアーキテクチャは、ローカルアプリケーションソフトウェアでプレーンテキストの HMAC キーを使用するのとは対照的に、これらのシークレットキーが危険にさらされるリスクを最小限に抑えることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/",
-          "publishedOn": "2022-04-25T17:34:53.000Z",
-          "wordCount": 280,
-          "title": "AWS Key Management Service が新しい HMAC APIを導入",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
@@ -1703,26 +1743,6 @@
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
-          "id": "f3ae893c203b494601185f36904d8747e7e8f392",
-          "author": "aws@amazon.com",
-          "description": "AWS Step Functions が、20 を超える新しい AWS SDK 統合と 1000 を超える新しい AWS API アクションのサポートを拡張することにより、AWS SDK との統合を強化します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-step-functions-expands-support-over-20-new-aws-sdk-integrations/",
-          "publishedOn": "2022-04-25T17:22:54.000Z",
-          "wordCount": 268,
-          "title": "AWS Step Functions が、20 を超える新しい AWS SDK 統合のサポートを拡張",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "cc72139c21503bdbe7bd34c19bf84a188d4050b6",
-          "author": "aws@amazon.com",
-          "description": "AWS Security Hub が、リージョン間のセキュリティスコアとコンプライアンスステータスのサポートを開始し、すべてのアカウントとリージョンにわたるセキュリティ体制のより完全な表示が可能になりました。昨年、Security Hub は、調査結果に関するリージョン間集計のサポートを追加しました。このリリースにより、Security Hub の機能が拡張され、集約リージョンを設定している場合は、リージョン間のセキュリティスコアとコンプライアンスステータスもサポートされるようになりました。集約リージョン内の各コントロールのそれぞれの標準およびコンプライアンスステータスのセキュリティスコアは、リンクされたリージョン全体での複合ビューを反映します。管理者アカウントと集約リージョンのセキュリティスコアとコンプライアンスステータスは、すべてのアカウントとリージョンの複合ビューを反映します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-security-hub-cross-region-security-scores-compliance-statuses/",
-          "publishedOn": "2022-04-25T17:09:53.000Z",
-          "wordCount": 301,
-          "title": "AWS Security Hub が、リージョン間のセキュリティスコアとコンプライアンスステータスを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
           "id": "a7bfb24d1b54ec6ba33fea5ef5858b470655fc2c",
           "author": "aws@amazon.com",
           "description": "AWS Migration Hub は、新しい Migration Hub Orchestrator 機能により、アプリケーションの AWS への移行をオーケストレートするのに役立ちます。大規模な移行プロジェクトの範囲には、通常、移行ツールの選択、段階的な計画、およびさまざまなツールやチームにわたる移行プロセスの追跡が含まれます。Migration Hub Orchestrator は、事前定義されたカスタマイズ可能なワークフローテンプレートを提供し、所定の移行タスク、移行ツール、自動化の機会を提供します。Orchestrator を使用すると、テンプレートをカスタマイズしたり、アプリケーションの移行を自動化したり、進行状況を 1 か所で追跡したりできます。",
@@ -1730,26 +1750,6 @@
           "publishedOn": "2022-04-25T17:03:56.000Z",
           "wordCount": 267,
           "title": "AWS Migration Hub の新しい移行オーケストレーション機能である Migration Hub Orchestrator を導入",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "1687933e2c424b3cfb9bb215914e09ddff9556a4",
-          "author": "aws@amazon.com",
-          "description": "2022 年 1 月の最終更新以降、AWS CloudFormation Registry を拡張し、2022 年 1 月から 3 月の間に 35 の新しいリソースタイプ (下記の全リストを参照) をサポートするようになりました。リソースタイプにはスキーマ (リソースプロパティおよびハンドラー許可) と、基盤となる AWS またはサードパーティーのサービスとの API インタラクションを許可するハンドラーが含まれます。お客様は、Infrastructure as Code として扱うことで、CloudFormation を介してクラウドインフラストラクチャの一部として新たにサポートされるこれらのリソースのライフサイクルを設定、プロビジョニング、および管理できるようになりました。さらに、1 つの新しい AWS のサービス (AWS Billing Conductor) がリリース日に CloudFormation のサポートを追加したことをお知らせします。CloudFormation は、170 を超える AWS のサービス、900 を超えるリソースタイプ、および 40 を超えるサードパーティーのリソースタイプをサポートしています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/introducing-35-types-cloudformation-registry/",
-          "publishedOn": "2022-04-21T15:33:53.000Z",
-          "wordCount": 320,
-          "title": "CloudFormation Registry に 35 の新しいリソースタイプを導入",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "d763389aec113994c7c43eb5fcf9113e03ee116d",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift は、新たに機能が強化された監査ログを提供するようになりました。これにより、レイテンシーを最小限に抑えながら、Amazon CloudWatch を新しいログの送信先として追加することで、分析用のログの配信を高速化できます。このリリースでは、お客様は監査ログを Amazon CloudWatch に直接ストリーミングすることを選択できます。これにより、お客様はリアルタイムのモニタリングを実行できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-enhancements-audit-logging/",
-          "publishedOn": "2022-04-21T14:11:53.000Z",
-          "wordCount": 265,
-          "title": "Amazon Redshift が監査ログの新たな機能強化を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
