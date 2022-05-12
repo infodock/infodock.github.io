@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-11T00:27:47.961Z</id>
+    <id>urn:2022-05-12T00:27:02.987Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-11T00:27:47.961Z</updated>
+    <updated>2022-05-12T00:27:02.987Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Azure SQL—Generally available updates for early May 2022]]></title>
+        <id>azure-sql-generally-available-updates-for-early-may-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-generally-available-updates-for-early-may-2022/"/>
+        <updated>2022-05-11T16:00:22.000Z</updated>
+        <summary type="html"><![CDATA[General availability enhancements and updates released for Azure SQL.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Minor versions upgrade for Azure Database for MySQL – Flexible Server]]></title>
+        <id>generally-available-minor-versions-upgrade-for-azure-database-for-mysql-flexible-server</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-minor-versions-upgrade-for-azure-database-for-mysql-flexible-server/"/>
+        <updated>2022-05-11T16:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Run the most stable, compliant, and secure MySQL community versions 8.0.28 and 5.7.37 on Azure Database for MySQL – Flexible Server.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: IT Service Management Integration with secure webhook]]></title>
+        <id>generally-available-it-service-management-integration-with-secure-webhook</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-it-service-management-integration-with-secure-webhook/"/>
+        <updated>2022-05-11T16:00:20.000Z</updated>
+        <summary type="html"><![CDATA[IT Service Management is now integrated with secure webhook, an updated version that allows you to create work items in an ITSM tool when Azure Monitor sends alerts.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Container Apps now support log streaming and console connect]]></title>
+        <id>public-preview-azure-container-apps-now-support-log-streaming-and-console-connect</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-container-apps-now-support-log-streaming-and-console-connect/"/>
+        <updated>2022-05-11T16:00:20.000Z</updated>
+        <summary type="html"><![CDATA[You can now connect to a container console and use live log streaming for testing and diagnosis.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Static Web Apps support skipping API builds via Azure pipelines]]></title>
+        <id>public-preview-static-web-apps-support-skipping-api-builds-via-azure-pipelines</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-static-web-apps-support-skipping-api-builds-via-azure-pipelines/"/>
+        <updated>2022-05-11T16:00:19.000Z</updated>
+        <summary type="html"><![CDATA[You can now skip the default API build via Azure pipelines.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Improved Azure DevOps support in Static Web Apps]]></title>
+        <id>public-preview-improved-azure-devops-support-in-static-web-apps-2</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-improved-azure-devops-support-in-static-web-apps-2/"/>
+        <updated>2022-05-11T16:00:18.000Z</updated>
+        <summary type="html"><![CDATA[You no longer have to go through a series of manual steps to configure your DevOps CI/CD pipeline for your Static Web Apps project.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Azure Compute Gallery support for trusted launch Virtual Machines]]></title>
+        <id>trusted-launch-azure-compute-gallery-support</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/trusted-launch-azure-compute-gallery-support/"/>
+        <updated>2022-05-11T15:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Azure Compute Gallery now allows you to create and share custom images for Trusted launch virtual machines]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Kinesis Data Firehose がアジアパシフィック (ジャカルタ) AWS リージョンで利用可能に]]></title>
         <id>d425a61e3052311af6362c7da8576ba9fa49f545</id>
@@ -1691,56 +1761,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-sphere-os-version-2204/"/>
         <updated>2022-04-12T15:00:09.000Z</updated>
         <summary type="html"><![CDATA[Azure Sphere OS quality release 22.04 is available now.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Service tags support for user-defined routing]]></title>
-        <id>generally-available-service-tags-support-for-user-defined-routing</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-service-tags-support-for-user-defined-routing/"/>
-        <updated>2022-04-11T18:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Simplify route creation and management by using service tags to represent multiple IP ranges in a single user-defined route.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Customize application text labels in Azure IoT Central]]></title>
-        <id>iotc-replacetextlabels</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-replacetextlabels/"/>
-        <updated>2022-04-11T16:00:34.000Z</updated>
-        <summary type="html"><![CDATA[You can now replace ‘Device’ label in your Azure IoT Central application with your preferred text.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Databricks Delta Live Tables]]></title>
-        <id>generally-available-azure-databricks-delta-live-tables</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-databricks-delta-live-tables/"/>
-        <updated>2022-04-11T16:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Build reliable, maintainable, and testable data processing pipelines with Delta Live Tables.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Glossary terms in Azure Purview data catalog search]]></title>
-        <id>purview-glossary-search</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/purview-glossary-search/"/>
-        <updated>2022-04-11T16:00:14.000Z</updated>
-        <summary type="html"><![CDATA[The Azure Purview data catalog search experience now includes glossary terms in the search results.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: DNS reservations to prevent subdomain takeover in Cloud Services deployments]]></title>
-        <id>dns-reservations-to-prevent-subdomain-takeover-in-cloud-services</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/dns-reservations-to-prevent-subdomain-takeover-in-cloud-services/"/>
-        <updated>2022-04-11T15:09:52.000Z</updated>
-        <summary type="html"><![CDATA[As a preventive measure, DNS record is reserved for seven days to allow clean-up of dangling DNS domains or reclaim from same Azure Active Directory tenant only.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
