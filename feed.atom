@@ -1,10 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-12T00:27:02.987Z</id>
+    <id>urn:2022-05-13T00:32:59.074Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-12T00:27:02.987Z</updated>
+    <updated>2022-05-13T00:32:59.074Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Athena が Apache Hive のメタストアでビューのサポートを開始]]></title>
+        <id>71fe03478df0c8f7d4dfce2e47e042a668e033dd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-athena-now-supports-views-apache-hive-metastores/"/>
+        <updated>2022-05-12T18:47:43.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Athena を使用して、セルフマネージド Apache Hive メタストアに保存されたビューを照会できるようになりました。Hive ビューは Hive Query Language (HiveQL) を使用して定義されますが、これは Athena の標準 SQL と完全に互換性があるわけではありません。この新しい機能により、Athena は自動的に HiveQL の構文の違いを処理し、ビュー定義を変更したり複雑な翻訳レイヤーを維持することなく、Hive ビューにクエリを実行することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EFS が、より多くの同時ファイルロックのサポートを開始]]></title>
+        <id>7b344c77833e99fe511a05ad3dfe819eeb25ac6e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-efs-larger-number-concurrent-file-locks/"/>
+        <updated>2022-05-12T18:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic File System (Amazon EFS) は、NFS マウントあたりのファイルロックの最大数を増やし、メッセージブローカーや分散分析アプリケーションなど、大量の同時ロックを活用する幅広いワークロードにサービスを使用できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SageMaker ノートブックインスタンスが ml.g5 インスタンスファミリー、および Python 3.8 カーネルをサポート開始]]></title>
+        <id>50b3eb26ad52fbad55b0225de128f7c20abdfbe0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/sagemaker-notebook-instances-support-ml-g5-instance-family-python-3-8-kernels/"/>
+        <updated>2022-05-12T18:46:08.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker ノートブックインスタンスをご利用のお客様向けに、ml.g5 GPU インスタンスファミリーの提供、Python 3.8 のサポートなど、新たなアップグレードが提供されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[目玉となる 3 つの FreeRTOS リファレンス統合プロジェクトを発表]]></title>
+        <id>f8123f49f73159a8ca14257ab9fbfaa554e4afd2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/three-featured-freertos-reference-integrations-projects/"/>
+        <updated>2022-05-12T18:31:57.000Z</updated>
+        <summary type="html"><![CDATA[FreeRTOS AWS リファレンス統合の 3 つの目玉を発表します。FreeRTOS AWS リファレンス統合は、AWS IoT Core への安全なエンドツーエンドの接続を実証する、パートナーが提供するマイクロコントローラーベースの評価ボードに移植された、事前統合された FreeRTOS プロジェクトです。目玉となる FreeRTOS リファレンス統合の 3 つのプロジェクトは、パートナーである Espressif、NXP、STMicroelectronics と共同で開発されたものです。各プロジェクトは、最新の FreeRTOS と AWS Embedded C SDK Long Term Support (LTS) ライブラリ、および最新のマイクロコントローラアーキテクチャ機能を使用しています。デベロッパーは、これら 3 つのプロジェクトをカスタマイズして、本番稼働可能な完全な IoT 製品に仕上げることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kotlin 向けに設計された Amplify Android ライブラリ (デベロッパープレビュー) を発表]]></title>
+        <id>2c09325fc1bda21cab087e3062962f055571458f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amplify-android-library-developer-preview-kotlin/"/>
+        <updated>2022-05-12T18:31:09.000Z</updated>
+        <summary type="html"><![CDATA[本日、Kotlin 向けに書き換えられた Amplify Android ライブラリのデベロッパープレビューを発表します。この最初のリリースでは、Android デベロッパーが Kotlin ベースの Android プロジェクトに、認証、ストレージ、データストア、API などのクラウドベースのアプリケーション機能を追加できるようにします。デベロッパーは、コルーチンのような Kotlin ベースの言語機能の利点を享受することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Data Lake Storage Gen1 to Gen2 using Azure Portal]]></title>
+        <id>general-availability-migrate-your-azure-data-lake-storage-from-gen1-to-gen2-using-the-azure-portal-azure-updates-microsoft-az</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-migrate-your-azure-data-lake-storage-from-gen1-to-gen2-using-the-azure-portal-azure-updates-microsoft-az/"/>
+        <updated>2022-05-12T16:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Migrate your data from Azure Data Lake Storage Gen1 to Gen2 to speed up your time to insights]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: OCR supports 164 languages in the Cognitive Services Computer Vision]]></title>
+        <id>read-ocr-supports-164-languages-cloud-container-2</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/read-ocr-supports-164-languages-cloud-container-2/"/>
+        <updated>2022-05-12T15:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Computer Vision Read API for Optical Character Recognition (OCR) announced the general availability of the new model with support for 164 languages. It’s also available as a Docker container.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT SiteWise でのバッチデータ取得用の 3 つの新しい API を発表]]></title>
+        <id>4a6cd333b7a4d917c08a9cf48f06d03c9ba30c69</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/announcing-new-apis-batch-data-retrieval-aws-iot-sitewise/"/>
+        <updated>2022-05-12T08:34:37.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT SiteWise から単一の API リクエストで現在の値 (BatchGetAssetPropertyValue)、履歴値 (BatchGetAssetPropertyValueHistory)、および集計値 (BatchGetAssetPropertyAggregates) を取得する 3 つの新しい API を使用して、AWS IoT SiteWise で複数のアセットプロパティからバッチデータを取得できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS X-Ray が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>bd467f838a978e156a9394c418ff0add2c4823de</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-x-ray-available-asia-pacific-jakarta-region/"/>
+        <updated>2022-05-12T08:33:49.000Z</updated>
+        <summary type="html"><![CDATA[今日、AWS アジアパシフィック (ジャカルタ) リージョンで AWS X-Ray が利用できるようになりました。X-Ray を使用すると、デベロッパーは、マイクロサービスアーキテクチャを使って構築された分散型実稼働アプリケーションを分析およびデバッグすることができます。X-Ray では、アプリケーションやその基盤となるサービスの実行状況を把握し、パフォーマンスの問題やエラーの根本原因を特定してトラブルシューティングを行うことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch 使用状況メトリクスを使用した Amazon Managed Service での Prometheus 使用状況のモニタリング]]></title>
+        <id>0f99c71fbbecdf588c1baeddfb4b9f8150ab606b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/monitor-amazon-managed-service-prometheus-usage-amazon-cloudwatch-usage-metrics/"/>
+        <updated>2022-05-12T08:31:20.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Managed Service for Prometheus 使用状況メトリクスが追加コストなしで Amazon CloudWatch で利用できるようになりました。Amazon Managed Service for Prometheus は、フルマネージドの Prometheus 互換のモニタリングサービスであり、運用メトリクスを大規模かつ簡単にモニタリングして、アラートを発信できます。Prometheus は、コンテナ環境向けに最適化された、モニタリングとアラートのための人気のある Cloud Native Computing Foundation オープンソースプロジェクトです。Amazon CloudWatch 使用状況メトリクスを使用すると、Amazon Managed Service for Prometheus ワークスペースの使用状況を確認し、クォータのプロアクティブな管理を開始できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Secrets Manager がシークレットの使用状況のメトリクスを Amazon CloudWatch に出力開始]]></title>
+        <id>3921ae43944a28d623bbc2dae0a4a27a9067eebd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-secrets-manager-publishes-usage-metrics-to-amazon-cloudwatch/"/>
+        <updated>2022-05-12T01:46:49.000Z</updated>
+        <summary type="html"><![CDATA[AWS Secrets Manager がアカウントのシークレットの個数をメトリクスとして Amazon CloudWatch に出力するようになりました。この機能により、Secrets Manager で使用しているシークレットの個数を簡単に表示できます。シークレットの個数が予期せず増加または減少した場合のアラームも設定できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure SQL—Generally available updates for early May 2022]]></title>
         <id>azure-sql-generally-available-updates-for-early-may-2022</id>
@@ -370,7 +480,7 @@
         <id>f0440c0da2cd8a2107899dd1ef35bc1449d12522</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-managed-blockchain-goerli-testnet-ethereum/"/>
         <updated>2022-05-09T19:18:13.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Managed Blockchain (AMB) が、Ethereum の Proof-of-Authority テストネットワークである Goerli テストネット (Goerli) の一般提供を発表しました。フルマネージドサービスとして、AMB による Goerli のサポートは、Ethereum の次のコンセンサスアップグレード (The Merge) に先立って分散アプリケーションのための安定したテスト環境をお客様に提供し、複雑なブロックチェーンインフラストラクチャを管理する必要はありません。]]></summary>
+        <summary type="html"><![CDATA[Amazon Managed Blockchain (AMB) が、Ethereum の Proof-of-Authority テストネットワークである Goerli テストネット (Goerli) の一般提供を発表しました。フルマネージドサービスとして、AMB による Goerli のサポートは、Ethereum の次のコンセンサスアップグレード (The Merge) に先立って分散アプリケーションのための安定したテスト環境をお客様に提供します。ブロックチェーンインフラストラクチャを管理する必要はありません。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -816,16 +926,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS IoT TwinMaker の一般提供を開始]]></title>
-        <id>199ec1db2abd212a2cb55129692d7cebfa8206d3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-iot-twinmaker-now-generally-available/"/>
-        <updated>2022-05-03T04:24:33.000Z</updated>
-        <summary type="html"><![CDATA[本日、建物や工場、生産ライン、設備などの実際実際のシステムのデジタルツインをデベロッパーが簡単に作成できるサービス AWS IoT TwinMaker の一般提供を発表します。スマートビルディング、製造、建設、エネルギー、電力・ユーティリティなどの業界で、お客様がより良いオペレーションと戦略的な意思決定を行うために、デジタルツインの導入が進んでいます。AWS IoT TwinMaker を使用することで、デジタルツインを構築するために必要なツールを手に入れ、生産工程のモニタリングと改善に役立てることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Public preview: Static Web Apps support for preview environments in Azure DevOps]]></title>
         <id>public-preview-static-web-apps-support-for-preview-environments-in-azure-devops</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-static-web-apps-support-for-preview-environments-in-azure-devops/"/>
@@ -1011,26 +1111,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-aurora-serverless-v2/"/>
         <updated>2022-04-27T16:19:54.000Z</updated>
         <summary type="html"><![CDATA[Aurora Serverless の次のバージョンである Amazon Aurora Serverless v2が一般に利用可能になりました。Aurora Serverless v2 は、最も要求の厳しいアプリケーションもサポートできるよう瞬時にスケールでき、ピーク時容量のプロビジョニングと比較して最大90%のコスト削減を実現します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Athenaで新しいデータソースコネクタが一般に利用可能に]]></title>
-        <id>bcad59f858f61f814dcbc2a5f9f798c8b5237392</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/new-data-source-connectors-generally-available-amazon-athena/"/>
-        <updated>2022-04-27T16:13:53.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Athena の 10 の新しいデータソースコネクタの一般提供を発表します。Athena　を使用すると、データを前処理またはコピーするための ETL スクリプトを必要とせずに、リレーショナル、非リレーショナル、オブジェクト、およびカスタムのデータソースに保存されているデータをクエリできます。このリリースでは、Athena でクエリできるデータソースの数が拡大され、アナリスト、データエンジニア、データサイエンティスト、デベロッパーがオンプレミスまたはクラウドで稼働するデータベースに保存されているデータからビジネス価値を引き出すのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Textract が、Analyze Document API 内に新しいクエリ機能を提供開始]]></title>
-        <id>acfff182edcefa7a807baca0974c6fcec7c88ab5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-textract-launches-queries-feature-analyze-document-api/"/>
-        <updated>2022-04-27T16:07:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Textract は、あらゆるドキュメントまたは画像からテキスト、手書き文字、およびデータを自動的に抽出する機械学習サービスです。Textract では、Analyze Document API の新しいクエリ機能を使って、ドキュメントから抽出する必要があるデータを柔軟に指定することができるようになりました。ドキュメント内のデータの構造 (テーブル、フォーム、黙示のフィールド、ネストされたデータ) を知る必要はなく、ドキュメントのバージョンやフォーマットの違いについて心配する必要もありません。クエリは、視覚的、空間的、および言語的な手がかりの組み合わせを活用して、求める情報を高精度で抽出します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1286,16 +1366,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Personalize がレコメンダーの開始と停止のサポートを開始]]></title>
-        <id>123d5cc8fed367f273de99daa5861f990819249e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-personalize-starting-stopping-recommenders/"/>
-        <updated>2022-04-26T20:44:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Personalize では、レコメンダーの停止および開始が可能となったことにより、リソースをよりきめ細かく制御できるようになりました。Amazon Personalize により、デベロッパーは、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。機械学習の専門知識は必要ありません。レコメンダーは、「よく一緒に購入されています」(小売業向け) や、「お客様のための上位のおすすめ」(メディアとエンターテインメント向け) など、特定のユースケースに最適化されたリソースです。使用していないときにレコメンダーを停止すると、レコメンダーを削除することなく、非アクティブ状態に移行します。開始によってアクティブ状態に移行し、レコメンダーのリソースを再作成することなく、中断したポイントから再開します。例えば、テストフェーズ中に、数日間だけレコメンデーションを取得する必要がある場合があります。不要なときにレコメンダーを停止し、いつでもレコメンダーを再開してレコメンデーションリクエストを再開できます。停止したレコメンダーには利用料金はかかりません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Batch、UpdateComputeEnvironment API の改良を追加]]></title>
         <id>481f1ab43ad0c9cfbf4211709c7e57f0e85edfa6</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-batch-adds-improvement-updatecomputeenvironment-api/"/>
@@ -1356,41 +1426,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Transit Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
-        <id>6da8dcb87be24d2cf253ce0828157ec1acfa670a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-transit-gateway-jakarta-region/"/>
-        <updated>2022-04-25T18:38:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Transit Gateway が AWS Direct Connect のサポートとともに、アジアパシフィック (ジャカルタ) の AWS リージョンでご利用いただけるようになりました。AWS Transit Gateway を使えば、何千もの Amazon Virtual Private Cloud (Amazon VPC) とオンプレミスネットワークを 1 つのゲートウェイで接続できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Neptune が AWS IAM ポリシーでグローバル条件キーのサポートを開始]]></title>
-        <id>749a61a18595bdb89386ecd7e046371e7b011fe9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-neptune-global-condition-keys-iam-policies/"/>
-        <updated>2022-04-25T18:32:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS グローバル条件コンテキストキーを使用して、Neptune クラスターやインスタンスなどの Amazon Neptune リソースへのアクセスを制御する AWS Identity and Access Management (IAM) ポリシーをカスタマイズできるようになりました。IAM ポリシーの Condition 要素で指定されている AWS グローバル条件コンテキストキーを使用して、設定された条件に基づいて Neptune リソースへのアクセスを許可または禁止できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenTelemetry Operator の EKS アドオンサポートが一般提供開始]]></title>
         <id>9d8867a264d0a754757b7054e527a0c8085f7c43</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/eks-opentelemetry-operator-now-available/"/>
         <updated>2022-04-25T18:26:53.000Z</updated>
         <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (Amazon EKS) は、Amazon EKS コンソール、AWS Command Line Interface (CLI)、および EKS API を使用して、AWS Distro for OpenTelemetry (ADOT) Operator のインストールおよび管理をサポートすることになりました。今回のリリースにより、Amazon EKS で実行されているアプリケーションをインストルメント化して、AWS X-Ray、Amazon Managed Service for Prometheus、Amazon CloudWatch などの複数のモニタリングサービスにメトリクスとトレースを送信する簡素化されたエクスペリエンスが可能になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EC2 Auto Scaling で、すべてのインスタンスのスケーリングと置換アクションのデフォルトのインスタンスウォームアップ時間を設定可能に]]></title>
-        <id>aa2ece501ba3ce3176789141f0f87b05f02ba2a2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/ec2-auto-scaling-default-instance-warm-up-replacement-actions/"/>
-        <updated>2022-04-25T18:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Auto Scaling インスタンスのライフサイクルで、すべてのスケーリングアクティビティ、ヘルスチェックの置換、およびその他の置換イベントのデフォルトのインスタンスウォームアップ時間を設定できるようになりました。Amazon EC2 Auto Scaling は、アプリケーションにサービスを提供するインスタンスの論理グループ (Auto Scaling グループと呼ばれます) の自動的なスケールおよび管理を可能にするサービスです。EC2 Auto Scaling は、インスタンスを置き換えたり、Auto Scaling グループから削除したり、Auto Scaling グループに追加したりする必要があるかどうかを判断するために、CPU の使用状況やアプリケーションの需要などのさまざまなメトリクスをモニタリングすることによってこれを可能にします。デフォルトのインスタンスウォームアップ時間パラメータを設定すると、インスタンスが需要に対応できるようになるまでに通常かかる時間をスケーリングおよび置換ポリシーが認識できるようになり、Auto Scaling グループの設定が簡素化されます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1426,31 +1466,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK が FedRAMP High 認証を取得]]></title>
-        <id>d72d1c0aa0854c58bbe0ba9672da447f1e662cee</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-chime-sdk-achieves-fedramp-high-authorization/"/>
-        <updated>2022-04-25T17:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。Amazon Chime SDK が、AWS GovCloud (米国)リージョンで FedRAMP High 認証を取得しました。米国政府機関や請負業者は、Amazon Chime SDK を使用して、FedRAMP High 認証を必要とするワークロード用のアプリケーションを構築できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Elemental MediaTailor は、チャネルアセンブリでライブソースのサポートを開始]]></title>
         <id>3058cf32166d697502538eb2193cd9aad66f9699</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-elemental-mediatailor-live-channel-assembly/"/>
         <updated>2022-04-25T17:28:53.000Z</updated>
         <summary type="html"><![CDATA[AWS Elemental MediaTailor でチャネルアセンブリを使用して作成されたリニアチャネルにライブコンテンツをスケジュールできるようになりました。既存のビデオオンデマンド (VOD) カタログからトランスコードおよびパッケージ化された HLS および DASH ストリームを再利用することは既に可能であり、AWS Elemental MediaPackage などのオリジンからのライブストリームをリニアチャネルのスケジュールされたソースとして使用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Migration Hub の新しい移行オーケストレーション機能である Migration Hub Orchestrator を導入]]></title>
-        <id>a7bfb24d1b54ec6ba33fea5ef5858b470655fc2c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-migration-hub-orchestrator/"/>
-        <updated>2022-04-25T17:03:56.000Z</updated>
-        <summary type="html"><![CDATA[AWS Migration Hub は、新しい Migration Hub Orchestrator 機能により、アプリケーションの AWS への移行をオーケストレートするのに役立ちます。大規模な移行プロジェクトの範囲には、通常、移行ツールの選択、段階的な計画、およびさまざまなツールやチームにわたる移行プロセスの追跡が含まれます。Migration Hub Orchestrator は、事前定義されたカスタマイズ可能なワークフローテンプレートを提供し、所定の移行タスク、移行ツール、自動化の機会を提供します。Orchestrator を使用すると、テンプレートをカスタマイズしたり、アプリケーションの移行を自動化したり、進行状況を 1 か所で追跡したりできます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1741,26 +1761,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-recommended-alert-rules-for-virtual-machines/"/>
         <updated>2022-04-13T16:00:25.000Z</updated>
         <summary type="html"><![CDATA[既存の仮想マシンに対して推奨されるアラート ルール セットを有効にできるようになりました。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Migrate devices across templates at scale in Azure IoT Central]]></title>
-        <id>iotc-migrate-devices-across-templates</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-migrate-devices-across-templates/"/>
-        <updated>2022-04-12T16:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Migrating devices across device templates at scale is now supported in Azure IoT Central jobs.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Sphere OS version 22.04]]></title>
-        <id>general-availability-azure-sphere-os-version-2204</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-sphere-os-version-2204/"/>
-        <updated>2022-04-12T15:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Azure Sphere OS quality release 22.04 is available now.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
