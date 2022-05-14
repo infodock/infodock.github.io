@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T00:32:59.074Z</id>
+    <id>urn:2022-05-14T00:33:19.513Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-13T00:32:59.074Z</updated>
+    <updated>2022-05-14T00:33:19.513Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 での NitroTPM と UEFI セキュアブートの一般提供開始を発表]]></title>
+        <id>c07779eae6804f7178b800fe115b31a3e4556fb3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-nitrotpm-uefi-secure-boot/"/>
+        <updated>2022-05-13T08:31:01.000Z</updated>
+        <summary type="html"><![CDATA[本日、アマゾン ウェブ サービス (AWS) は、2 つの新しいセキュリティおよび互換性機能である NitroTPM (Trusted Platform Module (TPM) 2.0 準拠)、および Amazon EC2 での Unified Extensible Firmware Interface (UEFI) セキュアブートの一般提供開始を発表いたしました。これらの機能により、お客様は EC2 インスタンスで TPM 依存のアプリケーションを使用できるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Step Functions 向けにワークフローの可観測性に関する新機能を発表]]></title>
+        <id>de50bb4627d245e503607b5f04ae0cd1161e6c49</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/announcing-new-workflow-observability-features-aws-step-functions/"/>
+        <updated>2022-05-13T03:33:23.000Z</updated>
+        <summary type="html"><![CDATA[AWS Step Functions は、ワークフローの実行を表示およびデバッグするための新しいコンソールエクスペリエンスの提供を開始しました。これにより、実行の検索やフィルタリング、および実行における根本原因の特定が容易になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 が Amazon マシンイメージ向けに CloudWatch Events のサポートを追加]]></title>
+        <id>d801ce96c47aaaa9bef567f9608654e6a09046b7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-cloudwatch-events-support-amazon-machine-images/"/>
+        <updated>2022-05-13T03:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EC2 は、作成、登録、登録解除などのさまざまな Amazon マシンイメージ (AMI) アクションについて、Amazon CloudWatch Events に通知を送信するようになりました。CloudWatch Events (CWE) を使用すると、これらの変更に応じてプログラムによるアクションを開始するルールを確立できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Athena が Apache Hive のメタストアでビューのサポートを開始]]></title>
         <id>71fe03478df0c8f7d4dfce2e47e042a668e033dd</id>
@@ -870,7 +900,7 @@
         <id>726a503b031b441451bda526db2479f794316a10</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-lightsail-balancers-automatic-https-tls-security-policy/"/>
         <updated>2022-05-04T00:48:23.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lightsail は、Lightsail ロードバランサーに、HTTP リクエストを HTTPS に自動的にリダイレクトする機能と、HTTPS リクエストの TLS 終了に使用されるセキュリティポリシーを設定する機能の 2 つの新しいセキュリティ機能を追加しました。これらの機能を使用すると、ウェブサイトをホストする Lightsail インスタンスで Lightsail ロードバランサーを設定するだけで、ウェブサイトをより安全にし、コンプライアンス目標を達成し、検索ランキングと SSL/TLS スコアを向上させることができます。]]></summary>
+        <summary type="html"><![CDATA[Amazon Lightsail は、Lightsail ロードバランサーに、HTTP リクエストを HTTPS に自動的にリダイレクトする機能と、HTTPS リクエストの TLS ターミネーションに使用するセキュリティポリシーを設定する機能の 2 つの新しいセキュリティ機能を追加しました。これらの機能を使用すると、ウェブサイトをホストする Lightsail インスタンスで Lightsail ロードバランサーを設定するだけで、ウェブサイトをより安全にし、コンプライアンス目標を達成し、検索ランキングと SSL/TLS スコアを向上させることができます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1086,16 +1116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amplify Geo for Android の一般提供の開始を発表]]></title>
-        <id>153244cd0d6bbf9ccb6a94a08d43b83008676d61</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/general-availability-amplify-geo-android/"/>
-        <updated>2022-04-27T16:41:53.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amplify Geo for JavaScript と iOS のリリースに続いて、Amplify Geo for Android の一般提供をしたことをお知らせします。Amplify Geo for Android を使用すると、デベロッパーは、Android アプリに地図や場所の検索のためにクラウドにコネクトされた UI コンポーネントを追加できます。Auth、DataStore、Storage などの AWS Amplify の機能に加えて、Amplify Geo は、Amazon Location Service API 上に構築された一連のクライアントライブラリを提供するとともに、人気のある MapLibre オープンソースライブラリに基づくクラウドにコネクトされたマップ UI コンポーネントを含みます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon MQ が ActiveMQ バージョン 5.16.4 のサポートを開始]]></title>
         <id>8e16d6d04f615745487e04c8db28c29cd1c13d7a</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-activemq-version/"/>
@@ -1110,7 +1130,7 @@
         <id>39d3e36eaf896382d4b6860dea6e2506a7608f55</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-aurora-serverless-v2/"/>
         <updated>2022-04-27T16:19:54.000Z</updated>
-        <summary type="html"><![CDATA[Aurora Serverless の次のバージョンである Amazon Aurora Serverless v2が一般に利用可能になりました。Aurora Serverless v2 は、最も要求の厳しいアプリケーションもサポートできるよう瞬時にスケールでき、ピーク時容量のプロビジョニングと比較して最大90%のコスト削減を実現します。]]></summary>
+        <summary type="html"><![CDATA[Aurora Serverless の次のバージョンである Amazon Aurora Serverless v2 が一般に利用可能になりました。Aurora Serverless v2 は、最も要求の厳しいアプリケーションもサポートできるよう瞬時にスケールでき、ピーク時容量のプロビジョニングと比較して最大90%のコスト削減を実現します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1316,26 +1336,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon DevOps Guru がAWS サーバーレスアプリケーションの問題に早期にフラグを立てるプロアクティブインサイトを提供開始]]></title>
-        <id>0d82f5322557d60bc72c4efdd98ffb73b24c1590</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-devops-guru-provides-proactive-insights-flag-early-issues-aws-serverless-applications/"/>
-        <updated>2022-04-27T15:42:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon DevOps Guru は、可用性の向上、パフォーマンスの改善、アプリケーションリソースの利用最適化に役立つプロアクティブインサイトを提供するようになりました。プロアクティブなモニタリングは、アプリケーションとインフラストラクチャの潜在的な問題に早期にフラグを立て、迅速に対応し、コストのかかるダウンタイムを削減るためのキーです。Amazon DevOps Guru は、機械学習 (ML) を使用してアプリケーションリソース、構成、およびアプリケーションメトリクスを分析し、潜在的な将来のオペレーション上の問題を特定して、ユーザーへの影響を防ぎ、アプリケーションのアップタイムを増やします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Glue のオートスケーリングが一般利用可能に]]></title>
-        <id>8bb04ed8343bc94210cc78ef5c04e638ba27c6bb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/autoscaling-aws-glue-now-generally-available/"/>
-        <updated>2022-04-27T15:36:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Glue Apache Spark ジョブにおけるオートスケーリングの一般利用が可能になりました。AWS Glue 3.0 では、ワークロードに基づいてリソースを動的にスケールアップおよびスケールダウンできるようになりました。オートスケーリングを使用すると、ジョブのリソースを過剰にプロビジョニングしたり、ワーカー数の最適化に時間を費やしたり、アイドル状態のワーカーに料金を支払ったりすることについて心配する必要がなくなります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Glue におけるインタラクティブなノートブックベースのジョブオーサリングを発表]]></title>
         <id>d6e9b035ae1915a89650ac21837eb9acee8576ff</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-glue-notebook-based-job-authoring/"/>
@@ -1349,7 +1349,7 @@
         <title type="html"><![CDATA[AWS Glue における機密データの検出と処理の発表]]></title>
         <id>6d720c9aa948222f8b9aff5ef23e41cf56a9cfb4</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-announcing-sensitive-data-detection-glue/"/>
-        <updated>2022-04-27T15:24:53.000Z</updated>
+        <updated>2022-04-27T15:24:54.000Z</updated>
         <summary type="html"><![CDATA[AWS Glue における機密データの検出と処理の一般提供を開始しました。この機能は、パターンマッチングと機械学習を使用して、AWS Glue ジョブの実行中に、列レベルとセルレベルの両方で個人識別情報 (PII) やその他の機密データを自動的に検出します。AWS Glue には、PII の種類とその場所をログに記録し、アクションを実行するためのオプションが含まれています。]]></summary>
         <author>
             <name>aws@amazon.com</name>
@@ -1551,216 +1551,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-monitor-and-azure-managed-grafana-integrations/"/>
         <updated>2022-04-18T16:00:42.000Z</updated>
         <summary type="html"><![CDATA[New Grafana integrations with Azure Monitor include the ability to pin Azure Monitor visualizations from Azure Portal to Grafana dashboards and new out-of-the-box Azure Monitor dashboards.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In development: Azure Media Services low-latency live streaming]]></title>
-        <id>public-preview-azure-media-services-lo-latency-live-streaming-llhls</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-media-services-lo-latency-live-streaming-llhls/"/>
-        <updated>2022-04-13T17:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Azure Media Services is announcing the preview of low latency HLS with glass-to-glass latency as low as 3 seconds with support for automatic transcriptions and DRM.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure SQL Migration extension for Azure Data Studio]]></title>
-        <id>generally-available-azure-sql-migration-extension-for-azure-data-studio</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-sql-migration-extension-for-azure-data-studio/"/>
-        <updated>2022-04-13T16:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Assess, receive Azure recommendations, and then migrate your SQL Server databases using the Azure SQL Migration extension in Azure Data Studio.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Cosmos DB autoscale RU/s entry point is 4x lower]]></title>
-        <id>general-availability-azure-cosmos-db-autoscale-rus-entry-point-is-4x-lower</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-cosmos-db-autoscale-rus-entry-point-is-4x-lower/"/>
-        <updated>2022-04-13T16:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Set autoscale on your database or container with a new scale range of 100 RU/s – 1000 RU/s.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Cosmos DB API for MongoDB unique index re-indexing]]></title>
-        <id>public-preview-azure-cosmos-db-api-for-mongodb-unique-index-reindexing</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-cosmos-db-api-for-mongodb-unique-index-reindexing/"/>
-        <updated>2022-04-13T16:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Unique indexes can now be created in existing collections with data in the API for MongoDB.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Zone redundancy for Azure SQL Database general purpose tier]]></title>
-        <id>general-availability-zone-redundancy-for-azure-sql-database-general-purpose-tier</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-zone-redundancy-for-azure-sql-database-general-purpose-tier/"/>
-        <updated>2022-04-13T16:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Make your general purpose provisioned and serverless Azure SQL databases and elastic pools more resilient with catastrophic datacenter outages, without any changes of the application logic by selecting zone redundancy.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure SQL—Public preview updates for mid-April 2022]]></title>
-        <id>azure-sql-public-preview-updates-for-midapril-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-public-preview-updates-for-midapril-2022/"/>
-        <updated>2022-04-13T16:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Public preview enhancements and updates released for Azure SQL.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure SQL Database Hyperscale reverse migration to general purpose tier]]></title>
-        <id>public-preview-azure-sql-database-hyperscale-reverse-migration-to-general-purpose-tier</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-sql-database-hyperscale-reverse-migration-to-general-purpose-tier/"/>
-        <updated>2022-04-13T16:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Easily move your previously migrated databases on Azure SQL Database Hyperscale back to the general purpose tier.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Monitoring Agent supports custom and IIS logs]]></title>
-        <id>public-preview-azure-monitoring-agent-supports-custom-and-iis-logs</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-monitoring-agent-supports-custom-and-iis-logs/"/>
-        <updated>2022-04-13T16:00:33.000Z</updated>
-        <summary type="html"><![CDATA[New collection types supported by Azure Monitoring Agent that extends beyond the standard data available today.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Static Web Apps support for private endpoints]]></title>
-        <id>generally-available-azure-static-web-apps-support-for-private-endpoints</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-static-web-apps-support-for-private-endpoints/"/>
-        <updated>2022-04-13T16:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Azure Static Web Apps support for private endpoints is now generally available with a 99.95 SLA for production and staging environments.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Metrics and alerts support in Azure Container Apps]]></title>
-        <id>public-preview-metrics-and-alerts-support-in-azure-container-apps</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-metrics-and-alerts-support-in-azure-container-apps/"/>
-        <updated>2022-04-13T16:00:31.000Z</updated>
-        <summary type="html"><![CDATA[You can now view metrics for your Azure Container Apps and setup alerts for metric thresholds and Log Analytic queries.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Health probes support in Azure Container Apps]]></title>
-        <id>public-preview-health-probes-support-in-azure-container-apps</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-health-probes-support-in-azure-container-apps/"/>
-        <updated>2022-04-13T16:00:31.000Z</updated>
-        <summary type="html"><![CDATA[You can now use readiness, liveness, and startup probes in your Azure Container Apps.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Visual Studio support for Azure Container Apps]]></title>
-        <id>public-preview-visual-studio-support-for-azure-container-apps</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-visual-studio-support-for-azure-container-apps/"/>
-        <updated>2022-04-13T16:00:30.000Z</updated>
-        <summary type="html"><![CDATA[You can now publish .NET Core applications to Azure Container Apps from Visual Studio 2022 Preview 2.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Azure Container Apps 用 Visual Studio Code 拡張機能]]></title>
-        <id>public-preview-visual-studio-code-extension-for-azure-container-apps</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-visual-studio-code-extension-for-azure-container-apps/"/>
-        <updated>2022-04-13T16:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio Code から Azure Container Apps をデプロイして管理できるようになりました。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: IBM WebSphere on Azure with evaluation licensing]]></title>
-        <id>generally-available-ibm-websphere-on-azure-with-evaluation-licensing</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-ibm-websphere-on-azure-with-evaluation-licensing/"/>
-        <updated>2022-04-13T16:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Use evaluation licenses, instead of full entitlements, for WebSphere on Azure Virtual Machines for trial and prototyping.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Managed identities support in Azure Container Apps]]></title>
-        <id>public-preview-managed-identities-support-in-azure-container-apps</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-managed-identities-support-in-azure-container-apps/"/>
-        <updated>2022-04-13T16:00:29.000Z</updated>
-        <summary type="html"><![CDATA[You can now use managed identities with Azure Container Apps instead of passing secrets in connection strings.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Support for Windows clients using Azure Monitor agent]]></title>
-        <id>public-preview-support-for-windows-clients-using-azure-monitor-agent</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-support-for-windows-clients-using-azure-monitor-agent/"/>
-        <updated>2022-04-13T16:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Using the new Windows client installer launched today, you can now get the benefits of the new agent and data collection rules on your Windows 10 and 11 client devices.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Java 17 and Tomcat 10.0 on Azure App Service]]></title>
-        <id>generally-available-java-17-and-tomcat-100-on-azure-app-service-2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-java-17-and-tomcat-100-on-azure-app-service-2/"/>
-        <updated>2022-04-13T16:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Use new supported versions of Java and Tomcat to run web applications on Azure App Service.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: new result set grid in Azure Monitor log analytics]]></title>
-        <id>generally-available-new-result-set-grid-in-azure-monitor-log-analytics</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-new-result-set-grid-in-azure-monitor-log-analytics/"/>
-        <updated>2022-04-13T16:00:27.000Z</updated>
-        <summary type="html"><![CDATA[The new result set grid in log analytics boasts a brand-new experience, introduces numerous new features, and is much easier to use!]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Monitor activity log insights]]></title>
-        <id>public-preview-azure-monitor-activity-log-insights</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-monitor-activity-log-insights/"/>
-        <updated>2022-04-13T16:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Azure Monitor activity log insights let you view information about changes to resources and resource groups in a subscription.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Redesign of alerts summary (landing) page]]></title>
-        <id>public-preview-redesign-of-alerts-summary-landing-page</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-redesign-of-alerts-summary-landing-page/"/>
-        <updated>2022-04-13T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[The summary (landing) page for alerts has been simplified to improve usability and actionability.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:仮想マシンの推奨されるアラート ルール]]></title>
-        <id>public-preview-recommended-alert-rules-for-virtual-machines</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-recommended-alert-rules-for-virtual-machines/"/>
-        <updated>2022-04-13T16:00:25.000Z</updated>
-        <summary type="html"><![CDATA[既存の仮想マシンに対して推奨されるアラート ルール セットを有効にできるようになりました。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
