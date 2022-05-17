@@ -6,6 +6,26 @@
       "siteUrl": "https://azure.microsoft.com/ja-jp/updates/",
       "articles": [
         {
+          "id": "cosmosdb-servicebus-asami",
+          "author": null,
+          "description": "Stream Analytics now supports authenticating to Azure Cosmos DB and Azure Service Bus using Managed Identities.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/cosmosdb-servicebus-asami/",
+          "publishedOn": "2022-05-16T17:00:31.000Z",
+          "wordCount": 1946,
+          "title": "Public preview: Additional support for managed identity authentication in Azure Stream Analytics",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-3f56da874d81253899fc181d9c68c22c527c147e23a86e0cf10213928bcc4f49/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "public-preview-azure-dns-private-resolver-hybrid-name-resolution-and-conditional-forwarding",
+          "author": null,
+          "description": "Seamlessly perform conditional forwarding from on-prem to Azure Private DNS Zones and from Azure Virtual Networks to any target DNS server.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-azure-dns-private-resolver-hybrid-name-resolution-and-conditional-forwarding/",
+          "publishedOn": "2022-05-16T16:00:30.000Z",
+          "wordCount": 1967,
+          "title": "Public preview: Azure DNS Private Resolver – Hybrid name resolution and conditional forwarding",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-3f56da874d81253899fc181d9c68c22c527c147e23a86e0cf10213928bcc4f49/images/shared/social/azure-icon-250x250.png"
+        },
+        {
           "id": "general-availability-migrate-your-azure-data-lake-storage-from-gen1-to-gen2-using-the-azure-portal-azure-updates-microsoft-az",
           "author": null,
           "description": "Migrate your data from Azure Data Lake Storage Gen1 to Gen2 to speed up your time to insights",
@@ -562,6 +582,36 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "a12de34e0d18378feba5db1e96ce443424d9a7c5",
+          "author": "aws@amazon.com",
+          "description": "AWS Single Sign-On (AWS SSO) が、組織内のすべてのメンバーアカウントに対して、AWS Organizations 委任管理者アカウントからの集中管理と API アクセスをサポートするようになりました。つまり、すべてのメンバーアカウントを一元管理するために使用できる組織内のアカウントを指定できることになります。委任された管理を使用すると、管理アカウントを使用する必要性を減らすことで、ベストプラクティスに従うことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-sign-on-administer-delegated-member-account-in-organization/",
+          "publishedOn": "2022-05-16T17:32:13.000Z",
+          "wordCount": 245,
+          "title": "組織内で委任されたメンバーアカウントからの AWS Single Sign-On の管理",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "619036df6917ae6dfb710834101ef0463d5b2ef3",
+          "author": "aws@amazon.com",
+          "description": "最新の FreeRTOS および長期サポート (LTS) ライブラリリリースのモジュラー構造に合わせた、FreeRTOS 用の更新されたより柔軟な AWS デバイス認定プログラム (DQP) が導入されました。この AWS DQP for FreeRTOS を利用すると、マイクロコントローラー (MCU) ベンダーは、特定の MCU ベースの開発ボードで実行されている FreeRTOS AWS IoT ライブラリの統合を、AWS が公開している AWS IoT Core 接続のベストプラクティスや、認定プログラムで指定されたテストに対して検証することができます。以前は、開発ボードを認定するために、MCU ベンダーは固定ディレクトリ構造とリポジトリを中心にプロジェクトを構成する必要がありました。今後は、MCU ベンダーは、アプリケーションに直接関連する FreeRTOS ライブラリのみを含め、ツールチェーンを最適に使用するプロジェクト構造とリポジトリを選択し、ボード機能に関連するテストを実行する柔軟性が得られます。AWS IoT Device Tester for FreeRTOS を使用することで、MCU ベンダーは AWS DQP で指定された必須のテストを実行して、FreeRTOS ポートを検証することができます。このプログラムを使用するデベロッパーは、FreeRTOS ポートが AWS IoT 接続、相互運用性、更新可能性、セキュリティの向上について検証済みであることを知って、設計の接続性により自信を持つことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-device-qualification-program-freertos/",
+          "publishedOn": "2022-05-16T13:31:53.000Z",
+          "wordCount": 273,
+          "title": "FreeRTOS 向けのより柔軟な AWS デバイス認定プログラムのご紹介",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "fd76f89076a2884f1a2e35510831ecabe1cf391a",
+          "author": "aws@amazon.com",
+          "description": "AWS GameKit が、Unreal Engine で開発される Android、iOS、macOS ゲームをサポートするように拡張されました。2022 年 3 月 23 日にリリースされた AWS GameKit は、ゲームデベロッパーが、Unreal Editor から直接 AWS を利用したゲーム機能を迅速かつ簡単に構築できる強力なツールセットです。本日のアップデートにより、Unreal Engine 用 AWS GameKit プラグインは、Win 64、Android、iOS、macOS 用のゲームを構築しているデベロッパーをサポートするようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-announces-support-android-ios-macos-games-aws-gamekit-unreal-engine/",
+          "publishedOn": "2022-05-16T13:31:04.000Z",
+          "wordCount": 288,
+          "title": "AWS が、Unreal Engine 用 AWS GameKit を使用したAndroid、iOS、MacOS ゲームのサポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
         {
           "id": "c07779eae6804f7178b800fe115b31a3e4556fb3",
           "author": "aws@amazon.com",
@@ -1393,16 +1443,6 @@
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
-          "id": "e3997ab0512dae2fbd42879198892a2d49618f0c",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS は AWS Amplify Studio Figma-to-React コード機能の一般提供を発表し、フロントエンドデベロッパーにフルスタックのアプリケーションを構築するためのより高速なワークフローを提供します。これらの新機能は、既存の Amplify Studio のバックエンド作成・管理機能に加え、デベロッパーの UI 開発のスピードアップに役立ちます。一般的に、フロントエンドデベロッパーとデザイナーの間で多くのやり取りが行われ、納期に間に合わせるために妥協した結果、最適とは言えないエンドユーザーエクスペリエンスがもたらされることがあります。Amplify Studio を使用すると、Figma からインポートし、コードにエクスポート、カスタムロジックを使用してコードを拡張することと同じくらい簡単に、設計どおりに UI を開発できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-amplify-studio-figma-to-react-code-capabilities/",
-          "publishedOn": "2022-04-27T16:01:53.000Z",
-          "wordCount": 284,
-          "title": "AWS Amplify Studio の Figma-to-React コード機能が一般に提供開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
           "id": "81c06c59b36f6291e88fb0929ca9cdd408606074",
           "author": "aws@amazon.com",
           "description": "Amazon QuickSight は、1 クリックの公開埋め込みに対応しました。これは、コーディングや開発なしに、ダッシュボードを公開アプリケーション、Wiki、ポータルに埋め込むことができる機能です。一旦有効にすると、インターネット上の誰もが、サーバーのデプロイやインフラストラクチャのライセンスを必要とせずに、最新の情報を使用してこれらの組み込みダッシュボードに即座にアクセスできるようになります！ 1 クリックの公開埋め込みにより、エンドユーザーが数秒でインサイトにアクセスできるようになります。この機能にプレビューでアクセスするには、quicksight-public-embedding-preview@amazon.com までご連絡ください。",
@@ -1410,16 +1450,6 @@
           "publishedOn": "2022-04-27T15:55:54.000Z",
           "wordCount": 236,
           "title": "Amazon QuickSight の 1 クリックの公開埋め込みがプレビューで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b6e1d75e8ab1cf00364aa966dda228fed2551108",
-          "author": "aws@amazon.com",
-          "description": "本日、SageMaker が一般的に利用可能なすべての AWS リージョン (AWS 中国リージョンを除く) において、Amazon SageMaker Serverless Inference の一般提供の開始を発表できることを嬉しく思います。SageMaker Serverless Inference を使用すると、基盤となるインフラストラクチャを設定または管理することなく、推論用の機械学習 (ML) モデルを迅速にデプロイすることができます。ML モデルをデプロイするときにサーバーレスオプションを選択するだけで、Amazon SageMaker は推論リクエストのボリュームに基づいてコンピューティング性能の自動的なプロビジョンやスケールを実行したり、コンピューティング性能をオフにしたりします。SageMaker Serverless Inference では、推論リクエストの処理に使用されるコンピューティング性能 (ミリ秒単位で請求)、および処理されるデータ量に対してのみ料金を支払い、アイドル時間に対する支払いはありません。SageMaker Serverless Inference は、トラフィックが断続的または予測できないアプリケーションに最適です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-sagemaker-serverless-inference/",
-          "publishedOn": "2022-04-27T15:48:53.000Z",
-          "wordCount": 324,
-          "title": "Amazon SageMaker Serverless Inference の一般提供を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
@@ -1530,16 +1560,6 @@
           "publishedOn": "2022-04-25T18:14:53.000Z",
           "wordCount": 253,
           "title": "Amazon Neptune が無料トライアルの提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "23eb5cdc79a4085f4260f0336afdfa4017a0ec70",
-          "author": "aws@amazon.com",
-          "description": "3 種類の新しいマネージドデータ識別子がAmazon Macie に追加され、Amazon Simple Storage Service (Amazon S3) に存在する HTTP 基本認証ヘッダー、HTTP Cookie、JSON Web トークンの場所を検出および識別できるように拡張されました。これらのタイプのデータが S3 ストレージに存在するかどうか、どこに存在するかを知ることは、組織のデータセキュリティ、ガバナンス、プライバシーのニーズをより適切に計画するのに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-macie-sensitive-data/",
-          "publishedOn": "2022-04-25T18:02:54.000Z",
-          "wordCount": 289,
-          "title": "Amazon Macie が、より多くの種類の機密データの検出のサポートを追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
