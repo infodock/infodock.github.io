@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-17T00:27:28.917Z</id>
+    <id>urn:2022-05-18T00:24:18.240Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-17T00:27:28.917Z</updated>
+    <updated>2022-05-18T00:24:18.240Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Industrial IoT Connectivity Partners integrate with Azure IoT Central]]></title>
+        <id>iotc-iiot-frontdoor</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-iiot-frontdoor/"/>
+        <updated>2022-05-17T16:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Industrial IoT starts with Azure IoT Central. Now you can leverage the expertise of Industrial IoT Connectivity Partners who are ready to connect your industrial assets in hours instead of weeks – no matter if it’s modern or legacy equipment.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon VPC で複数の IPv6 CIDR ブロックのサポート開始]]></title>
+        <id>a0a85c410408c2e6253d44899eef4d6f4c4117fc</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-vpc-multiple-ipv6-cidr-blocks/"/>
+        <updated>2022-05-17T10:32:07.000Z</updated>
+        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) は、複数の IPv6 のクラスレスインタードメインルーティング (CIDR) のブロックが仮想プライベートクラウド (VPC) 内で開始されたことを発表しました。これによりユーザーは、VPC に5 個までのプレフィックスをアタッチできます。本日以前は、ユーザーは 5 個の IPv4 CIDR ブロックと 1 個の IPv6 ブロックまでの追加ができました。この新機能により、ユーザーは複数のブロックを使用して、独立した CIDR ブロックにより VPC 内を論理的に分離できます。CIDR ブロックは、Amazon が提供するプールおよび/または持ち込みの IPv6 アドレスのプールに関連づけることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EKS Anywhere キュレーションパッケージの公開プレビューを開始]]></title>
+        <id>2b7c10349645641162d199a171ea609387b134df</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-eks-anywhere-curated-packages-preview/"/>
+        <updated>2022-05-17T03:46:55.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) Anywhere では、EKS Anywhere クラスターで Kubernetes のコア機能を拡張する Amazon キュレーションソフトウェアパッケージを有効にできるようになりました。Harbour パッケージをローカルコンテナレジストリとして本日からインストールできます。また、Emissary-Ingress パッケージと、MetalLB を介したサービスタイプのロードバランシングのサポートは、今後数か月以内に提供を開始する予定です。お客様のご要望に基づいて、時間が経過するのに伴って、さらなるキュレーションパッケージが追加されることがあります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda が Node.js 16 のサポートを追加]]></title>
+        <id>8d9fdc0f9246ad3cd6f936b5a795cd202338ed84</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-lambda-adds-support-node-js-16/"/>
+        <updated>2022-05-17T03:46:05.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda が、マネージドランタイムおよびコンテナベースイメージの両方として Node.js 16 をサポートするようになりました。Node.js 16 を使用して Lambda でサーバーレスアプリケーションを作成するデベロッパーは、ローカル開発用の Apple シリコンのサポートなどの新機能、timers promises API、および強化されたパフォーマンスを活用することができます。Lambda による Node.js 16 のサポートに関する詳細については、Node.js 16.x runtime now available in AWS Lambda (AWS Lambda で Node.js 16.x ランタイムが利用可能になりました) ブログ記事をお読みください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch Synthetics が canary 削除時の canary リソースの削除に対するサポートを追加]]></title>
+        <id>309ba06ab0656cdb4f9f1d02dbfa8867e715e2e0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-cloudwatch-synthetics-support-canary-resources-deletion/"/>
+        <updated>2022-05-17T03:32:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CloudWatch Synthetics が、canary の削除とともに基盤となる canary リソースを削除することをサポートするようになりました。Canary を削除するときは、その canary が作成した関連リソースも削除するかどうかを選択できるので、canary リソースの管理がより簡単で効率的になります。エンドポイントと API のヘルスとパフォーマンスを監視するために定義された頻度で実行される Synthetics canary は、canary 作成ステップの一環としてこれらのリソースを作成します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon VPC Traffic Mirroring が Gateway Load Balancer を活用するモニタリングアプライアンスへのミラーリングされたトラフィックの送信に対するサポートを開始]]></title>
+        <id>6f27f986ba66665a166e3ee77f5fd7400c7562e9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-vps-traffic-mirroring-supports-sending-mirrored-traffic-gateway-load-balancer-backed-monitoring-appliances/"/>
+        <updated>2022-05-17T03:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Virtual Private Cloud (Amazon VPC) Traffic Mirroring が Gateway Load Balancer の背後にあるモニタリングアプライアンスへのミラーリングされたトラフィックの送信をサポートするようになりました。この機能は、Amazon VPC Traffic Mirroring のお客様が、AWS のアカウントと VPC 全体のネットワークトラフィックの帯域外モニタリングと検査を一元化できるようにします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup Audit Manager にハイブリッド VMware ワークロードのデータ保護のためのコンプライアンス管理が追加]]></title>
+        <id>12c3231e61e30bcf598b3fd04c0dd33c150a80f0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-backup-audit-manager-compliance-management-data-protection-hybrid-vmware-workloads/"/>
+        <updated>2022-05-17T03:31:08.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backup Audit Manager を使用すれば、お客様はハイブリッド VMware ワークロードのデータ保護ポリシーのコンプライアンスについて監査を実施したり、レポートを作成したりすることができます。このサービス開始により、VMware の仮想マシンを AWS Backup Audit Manager の管理に含めることができ、組織のデータ保護ポリシーのコンプライアンス状況の維持と、VMware Cloud on AWS、オンプレミス、および AWS Outposts を含めた VMware ワークロードについて監査に対応した統一のレポートの生成ができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for NetApp ONTAP が SAP HANA ワークロードについての認定を取得]]></title>
+        <id>27409cae71df8544eea316ee70c470310bb6f3d7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-fsx-netapp-ontap-certified-sap-hana-workloads/"/>
+        <updated>2022-05-17T02:33:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for NetApp ONTAP は、S/4HANA、Business Suite on HANA、BW/4HANA、Business Warehouse on HANA、Data Mart Solutions on HANA などのワークロードについて SAP 認定を取得しました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 R5b インスタンスが、南米 (サンパウロ)、カナダ (中部)、およびアジアパシフィック (シドニー) で利用可能に]]></title>
+        <id>c0fb08b845fe6cb8892debeb8e518825ef736161</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-r5b-instances-additional-regions/"/>
+        <updated>2022-05-17T02:32:59.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EC2 R5b インスタンスが、AWS 南米 (サンパウロ)、カナダ (中部)、およびアジアパシフィック (シドニー) の各リージョンでご利用いただけるようになりました。R5b インスタンスは AWS Nitro System を搭載しており、最大 60 Gbps の EBS 帯域幅と 260,000 I/O オペレーション/秒 (IOPS) を提供し、メモリを大量に消費するアプリケーションの AWS へのリフトアンドシフトを可能にします。R5b インスタンスは、R5 インスタンスと比較して 3 倍高い EBS 最適化パフォーマンスを実現し、R6i インスタンスと比較して 2 倍高い EBS 最適化パフォーマンスを実現します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS PrivateLink が IPv6 のサポートを発表]]></title>
+        <id>2e2a62d7dda335509d3917a312b8148d438d5f3a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-privatelink-ipv6/"/>
+        <updated>2022-05-17T02:32:11.000Z</updated>
+        <summary type="html"><![CDATA[今後は、AWS PrivateLink を使用して、IPv6 を介して AWS でホストされているサービスに接続できます。AWS PrivateLink は、可用性が高くスケーラブルなテクノロジーであり、サポートされている AWS のサービス、他の AWS アカウントによってホストされているサービス (VPC Endpoint Service)、サードパーティーの SaaS サービス、およびサポートされている AWS Marketplace パートナーサービスにプライベートに VPC を接続することを可能にします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[組織内で委任されたメンバーアカウントからの AWS Single Sign-On の管理]]></title>
         <id>a12de34e0d18378feba5db1e96ce443424d9a7c5</id>
@@ -510,7 +610,7 @@
         <id>1b6f60bf376fd6660f38fb93477cd5c167087d9e</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-compute-optimizer-adds-trusted-advisor-checks/"/>
         <updated>2022-05-09T19:47:34.000Z</updated>
-        <summary type="html"><![CDATA[AWS Trusted Advisor は、AWS Compute Optimizer から自動的に取り込まれる 4 つのチェックを追加します。AWS Trusted Advisor は、AWS のベストプラクティスに従う際に役立つレコメンデーションを提供します。Trusted Advisor は、チェックを使用してアカウントを評価し、セキュリティとパフォーマンスを改善し、コストを削減し、サービスクォータをモニタリングするための機会を明らかにします。現在、AWS Compute Optimizer のチェックは、Business Support、Enterprise Support On-Ramp、および Enterprise Support の各プランでご利用いただけます。新しいチェックは次のとおりです。]]></summary>
+        <summary type="html"><![CDATA[AWS Trusted Advisor は、AWS Compute Optimizer から自動的に取り込まれる 4 つのチェックを追加します。AWS Trusted Advisor は、AWS のベストプラクティスに従う際に役立つレコメンデーションを提供します。Trusted Advisor は、チェックを使用してアカウントを評価し、セキュリティとパフォーマンスを改善し、コストを削減し、サービスクォータをモニタリングするための機会を明らかにします。現在、AWS Compute Optimizer のチェックは、ビジネス、エンタープライズ On-Ramp、およびエンタープライズの各サポートプランでご利用いただけます。新しいチェックは次のとおりです。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -646,21 +746,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon RDS for PostgreSQL は、カスケード読み取りレプリカをサポートして、最大 30 倍の読み取り容量を実現します]]></title>
+        <title type="html"><![CDATA[Amazon RDS for PostgreSQL が最大 30 倍の読み取り容量を実現するカスケードリードレプリカをサポート]]></title>
         <id>e9739d61632895a6e483df3eb7630a36e95f73c5</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-rds-postgresql-cascaded-read-replicas-30x-capacity/"/>
         <updated>2022-05-06T11:32:47.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for PostgreSQL は、カスケードされた読み取りレプリカの 3 つのレベル (インスタンスごとに 5 つのレプリカ) を備えた PostgreSQL 14 のサポートを発表し、ソースインスタンスごとに最大 155 の読み取りレプリカをサポートします。シングル AZ またはマルチ AZ カスケードリードレプリカ DB インスタンスを同じリージョンに作成することも、別のリードレプリカインスタンスから任意のクロスリージョンに作成することもできるため、より堅牢な災害対策アーキテクチャを構築できます。]]></summary>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for PostgreSQL は、3 層のカスケードリードレプリカ (インスタンスあたり 5 つのレプリカ) を備え、ソースインスタンスあたり最大 155 のリードレプリカをサポートする PostgreSQL 14 のサポートを発表しました。シングル AZ またはマルチ AZ カスケードリードレプリカ DB インスタンスを同じリージョンに作成することも、別のリードレプリカインスタンスから任意のクロスリージョンに作成することもできるため、より堅牢な災害対策アーキテクチャを構築できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS サーバーレスアプリケーションモデル CLI で、AWS X-Ray トレースの有効化がサポートされるようになりました]]></title>
+        <title type="html"><![CDATA[AWS Serverless Application Model CLI で、AWS X-Ray トレースの有効化がサポートされるようになりました]]></title>
         <id>e423e2516fdcfa5e87e25dd3358c969bbf74c748</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-serverless-application-model-cli-supports-x-ray-tracing/"/>
         <updated>2022-05-06T11:31:59.000Z</updated>
-        <summary type="html"><![CDATA[これで、AWS サーバーレスアプリケーションモデル (AWS SAM) CLI を使用して、AWS SAM テンプレートを手動でオーサリングすることなく、AWS SAM テンプレートで AWS X-Ray トレースを自動的に有効にできます。これにより、サーバーレスアプリケーションの Lambda 関数全体で AWS X-Ray トレースを一元管理することが容易になります。]]></summary>
+        <summary type="html"><![CDATA[これで、AWS Serverless Application Model (AWS SAM) CLI を使用して、AWS SAM テンプレートを手動でオーサリングすることなく、AWS SAM テンプレートで AWS X-Ray トレースを自動的に有効にできます。これにより、サーバーレスアプリケーションの Lambda 関数全体で AWS X-Ray トレースを一元管理することが容易になります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1166,26 +1266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon MQ が ActiveMQ バージョン 5.16.4 のサポートを開始]]></title>
-        <id>8e16d6d04f615745487e04c8db28c29cd1c13d7a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-activemq-version/"/>
-        <updated>2022-04-27T16:33:53.000Z</updated>
-        <summary type="html"><![CDATA[現在 Amazon MQ では、ActiveMQ 5.16.4 をサポートしています。この ActiveMQ のアップデートには、これまでサポートしていた ActiveMQ 5.16.3 バージョンからのいくつかの修正と機能の強化が含まれています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Aurora Serverless v2 の一般提供を開始]]></title>
-        <id>39d3e36eaf896382d4b6860dea6e2506a7608f55</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-aurora-serverless-v2/"/>
-        <updated>2022-04-27T16:19:54.000Z</updated>
-        <summary type="html"><![CDATA[Aurora Serverless の次のバージョンである Amazon Aurora Serverless v2 が一般に利用可能になりました。Aurora Serverless v2 は、最も要求の厳しいアプリケーションもサポートできるよう瞬時にスケールでき、ピーク時容量のプロビジョニングと比較して最大90%のコスト削減を実現します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Azure SQL—Generally available updates for late April 2022]]></title>
         <id>azure-sql-generally-available-updates-for-late-april-2022</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-generally-available-updates-for-late-april-2022/"/>
@@ -1356,41 +1436,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon QuickSight の 1 クリックの公開埋め込みがプレビューで利用可能に]]></title>
-        <id>81c06c59b36f6291e88fb0929ca9cdd408606074</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-quicksight-public-embedding-available-now/"/>
-        <updated>2022-04-27T15:55:54.000Z</updated>
-        <summary type="html"><![CDATA[Amazon QuickSight は、1 クリックの公開埋め込みに対応しました。これは、コーディングや開発なしに、ダッシュボードを公開アプリケーション、Wiki、ポータルに埋め込むことができる機能です。一旦有効にすると、インターネット上の誰もが、サーバーのデプロイやインフラストラクチャのライセンスを必要とせずに、最新の情報を使用してこれらの組み込みダッシュボードに即座にアクセスできるようになります！ 1 クリックの公開埋め込みにより、エンドユーザーが数秒でインサイトにアクセスできるようになります。この機能にプレビューでアクセスするには、quicksight-public-embedding-preview@amazon.com までご連絡ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Glue におけるインタラクティブなノートブックベースのジョブオーサリングを発表]]></title>
-        <id>d6e9b035ae1915a89650ac21837eb9acee8576ff</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-glue-notebook-based-job-authoring/"/>
-        <updated>2022-04-27T15:30:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Glue でインタラクティブなノートブックベースのジョブオーサリングを実現する、AWS Glue Studio  ジョブノートブックの一般提供が開始されました。データ統合ジョブの開発プロセスを簡素化するのに役立ちます。ジョブノートブックは、AWS Glue インタラクティブセッションのサーバーレスのビルトインインターフェースも提供します。これは、お客様がインタラクティブな Apache Spark ワークロードをオンデマンドで実行できるようにするもう1つの新機能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Glue における機密データの検出と処理の発表]]></title>
         <id>6d720c9aa948222f8b9aff5ef23e41cf56a9cfb4</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-announcing-sensitive-data-detection-glue/"/>
         <updated>2022-04-27T15:24:54.000Z</updated>
         <summary type="html"><![CDATA[AWS Glue における機密データの検出と処理の一般提供を開始しました。この機能は、パターンマッチングと機械学習を使用して、AWS Glue ジョブの実行中に、列レベルとセルレベルの両方で個人識別情報 (PII) やその他の機密データを自動的に検出します。AWS Glue には、PII の種類とその場所をログに記録し、アクションを実行するためのオプションが含まれています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Glue インタラクティブセッションの一般提供開始を発表]]></title>
-        <id>c3a9104596478ff03037ae787b8ec2e20a298e5f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-glue-interactive-sessions/"/>
-        <updated>2022-04-27T15:18:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Glue インタラクティブセッションが、一般提供を開始しました。AWS Glue の高度にスケーラブルな Serverless Spark 環境に新しいインターフェースを提供します。インタラクティブなデータ統合ジョブの開発、データ調査、お客様自身のアプリケーション向けのオンデマンド配信のデータ処理などをサポートします。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1451,46 +1501,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ecs-optimized-linux-2022-ami-available-preview/"/>
         <updated>2022-04-26T16:26:53.000Z</updated>
         <summary type="html"><![CDATA[Amazon Elastic Container Service (Amazon ECS) は、本日、Amazon ECS 最適化 Amazon Linux 2022 Amazon マシンイメージ (AMI) のパブリックプレビューを発表しました。Amazon Linux 2022 (AL2022) は、Amazon Web Services (AWS) が提供する次世代 Amazon Linux で、クラウドアプリケーションを開発および実行するために、安全で安定した高性能の実行環境を提供するように設計されています。AL2022 以降、新しい Amazon Linux メジャーバージョンが 2 年ごとに利用可能になり、各メジャーバージョンは 5 年間サポートされます。Amazon ECS は、Amazon Linux の新しいメジャーバージョンごとに、同じ 2 年間のリリースと 5 年間のサポートサイクルをサポートするために、Amazon ECS 最適化 AMI を公開します。2 年というメジャーリリースサイクルにより、ソフトウェアを最新の状態に保つことができ、各メジャーリリースに対して 5 年間のサポートコミットメントにより、長いプロジェクトのライフサイクルを管理するために必要な安定性を提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenTelemetry Operator の EKS アドオンサポートが一般提供開始]]></title>
-        <id>9d8867a264d0a754757b7054e527a0c8085f7c43</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/eks-opentelemetry-operator-now-available/"/>
-        <updated>2022-04-25T18:26:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (Amazon EKS) は、Amazon EKS コンソール、AWS Command Line Interface (CLI)、および EKS API を使用して、AWS Distro for OpenTelemetry (ADOT) Operator のインストールおよび管理をサポートすることになりました。今回のリリースにより、Amazon EKS で実行されているアプリケーションをインストルメント化して、AWS X-Ray、Amazon Managed Service for Prometheus、Amazon CloudWatch などの複数のモニタリングサービスにメトリクスとトレースを送信する簡素化されたエクスペリエンスが可能になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Neptune が無料トライアルの提供を開始]]></title>
-        <id>1f0bb1739c33b825f159bbf04a7c537dba7ed4eb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-neptune-offers-free-trial/"/>
-        <updated>2022-04-25T18:14:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Neptune を 1 か月の無料トライアルで試用することが可能になりました。Neptune を初めてご利用になるお客様は、最大 750 時間、T3.medium インスタンス、1,000 万回の I/O リクエスト、1 GB のストレージ、1 GB のバックアップストレージを使用して、30 日間無料で Neptune をご利用いただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Kendra が Box Connector をリリース、Box Enterprise リポジトリ内のドキュメントの検索が可能に]]></title>
-        <id>6e358f4b7ade8db6aae1d742ceee398ec400ea96</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-kendra-box-connector-documents-enterprise/"/>
-        <updated>2022-04-25T17:52:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は Amazon Kendra Box Connector を使用して、Box からのメッセージのインデックス作成と検索を行うことができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Elemental MediaTailor は、チャネルアセンブリでライブソースのサポートを開始]]></title>
-        <id>3058cf32166d697502538eb2193cd9aad66f9699</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-elemental-mediatailor-live-channel-assembly/"/>
-        <updated>2022-04-25T17:28:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Elemental MediaTailor でチャネルアセンブリを使用して作成されたリニアチャネルにライブコンテンツをスケジュールできるようになりました。既存のビデオオンデマンド (VOD) カタログからトランスコードおよびパッケージ化された HLS および DASH ストリームを再利用することは既に可能であり、AWS Elemental MediaPackage などのオリジンからのライブストリームをリニアチャネルのスケジュールされたソースとして使用できるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
