@@ -1,15 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-18T00:24:18.240Z</id>
+    <id>urn:2022-05-19T00:31:17.068Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-18T00:24:18.240Z</updated>
+    <updated>2022-05-19T00:31:17.068Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Container Storage Interface extensible API for AKS]]></title>
+        <id>public-preview-container-storage-interface-extensible-api-for-aks</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-container-storage-interface-extensible-api-for-aks/"/>
+        <updated>2022-05-18T06:00:51.000Z</updated>
+        <summary type="html"><![CDATA[You can now disable and enable any of the AKS supported CSI drivers using this API.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: AKS Private Link Service integration]]></title>
+        <id>public-preview-aks-private-link-service-integration</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-aks-private-link-service-integration/"/>
+        <updated>2022-05-18T06:00:40.000Z</updated>
+        <summary type="html"><![CDATA[You can now have AKS take care of creating the Private Link Service association to the Kubernetes service identified by the frontend IP configuration of an internal Azure Load Balancer.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Key Management System integration]]></title>
+        <id>public-preview-key-management-system-integration</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-key-management-system-integration/"/>
+        <updated>2022-05-18T06:00:33.000Z</updated>
+        <summary type="html"><![CDATA[You can now store secrets in BYOK encrypted etcd using Key Management System (KMS).]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Open Service Mesh extension for Azure Arc]]></title>
+        <id>generally-available-open-service-mesh-extension-for-azure-arc</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-open-service-mesh-extension-for-azure-arc/"/>
+        <updated>2022-05-18T06:00:26.000Z</updated>
+        <summary type="html"><![CDATA[You can now use a managed service mesh for Arc-enabled Kubernetes clusters.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: HostProcess Containers]]></title>
+        <id>public-preview-hostprocess-containers</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-hostprocess-containers/"/>
+        <updated>2022-05-18T06:00:14.000Z</updated>
+        <summary type="html"><![CDATA[You can now package and distribute management operations and functionalities that require host access while retaining versioning and deployment methods provided by containers.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generally available: Industrial IoT Connectivity Partners integrate with Azure IoT Central]]></title>
         <id>iotc-iiot-frontdoor</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/iotc-iiot-frontdoor/"/>
-        <updated>2022-05-17T16:00:05.000Z</updated>
+        <updated>2022-05-17T16:00:04.000Z</updated>
         <summary type="html"><![CDATA[Industrial IoT starts with Azure IoT Central. Now you can leverage the expertise of Industrial IoT Connectivity Partners who are ready to connect your industrial assets in hours instead of weeks – no matter if it’s modern or legacy equipment.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -1551,36 +1601,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-rehydrate-an-archived-blob-to-a-different-storage-account/"/>
         <updated>2022-04-20T19:00:15.000Z</updated>
         <summary type="html"><![CDATA[Segregate your backup data in different storage accounts with Archive across-accounts copy.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Azure Static Web Apps のプレビュー環境における安定した URL の提供]]></title>
-        <id>public-preview-stable-urls-for-preview-environments-in-azure-static-web-apps</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-stable-urls-for-preview-environments-in-azure-static-web-apps/"/>
-        <updated>2022-04-18T19:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Azure Static Web Apps プレビューのデプロイでは、安定した URL がサポートされるようになりました。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Archive Storage now available in Switzerland North]]></title>
-        <id>general-availability-azure-archive-storage-now-available-in-switzerland-north</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-archive-storage-now-available-in-switzerland-north/"/>
-        <updated>2022-04-18T19:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Reduce spending by storing cold data to Azure Archive Storage, now in new regions.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Monitor and Azure Managed Grafana integrations]]></title>
-        <id>public-preview-azure-monitor-and-azure-managed-grafana-integrations</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-monitor-and-azure-managed-grafana-integrations/"/>
-        <updated>2022-04-18T16:00:42.000Z</updated>
-        <summary type="html"><![CDATA[New Grafana integrations with Azure Monitor include the ability to pin Azure Monitor visualizations from Azure Portal to Grafana dashboards and new out-of-the-box Azure Monitor dashboards.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
