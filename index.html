@@ -22,6 +22,288 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-19 datetime="2022-05-19T22:01:56.000Z">2022-05-19</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-19 datetime="2022-05-19T22:01:56.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >最近の発表</button>
+                  <a class="source-heading__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="096c47ea1a22ed9bdc563aa9c7b105cbbce20a98"
+                        open
+                      >
+                        <summary class="article-expander__title">Amazon Redshift で、同時トランザクションのための新しいスナップショット分離レベルのサポートを開始</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-redshift-snapshot-isolation-level-support-concurrent-transactions/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Amazon Redshift は、同時トランザクションのスナップショット分離のサポートを開始しました。Amazon Redshift は、SQL 標準に従って、ダーティリード、 繰り返し不リード、およびファントムリードを防止します。Amazon Redshift は、トランザクションをシリアル化するために SERIALIZABLE と SNAPSHOT ISOLATION の 2 つのオプションを提供します。SERIALIZABLE オプションは、厳密なシリアル化を実装します。このオプションでは、結果を同時に実行されているトランザクションのシリアル順序にマッピングできないと、トランザクションが失敗する可能性があります。SNAPSHOT ISOLATION オプションで同時実行性を高めることができ、同じテーブル内で異なる行への同時変更が正常に行われます。どちらのオプションでも、トランザクションはデータベースの最新のコミット済みのバージョン、つまりスナップショットで引き続き動作します。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="931e7fd5182dc0568173758ee06a51e9cd6f1628"
+                        open
+                      >
+                        <summary class="article-expander__title">Amazon EC2 Auto Scaling が AWS GovCloud (米国西部) リージョンで予測スケーリングをサポート開始</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-predictive-feature-aws-govcloud-us-west-region/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Amazon EC2 Auto Scaling が AWS GovCloud (米国西部) リージョンで予測スケーリングをサポート開始しました。予測スケーリングは、将来の需要に備え、Auto Scaling グループを積極的にスケールアウトすることができます。この機能により、容量を過剰にプロビジョニングする必要がなくなり、アプリケーションの応答性を確保しながら EC2 のコストを削減できます。(これまで、予測スケーリングは、パブリックリージョンで、AWS Auto Scaling プランでのみ利用可能でした。) AWS GovCloud (米国西部) リージョンでのサポートにより、米国の政府機関や請負業者は、特定の規制およびコンプライアンス要件に対応することで、機密性の高いワークロードを実行できるようになりました。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="a92b202af58ee6685cdd6578b1678ee20f10714a"
+                        open
+                      >
+                        <summary class="article-expander__title">Amazon EC2 X2idn および X2iedn インスタンスが新たに 8 つの追加リージョンで利用可能に</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-8-additional-regions/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>本日より、メモリ最適化された Amazon EC2 X2idn および X2iedn インスタンスが、アジアパシフィック (ソウル、シドニー)、カナダ (中部)、欧州 (ロンドン、ストックホルム、ミラノ)、南米 (サンパウロ)、AWS GovCloud (米国東部) の追加のリージョンで利用可能になります。X2idn および X2iedn インスタンスは、メモリを大量に消費するワークロード向けに設計されており、前世代の X1 インスタンスと比較して、パフォーマンス、コストパフォーマンス、およびメモリの GiB あたりのコストが改善されています。これらの新しいインスタンスは、第 3 世代インテル Xeon スケーラブルプロセッサ (Ice Lake) を搭載しており、コンピューティングについては、同等の X1 インスタンスよりも最大 50% 高いコストパフォーマンスを提供します。X2idn のメモリと vCPU の比率は 16:1 で、X2iedn の比率は 32:1 です。そのため、これらのインスタンスは、インメモリデータベースや分析、ビッグデータ処理エンジン、Electronic Design Automation (EDA) などのワークロードに最適です。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="530998c3c459fb8ad0197573f8e86a3b909e2519"
+                        open
+                      >
+                        <summary class="article-expander__title">Amazon Lex がフレーズヒントのサポートを開始</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-lex-supports-phrase-hints/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Amazon Lex は、自動音声認識 (ASR) と自然言語理解 (NLU) 機能を提供するため、魅力的なユーザーエクスペリエンスを備えたアプリケーションとや対話型音声応答 (IVR) ソリューションを構築できます。本日より、ライブインタラクション中にヒントとしてフレーズをプログラムで提供し、音声入力の文字起こしに影響を与えることができます。例えば、バンキングの IVR とやり取りする場合、顧客は宛先アカウントにニックネーム (「Smythe’s checking」) を使用する場合があります。ビジネスロジックを実行して、発信者のアカウントに関連付けられているすべての受取人のニックネームを識別し、それらをヒントとして提供して、名前の文字起こしを改善することができます。認識の精度が高まると、効率的な会話となり、最終的に顧客満足度を高めます。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="26fb6321c9bbe277dfb4dd3b3e8c542c6b1cf2c1"
+                        open
+                      >
+                        <summary class="article-expander__title">AWS Control Tower で、お客様が提供するコアアカウントの使用が可能に</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-control-tower-now-use-customer-provided-core-accounts/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>本日、私たちは AWS Control Tower の新機能を発表します。この機能はお客様に柔軟性を提供するものであり、既存のセキュリティおよびロギングのアカウントを使用するか、Control Tower の設定時または既存の AWS 環境に Control Tower ガバナンスを拡張する際に AWS Control Tower に自動で新しいアカウントを作成させることができます。セキュリティアカウントは、セキュリティおよびコンプライアンスチームにランディングゾーン内のすべてのアカウントへの読み取りおよび書き込みアクセスを付与するように設計された、制限されたアカウントとして使用されます。ロギングアカウントはリポジトリとして機能し、ランディングゾーン内のすべてのアカウントの API アクティビティとリソース設定のログを保存します。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="1d91f12f066a7ede5b663c516af5e332f3c00b6b"
+                        open
+                      >
+                        <summary class="article-expander__title">Kubeflow v1.4.1 をサポートする Kubeflow の AWS ディストリビューションの一般提供開始</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-distribution-kubeflow-supporting-kubeflow-v1-4-1-generally-available/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>本日、Kubeflow v1.4 の AWS サポートを一般公開したことをお知らせいたします。Kubeflow on AWS は、AWS マネージドサービスとの統合により、データサイエンス業務を効率化し、運用上のオーバーヘッドを削減しながら、信頼性、安全性、可搬性、スケーラビリティに優れた ML システムの構築をサポートします。この Kubeflow ディストリビューションを使用して、Amazon Elastic Kubernetes Service (Amazon EKS) 上に ML システムを構築し、コンピュータビジョン、自然言語処理、音声翻訳、金融モデリングなどの幅広いユースケース向けに ML モデルを構築、トレーニング、調整、デプロイすることが可能です。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="b2b2819ef2b46f990786684a19fe3b7de6f7ab08"
+                        open
+                      >
+                        <summary class="article-expander__title">AWS Glue で Apache Kafka の SASL 認証のサポートを開始</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-glue-supports-sasl-authentication-apache-kafka/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>AWS Glue で、追加のクライアント認証メカニズムを使用して Apache Kafka に接続できるようになりました。AWS Glue で、SCRAM (Salted Challenge Response Authentication Mechanism) または GSSAPI (Kerberos) を用いた SASL (Simple Authentication and Security Layer) がサポートされるようになりました。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="b8237521e1aef54cda8b1caa0d152655b2d86c60"
+                        open
+                      >
+                        <summary class="article-expander__title">Amazon Neptune が FedRAMP に準拠</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-neptune-fedramp-compliant/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Amazon Neptune は、AWS GovCloud (米国西部) および AWS GovCloud (米国東部) リージョンで FedRAMP High の対象になり、米国東部 (オハイオ)、米国東部 (バージニア北部)、米国西部 (北カリフォルニア)、 米国西部 (オレゴン) リージョンで FedRAMP Moderate の対象になりました。これで、Amazon Neptune を使用して、FedRAMP High または Moderate の認可を必要とするワークロード用のアプリケーションを構築できるようになりました。これにより、Amazon Neptune は、これらのリージョンで国防総省のクラウドコンピューティングセキュリティ要件ガイド影響レベル 2 (DoD SRG IL-2) サービスとしても承認されました。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="505628db8093f8fc38512b26a7313f7a9dc3c315"
+                        open
+                      >
+                        <summary class="article-expander__title">Amazon EC2 I4i メタルインスタンスが利用可能に</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-i4i-metal-instances-now-available/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>本日より、Amazon EC2 I4i メタルインスタンスは、米国東部 (オハイオおよびバージニア北部)、米国西部 (オレゴン)、欧州 (アイルランド) のアマゾン ウェブ サービス (AWS) リージョンでご利用いただけます。ストレージ I/O を多用するワークロード向けに設計された I4i インスタンスは、オールコアターボ周波数 3.5GHz の第 3 世代インテル Xeon スケーラブルプロセッサ (コードネーム: Ice Lake) を搭載し、I3 インスタンスと比較してコンピューティングに関して最大 30% 優れた料金パフォーマンスを提供し、Intel Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を実現しています。I4i メタルインスタンスは、Amazon EC2 内で最高のローカルストレージパフォーマンスを提供し、MySQL、Oracle DB、Microsoft SQL Server などのデータベース、およびアプリケーションのサービスレベルアグリーメント (SLA) を満たすために低レイテンシーのローカル NVMe ストレージが必要な MongoDB、Couchbase、Aerospike、Redis などの NoSQL データベース向けに設計されています。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="73cb5e987b7597ef55fffd1bc154e013be05d471"
+                        open
+                      >
+                        <summary class="article-expander__title">Amazon CloudWatch のコンソールエクスペリエンスが改善</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-cloudwatch-announces-improved-console-experience/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Amazon CloudWatch のコンソールエクスペリエンスの機能強化が発表されました。ダッシュボードデータの可視化とコンソールのナビゲーションが改善されました。この改善には、ダッシュボードの新しいウィジェットと、使用頻度の高いダッシュボード、ロググループ、アラームにアクセスするオプションが含まれます。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Azure サービスの更新</button>
+                  <a class="source-heading__link" href="https://azure.microsoft.com/ja-jp/updates/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="gatrustedlaunchazurevms"
+                        open
+                      >
+                        <summary class="article-expander__title">General availability: Azure Backup support for trusted launch Azure Virtual Machines</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://azure.microsoft.com/ja-jp/updates/gatrustedlaunchazurevms/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://azurecomcdn.azureedge.net/cvt-5330716b523c9d4288a185423dfe5183be3fdccbf82904c2d4eabbe9d8c4adcc/images/shared/social/azure-icon-250x250.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Configure backup of your trusted launch Azure Virtual Machines through enhanced policy</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="iotc-dashboards-catalog"
+                        open
+                      >
+                        <summary class="article-expander__title">Generally available: Easily manage your Azure IoT Central dashboards using a catalog</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://azure.microsoft.com/ja-jp/updates/iotc-dashboards-catalog/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://azurecomcdn.azureedge.net/cvt-5330716b523c9d4288a185423dfe5183be3fdccbf82904c2d4eabbe9d8c4adcc/images/shared/social/azure-icon-250x250.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The new dashboard catalog feature in Azure IoT Central allows for easier search, management, and navigation of dashboards.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-18 datetime="2022-05-18T06:00:51.000Z">2022-05-18</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-18 datetime="2022-05-18T06:00:51.000Z"></time>
           </button>
@@ -2426,26 +2708,6 @@
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="53c7df7ab4305380ff18a67c6bccc8130918966c"
-                        open
-                      >
-                        <summary class="article-expander__title">Application Insights を介した Lambda Insights の統合ビューが利用可能に</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/consolidated-view-lambda-application-insights/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>AWS Lambda モニタリングを簡単にセットアップでき、Amazon CloudWatch Application Insights を介して、直接 Amazon CloudWatch Lambda Insights コンソールからの Lambda 関数の正常性を表示できるようになりました。この統合により、問題の詳細な調査、問題のトラブルシューティング、および Lambda 関数の解決までの平均時間の短縮が簡単にできます。Application Insights の簡単なセットアップと問題分析を、Lambda Insights のモニタリングの詳細やトラブルシューティングと組み合わせ、AWS で実行中の Lambda 関数の正常性とパフォーマンスの統合ビューを提供します。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
                         data-accordion-key="6a080e46a1e117c0ddf8a73f6381aa76234fc978"
                         open
                       >
@@ -2455,26 +2717,6 @@
                               <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>本日、トロントの Bell 5G ネットワークで AWS Wavelength の一般提供が開始されることを発表します。企業、アプリケーションデベロッパー、独立系ソフトウェアベンダー (ISV) は、トロントの AWS Wavelength Zone を利用して、カナダのモバイル機器やエンドユーザー向けの超低レイテンシーアプリケーションを構築できるようになりました。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="fc795c16b06f65f5b66a2b777ff819a8d3646f73"
-                        open
-                      >
-                        <summary class="article-expander__title">AWS GovCloud (米国西部) リージョンで、Amazon Connect の音声通話、チャット、タスクなどのアクティビティにほぼリアルタイムで詳細情報を追加</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-region/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Amazon Connect では、AWS GovCloud (米国西部) リージョンで、Amazon Connect コンタクトセンターの問い合わせ (音声通話、チャット、タスク) のイベント (通話がキューに入っているなど) に対して、ほぼリアルタイムのストリームをサブスクライブできるようになりました。これらのイベントには、音声通話、チャット、タスクが開始された、1 人のエージェントに割り当てるためキューに入った、エージェントにつながった、別のエージェントまたはキューに転送された、切断されたなどのイベントが含まれます。Contact Events は、コンタクトアクティビティをモニタおよび追跡するための分析ダッシュボードを作成する、コンタクトセンターのパフォーマンスをより的確に理解するためにワークフォースマネジメント (WFM) ソリューションに統合する、または、イベント (通話が切断されたなど) にリアルタイムで対応するアプリケーションを統合するために使用できます。Amazon Connect Contact Events は、Amazon EventBridge を通じて発行され、Amazon EventBridge AWS コンソールに行き、新しいルールを作成することで、数クリックでセットアップできます。</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;1
                                   min&hairsp;)</span>
                             </span>
@@ -3527,208 +3769,6 @@
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >最近の発表</button>
-                  <a class="source-heading__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="56d24bbd4c5d4ef887bc92d7143c9203ef1ee5d9"
-                        open
-                      >
-                        <summary class="article-expander__title">Amazon Nimble Studio がアジアパシフィック (東京) リージョンで利用可能に</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-nimble-studio-tokyo-region/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Amazon Nimble Studio がアジアパシフィック (東京) リージョンで利用可能になりました。Nimble Studio をローカルリージョンにデプロイすると、より応答性の高いエクスペリエンスを実現できます。わずか数時間で、NVIDIA Graphical Processing Units (GPU) を備えた Amazon Elastic Compute Cloud (EC2) G4dn インスタンスと、Amazon FSx が実現する高速ストレージを利用できる仮想ワークステーションにクリエイティブな才能を持つ人材がアクセスできる、新しいスタジオ環境を作成できます。Windows と Linux の両方のオペレーティングシステムをサポートしているため、アーティストは Amazon マシンイメージ (AMI) を使用して、任意のクリエイティブツールで、オンプレミスからクラウドへのシームレスな移行を実現できます。画像をレンダリングする準備ができたら、Nimble Studio で AWS Thinkbox Deadline を使用してコンピューティングリソースをスケールできます。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="6d720c9aa948222f8b9aff5ef23e41cf56a9cfb4"
-                        open
-                      >
-                        <summary class="article-expander__title">AWS Glue における機密データの検出と処理の発表</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-announcing-sensitive-data-detection-glue/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>AWS Glue における機密データの検出と処理の一般提供を開始しました。この機能は、パターンマッチングと機械学習を使用して、AWS Glue ジョブの実行中に、列レベルとセルレベルの両方で個人識別情報 (PII) やその他の機密データを自動的に検出します。AWS Glue には、PII の種類とその場所をログに記録し、アクションを実行するためのオプションが含まれています。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-04-26 datetime="2022-04-26T16:58:53.000Z">2022-04-26</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-04-26 datetime="2022-04-26T16:58:53.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >最近の発表</button>
-                  <a class="source-heading__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="481f1ab43ad0c9cfbf4211709c7e57f0e85edfa6"
-                        open
-                      >
-                        <summary class="article-expander__title">AWS Batch、UpdateComputeEnvironment API の改良を追加</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-batch-adds-improvement-updatecomputeenvironment-api/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>AWS Batch は、コンピューティング環境 (CE) を再作成することなく更新できるコンピューティング環境の設定パラメータを拡張するようになりました。これまでお客様は、UpdateComputeEnvironment API を使用して、CE の状態、希望する CPU 数、最小および最大 vCPU 数、およびサービスロールを変更していました。追加の設定パラメータを更新する場合、お客様は新しい CE を作成する必要がありました。今回のローンチでは、お客様は、UpdateComputeEnvironment API を使用して、AMI、EC2 起動テンプレート、インスタンスタイプなどの CE 設定パラメータを動的に更新できるようになりました。更新された設定を使用するために新しい CE を手作業で作成する必要はなく、Batch は新しいインスタンスを起動する際に更新された CE 設定を使用し、その上で実行中のジョブが完了したら古い CE 設定を使用するインスタンスを終了させます。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="1f2da30ec6e2f25fd54f364c966eddab57fac532"
-                        open
-                      >
-                        <summary class="article-expander__title">AWS Launch Wizard は Microsoft Exchange Server のガイド付きデプロイを提供開始</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-microsoft-exchange-server/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>AWS Launch Wizard を使って、 Amazon Elastic Compute Cloud (Amazon EC2) にあるセルフマネージドの Microsoft Exchange Server のベストプラクティスのデプロイをリードできるようになりました。AWS Launch Wizard は AWS Well-Architected Framework を使用して、AWS クラウド上での Microsoft Exchange Server の設定、サイジング、デプロイをガイドし、個々の AWS リソースを手動で特定してプロビジョニングする必要はありません。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="aa81de4c9f74af687e09ac2b9097a41d618254d0"
-                        open
-                      >
-                        <summary class="article-expander__title">AWS GovCloud (米国西部) リージョンで、Amazon Connect の音声通話、チャット、タスクなどのアクティビティにほぼリアルタイムで詳細情報を追加</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-regions/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Amazon Connect では、AWS GovCloud (米国西部) リージョンで、Amazon Connect コンタクトセンターの問い合わせ (音声通話、チャット、タスク) のイベント (通話がキューに入っているなど) に対して、ほぼリアルタイムのストリームをサブスクライブできるようになりました。これらのイベントには、音声通話、チャット、タスクが開始された、1 人のエージェントに割り当てるためキューに入った、エージェントにつながった、別のエージェントまたはキューに転送された、切断されたなどのイベントが含まれます。Contact Events は、コンタクトアクティビティをモニタおよび追跡するための分析ダッシュボードを作成する、コンタクトセンターのパフォーマンスをより的確に理解するためにワークフォースマネジメント (WFM) ソリューションに統合する、または、イベント (通話が切断されたなど) にリアルタイムで対応するアプリケーションを統合するために使用できます。Amazon Connect Contact Events は、Amazon EventBridge を通じて発行され、Amazon EventBridge AWS コンソールに行き、新しいルールを作成することで、数クリックでセットアップできます。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="0b7cccd0a5e3a522997cc8a4a3d9ca964c42cb68"
-                        open
-                      >
-                        <summary class="article-expander__title">AWS Launch Wizard で Windows Server 向け Internet Information Services (IIS) のガイド付きデプロイを提供開始</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-internet-information-services-windows-server/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>AWS Launch Wizard を使用して、複数のアベイラビリティーゾーン (AZ) にまたがる Amazon Elastic Compute Cloud (Amazon EC2) Auto Scaling グループ上に、セルフマネージドの Windows Server 向け IIS (Internet Information Services) のベストプラクティスのデプロイをリードできるようになりました。AWS Launch Wizard は AWS Well-Architected Framework を使用して、AWS クラウド上での Microsoft IIS の設定、サイジング、デプロイをガイドし、個々の AWS リソースを手動で特定してプロビジョニングする必要はありません。高可用性を実現するために、ノードは複数のアベイラビリティーゾーンにまたがる別々のサブネットにデプロイします。Windows Server 向け Internet Information Services (IIS) は、ウェブ上のあらゆるものをホスティングするための、柔軟で安全、かつ管理しやすいウェブサーバーです。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="55bb0d243856686fc3dd66e986aa15d012578efb"
-                        open
-                      >
-                        <summary class="article-expander__title">Amazon Connectでプログラムを使用して電話番号を要求および設定するための API が利用可能に</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-api-claim-phone-numbers/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Amazon Connectでプログラムを使用して新しい電話番号を要求し、それらを設定するための API が利用可能にこの API を使用すると、利用可能な電話番号をプログラムを使用して検索して要求したり、電話番号を問い合わせフローに関連付けたり、不要になった電話番号をリリースしたりすることができます。さらに、電話番号 API には、AWS CloudFormation のサポートが付いています。詳細については、AWS CloudFormation ユーザーガイドの API ドキュメントと Amazon Connect リソースタイプリファレンスを参照してください。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="c49ec0fe7556f15b9b2c418cff41f93ca5d0a208"
-                        open
-                      >
-                        <summary class="article-expander__title">Amazon ECS 最適化 Amazon Linux 2022 AMI のプレビュー版が利用可能に</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ecs-optimized-linux-2022-ami-available-preview/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Amazon Elastic Container Service (Amazon ECS) は、本日、Amazon ECS 最適化 Amazon Linux 2022 Amazon マシンイメージ (AMI) のパブリックプレビューを発表しました。Amazon Linux 2022 (AL2022) は、Amazon Web Services (AWS) が提供する次世代 Amazon Linux で、クラウドアプリケーションを開発および実行するために、安全で安定した高性能の実行環境を提供するように設計されています。AL2022 以降、新しい Amazon Linux メジャーバージョンが 2 年ごとに利用可能になり、各メジャーバージョンは 5 年間サポートされます。Amazon ECS は、Amazon Linux の新しいメジャーバージョンごとに、同じ 2 年間のリリースと 5 年間のサポートサイクルをサポートするために、Amazon ECS 最適化 AMI を公開します。2 年というメジャーリリースサイクルにより、ソフトウェアを最新の状態に保つことができ、各メジャーリリースに対して 5 年間のサポートコミットメントにより、長いプロジェクトのライフサイクルを管理するために必要な安定性を提供します。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -3917,8 +3957,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/infodock/infodock.github.io/actions/runs/2348969153">
-        <time id="build-timestamp" datetime="2022-05-19T00:31:17.035Z">2022-05-19T00:31:17.035Z</time>
+      <a class="footer-link" href="https://github.com/infodock/infodock.github.io/actions/runs/2355368880">
+        <time id="build-timestamp" datetime="2022-05-20T00:25:08.835Z">2022-05-20T00:25:08.835Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a>
     </footer>
