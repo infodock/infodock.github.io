@@ -1,10 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-20T00:25:08.862Z</id>
+    <id>urn:2022-05-21T00:26:16.175Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-20T00:25:08.862Z</updated>
+    <updated>2022-05-21T00:26:16.175Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Distro for OpenTelemetry でメトリクスのサポートが利用可能に]]></title>
+        <id>9bbd98e6ee2b189abb31e6d739ba4deba682190f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-distro-opentelemetry-metric-support/"/>
+        <updated>2022-05-20T23:06:20.000Z</updated>
+        <summary type="html"><![CDATA[本日より、OpenTelemetry プロジェクトの安全で本番環境に対応した AWS サポートのディストリビューションである、メトリクス用 AWS Distro for OpenTelemetry (ADOT) の一般提供を開始します。今回のリリースにより、お客様は、Java、.Net、および JavaScript で OpenTelemetry API と SDK を使用して、メトリクスを収集し、Amazon CloudWatch、Amazon Managed Service for Prometheus、および OpenTelemetry Protocol (OTLP) でサポートされる他のモニタリング先に送信できます。Cloud Native Computing Foundation の一部である OpenTelemetry は、アプリケーションおよびインフラストラクチャモニタリング用の分散トレースとメトリクスを収集するためのオープンソース API、ライブラリ、およびエージェントを提供します。ADOT を使用すると、アプリケーションを 1 回だけインストルメント化して、メトリクスとトレースを複数のモニタリングソリューションに送信し、自動インストルメンテーションエージェントを使用して、コードを変更せずにトレースとメトリクスを収集することができます。AWS Distro for OpenTelemetry を使用して、Amazon Elastic Compute Cloud (EC2)、Amazon Elastic Container Service (ECS)、および Amazon Elastic Kubernetes Service (EKS) で実行されているアプリケーションをインストルメント化します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect Customer Profiles をアジアパシフィック (ソウル) リージョンでリリース]]></title>
+        <id>d58d58b360e0f0a7030ef4e9c05bf0b70f3a159d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-customer-profiles-launches-asia-pacific-seoul-region/"/>
+        <updated>2022-05-20T23:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect では、アジアパシフィック (ソウル) AWS リージョンで Amazon Connect Customer Profiles をご利用いただけるようになりました。顧客からカスタマーサービス部門に問い合わせがあった場合に、その顧客に関する最新情報をエージェントとインタラクティブ音声応答 (IVR) ソリューションに提供できるようになりました。これにより、より高速かつパーソナライズされたカスタマーサービスを実現できます。Customer Profiles は、Salesforce、Amazon S3、ServiceNow などの複数のアプリケーションからの顧客情報 (住所、購入履歴、問い合わせ履歴など) を 1 つの統合されたカスタマープロファイルにまとめます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK が iOS および Android での動画背景の置き換えとぼかしのサポートを開始]]></title>
+        <id>11bb7cab58f308660df8773ff81a4989e54af7d1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-chime-sdk-video-background-replacement-blur-ios-android/"/>
+        <updated>2022-05-20T23:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションに追加できます。iOS および Android 用の Amazon Chime SDK クライアントライブラリに、動画の背景の置き換えとぼかしが含まれるようになりました。これらを使用して、デベロッパーは、視覚による注意の散漫を軽減し、モバイルユーザーの視覚面でのプライバシーを強化できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 Auto Scaling が Predictive Scaling 予測をバックフィルするようになり、予測精度の迅速な検証が可能に]]></title>
+        <id>6daccb7a3f86d220199d5b25b352796b4994963c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-backfill-predictive-scaling-forecasts-accuracy-validate/"/>
+        <updated>2022-05-20T23:03:52.000Z</updated>
+        <summary type="html"><![CDATA[本日より、新しい予測スケーリングポリシーを作成すると、Amazon EC2 Auto Scaling は 14 日間を遡って過去の日付の容量予測を生成します。これにより、予測スケーリングが Auto Scaling グループをスケーリングしていたとすればどのようになっていたのかを確認できるようになります。これにより、予測スケーリングポリシーを作成した直後に、需要と容量の予測を実績値と比較することで、予測スケーリングポリシーがアプリケーションに関して正確であるかどうかを迅速に判断できます。これまでは、同じ比較のために十分な予測履歴を作成して、予測精度を判断するには、ポリシーを作成してから少なくとも数日待つ必要がありました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kendra が Jira コネクタをリリースし、JIRA リポジトリでのドキュメント検索が可能に]]></title>
+        <id>3086fe565383474f011a5ea57b3001f458cc7bf7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-kendra-jira-enable-document-repository/"/>
+        <updated>2022-05-20T23:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。Amazon のお客様は、Amazon Kendra Jira Cloud コネクタを使用して、Atlassian Jira からのドキュメントにインデックスを付けることができるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Systems Manager の Incident Manager がランブックオートメーションのサポートを拡張]]></title>
+        <id>5552057e2e4721bc12134be866d0843101fb03a1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-systems-manager-incident-manager-runbook-automation/"/>
+        <updated>2022-05-20T23:01:10.000Z</updated>
+        <summary type="html"><![CDATA[AWS Systems Manager の機能である Incident Manager は、インシデントの診断と解決を高速化するためのランブックオートメーションの拡張サポートを発表しました。AWS Systems Manager は、AWS アプリケーションとリソースのオペレーションハブであり、リアクティブプロセスを自動化して、運用上の問題を迅速に診断および修正するのに役立ちます。お客様は、オンコールエンジニアに対応を依頼する前に、容量不足になりそうな DynamoDB テーブルでオートスケーリングをオンにするなど、関連するリソースに対して修復アクションを自動的に実行するインシデントランブックを作成できるようになりました。お客様は、Incident Manager コンソールから直接追加のランブックを呼び出して、インシデントのより迅速な解決に役立てることもできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight で利用可能な 1 クリックの公開埋め込みの一般提供を発表]]></title>
+        <id>ac455fcde6638f6b938c39e7f4b1b5b2b0371573</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/announcing-general-availability-click-embedding-available-amazon-quicksight/"/>
+        <updated>2022-05-20T19:18:10.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight は、1 クリックの公開埋め込みに対応しました。これは、コーディングや開発なしに、ダッシュボードを公開アプリケーション、Wiki、ポータルに埋め込むことができる機能です。有効にすると、インターネット上のユーザーは誰でも、サーバーのデプロイやインフラストラクチャのライセンスを必要とせずに、最新の情報を使用してこれらの組み込みダッシュボードに即座にアクセスできるようになります。 1 クリックの公開埋め込みにより、エンドユーザーが数分でインサイトにアクセスできるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup が Amazon FSx for OpenZFS のサポートを追加]]></title>
+        <id>b8557a930d3262c006231744cfea7ddfea1afbdb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-backup-amazon-fsx-openzfs/"/>
+        <updated>2022-05-20T19:17:15.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backup では、Amazon FSx for OpenZFS ファイルシステムを保護できるようになりました。これは、一元化されたデータ保護と規制コンプライアンスのニーズを満たすのに役立ちます。AWS Backup は AWS Organizations とシームレスに統合されているため、すべてのアカウントで Amazon FSx for OpenZFS ファイルシステムのイミュータブルなバックアップの作成と管理を一元的に行い、不注意なアクションや悪意のあるアクションからデータを保護し、数回クリックするだけでデータを復元することができます。さらに、統合された監査対応レポートを生成して、組織のデータ保護ポリシーのコンプライアンスステータスを実証できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Encryption SDK for .NET の一般提供を開始]]></title>
+        <id>cdb85f59de28ce61f833d91aad0a7add4856a129</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-encryption-sdk-net-available/"/>
+        <updated>2022-05-20T19:16:10.000Z</updated>
+        <summary type="html"><![CDATA[デベロッパーは、データ保護に役立てるために、AWS Encryption SDK for .NET を利用できるようになりました。このオープンソースのリリースにより、デベロッパーは、.NET デベロッパープラットフォームを使用してアプリケーションを構築する際に、データを暗号化および復号することが容易になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS App Mesh が Internet Protocol Version 6 (IPv6) をサポート]]></title>
+        <id>65d80f90d4a155d965c1ea824b5ecf120d9fb2b0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-app-mesh-supports-ipv6/"/>
+        <updated>2022-05-20T17:02:59.000Z</updated>
+        <summary type="html"><![CDATA[AWS App Mesh が IPv6 のサポートを開始したことで、お客様は IPv6 ネットワークで動作するワークロードをサポートし、IPv6 上で App Mesh API を呼び出すことができるようになりました。これは、お客様が IPv6 コンプライアンス要件を満たすのに役立ちます。また、IPv4 と IPv6 間のアドレス変換を処理するための高価なネットワーク機器が不要になります。AWS App Mesh は、アプリケーションレベルのネットワーキングを提供するサービスメッシュで、複数の種類のコンピューティングインフラストラクチャを介して、サービス同士の通信を、より簡単にします。AWS App Mesh はサービスが通信する方法を標準化するため、エンドツーエンドの可視性と、アプリケーションを高可用性のためにチューニングするオプションが提供されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift が Redshift ML で線形学習者アルゴリズムのサポートを開始]]></title>
+        <id>1e2fe5d8d2a818735eab055570ce3d0e5ba76fa9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-redshift-supports-linear-learner-algorithm-redshift-ml/"/>
+        <updated>2022-05-20T17:02:08.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift ML は、使い慣れた SQL を使用して、機械学習 (ML) モデルを作成、トレーニング、デプロイできます。Amazon Redshift ML で、データを移動したり新しいスキルを習得したりすることなく、フルマネージドの機械学習サービスである Amazon SageMaker を活用できます。Amazon Redshift は Amazon Redshift MLでモデルを作成するために、Amazon SageMaker Linear Learner アルゴリズムをサポートするようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Resilience Hub が Terraform、Amazon ECS、および追加サービスのサポートを追加]]></title>
+        <id>61145a4be2e40d523b575e035984f23eca18f87f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-resilience-hub-adds-terraform-amazon-ecs-additional-services/"/>
+        <updated>2022-05-20T17:01:18.000Z</updated>
+        <summary type="html"><![CDATA[AWS Resilience Hub は、Amazon Elastic Container Service (Amazon ECS)、Amazon Route 53、AWS Elastic Disaster Recovery、AWS Backup、および Terraform をソースとしてアプリケーションをアップロードする機能をサポートするようになりました。このように対応リソースを拡大することで、Resilience Hub を利用して、より多くのアプリケーションを障害に備え、保護することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Redshift で、同時トランザクションのための新しいスナップショット分離レベルのサポートを開始]]></title>
         <id>096c47ea1a22ed9bdc563aa9c7b105cbbce20a98</id>
@@ -179,7 +299,7 @@
         <title type="html"><![CDATA[Generally available: Industrial IoT Connectivity Partners integrate with Azure IoT Central]]></title>
         <id>iotc-iiot-frontdoor</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/iotc-iiot-frontdoor/"/>
-        <updated>2022-05-17T16:00:04.000Z</updated>
+        <updated>2022-05-17T16:00:05.000Z</updated>
         <summary type="html"><![CDATA[Industrial IoT starts with Azure IoT Central. Now you can leverage the expertise of Industrial IoT Connectivity Partners who are ready to connect your industrial assets in hours instead of weeks – no matter if it’s modern or legacy equipment.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -1116,46 +1236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon SES V2 は、デフォルトでインバウンドおよびアウトバウンドの E メールに対して最大 40 MB までサポートするようになりました]]></title>
-        <id>bff6c7c5d39b521e0c979664facbee8896e57eaa</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ses-v2-supports-email-size-40mb-inbound-outbound-emails-default/"/>
-        <updated>2022-05-04T11:37:08.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Simple Email Service (SES) の V2 では、最大 40MB のメッセージサイズ（E メールテキスト、画像、添付ファイル、および MIME エンコーディングを含む）の E メールを送受信できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift では、アジアパシフィック（大阪）、欧州（ミラノ）、中東（バーレーン）、アフリカ（ケープタウン）の各リージョンで RA3 インスタンスが利用可能に]]></title>
-        <id>8cde52d1badbb3240834906c899672e7186ece11</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-instances-asia-pacific-osaka-europe-milan-middle-east-bahrain-africa-cape-town-regions/"/>
-        <updated>2022-05-04T11:35:46.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift RA3 インスタンスは、アジアパシフィック（大阪）、欧州（ミラノ）、中東（バーレーン）、アフリカ（ケープタウン）の各リージョンで利用できるようになりました。マネージドストレージを備えた Amazon Redshift RA3 インスタンスを使用すると、コンピューティングとストレージを個別にスケールして料金を支払うことで、クエリのパフォーマンスを高速化し、コストを削減できます。また、Amazon Redshift クラスター間でライブデータを安全かつ簡単に共有できます。RA3 は、3 つの異なるノードタイプ (RA3.16xlarge、RA3.4xlarge、RA3.xlplus) で利用可能となっており、ワークロードの要件に応じて料金とパフォーマンスのバランスをとることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS は、カナダで最初の AWS Wavelength Zone の一般提供の開始を発表しました]]></title>
-        <id>6a080e46a1e117c0ddf8a73f6381aa76234fc978</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-general-availability-first-aws-wavelength-zone-canada/"/>
-        <updated>2022-05-04T11:34:08.000Z</updated>
-        <summary type="html"><![CDATA[本日、トロントの Bell 5G ネットワークで AWS Wavelength の一般提供が開始されることを発表します。企業、アプリケーションデベロッパー、独立系ソフトウェアベンダー (ISV) は、トロントの AWS Wavelength Zone を利用して、カナダのモバイル機器やエンドユーザー向けの超低レイテンシーアプリケーションを構築できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect で、名前、エージェント階層、タグでユーザーを検索できる API が利用可能に]]></title>
-        <id>11ccc1862c9bef2b5ab3447a315236dab1aecc77</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-api-search-users-name-agent-hierarchies-tags/"/>
-        <updated>2022-05-04T11:32:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect は、Amazon Connect インスタンスでユーザーレコードを検索できる新しい API をサポート開始しました。この新しい API は、名前、姓、ユーザー名、ルーティングプロファイル、セキュリティプロファイル、エージェント階層、またはタグを使い、プログラミングで柔軟にユーザーを検索できる方法を提供します。例えば、この API を使用して、Department:A のキーと値のペアでタグ付けされたすべてのユーザーを検索できます。また、特定のセキュリティプロファイル、ルーティングプロファイル、またはエージェント階層に割り当てられているすべてのユーザーのリストをすばやく見つけることができます。この新しい API の詳細については、「API ドキュメント」を参照してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon Relational Database Service on AWS Outposts でストレージの自動スケーリングのサポートを開始]]></title>
         <id>2f029ee7eae40de464a17a66ce535fe7078f097e</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-rds-aws-outposts-storage-autoscaling/"/>
@@ -1171,66 +1251,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-interactive-video-service-adds-stream-chat-feature/"/>
         <updated>2022-05-04T08:48:44.000Z</updated>
         <summary type="html"><![CDATA[新しい Amazon Interactive Video Service (Amazon IVS) のストリーミングチャット機能を使用すると、ライブストリーミングビデオに合わせて設計されたモデレーションオプションを内蔵したスケーラブルなストリーミングチャットルームを構築できるようになりました。この機能により、ストリーマーと視聴者は、質問やディスカッションへの参加によって、コミュニティの関係を構築することができます。Amazon IVS のチャットでは、チャットルームのリソース管理、チャットメッセージの送受信やモデレート用のメッセージング API が提供されます。詳細については、Amazon IVS チャット機能のページをご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Control Tower が Python 3.9 ランタイムを新たにサポート]]></title>
-        <id>005a1eaa7c3711484f7cceee36a93894430ce43b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-control-tower-supports-python-3-9-runtime/"/>
-        <updated>2022-05-04T08:47:57.000Z</updated>
-        <summary type="html"><![CDATA[本日、Notification Forwarder Lambda に Python バージョン 3.9 ランタイムを使用する変更を含む、AWS Control Tower のアップデートをアナウンスしています。このアップデートは、計画されている Python バージョン 3.6 ランタイムの非推奨に対応しています。ランタイムバージョンがサポート終了に達した後も、関数の呼び出しは無期限に継続されます。しかし、AWS は、セキュリティパッチを受け取り、技術サポートを受け続けることができるように、サポートされているランタイムバージョンに関数を移行することを強く推奨します。その他の非推奨の詳細については、ランタイムの非推奨ポリシーを参照してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup for Amazon FSx が AWS アジアパシフィック (大阪) リージョンで利用可能に]]></title>
-        <id>74384c36cca373ce9f7209a808cf51c7e641072a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-backup-amazon-fsx-osaka/"/>
-        <updated>2022-05-04T00:49:11.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup のポリシーベースのデータ保護機能が、AWS アジアパシフィック (大阪) リージョンの Amazon FSx で利用できるようになりました。AWS Backup を使用して、大阪リージョンで、コンピューティング、ストレージ、およびデータベースのために、他の AWS のサービスとともに、Amazon FSx に保存されているアプリケーションデータのバックアップと復元を一元的に自動化できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Lightsail ロードバランサーで自動 HTTPS リダイレクトと設定可能な TLS セキュリティポリシーのサポートを開始]]></title>
-        <id>726a503b031b441451bda526db2479f794316a10</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-lightsail-balancers-automatic-https-tls-security-policy/"/>
-        <updated>2022-05-04T00:48:23.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lightsail は、Lightsail ロードバランサーに、HTTP リクエストを HTTPS に自動的にリダイレクトする機能と、HTTPS リクエストの TLS ターミネーションに使用するセキュリティポリシーを設定する機能の 2 つの新しいセキュリティ機能を追加しました。これらの機能を使用すると、ウェブサイトをホストする Lightsail インスタンスで Lightsail ロードバランサーを設定するだけで、ウェブサイトをより安全にし、コンプライアンス目標を達成し、検索ランキングと SSL/TLS スコアを向上させることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Graviton2 を搭載した Amazon EC2 R6gd インスタンスが南米 (サンパウロ) で利用可能に]]></title>
-        <id>2d0cbbd7b7b6f410f693f5ca7534e89a67afa29b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ec2-r6gd-instances-aws-graviton2-available-sao-paulo/"/>
-        <updated>2022-05-04T00:47:36.000Z</updated>
-        <summary type="html"><![CDATA[本日より、ローカル NVMe ベースの SSD ストレージを備えたメモリ最適化 Amazon EC2 R6gd インスタンスが南米 (サンパウロ) でご利用いただけます。R6gd インスタンスは、オープンソースデータベース、インメモリキャッシュ、およびリアルタイムビッグデータ分析などのメモリを多用するワークロード向けに、同等の x86 ベースのインスタンスよりも最大 40% 優れた料金パフォーマンスと最大 50% 多くの NVMe ストレージ GB/vCPU を提供します。これらは、高速で低レイテンシーのストレージへのアクセスが必要なアプリケーション、バッチやログ処理などのデータの一時的なストレージ、および高速キャッシュとスクラッチファイルに最適です。Amazon EC2 R6gd インスタンスは、Amazon EC2 で最高の料金パフォーマンスを実現するために AWS によってカスタム設計された AWS Graviton2 プロセッサを搭載しています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for MariaDB は、最大 128 vCPU と 1,024 GiB RAM の新しいインスタンスサイズを持つ M6i および R6i インスタンスをサポートするようになりました。]]></title>
-        <id>0a52de1ed6d3110229df4a98c560966353328352</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-mariadb-m6i-r6i-new-instance-sizes/"/>
-        <updated>2022-05-04T00:46:48.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for MariaDB バージョン 10.4 以降が、M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリを多用するワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 C6i、M6i、および R6i インスタンスが AWS GovCloud (米国) リージョンで利用可能に]]></title>
-        <id>b6c392dc70933f075f4df80521347dbe1ad7d9eb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ec2-c6i-m6i-r6i-instances-available-aws-govcloud-us-regions/"/>
-        <updated>2022-05-04T00:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EC2 C6i、M6i、および R6i インスタンスは、AWS GovCloud (米国) リージョンでご利用いただけます。これらのインスタンスは、オールコアターボ周波数 3.5GHz の第 3 世代インテル Xeon スケーラブルプロセッサ (コードネーム: Ice Lake) を搭載し、幅広いワークロードにおいて同等の Gen5 インスタンスと比較して最大 15％ のコンピュートティングプライスパフォーマンスを提供し、インテルトータルメモリーエンクリプション (TME) を使用した常時メモリ暗号化を実現しています。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1281,26 +1301,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/iam-access-resource-organization/"/>
         <updated>2022-05-02T18:49:41.000Z</updated>
         <summary type="html"><![CDATA[本日、AWS Identity and Access Management (IAM) は、リソースを含む AWS Organizations のアカウント、組織単位 (OU)、または組織に基づいてリソースへのアクセスをコントロールできる新しい方法を導入しました。AWS では、ワークロードの増大に応じて、複数のアカウントを設定することをお勧めしています。マルチアカウント環境を使用すると、特定のセキュリティ要件があるワークロードまたはアプリケーションを分離することによる柔軟なセキュリティコントロールなど、いくつかの利点があります。この新しい IAM 機能を使用すると、IAM ポリシーを作成して、プリンシパルが特定の AWS アカウント、OU、または組織内のリソースのみにアクセスできるようにできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Polly が、ポルトガル語でニューラル TTS 音声の提供を開始]]></title>
-        <id>2f14c73ca99bc2c22f320f47a8d17cb0ffcc0dfe</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-offers-neural-tts-voice-portuguese/"/>
-        <updated>2022-05-02T18:48:06.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly のイベリアポルトガル語の女性の音声合成 (TTS) 音声である 「Inês」のニューラルバージョンの一般提供開始をお知らせいたします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) が、ポッドアフィニティをサポートする Karpenter v0.9.0 を発表]]></title>
-        <id>fa728e0a89e4c2265acbae984fe080de9bcfc9e6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-eks-karpenter-v0-9-0-pod-affinity/"/>
-        <updated>2022-05-02T18:46:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) が、Karpenter オープンソースクラスター自動スケーリングプロジェクトの v0.9.0 を発表しました。Karpenter は、柔軟性のある高性能の Kubernetes Cluster Autoscaler で、アプリケーションの可用性とリソースの使用率を向上させることができます。Karpenter v0.9.0 はKubernetes podAffinity および podAntiAffinity のスケジュール制約のサポートを追加します。これにより、一般的なサードパーティの Helm チャートとの互換性が高まり、高可用性のユースケースのサポートが拡張されます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1611,16 +1611,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-windows-server-guest-licensing-offer-for-azure-stack-hci/"/>
         <updated>2022-04-21T15:00:28.000Z</updated>
         <summary type="html"><![CDATA[Bring simplicity and flexibility to licensing when you purchase unlimited Windows Server guest licenses for your Azure Stack HCI cluster through your Azure subscription.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Rehydrate an archived blob to a different storage account]]></title>
-        <id>generally-available-rehydrate-an-archived-blob-to-a-different-storage-account</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-rehydrate-an-archived-blob-to-a-different-storage-account/"/>
-        <updated>2022-04-20T19:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Segregate your backup data in different storage accounts with Archive across-accounts copy.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
