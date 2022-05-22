@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-21T00:26:16.175Z</id>
+    <id>urn:2022-05-22T00:26:52.535Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-21T00:26:16.175Z</updated>
+    <updated>2022-05-22T00:26:52.535Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1581,36 +1581,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/blocking-domain-fronting-behavior-on-azure-front-door-azure-front-door-classic-and-azure-cdn-standard-from-microsoft-classic/"/>
         <updated>2022-04-25T17:00:31.000Z</updated>
         <summary type="html"><![CDATA[Block domain fronting behavior on Azure Front Door, Azure Front Door (classic), and Azure CDN Standard from Microsoft (classic) resources.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: App Service - Networking capabilities added to Basic pricing tier]]></title>
-        <id>general-availability-app-service-networking-capabilities-added-to-basic-pricing-tier</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-app-service-networking-capabilities-added-to-basic-pricing-tier/"/>
-        <updated>2022-04-21T16:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Virtual network integration and private endpoints now supported in Basic pricing tier.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: App Service - Configure networking in Azure Portal during app creation]]></title>
-        <id>public-preview-app-service-configure-networking-in-azure-portal-during-app-creation</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-app-service-configure-networking-in-azure-portal-during-app-creation/"/>
-        <updated>2022-04-21T16:00:28.000Z</updated>
-        <summary type="html"><![CDATA[VNet integration and private endpoints options now configurable when creating a web application.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Windows Server guest licensing offer for Azure Stack HCI]]></title>
-        <id>general-availability-windows-server-guest-licensing-offer-for-azure-stack-hci</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-windows-server-guest-licensing-offer-for-azure-stack-hci/"/>
-        <updated>2022-04-21T15:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Bring simplicity and flexibility to licensing when you purchase unlimited Windows Server guest licenses for your Azure Stack HCI cluster through your Azure subscription.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>

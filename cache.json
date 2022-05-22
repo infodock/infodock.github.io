@@ -584,36 +584,6 @@
           "wordCount": 2010,
           "title": "Generally available: Controls to block domain fronting behavior on customer resources",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-d419478c04491d5a60cd5ee5f6e2281a4c8384f0f9d997c6e328792ab1505d20/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "general-availability-app-service-networking-capabilities-added-to-basic-pricing-tier",
-          "author": null,
-          "description": "Virtual network integration and private endpoints now supported in Basic pricing tier.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-app-service-networking-capabilities-added-to-basic-pricing-tier/",
-          "publishedOn": "2022-04-21T16:00:29.000Z",
-          "wordCount": 1988,
-          "title": "General availability: App Service - Networking capabilities added to Basic pricing tier",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-d419478c04491d5a60cd5ee5f6e2281a4c8384f0f9d997c6e328792ab1505d20/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "public-preview-app-service-configure-networking-in-azure-portal-during-app-creation",
-          "author": null,
-          "description": "VNet integration and private endpoints options now configurable when creating a web application.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-app-service-configure-networking-in-azure-portal-during-app-creation/",
-          "publishedOn": "2022-04-21T16:00:28.000Z",
-          "wordCount": 1931,
-          "title": "Public preview: App Service - Configure networking in Azure Portal during app creation",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-d419478c04491d5a60cd5ee5f6e2281a4c8384f0f9d997c6e328792ab1505d20/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "general-availability-windows-server-guest-licensing-offer-for-azure-stack-hci",
-          "author": null,
-          "description": "Bring simplicity and flexibility to licensing when you purchase unlimited Windows Server guest licenses for your Azure Stack HCI cluster through your Azure subscription.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-windows-server-guest-licensing-offer-for-azure-stack-hci/",
-          "publishedOn": "2022-04-21T15:00:28.000Z",
-          "wordCount": 1974,
-          "title": "General availability: Windows Server guest licensing offer for Azure Stack HCI",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-d419478c04491d5a60cd5ee5f6e2281a4c8384f0f9d997c6e328792ab1505d20/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
