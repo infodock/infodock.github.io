@@ -593,6 +593,16 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "956c21f137952e770c729e3522b39506bbe690ae",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup では、Amazon FSx for NetApp ONTAP ファイルシステムを保護できるようになりました。これは、一元化されたデータ保護と規制コンプライアンスのニーズを満たすのに役立ちます。Amazon FSx for NetApp ONTAP は、AWS クラウドで NetApp ONTAP ファイルシステムを実行できるようにするフルマネージドの AWS のサービスです。AWS Backup のポリシーベースの機能を使用して、AWS Backup がサポートするストレージ、データベース、およびコンピューティングのための他の AWS のサービスとともに、Amazon FSx for NetApp ONTAP を一元的に保護できるようになりました。Amazon FSx for NetApp ONTAP ファイルシステムをイミュータブルなバックアップで保護し、監査に利用できるレポートを生成して、データ保護ポリシーへの準拠を証明できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-backup-amazon-fsx-netapp-ontap-set-services-centralized-data-protection/",
+          "publishedOn": "2022-05-22T00:23:53.000Z",
+          "wordCount": 301,
+          "title": "AWS Backup が一元化されたデータ保護のために Amazon FSx for NetApp ONTAP を一連のサービスに追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "9bbd98e6ee2b189abb31e6d739ba4deba682190f",
           "author": "aws@amazon.com",
           "description": "本日より、OpenTelemetry プロジェクトの安全で本番環境に対応した AWS サポートのディストリビューションである、メトリクス用 AWS Distro for OpenTelemetry (ADOT) の一般提供を開始します。今回のリリースにより、お客様は、Java、.Net、および JavaScript で OpenTelemetry API と SDK を使用して、メトリクスを収集し、Amazon CloudWatch、Amazon Managed Service for Prometheus、および OpenTelemetry Protocol (OTLP) でサポートされる他のモニタリング先に送信できます。Cloud Native Computing Foundation の一部である OpenTelemetry は、アプリケーションおよびインフラストラクチャモニタリング用の分散トレースとメトリクスを収集するためのオープンソース API、ライブラリ、およびエージェントを提供します。ADOT を使用すると、アプリケーションを 1 回だけインストルメント化して、メトリクスとトレースを複数のモニタリングソリューションに送信し、自動インストルメンテーションエージェントを使用して、コードを変更せずにトレースとメトリクスを収集することができます。AWS Distro for OpenTelemetry を使用して、Amazon Elastic Compute Cloud (EC2)、Amazon Elastic Container Service (ECS)、および Amazon Elastic Kubernetes Service (EKS) で実行されているアプリケーションをインストルメント化します。",
@@ -1410,16 +1420,6 @@
           "publishedOn": "2022-05-06T11:31:11.000Z",
           "wordCount": 252,
           "title": "Amazon Kinesis Video Streams が画像抽出のマネージドサポートを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ff78c9fcba272505dfb102e6462333b6cfb62dda",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Snow Family は、複数の Snowball Edge サービス製品を使用する際の大規模データ移行の計画、追跡、管理を可能にする新機能 Large Data Migration Manager の提供を開始しました。最小 500 テラバイトからペタバイトスケールのデータ移行まで、簡単にジョブの計画とモニタリングができるようになりました。Large Data Migration Manager を使用することで、すべての Snow ジョブとそのデータ取り込みの状況を手動で追跡する必要がなくなります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-snow-large-data-migration-manager/",
-          "publishedOn": "2022-05-06T10:31:01.000Z",
-          "wordCount": 330,
-          "title": "AWS Snow、お客様の拠点から AWS への大規模なデータ移行を計画および管理する Large Data Migration Manager の提供を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {

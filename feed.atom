@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-22T00:26:52.535Z</id>
+    <id>urn:2022-05-23T00:29:23.841Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-22T00:26:52.535Z</updated>
+    <updated>2022-05-23T00:29:23.841Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup が一元化されたデータ保護のために Amazon FSx for NetApp ONTAP を一連のサービスに追加]]></title>
+        <id>956c21f137952e770c729e3522b39506bbe690ae</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-backup-amazon-fsx-netapp-ontap-set-services-centralized-data-protection/"/>
+        <updated>2022-05-22T00:23:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backup では、Amazon FSx for NetApp ONTAP ファイルシステムを保護できるようになりました。これは、一元化されたデータ保護と規制コンプライアンスのニーズを満たすのに役立ちます。Amazon FSx for NetApp ONTAP は、AWS クラウドで NetApp ONTAP ファイルシステムを実行できるようにするフルマネージドの AWS のサービスです。AWS Backup のポリシーベースの機能を使用して、AWS Backup がサポートするストレージ、データベース、およびコンピューティングのための他の AWS のサービスとともに、Amazon FSx for NetApp ONTAP を一元的に保護できるようになりました。Amazon FSx for NetApp ONTAP ファイルシステムをイミュータブルなバックアップで保護し、監査に利用できるレポートを生成して、データ保護ポリシーへの準拠を証明できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Distro for OpenTelemetry でメトリクスのサポートが利用可能に]]></title>
         <id>9bbd98e6ee2b189abb31e6d739ba4deba682190f</id>
@@ -1061,16 +1071,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-kinesis-video-streams-announces-managed-support-image-extraction/"/>
         <updated>2022-05-06T11:31:11.000Z</updated>
         <summary type="html"><![CDATA[本日、Amazon Kinesis Video Streams は、ビデオストリーミングから画像を抽出するのに役立つ新しい API と SDK を発表しました。この完全に管理された機能により、顧客は API コールを介して画像を要求したり、取り込んだビデオのメタデータタグに基づいて自動画像生成を設定したりできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Snow、お客様の拠点から AWS への大規模なデータ移行を計画および管理する Large Data Migration Manager の提供を開始]]></title>
-        <id>ff78c9fcba272505dfb102e6462333b6cfb62dda</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-snow-large-data-migration-manager/"/>
-        <updated>2022-05-06T10:31:01.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS Snow Family は、複数の Snowball Edge サービス製品を使用する際の大規模データ移行の計画、追跡、管理を可能にする新機能 Large Data Migration Manager の提供を開始しました。最小 500 テラバイトからペタバイトスケールのデータ移行まで、簡単にジョブの計画とモニタリングができるようになりました。Large Data Migration Manager を使用することで、すべての Snow ジョブとそのデータ取り込みの状況を手動で追跡する必要がなくなります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
