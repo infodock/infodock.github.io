@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-25T00:30:23.592Z</id>
+    <id>urn:2022-05-26T00:27:20.538Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-25T00:30:23.592Z</updated>
+    <updated>2022-05-26T00:27:20.538Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Automate scheduled emails of your saved cost views via API]]></title>
+        <id>cost-management-scheduled-actions-api</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/cost-management-scheduled-actions-api/"/>
+        <updated>2022-05-25T19:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Automate the creation and management of Azure Cost Management scheduled emails with the ScheduledActions API.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available Azure Ebsv5 now available in 13 additional regions]]></title>
+        <id>ebsv5-available-additional-regions</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/ebsv5-available-additional-regions/"/>
+        <updated>2022-05-25T16:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Azure Virtual Machines Ebsv5 and Ebdsv5 are now available in 13 additional regions.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: JavaScript and Python support in Azure SQL bindings]]></title>
+        <id>public-preview-javascript-and-python-support-in-azure-sql-bindings</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-javascript-and-python-support-in-azure-sql-bindings/"/>
+        <updated>2022-05-25T16:00:19.000Z</updated>
+        <summary type="html"><![CDATA[You can connect Azure SQL to Azure Functions more easily with input and output bindings, now available in public preview for C#, JavaScript, and Python.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Graviton3 プロセッサを搭載した新しい Amazon EC2 C7g インスタンスを発表]]></title>
+        <id>2ac1cc349a729b3680bab6197166753be135fcb5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/"/>
+        <updated>2022-05-25T09:32:48.000Z</updated>
+        <summary type="html"><![CDATA[最新世代のコンピューティング最適化 Amazon EC2 C7g インスタンスの一般提供を開始しました。C7g インスタンスは、最新の AWS Graviton3 プロセッサを搭載した最初のインスタンスであり、アプリケーションサーバー、マイクロサービス、バッチ処理、Electronic Design Automation (EDA)、ゲーム、動画エンコーディング、科学モデリング、分散分析、ハイパフォーマンスコンピューティング (HPC)、CPU ベースの機械学習 (ML) 推論、広告配信などの幅広い適用のために、Graviton2 ベースの C6g インスタンスよりも最大 25% 優れたパフォーマンスを提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kinesis Data Analytics が FedRAMP に準拠]]></title>
+        <id>579637712a849bceb97d588e68e349f14994e2a1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-kinesis-data-analytics-fedramp-compliant/"/>
+        <updated>2022-05-25T09:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Kinesis Data Analytics は、米国東部 (オハイオ)、米国東部 (バージニア北部)、米国西部 (北カリフォルニア)、米国西部 (オレゴン) では FedRAMP Moderate として、AWS GovCloud (米国西部) および AWS GovCloud (米国東部) では FedRAMP High として承認されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オファー承認メール通知が AWS Marketplace で利用可能に]]></title>
+        <id>9c09864191dfbc26e7bb7949347b6df47fb73ef1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-marketplace-offer-acceptance-email-notifications/"/>
+        <updated>2022-05-25T09:31:02.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Marketplace は、顧客がオファーサブスクリプションを完了したときに E メールでユーザーに通知するオファー承認メール通知の一般提供を発表しました。今回のリリースにより、お客様は購入者によるオファーの承認とサブスクリプションをリアルタイムで確認できるようになり、AWS Marketplace における取引の全体的な進捗を追跡できるようになりました。購入者、ISV、およびチャネルパートナーは、サブスクリプション時に契約 ID 、オファー ID 、顧客の詳細などの関連情報を受け取り、調達ワークフロー、内部注文の作成、収益認識、およびソフトウェアのプロビジョニング/デプロイを開始できるようになりました。この機能は、すべての AWS Marketplace 製品タイプでご利用いただけます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS と KEK、日本のアカデミアにおける研究 DX を加速]]></title>
+        <id>935e646c9cd628e16f5b6f9340710d88ae1a6c1d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-and-kek-announce-collaborate-for-driving-digital-transformation-scientific-research-in-japan/"/>
+        <updated>2022-05-25T07:01:14.000Z</updated>
+        <summary type="html"><![CDATA[日本の創薬を支えるタンパク質の構造解析を AWS のクラウドで構築した「GoToCloud」プラットフォームを利用して 7 倍高速化、60% の管理コスト削減を実現、さらに 85% の削減を目指す
+ 
+ 
+AWS は日本で 300 万人以上が利用する学術情報ネットワーク（SINET6）に、AWS Direct Connect を利用して複数の 100Gbps 物理回線を新たに敷設]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Autoscale Stream Analytics jobs]]></title>
+        <id>asaautoscalejobs</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/asaautoscalejobs/"/>
+        <updated>2022-05-25T05:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Autoscaling allows you to define the minimum and maximum streaming units. Stream Analytics will automatically take care of dynamically optimizing the number of streaming units needed for your workload.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public preview: Azure Digital Twins 3D Scenes Studio]]></title>
         <id>public-preview-azure-digital-twins-3d-scenes-studio</id>
@@ -261,16 +344,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-communication-services-apis-in-us-government-cloud/"/>
         <updated>2022-05-24T16:00:26.000Z</updated>
         <summary type="html"><![CDATA[Use Azure Communication Services APIs for voice, video, and messaging in US Government cloud.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Call metrics tool for Azure Communication Services]]></title>
-        <id>public-preview-call-metrics-tool-for-azure-communication-services</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-call-metrics-tool-for-azure-communication-services/"/>
-        <updated>2022-05-24T16:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Collect call statistics and other information in real-time using call metrics.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1796,36 +1869,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon RDS for PostgreSQL が、最大 128 vCPU と 1,024 GiB RAM の新しいインスタンスサイズを持つ M6i および R6i インスタンスをサポート]]></title>
-        <id>91ff9edad29ddf78f3c7253faceab855832744dc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-postgresql-supports-m6i-r6i-instances/"/>
-        <updated>2022-05-05T10:35:54.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for PostgreSQL  のバージョン 11 以降が、M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリを多用するワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将来の SAP デプロイを簡略化するために、AWS Launch Wizard の入力のクローンを作成する]]></title>
-        <id>2a6f50fc2952071073e786cc89bf64bbf4890342</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-launch-wizard-simplify-future-sap-deployments/"/>
-        <updated>2022-05-05T10:35:05.000Z</updated>
-        <summary type="html"><![CDATA[AWS Launch Wizard で新たに、SAP システムをデプロイするときに、将来のデプロイ用として、入力のクローンを作成できるようになりました。ほとんどのケースで、これらのパラメータの主なものは、デプロイ間で変化しません。今回のリリースで、後のデプロイ時にすべてのパラメータを手作業ですべて入力し直す必要がなくなり、時間を短縮し、デプロイごとに異なるわずかなパラメータに集中することでエラーを減らすことにつながります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Service Catalog で AWS クラウド開発キット (AWS CDK) のサポートを開始]]></title>
-        <id>470c6c70e35257e279d544aeea50f5c52d86425c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-service-catalog-support-aws-cloud-development-kit-aws-cdk-available/"/>
-        <updated>2022-05-05T10:33:47.000Z</updated>
-        <summary type="html"><![CDATA[AWS Service Catalog で AWS クラウド開発キット (AWS CDK) の構成要素がご利用いただけるようになりました。Service Catalog の管理者は、AWS CloudFormation をデプロイする CDK アプリケーションでコードにカタログを定義できるようになりました。また、Amazon Simple Storage Service (Amazon S3) または AWS CodeCommit で最初に CloudFormation テンプレートをアップロードしたり、参照したりすることなく、CDK のコードで Service Catalog 製品をすべて定義することもできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Network Firewall で AWS Managed Threat Signatures のサポートを開始]]></title>
         <id>20799cd045fff5fd9ee5acc5dfc298f459516154</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-network-firewall-threat-signatures/"/>
@@ -1841,16 +1884,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-offers-new-neural-tts-voice-brazilian-portuguese/"/>
         <updated>2022-05-05T10:32:11.000Z</updated>
         <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly のポルトガル語 (ブラジル) の女性の音声合成 (TTS) 音声である 「Vitória」のニューラルバージョンの一般提供が開始されました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Rekognition でライブの動画ストリーミングにリアルタイムのアラートを出す Streaming Video Events の利用が開始に]]></title>
-        <id>b70ed2645eb11f63ed52bf76d4af201d8706f4ce</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rekognition-streaming-video-events-real-time-alerts-live-video-streams/"/>
-        <updated>2022-05-05T10:31:18.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS は Amazon Rekognition Streaming Video Events の一般提供開始を発表しました。本サービスは接続されたカメラから受信したライブの動画ストリーミングで、人、ペット、荷物などの対象を検出するために機械学習 (ML) を使用するカメラメーカーおよびサービスプロバイダー向けのフルマネージドサービスです。Amazon Rekognition Streaming Video Events は指定したオブジェクトがライブの動画ストリーミングで検出されるとすぐに、ユーザーに通知を送信します。このイベント通知機能を使用すると、サービスプロバイダーは「裏庭にペットがいます」などタイミングよく、有効なスマートアラートをユーザーに送信できます。また、人の動きが確認されたときに車庫の照明をつけるなどホームオートメーション、荷物に関する特定の動画イベントが何時間分もの記録をスクロールしないでも見つかるスマート検索などに活用することもできます。さらに、ドアの呼び鈴で宅配業者がパッケージを配達しているところが認識されたときに「荷物が表玄関に配達されました」など、Alexa の音声サポートと連動させるよう Echo デバイスにこれらのアラートを統合することも可能です。その一方で、コストとレイテンシーは低く抑えることができます。こちらより Amazon Rekognition Streaming Video Events についてさらに詳しくご覧いただけます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -2191,16 +2224,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-container-apps-builtin-authentication-microsoft-azure-container-apps/"/>
         <updated>2022-04-27T16:00:10.000Z</updated>
         <summary type="html"><![CDATA[Use configured identify providers to sign in to your container apps by writing little or no code.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Controls to block domain fronting behavior on customer resources]]></title>
-        <id>blocking-domain-fronting-behavior-on-azure-front-door-azure-front-door-classic-and-azure-cdn-standard-from-microsoft-classic</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/blocking-domain-fronting-behavior-on-azure-front-door-azure-front-door-classic-and-azure-cdn-standard-from-microsoft-classic/"/>
-        <updated>2022-04-25T17:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Block domain fronting behavior on Azure Front Door, Azure Front Door (classic), and Azure CDN Standard from Microsoft (classic) resources.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
