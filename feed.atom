@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-26T00:27:20.538Z</id>
+    <id>urn:2022-05-27T00:28:51.644Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-26T00:27:20.538Z</updated>
+    <updated>2022-05-27T00:28:51.644Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Transit Gateway Network Manager のマルチアカウントサポートを発表]]></title>
+        <id>9dac65c0a47c36add1f76a394738c337862b23a2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/multi-account-support-aws-transit-gateway-network-manager/"/>
+        <updated>2022-05-26T19:33:41.000Z</updated>
+        <summary type="html"><![CDATA[AWS Transit Gateway Network Manager が、AWS Organizations を使用して作成された、組織内の複数の AWS アカウントにわたるグローバルネットワークの集中管理とモニタリングをサポートするようになりました。この機能により、Network Manager は、単一の統合された運用ダッシュボード上で AWS アカウント全体の大規模なグローバルネットワークを管理する運用の複雑さを軽減します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Personalize が、レコメンダーのオフラインモデルメトリクスのサポートを開始]]></title>
+        <id>a7f98bf6320d4aebf70ae80ed9724816e0ba1fb1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-personalize-supports-offline-model-metrics-recommenders/"/>
+        <updated>2022-05-26T19:32:51.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Personalize が、レコメンダーにオフラインモデルメトリクスを提供し、レコメンデーションの品質を評価できるようになりました。レコメンダーとは、小売業の「よく一緒に購入されている商品」やメディアやエンターテインメントの「厳選情報」など、特定のユースケース向けに最適化されたレコメンデーションを提供するリソースです。オフラインメトリクスは、レコメンダーを作成するときに Amazon Personalize が生成するメトリクスです。オフラインメトリクスを使用すると、レコメンダーの基礎となるモデルのパフォーマンスを分析できます。また、オフラインメトリクスを使用すると、モデルを同じデータでトレーニングされた他のモデルと比較することも可能です。提供されるメトリクスには、カバレッジ、平均相互ランク、正規化された割引累積ゲイン (NDCG)、精度などがあります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 つの新しいストレージロケーションが AWS DataSync で利用可能に]]></title>
+        <id>413b29e28086f9e3c714aa83fb594f81f0ae0ed0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-data-sync-two-new-storage-locations/"/>
+        <updated>2022-05-26T19:32:03.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS DataSync の 2 つの追加ストレージロケーションの一般提供開始を発表いたします。これは、AWS クラウドとの間でデータを簡単に同期できるオンラインデータ移動サービスです。このリリースでは、サポートされるストレージロケーションの数が 10 から 12 に拡張され、オンプレミス、エッジ、その他のクラウドストレージサービスに渡っています。DataSync を使用すると、さまざまなストレージロケーション間でデータにすばやく安全にアクセスし、AWS に移動して、ワークフロー、処理、データ保持のニーズをサポートし、より多くのロケーション間でデータを共有および交換できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS AppSync が、汎用リアルタイム Pub/Sub API をデプロイするための新しく簡略化されたコンソールエクスペリエンスを導入]]></title>
+        <id>5956cd5579b4def7b0929573259e4a9e15741d97</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-appsync-simplified-console-real-time-pub-sub-apis/"/>
+        <updated>2022-05-26T19:31:12.000Z</updated>
+        <summary type="html"><![CDATA[AWS AppSync は、デベロッパーがリアルタイムデータに基づいてデジタルエクスペリエンスを構築できるようにするフルマネージドサービスです。AppSync を使用すると、サブスクライブされたクライアントにリアルタイムのデータ更新をプッシュして公開するようにデータソースを簡単に構成できます。AppSync は、接続管理、スケーラビリティ、ファンアウト、およびブロードキャストを処理し、複雑なインフラストラクチャを管理する代わりに、アプリケーションのビジネスニーズに集中できるようにします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Comprehend が、米国、英国、カナダ、インドの 14 の新しい PII エンティティタイプを検出して編集]]></title>
+        <id>174e1f1bfda71c530a31e724b4387ef1d5eec121</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-comprehend-detects-redacts-pll-entity-types-across-us-uk-canada-india/"/>
+        <updated>2022-05-26T19:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Comprehend は、機械学習 (ML) を使用して、構造化されていないテキスト内の人、場所、感情、トピックなどのインサイトや関係を見つける自然言語処理 (NLP) サービスです。Amazon Comprehend の機械学習機能を使って、顧客の E メール、サポートチケット、製品レビュー、ソーシャルメディアなどに含まれる個人を特定できる情報 (PII) を検出し、リダクションできます。例えば、サポートチケットやナレッジ記事を分析して PII エンティティを検出し、検索ソリューションにドキュメントをインデックスする前にテキストをリダクションすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudFront が、CloudFront-Viewer-TLS-header で TLS バージョンと暗号スイートの提供を開始]]></title>
+        <id>b334280d5e9f805b94b223eeab8557986051f750</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-cloudfront-tls-version-cipher-suite-viewer-header/"/>
+        <updated>2022-05-26T19:16:11.000Z</updated>
+        <summary type="html"><![CDATA[CloudFront が、オリジンリクエストポリシーで使用するために CloudFront-Viewer-TLS ヘッダーを提供するようになりました。CloudFront-Viewer-TLSは、ビューアのTLS接続のネゴシエーションに使用されるTLSバージョンと暗号スイートを含む HTTP ヘッダーです。従来は、TLS 情報は、以前のリクエストを分析するために CloudFront アクセスログで利用可能でした。これで、各 HTTP リクエストの TLS バージョンと暗号スイートにアクセスして、古い TLS バージョンでリクエストを制限するなどのリアルタイムの決定を行うことができるようになります。CloudFront-Viewer-TLS ヘッダー値は次の構文を使用します: <TLS version>:<Cipher Suite>例えば、TLSv1.2:ECDHE-RSA-AES128-SHA256 です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Enhanced IPv6 functionality for MultiValue profiles in Azure Traffic Manager]]></title>
+        <id>general-availability-enhanced-ipv6-functionality-for-multivalue-profiles-in-azure-traffic-manager</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-enhanced-ipv6-functionality-for-multivalue-profiles-in-azure-traffic-manager/"/>
+        <updated>2022-05-26T16:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Azure Traffic Manager now enables you to specify minimum children property separately for IPv4 and IPv6 endpoints for MultiValue profiles.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public preview: Automate scheduled emails of your saved cost views via API]]></title>
         <id>cost-management-scheduled-actions-api</id>
@@ -1042,7 +1112,7 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <title type="html"><![CDATA[Generally available: Industrial IoT Connectivity Partners integrate with Azure IoT Central]]></title>
         <id>iotc-iiot-frontdoor</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/iotc-iiot-frontdoor/"/>
-        <updated>2022-05-17T16:00:05.000Z</updated>
+        <updated>2022-05-17T16:00:04.000Z</updated>
         <summary type="html"><![CDATA[Industrial IoT starts with Azure IoT Central. Now you can leverage the expertise of Industrial IoT Connectivity Partners who are ready to connect your industrial assets in hours instead of weeks – no matter if it’s modern or legacy equipment.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -1609,26 +1679,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon RDS の使用メトリクスを AWS のサービスの制限に照らして監視します]]></title>
-        <id>bd34791b75d2c3c0525182cb179e01dda964638d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-monitor-rds-metrics-against-aws-service-limits/"/>
-        <updated>2022-05-09T19:49:57.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon Relational Database Service (Amazon RDS) は、Amazon CloudWatch に使用メトリクス を公開し、ユーザーがアカウント全体のサービスの制限に対する監視を行えるようになりました。このような利用状況を公開することで、運用状況を可視化し、ユーザーの利用状況を管理したり、使用メトリクスがサービスの制限に近づくとアラームを出したりすることができます。11種類のサービス制限メトリクスのサポートを追加しました。AllocatedStorage, DBInstances, DBClusters, DBSecurityGroups, ReservedDBInstances, DBClusterParameterGroups, DBParameterGroups, ManualSnapshots, ManualClusterSnapshots, DBSubnetGroups, OptionGroups です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS は EC2 キーペア用に新しい管理機能を追加]]></title>
-        <id>17a8badf9d1db69e2721412688491d69a1e04274</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-management-features-ec2-key-pairs/"/>
-        <updated>2022-05-09T19:49:09.000Z</updated>
-        <summary type="html"><![CDATA[本日より、AWS のユーザーは、EC2 キーペアを管理する追加機能へのアクセスを開始することができます。ユーザーは、EC2 キーペアを使用して作成された既存と新規のキーペアの作成日および公開キーの資料をご覧いただけます。ユーザーは pem フォーマットに加え、ppk フォーマットでも ED25519 キーペアを作成できるようになり、Cloud Formation テンプレートを使用してキーペアを作成することができるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[トランザクションのコミットレイテンシーを最大2倍短縮する新しい Amazon RDS マルチ-AZ オプションを(アジアパシフィック（シンガポール）)と(アジアパシフィック（シドニー）)リージョンで提供開始]]></title>
         <id>ca32942ba6b1a78c13f26885e4852c44703b683f</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-multi-az-2x-faster-transaction-commit-latency/"/>
@@ -1866,46 +1916,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <summary type="html"><![CDATA[With Azure Resource Health, diagnose and get support for service problems that affect Virtual Network NAT (NAT gateway).]]></summary>
         <author>
             <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Network Firewall で AWS Managed Threat Signatures のサポートを開始]]></title>
-        <id>20799cd045fff5fd9ee5acc5dfc298f459516154</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-network-firewall-threat-signatures/"/>
-        <updated>2022-05-05T10:32:59.000Z</updated>
-        <summary type="html"><![CDATA[AWS Network Firewall で AWS Managed Threat Signatures のサポートが始まりました。この機能は脅威を検出し、既知の脆弱性に対する攻撃を阻止します。これにより、独自のルールを書いたり保守したりすることなく最新のセキュリティの脅威に対し、常に防御を固めることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Polly が、ポルトガル語 (ブラジル) で新しいニューラル TTS 音声の提供を開始]]></title>
-        <id>54bb8f236d66147e208f19080e360f8073e2510d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-offers-new-neural-tts-voice-brazilian-portuguese/"/>
-        <updated>2022-05-05T10:32:11.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly のポルトガル語 (ブラジル) の女性の音声合成 (TTS) 音声である 「Vitória」のニューラルバージョンの一般提供が開始されました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS が Internet Protocol Version 6 (IPv6) をサポート]]></title>
-        <id>331fb0bc9a3bc64235ccd6412387c3e5f4df341d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-supports-ipv6/"/>
-        <updated>2022-05-04T13:17:48.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) において、お客様は新規および既存の RDS インスタンスの Virtual Private Cloud (VPC) で Internet Protocol version 6 (IPv6) アドレスを使用することも可能になりました。IPv6 に移行するお客様は、IPv4 と IPv6 のどちらもサポートするネットワークでデータベースを実行することにより、ネットワークスタックを簡素化できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect により、問い合わせ詳細ページに直接 Voice ID の属性を表示可能]]></title>
-        <id>5966c09689882ca11ad0d403c5b57591ed1bd07d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-surfaces-voice-id-attributes-on-contact-detail-page/"/>
-        <updated>2022-05-04T13:16:39.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect では、Voice ID の認証と不正検出の結果を問い合せ詳細ページで検索して表示することができるようになり、Voice ID の結果に基づくアクションが実行しやすくなりました。認証ステータス、発信者アクション (登録またはオプトアウト)、不正リスクステータス、不正リスク理由などの Voice ID 属性に基づいて問い合せ先を検索することができます。これら詳細は、特定の問い合せ先の問い合せ詳細ページからも確認することができます。例えば、詐欺のリスクが高いとされる問い合わせ先をすべて検索し、その通話録音を聞くことで詐欺師のパターンや戦略を特定し、それに対応したセキュリティ対策を追加でデプロイすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
