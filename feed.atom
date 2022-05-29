@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-28T00:28:56.719Z</id>
+    <id>urn:2022-05-29T00:26:56.591Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-28T00:28:56.719Z</updated>
+    <updated>2022-05-29T00:26:56.591Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2014,36 +2014,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <link href="https://azure.microsoft.com/ja-jp/updates/azure-machine-learning-reinforcement-learning-preview-will-be-retired-after-june-2022/"/>
         <updated>2022-04-30T00:00:24.000Z</updated>
         <summary type="html"><![CDATA[Start using Ray on Azure Machine Learning Library before 30 June 2022.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Automated key rotation in Azure Key Vault]]></title>
-        <id>automated-key-rotation-in-azure-key-vault-is-now-available</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/automated-key-rotation-in-azure-key-vault-is-now-available/"/>
-        <updated>2022-04-29T04:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Key Vault now enables you to automatically rotate keys for encryption of your data.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Lab Services April 2022 update]]></title>
-        <id>public-preview-azure-lab-services-april-2022-update</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-lab-services-april-2022-update/"/>
-        <updated>2022-04-28T17:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Improve performance, reliability, and scalability for Azure Lab Services in the latest update.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Functions Linux Elastic Premium plan increased maximum scale-out limits]]></title>
-        <id>generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits/"/>
-        <updated>2022-04-28T15:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Maximum scale-out limits for Functions Linux Premium plans have been increased in a number of regions.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>

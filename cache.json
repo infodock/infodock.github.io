@@ -1014,36 +1014,6 @@
           "wordCount": 2079,
           "title": "Azure Machine Learning Reinforcement Learning preview will be retired on 30 June 2022",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-005285812a9f5b1a11ec999b5b517bd71f41cd54cda9f78cfa22f6df1a746c1c/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "automated-key-rotation-in-azure-key-vault-is-now-available",
-          "author": null,
-          "description": "Key Vault now enables you to automatically rotate keys for encryption of your data.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/automated-key-rotation-in-azure-key-vault-is-now-available/",
-          "publishedOn": "2022-04-29T04:00:11.000Z",
-          "wordCount": 1993,
-          "title": "Generally available: Automated key rotation in Azure Key Vault",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-005285812a9f5b1a11ec999b5b517bd71f41cd54cda9f78cfa22f6df1a746c1c/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "public-preview-azure-lab-services-april-2022-update",
-          "author": null,
-          "description": "Improve performance, reliability, and scalability for Azure Lab Services in the latest update.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-azure-lab-services-april-2022-update/",
-          "publishedOn": "2022-04-28T17:00:04.000Z",
-          "wordCount": 1957,
-          "title": "Public preview: Azure Lab Services April 2022 update",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-005285812a9f5b1a11ec999b5b517bd71f41cd54cda9f78cfa22f6df1a746c1c/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits",
-          "author": null,
-          "description": "Maximum scale-out limits for Functions Linux Premium plans have been increased in a number of regions.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits/",
-          "publishedOn": "2022-04-28T15:00:03.000Z",
-          "wordCount": 1935,
-          "title": "Generally available: Azure Functions Linux Elastic Premium plan increased maximum scale-out limits",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-005285812a9f5b1a11ec999b5b517bd71f41cd54cda9f78cfa22f6df1a746c1c/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
