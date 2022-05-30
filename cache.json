@@ -51,9 +51,9 @@
           "description": "Autoscaling allows you to define the minimum and maximum streaming units. Stream Analytics will automatically take care of dynamically optimizing the number of streaming units needed for your workload.",
           "link": "https://azure.microsoft.com/ja-jp/updates/asaautoscalejobs/",
           "publishedOn": "2022-05-25T05:00:12.000Z",
-          "wordCount": 1952,
+          "wordCount": null,
           "title": "Public preview: Autoscale Stream Analytics jobs",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-005285812a9f5b1a11ec999b5b517bd71f41cd54cda9f78cfa22f6df1a746c1c/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": null
         },
         {
           "id": "public-preview-azure-digital-twins-3d-scenes-studio",
@@ -1003,16 +1003,6 @@
           "publishedOn": "2022-05-02T15:00:04.000Z",
           "wordCount": 1971,
           "title": "Public preview: Azure Machine Learning announcements for April 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-005285812a9f5b1a11ec999b5b517bd71f41cd54cda9f78cfa22f6df1a746c1c/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "azure-machine-learning-reinforcement-learning-preview-will-be-retired-after-june-2022",
-          "author": null,
-          "description": "Start using Ray on Azure Machine Learning Library before 30 June 2022.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/azure-machine-learning-reinforcement-learning-preview-will-be-retired-after-june-2022/",
-          "publishedOn": "2022-04-30T00:00:24.000Z",
-          "wordCount": 2079,
-          "title": "Azure Machine Learning Reinforcement Learning preview will be retired on 30 June 2022",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-005285812a9f5b1a11ec999b5b517bd71f41cd54cda9f78cfa22f6df1a746c1c/images/shared/social/azure-icon-250x250.png"
         }
       ]

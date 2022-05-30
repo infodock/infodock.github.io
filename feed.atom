@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-29T00:26:56.591Z</id>
+    <id>urn:2022-05-30T00:33:33.791Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-29T00:26:56.591Z</updated>
+    <updated>2022-05-30T00:33:33.791Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2004,16 +2004,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-machine-learning-announcements-for-april-2022/"/>
         <updated>2022-05-02T15:00:04.000Z</updated>
         <summary type="html"><![CDATA[Compartmentalize access to data with identity passthrough and configure email notifications from Azure Learning.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Machine Learning Reinforcement Learning preview will be retired on 30 June 2022]]></title>
-        <id>azure-machine-learning-reinforcement-learning-preview-will-be-retired-after-june-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-machine-learning-reinforcement-learning-preview-will-be-retired-after-june-2022/"/>
-        <updated>2022-04-30T00:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Start using Ray on Azure Machine Learning Library before 30 June 2022.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
