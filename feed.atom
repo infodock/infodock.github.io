@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-31T00:27:45.482Z</id>
+    <id>urn:2022-06-01T00:30:55.218Z</id>
     <title>Info Dock</title>
-    <updated>2022-05-31T00:27:45.482Z</updated>
+    <updated>2022-06-01T00:30:55.218Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Panorama Appliance がインドと台湾で購入可能に]]></title>
+        <id>525680b0e1553bb3eb8ef4e75a0ba9171d499064</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-panorama-appliance-available-purchase-india-taiwan/"/>
+        <updated>2022-05-31T17:01:54.000Z</updated>
+        <summary type="html"><![CDATA[インドと台湾のユーザーは、AWS Elemental 発注書プロセスを通じて AWS Panorama Appliance を購入できるようになりました。発注書プロセスは一直線に整理された販売支援の発注形態であり、注文書を通して支払が可能な、企業の調達ワークフローにマッチする AWS コンソールによるものです。この拡張により、ユーザーは Panorama を AWS Elemental を通じて米国、カナダ、メキシコ、オーストラリア、ニュージーランド、シンガポール、マレーシア、英国、およびヨーロッパ連合の各国を含む 49 の国々で購入可能となりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Systems Manager が Session Manager を利用したリモートホストへのポートフォワーディングをサポート開始]]></title>
+        <id>2d856fbc53d5d3a6bfeb1f221e73816a3be9dea8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-systems-manager-support-port-forwarding-remote-hosts-using-session-manager/"/>
+        <updated>2022-05-31T17:01:04.000Z</updated>
+        <summary type="html"><![CDATA[AWS Systems Manager が Session Manager を利用したリモートホストへのポートフォワーディングをサポート開始しました。AWS Systems Manager は、AWS アプリケーションとリソースの運用ハブであり、ハイブリッドクラウド環境で安全なエンドツーエンドの管理ソリューションを提供します。Systems Manager の機能である Session Manager は、クラウド、オンプレミス、またはエッジデバイスの管理対象インスタンスへの安全なアクセスを、インバウンドポートをへの穴をあけることなく、Secure Shell (SSH) キーを管理することなく、また踏み台ホストを使用することなく、提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Switzerland North Availability Zones]]></title>
+        <id>generally-available-switzerland-north-availability-zones</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-switzerland-north-availability-zones/"/>
+        <updated>2022-05-31T16:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Three new zones provide you with options for additional resiliency and tolerance to infrastructure impact.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Genomics CLI v1.5.0 が Toil を使用した Common Workflow Language (CWL) のサポートを追加]]></title>
+        <id>bcc9410c5de19d2fcb5678b9811fee561eeb69af</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-genomics-cli-workflow-language-cwl-toil/"/>
+        <updated>2022-05-31T01:32:08.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Genomics CLI v1.5.0 で、Toil ワークフローエンジンを使用して Common Workflow Language (CWL) で記述されたワークフローのサポートが追加されたことをお知らせします。CWL に加えて、Amazon Genomics CLI は、Workflow Definition Language (WDL)、Nextflow、および Snakemake で記述されたワークフローをサポートし、ゲノムバリアントや単一セル RNAseq の共同呼び出しなどのさまざまなゲノミクスデータ分析を実行できるようにします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECS が Capacity Provider と Auto Scaling グループの統合を簡素化]]></title>
+        <id>ba4dbe3b42366e14681af9db9cf6c238a1dc1ea8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ecs-capacity-provider-integration-auto-scaling-groups/"/>
+        <updated>2022-05-31T01:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Container Services (Amazon ECS) は、ユーザーに代わって Amazon Elastic Compute Cloud (EC2) Auto Scaling グループ (ASG) のスケーリングを動的に管理する Cluster Auto Scaling (CAS) 機能を提供します。これにより、お客様はコンテナの実行に集中できます。Capacity Provider は、Amazon ECS クラスターを ASG にリンクするコンピューティングインターフェイスです。Capacity Providers では、コンテナ化されたワークロードをさまざまな種類のコンピューティングキャパシティで実行する方法について柔軟なルールを定義し、そのキャパシティのスケーリングを管理できます。Capacity Providers は、ECS でタスクとサービスを実行する可用性、スケーラビリティを改善し、コストを削減します。本日より、AWS Auto Scaling スケーリングプランに依拠するのではなく、ターゲット追跡スケーリングポリシーと直接統合することで、Capacity Provider と ASG 間の統合メカニズムを簡素化します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Budget alert supports action groups with common alert schema]]></title>
+        <id>generally-available-budget-alert-supports-action-groups-with-common-alert-schema-2</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-budget-alert-supports-action-groups-with-common-alert-schema-2/"/>
+        <updated>2022-05-30T16:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Azure cost management budget alert now supports action groups with common alert schema.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon ElastiCache が Memcached 1.6.12 のサポートを開始]]></title>
         <id>47462ed71e97ee3110783725d3a2c2bc2b8ac093</id>
@@ -1809,26 +1869,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Compute Optimizer が 4 つの新しい Trusted Advisor チェックを追加]]></title>
-        <id>1b6f60bf376fd6660f38fb93477cd5c167087d9e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-compute-optimizer-adds-trusted-advisor-checks/"/>
-        <updated>2022-05-09T19:47:34.000Z</updated>
-        <summary type="html"><![CDATA[AWS Trusted Advisor は、AWS Compute Optimizer から自動的に取り込まれる 4 つのチェックを追加します。AWS Trusted Advisor は、AWS のベストプラクティスに従う際に役立つレコメンデーションを提供します。Trusted Advisor は、チェックを使用してアカウントを評価し、セキュリティとパフォーマンスを改善し、コストを削減し、サービスクォータをモニタリングするための機会を明らかにします。現在、AWS Compute Optimizer のチェックは、ビジネス、エンタープライズ On-Ramp、およびエンタープライズの各サポートプランでご利用いただけます。新しいチェックは次のとおりです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Device Management Secure Tunneling が、ワンタイムトークンとトークンローテーション機能をサポートするようになり、リモート接続がより安全に]]></title>
-        <id>e689ac9bf23db52ef314472721bc460688ead760</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-iot-device-management-secure-tunneling-single-use-token-rotation-capabilities-remote-connections-secure/"/>
-        <updated>2022-05-09T19:46:45.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Secure Tunneling を使用すると、リモートサイトで制限されたファイアウォールの背後にデプロイされているデバイスにアクセスできます。トンネルが作成されると、クライアントアクセストークン (CAT) のペアが生成され、接続元デバイスと接続先デバイスが Secure Tunneling サービスに接続するために使用します。これまでは、トークンを保存して再利用できたため、悪意のある使用の影響を受けやすくなっていました。今後は、接続が成功すると、ワンタイムトークンが取り消されます。接続が切断されると、CAT をローカルデバイスに保存してトークンの再配信メソッドを確立する代わりに、RotateTunnelAccessToken API を呼び出して、新しい CAT のペアを接続元デバイスと接続先デバイスに配信し、事前定義されたトンネル期間中に元のデバイスとの接続を再開できます。再接続すると、Secure Tunneling を使用してリモートデバイスに安全にアクセスし、トラブルシューティングを続行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Generally available: Azure IoT Edge supports Debian Bullseye on ARM32v7]]></title>
         <id>azure-iot-edge-supports-debian-bullseye-arm32v7</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/azure-iot-edge-supports-debian-bullseye-arm32v7/"/>
@@ -1876,26 +1916,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <summary type="html"><![CDATA[Transition to using Bullseye to continue receiving patches.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS RoboMaker が AWS GovCloud (米国西部) リージョンで利用可能になりました]]></title>
-        <id>9c8c49fb733130f7ec1cc8dd52f1c4bef24e5e82</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-robomaker-govcloud-us-west/"/>
-        <updated>2022-05-06T11:34:25.000Z</updated>
-        <summary type="html"><![CDATA[ロボット工学アプリケーションを大規模に簡単にシミュレートできるサービスである AWS RoboMaker が、AWS GovCloud (米国西部) リージョンで利用できるようになりました。GovCloud リージョンでのサポートにより、米国の政府機関や請負業者は、特定の規制およびコンプライアンス要件に対応することで、AWS RoboMaker で機密性の高いシミュレーションワークロードを実行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for PostgreSQL が最大 30 倍の読み取り容量を実現するカスケードリードレプリカをサポート]]></title>
-        <id>e9739d61632895a6e483df3eb7630a36e95f73c5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-rds-postgresql-cascaded-read-replicas-30x-capacity/"/>
-        <updated>2022-05-06T11:32:47.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for PostgreSQL は、3 層のカスケードリードレプリカ (インスタンスあたり 5 つのレプリカ) を備え、ソースインスタンスあたり最大 155 のリードレプリカをサポートする PostgreSQL 14 のサポートを発表しました。シングル AZ またはマルチ AZ カスケードリードレプリカ DB インスタンスを同じリージョンに作成することも、別のリードレプリカインスタンスから任意のクロスリージョンに作成することもできるため、より堅牢な災害対策アーキテクチャを構築できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
