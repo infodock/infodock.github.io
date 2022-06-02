@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-01T00:30:55.218Z</id>
+    <id>urn:2022-06-02T00:34:18.666Z</id>
     <title>Info Dock</title>
-    <updated>2022-06-01T00:30:55.218Z</updated>
+    <updated>2022-06-02T00:34:18.667Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Azure NC A100 v4 virtual machines for AI]]></title>
+        <id>generally-available-azure-nc-a100-v4-virtual-machines-for-ai</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-nc-a100-v4-virtual-machines-for-ai/"/>
+        <updated>2022-06-01T17:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Perfect for a range of AI workloads, this new virtual machines series can give you a significant performance boost over our previous NC generation series.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Conversational language understanding]]></title>
+        <id>general-availability-conversational-language-understanding</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-conversational-language-understanding/"/>
+        <updated>2022-06-01T17:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Conversational language understanding includes multilingual transformer-based models as the underlying model architecture and results in significant accuracy improvements over its predecessor, LUIS.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Manage Azure Web Application Firewall policies in Azure Firewall Manager]]></title>
+        <id>public-preview-manage-azure-waf-policies-in-azure-firewall-manager</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-manage-azure-waf-policies-in-azure-firewall-manager/"/>
+        <updated>2022-06-01T16:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Azure Firewall Manager now supports the ability to manage Azure Web Application Firewall (WAF) policies for application delivery platforms, Application Gateway, and Azure Front Door, at scale within a centralized place.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Bastion IP based connection]]></title>
+        <id>general-availability-azure-bastion-ip-based-connection-connect-onpremises-resources-via-specified-ip-address</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-bastion-ip-based-connection-connect-onpremises-resources-via-specified-ip-address/"/>
+        <updated>2022-05-31T21:00:07.000Z</updated>
+        <summary type="html"><![CDATA[You can now use Azure Bastion to connect to on-premises resources over ExpressRoute and Site-to-Site VPN]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Panorama Appliance がインドと台湾で購入可能に]]></title>
         <id>525680b0e1553bb3eb8ef4e75a0ba9171d499064</id>
@@ -26,11 +66,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generally available: Switzerland North Availability Zones]]></title>
-        <id>generally-available-switzerland-north-availability-zones</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-switzerland-north-availability-zones/"/>
-        <updated>2022-05-31T16:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Three new zones provide you with options for additional resiliency and tolerance to infrastructure impact.]]></summary>
+        <title type="html"><![CDATA[General availability: New portal experience for Microsoft Artifact Registry]]></title>
+        <id>general-availability-new-portal-experience-for-microsoft-artifact-registry</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-new-portal-experience-for-microsoft-artifact-registry/"/>
+        <updated>2022-05-31T16:00:03.000Z</updated>
+        <summary type="html"><![CDATA[You can now browse for Microsoft artifacts and container images on the Microsoft Artifact Registry website.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -53,16 +93,6 @@
         <summary type="html"><![CDATA[Amazon Elastic Container Services (Amazon ECS) は、ユーザーに代わって Amazon Elastic Compute Cloud (EC2) Auto Scaling グループ (ASG) のスケーリングを動的に管理する Cluster Auto Scaling (CAS) 機能を提供します。これにより、お客様はコンテナの実行に集中できます。Capacity Provider は、Amazon ECS クラスターを ASG にリンクするコンピューティングインターフェイスです。Capacity Providers では、コンテナ化されたワークロードをさまざまな種類のコンピューティングキャパシティで実行する方法について柔軟なルールを定義し、そのキャパシティのスケーリングを管理できます。Capacity Providers は、ECS でタスクとサービスを実行する可用性、スケーラビリティを改善し、コストを削減します。本日より、AWS Auto Scaling スケーリングプランに依拠するのではなく、ターゲット追跡スケーリングポリシーと直接統合することで、Capacity Provider と ASG 間の統合メカニズムを簡素化します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Budget alert supports action groups with common alert schema]]></title>
-        <id>generally-available-budget-alert-supports-action-groups-with-common-alert-schema-2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-budget-alert-supports-action-groups-with-common-alert-schema-2/"/>
-        <updated>2022-05-30T16:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Azure cost management budget alert now supports action groups with common alert schema.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
         </author>
     </entry>
     <entry>
@@ -1332,7 +1362,7 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <title type="html"><![CDATA[Generally available: Industrial IoT Connectivity Partners integrate with Azure IoT Central]]></title>
         <id>iotc-iiot-frontdoor</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/iotc-iiot-frontdoor/"/>
-        <updated>2022-05-17T16:00:05.000Z</updated>
+        <updated>2022-05-17T16:00:04.000Z</updated>
         <summary type="html"><![CDATA[Industrial IoT starts with Azure IoT Central. Now you can leverage the expertise of Industrial IoT Connectivity Partners who are ready to connect your industrial assets in hours instead of weeks – no matter if it’s modern or legacy equipment.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -1964,66 +1994,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-event-grid-enables-user-authorization-to-create-partner-topics/"/>
         <updated>2022-05-03T16:00:21.000Z</updated>
         <summary type="html"><![CDATA[Gain a greater security stance by explicitly authorizing a partner to create partner topics or partner destinations in your Azure subscription.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Static Web Apps support for preview environments in Azure DevOps]]></title>
-        <id>public-preview-static-web-apps-support-for-preview-environments-in-azure-devops</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-static-web-apps-support-for-preview-environments-in-azure-devops/"/>
-        <updated>2022-05-02T20:56:48.000Z</updated>
-        <summary type="html"><![CDATA[You can now deploy Static Web Apps to staging environments using Azure DevOps.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Object replication on premium blob storage and rule limit increased]]></title>
-        <id>generally-available-object-replication-for-premium-block-blob-and-rule-limit-increase-to-1000-on-azure-blob-storage</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-object-replication-for-premium-block-blob-and-rule-limit-increase-to-1000-on-azure-blob-storage/"/>
-        <updated>2022-05-02T19:00:07.000Z</updated>
-        <summary type="html"><![CDATA[You can now replicate your block blobs to region of your choice with object replication for premium block blobs and rule limit is increased to 1000 containers per replication policy.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Video Analyzer (preview) will be retired on 30 November 2022]]></title>
-        <id>video-analyzer-retirement</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/video-analyzer-retirement/"/>
-        <updated>2022-05-02T16:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Azure Video Analyzer (preview) will be retired on 30 November 2022 – transition to either Dynamics Connected Spaces or Open Source solutions by that date]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Machine Learning announcements for March 2022]]></title>
-        <id>general-availability-azure-machine-learning-announcements-for-march-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-machine-learning-announcements-for-march-2022/"/>
-        <updated>2022-05-02T15:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Label data with text classification using machine learning assist.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Machine Learning announcements for March 2022]]></title>
-        <id>public-preview-azure-machine-learning-announcements-for-march-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-machine-learning-announcements-for-march-2022/"/>
-        <updated>2022-05-02T15:00:05.000Z</updated>
-        <summary type="html"><![CDATA[New features include multi-class, multi-label, and named entity recognition, search for Azure Machine Learning assets across multiple workspaces, and label with text named entity recognition.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Machine Learning announcements for April 2022]]></title>
-        <id>public-preview-azure-machine-learning-announcements-for-april-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-machine-learning-announcements-for-april-2022/"/>
-        <updated>2022-05-02T15:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Compartmentalize access to data with identity passthrough and configure email notifications from Azure Learning.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
