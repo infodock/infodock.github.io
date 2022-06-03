@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-02T00:34:18.666Z</id>
+    <id>urn:2022-06-03T00:22:42.891Z</id>
     <title>Info Dock</title>
-    <updated>2022-06-02T00:34:18.667Z</updated>
+    <updated>2022-06-03T00:22:42.891Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Azure Percept DK May (2205) software update]]></title>
+        <id>apdk2205update</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/apdk2205update/"/>
+        <updated>2022-06-02T19:00:39.000Z</updated>
+        <summary type="html"><![CDATA[The Azure Percept March update includes fixes related to security.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Storage optimized Azure VMs deliver higher performance for data analytics.]]></title>
+        <id>general-availability-storage-optimized-azure-vms-deliver-higher-performance-for-data-analytics-2</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-storage-optimized-azure-vms-deliver-higher-performance-for-data-analytics-2/"/>
+        <updated>2022-06-02T01:29:17.000Z</updated>
+        <summary type="html"><![CDATA[The new Lasv3 and Lsv3 VM series are well suited for high throughput and high IOPS workloads including big data applications, SQL and NoSQL databases, data intensive applications and more.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generally available: Azure NC A100 v4 virtual machines for AI]]></title>
         <id>generally-available-azure-nc-a100-v4-virtual-machines-for-ai</id>
@@ -1974,26 +1994,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <link href="https://azure.microsoft.com/ja-jp/updates/azure-resource-health-for-virtual-network-nat/"/>
         <updated>2022-05-05T17:00:52.000Z</updated>
         <summary type="html"><![CDATA[With Azure Resource Health, diagnose and get support for service problems that affect Virtual Network NAT (NAT gateway).]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Enhancements to Azure Web Application Firewall]]></title>
-        <id>generally-available-enhancements-to-azure-web-application-firewall</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-enhancements-to-azure-web-application-firewall/"/>
-        <updated>2022-05-03T17:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Latest updates and new enhancements available for Azure Web Application Firewall (WAF).]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Event Grid enables user authorization to create partner topics]]></title>
-        <id>public-preview-event-grid-enables-user-authorization-to-create-partner-topics</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-event-grid-enables-user-authorization-to-create-partner-topics/"/>
-        <updated>2022-05-03T16:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Gain a greater security stance by explicitly authorizing a partner to create partner topics or partner destinations in your Azure subscription.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>

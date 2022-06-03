@@ -6,6 +6,26 @@
       "siteUrl": "https://azure.microsoft.com/ja-jp/updates/",
       "articles": [
         {
+          "id": "apdk2205update",
+          "author": null,
+          "description": "The Azure Percept March update includes fixes related to security.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/apdk2205update/",
+          "publishedOn": "2022-06-02T19:00:39.000Z",
+          "wordCount": 1973,
+          "title": "Public preview: Azure Percept DK May (2205) software update",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-ec9f328435c6e6b37593447291a3df7dbe50f819e3dc667f1806c02267979b41/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "general-availability-storage-optimized-azure-vms-deliver-higher-performance-for-data-analytics-2",
+          "author": null,
+          "description": "The new Lasv3 and Lsv3 VM series are well suited for high throughput and high IOPS workloads including big data applications, SQL and NoSQL databases, data intensive applications and more.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-storage-optimized-azure-vms-deliver-higher-performance-for-data-analytics-2/",
+          "publishedOn": "2022-06-02T01:29:17.000Z",
+          "wordCount": 2071,
+          "title": "General availability: Storage optimized Azure VMs deliver higher performance for data analytics.",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-ec9f328435c6e6b37593447291a3df7dbe50f819e3dc667f1806c02267979b41/images/shared/social/azure-icon-250x250.png"
+        },
+        {
           "id": "generally-available-azure-nc-a100-v4-virtual-machines-for-ai",
           "author": null,
           "description": "Perfect for a range of AI workloads, this new virtual machines series can give you a significant performance boost over our previous NC generation series.",
@@ -31,7 +51,7 @@
           "description": "Azure Firewall Manager now supports the ability to manage Azure Web Application Firewall (WAF) policies for application delivery platforms, Application Gateway, and Azure Front Door, at scale within a centralized place.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-manage-azure-waf-policies-in-azure-firewall-manager/",
           "publishedOn": "2022-06-01T16:00:21.000Z",
-          "wordCount": 2050,
+          "wordCount": 2049,
           "title": "Public preview: Manage Azure Web Application Firewall policies in Azure Firewall Manager",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-ec9f328435c6e6b37593447291a3df7dbe50f819e3dc667f1806c02267979b41/images/shared/social/azure-icon-250x250.png"
         },
@@ -974,26 +994,6 @@
           "wordCount": 2093,
           "title": "General availability: Virtual Network NAT health checks available via Resource Health",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-ec9f328435c6e6b37593447291a3df7dbe50f819e3dc667f1806c02267979b41/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "generally-available-enhancements-to-azure-web-application-firewall",
-          "author": null,
-          "description": "Latest updates and new enhancements available for Azure Web Application Firewall (WAF).",
-          "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-enhancements-to-azure-web-application-firewall/",
-          "publishedOn": "2022-05-03T17:00:21.000Z",
-          "wordCount": 2160,
-          "title": "Generally available: Enhancements to Azure Web Application Firewall",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-ec9f328435c6e6b37593447291a3df7dbe50f819e3dc667f1806c02267979b41/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "public-preview-event-grid-enables-user-authorization-to-create-partner-topics",
-          "author": null,
-          "description": "Gain a greater security stance by explicitly authorizing a partner to create partner topics or partner destinations in your Azure subscription.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-event-grid-enables-user-authorization-to-create-partner-topics/",
-          "publishedOn": "2022-05-03T16:00:21.000Z",
-          "wordCount": 2007,
-          "title": "Public preview: Event Grid enables user authorization to create partner topics",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-ec9f328435c6e6b37593447291a3df7dbe50f819e3dc667f1806c02267979b41/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
@@ -1568,7 +1568,7 @@
           "description": "Amazon CloudWatch のコンソールエクスペリエンスの機能強化が発表されました。ダッシュボードデータの可視化とコンソールのナビゲーションが改善されました。この改善には、ダッシュボードの新しいウィジェットと、使用頻度の高いダッシュボード、ロググループ、アラームにアクセスするオプションが含まれます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-cloudwatch-announces-improved-console-experience/",
           "publishedOn": "2022-05-19T02:31:14.000Z",
-          "wordCount": 221,
+          "wordCount": 224,
           "title": "Amazon CloudWatch のコンソールエクスペリエンスが改善",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
