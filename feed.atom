@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-04T00:28:26.200Z</id>
+    <id>urn:2022-06-05T00:32:42.297Z</id>
     <title>Info Dock</title>
-    <updated>2022-06-04T00:28:26.200Z</updated>
+    <updated>2022-06-05T00:32:42.298Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1974,26 +1974,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <link href="https://azure.microsoft.com/ja-jp/updates/update-rpios-stretch-to-latest/"/>
         <updated>2022-05-06T16:00:07.000Z</updated>
         <summary type="html"><![CDATA[Transition to using Bullseye to continue receiving patches.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Control the minimum TLS version used with Azure Service Bus]]></title>
-        <id>policy-to-control-the-minimum-tls-version-used-with-azure-service-bus-now-in-public-preview</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/policy-to-control-the-minimum-tls-version-used-with-azure-service-bus-now-in-public-preview/"/>
-        <updated>2022-05-05T19:00:53.000Z</updated>
-        <summary type="html"><![CDATA[To enforce stricter security measures, you can now configure your Service Bus namespace to require that clients send and receive data with a minimum version of TLS.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Virtual Network NAT health checks available via Resource Health]]></title>
-        <id>azure-resource-health-for-virtual-network-nat</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-resource-health-for-virtual-network-nat/"/>
-        <updated>2022-05-05T17:00:52.000Z</updated>
-        <summary type="html"><![CDATA[With Azure Resource Health, diagnose and get support for service problems that affect Virtual Network NAT (NAT gateway).]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>

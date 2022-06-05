@@ -974,26 +974,6 @@
           "wordCount": 2011,
           "title": "Update your IoT Edge devices on Raspberry Pi OS Stretch",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb5443ab35b328d20b6c835813079def8cd3da9a890879dda93dc409416ac89b/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "policy-to-control-the-minimum-tls-version-used-with-azure-service-bus-now-in-public-preview",
-          "author": null,
-          "description": "To enforce stricter security measures, you can now configure your Service Bus namespace to require that clients send and receive data with a minimum version of TLS.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/policy-to-control-the-minimum-tls-version-used-with-azure-service-bus-now-in-public-preview/",
-          "publishedOn": "2022-05-05T19:00:53.000Z",
-          "wordCount": 2080,
-          "title": "Public preview: Control the minimum TLS version used with Azure Service Bus",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb5443ab35b328d20b6c835813079def8cd3da9a890879dda93dc409416ac89b/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "azure-resource-health-for-virtual-network-nat",
-          "author": null,
-          "description": "With Azure Resource Health, diagnose and get support for service problems that affect Virtual Network NAT (NAT gateway).",
-          "link": "https://azure.microsoft.com/ja-jp/updates/azure-resource-health-for-virtual-network-nat/",
-          "publishedOn": "2022-05-05T17:00:52.000Z",
-          "wordCount": 2093,
-          "title": "General availability: Virtual Network NAT health checks available via Resource Health",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb5443ab35b328d20b6c835813079def8cd3da9a890879dda93dc409416ac89b/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
