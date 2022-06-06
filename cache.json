@@ -954,26 +954,6 @@
           "wordCount": 2041,
           "title": "Public preview: Azure Virtual Machines DCsv3 in Australia, Japan, US, and Asia",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb5443ab35b328d20b6c835813079def8cd3da9a890879dda93dc409416ac89b/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "transition-to-azure-monitor-log-alerts-for-vm-guest-health-by-30-november-2022",
-          "author": null,
-          "description": "Transition to Azure Monitor log alerts for VM guest health by 30 November 2022.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/transition-to-azure-monitor-log-alerts-for-vm-guest-health-by-30-november-2022/",
-          "publishedOn": "2022-05-06T16:00:08.000Z",
-          "wordCount": 2079,
-          "title": "Azure VM insights guest health (preview) will be retired on 30 November 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb5443ab35b328d20b6c835813079def8cd3da9a890879dda93dc409416ac89b/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "update-rpios-stretch-to-latest",
-          "author": null,
-          "description": "Transition to using Bullseye to continue receiving patches.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/update-rpios-stretch-to-latest/",
-          "publishedOn": "2022-05-06T16:00:07.000Z",
-          "wordCount": 2011,
-          "title": "Update your IoT Edge devices on Raspberry Pi OS Stretch",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-eb5443ab35b328d20b6c835813079def8cd3da9a890879dda93dc409416ac89b/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
