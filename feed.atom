@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-14T00:34:21.908Z</id>
+    <id>urn:2022-06-15T00:31:06.932Z</id>
     <title>Info Dock</title>
-    <updated>2022-06-14T00:34:21.908Z</updated>
+    <updated>2022-06-15T00:31:06.932Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for SQL Server が SQL Server 2014 SP3 CU4 のサポートを開始]]></title>
+        <id>19bd7ce1aef1552a03ca429b37826a673618c785</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-2014-sp3-cu4-su/"/>
+        <updated>2022-06-14T21:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft SQL Server の新しいマイナーバージョンが Amazon Relational Database Service (Amazon RDS) for SQL Server で利用可能になり、パフォーマンスとセキュリティの修正が提供されます。Amazon RDS for SQL Server は Express、Web、Standard、Enterprise Edition において、Microsoft SQL Server 2014 の新しいマイナーバージョンをサポートするようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler で数回クリックするだけでデータをトレーニングセットとテストセットに分割することが可能に]]></title>
+        <id>8ead4e6ddce201eee21121af4a9670427633c1f1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/split-data-train-test-sets-amazon-sagemaker-data-wrangler/"/>
+        <updated>2022-06-14T21:33:50.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon SageMaker Data Wrangler でデータをトレーニングスプリットとテストスプリットに分割する機能の一般提供の開始を発表します。Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴量エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。SageMaker Data Wrangler のデータ選択ツールを使用すると、Amazon S3、Amazon Athena、Amazon Redshift、AWS Lake Formation、Snowflake、および Databricks Delta Lake などの複数のデータソースからデータをすばやく選択できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler で利用できるようになったエクスポート機能により、これまでにない速度で Amazon SageMaker Feature Store に特徴量をエクスポート]]></title>
+        <id>5853e5036c0fb36295b59419273d2c319330eda5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/export-features-amazon-sagemaker-functionality-data-wrangler/"/>
+        <updated>2022-06-14T21:33:01.000Z</updated>
+        <summary type="html"><![CDATA[本日から、Amazon SageMaker Data Wrangler で利用できるようになったエクスポート機能により、これまでにない速度で Amazon SageMaker Feature Store に特徴量をエクスポートできるようになりました。Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。SageMaker Data Wrangler のデータ選択ツールを使用すると、Amazon S3、Amazon Athena、Amazon Redshift、AWS Lake Formation、Amazon SageMaker Feature Store、および Snowflake などの複数のデータソースからデータをすばやく選択できます。Amazon SageMaker Feature Store は、機械学習 (ML) の特徴量を保存、更新、取得、共有するためのフルマネージド型の専用リポジトリです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK が AWS GovCloud (米国) でライブ文字起こしのサポートを開始]]></title>
+        <id>47d44fe87c8ae473d791bc267c9e34fe9fc399e3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-live-transcription-aws-govcloud-us/"/>
+        <updated>2022-06-14T21:01:05.000Z</updated>
+        <summary type="html"><![CDATA[デベロッパーは AWS GovCloud (米国) リージョンで、Amazon Chime SDK のライブ文字起こしを使用して、ライブ音声の文字起こしができるようになりました。Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。AWS GovCloud (米国) により、米国政府関連機関や業者は、特定の規制およびコンプライアンス要件に対処しつつ、コミュニケーションワークロードをクラウドに移行できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon R6id インスタンスのご紹介]]></title>
+        <id>ccbccb1c52a6feac491c5b22d6d1aba12ea64b1c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/"/>
+        <updated>2022-06-14T20:46:12.000Z</updated>
+        <summary type="html"><![CDATA[AWS から、新たにメモリが最適化された Amazon EC2 R6id インスタンスの一般向けの提供を開始したことをお知らせいたします。R6id インスタンスは、3.5 GHz のオールコアターボ周波数を備えた第 3 世代インテル Xeon スケーラブル Ice Lake プロセッサと、最大 7.6 TB のローカル NVMe ベースの SSD ブロックレベルストレージを搭載しており、R5d インスタンスより最大 15% 優れたコストパフォーマンスを提供します。さらに R6id インスタンスは、vCPU あたりの TB ストレージが最大 58% 高く、TB あたりのコストは 34% 削減されており、Intel Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を備えています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Service Catalog がインドネシア (ジャカルタ) で利用可能に]]></title>
+        <id>9c5fbeafcf31a6cc583798a81b1a70d5b296d15f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-service-catalog-now-available-jakarta-indonesia/"/>
+        <updated>2022-06-14T20:31:07.000Z</updated>
+        <summary type="html"><![CDATA[インドネシア (ジャカルタ) の AWS リージョンのお客様に、AWS Service Catalog をご利用いただけるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Data Explorer connector for Power Automate, Logic Apps, and Power Apps]]></title>
+        <id>power-platform-connector-ga</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/power-platform-connector-ga/"/>
+        <updated>2022-06-14T19:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Automate alerts, orchestrate business workflows and build low-code apps with Azure Data Explorer connector for Power Automate, Logic Apps, and Power Apps.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public preview: Private link support in Azure Application Gateway]]></title>
         <id>public-preview-private-link-support-for-application-gateway</id>
@@ -89,8 +159,8 @@
         <title type="html"><![CDATA[Amazon Neptune が Python 統合でグラフ分析および機械学習ワークフローを簡素化]]></title>
         <id>11248c5e9ec0000c3df5ced7feca03db84fe086d</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-neptune-simplifies-graph-analytics-machine-learning-workflows-python-integration/"/>
-        <updated>2022-06-09T18:21:22.000Z</updated>
-        <summary type="html"><![CDATA[データサイエンスと機械学習ワークフローを簡素化するオープンソースの Python 統合を使用して、Amazon Neptune に保存されているグラフデータに対してグラフ分析と機械学習タスクを実行できるようになりました。この統合により、ローカルの Jupyter Notebook インスタンス、Amazon SageMaker Studio、AWS Lambda、または他のコンピューティングリソースなど、任意の Python 環境で Pandas DataFrames を使用して Neptune に保存されたグラフデータを読み書きできます。そこから、iGraph、Network、cuGraph などのオープンソースライブラリを使用して、PageRank や Connected Components などのグラフアルゴリズムを実行できます。]]></summary>
+        <updated>2022-06-09T18:21:23.000Z</updated>
+        <summary type="html"><![CDATA[データサイエンスと機械学習ワークフローを簡素化するオープンソースの Python 統合を使用して、Amazon Neptune に保存されているグラフデータに対してグラフ分析と機械学習タスクを実行できるようになりました。この統合により、ローカルの Jupyter Notebook インスタンス、Amazon SageMaker Studio、AWS Lambda、または他のコンピューティングリソースなど、任意の Python 環境で Pandas DataFrames を使用して Neptune に保存されたグラフデータを読み書きできます。そこから、iGraph、NetworkX、cuGraph などのオープンソースライブラリを使用して、PageRank や Connected Components などのグラフアルゴリズムを実行できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1286,16 +1356,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon CloudFront が、CloudFront-Viewer-TLS-header で TLS バージョンと暗号スイートの提供を開始]]></title>
-        <id>b334280d5e9f805b94b223eeab8557986051f750</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-cloudfront-tls-version-cipher-suite-viewer-header/"/>
-        <updated>2022-05-26T19:16:12.000Z</updated>
-        <summary type="html"><![CDATA[CloudFront が、オリジンリクエストポリシーで使用するために CloudFront-Viewer-TLS ヘッダーを提供するようになりました。CloudFront-Viewer-TLSは、ビューアのTLS接続のネゴシエーションに使用されるTLSバージョンと暗号スイートを含む HTTP ヘッダーです。従来は、TLS 情報は、以前のリクエストを分析するために CloudFront アクセスログで利用可能でした。これで、各 HTTP リクエストの TLS バージョンと暗号スイートにアクセスして、古い TLS バージョンでリクエストを制限するなどのリアルタイムの決定を行うことができるようになります。CloudFront-Viewer-TLS ヘッダー値は次の構文を使用します: <TLS version>:<Cipher Suite>例えば、TLSv1.2:ECDHE-RSA-AES128-SHA256 です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[General availability: Enhanced IPv6 functionality for MultiValue profiles in Azure Traffic Manager]]></title>
         <id>general-availability-enhanced-ipv6-functionality-for-multivalue-profiles-in-azure-traffic-manager</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-enhanced-ipv6-functionality-for-multivalue-profiles-in-azure-traffic-manager/"/>
@@ -1333,16 +1393,6 @@
         <summary type="html"><![CDATA[You can connect Azure SQL to Azure Functions more easily with input and output bindings, now available in public preview for C#, JavaScript, and Python.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Graviton3 プロセッサを搭載した新しい Amazon EC2 C7g インスタンスを発表]]></title>
-        <id>2ac1cc349a729b3680bab6197166753be135fcb5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/"/>
-        <updated>2022-05-25T09:32:48.000Z</updated>
-        <summary type="html"><![CDATA[最新世代のコンピューティング最適化 Amazon EC2 C7g インスタンスの一般提供を開始しました。C7g インスタンスは、最新の AWS Graviton3 プロセッサを搭載した最初のインスタンスであり、アプリケーションサーバー、マイクロサービス、バッチ処理、Electronic Design Automation (EDA)、ゲーム、動画エンコーディング、科学モデリング、分散分析、ハイパフォーマンスコンピューティング (HPC)、CPU ベースの機械学習 (ML) 推論、広告配信などの幅広い適用のために、Graviton2 ベースの C6g インスタンスよりも最大 25% 優れたパフォーマンスを提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -1996,46 +2046,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <summary type="html"><![CDATA[Confidential computing DCsv3 and DCdsv3-series virtual machines (VMs) are generally available.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Control Tower が、予防ガードレールの同時操作をサポート]]></title>
-        <id>232e56eabbdc91a5c81a076280e868ad18e11d1a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-control-tower-supports-concurrent-operations-preventive-guardrails/"/>
-        <updated>2022-05-23T18:31:40.000Z</updated>
-        <summary type="html"><![CDATA[AWS Control Tower が、すべてのタイプのガードレール (予防および検知) の同時操作をサポートするようになりました。この新しいリリースにより、個々のガードレールの操作が完了するのを待つことなく、複数の予防ガードレールを有効にすることができるようになりました。AWS Control Tower は、セキュリティ、運用、およびコンプライアンスの体制を強化するためにデプロイできる、すぐに使用できる予防および検出ガードレールをお客様に提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 Auto Scaling が Predictive Scaling 予測をバックフィルするようになり、予測精度の迅速な検証が可能に]]></title>
-        <id>6daccb7a3f86d220199d5b25b352796b4994963c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-backfill-predictive-scaling-forecasts-accuracy-validate/"/>
-        <updated>2022-05-20T23:03:52.000Z</updated>
-        <summary type="html"><![CDATA[本日より、新しい予測スケーリングポリシーを作成すると、Amazon EC2 Auto Scaling は 14 日間を遡って過去の日付の容量予測を生成します。これにより、予測スケーリングが Auto Scaling グループをスケーリングしていたとすればどのようになっていたのかを確認できるようになります。これにより、予測スケーリングポリシーを作成した直後に、需要と容量の予測を実績値と比較することで、予測スケーリングポリシーがアプリケーションに関して正確であるかどうかを迅速に判断できます。これまでは、同じ比較のために十分な予測履歴を作成して、予測精度を判断するには、ポリシーを作成してから少なくとも数日待つ必要がありました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Kendra が Jira コネクタをリリースし、JIRA リポジトリでのドキュメント検索が可能に]]></title>
-        <id>3086fe565383474f011a5ea57b3001f458cc7bf7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-kendra-jira-enable-document-repository/"/>
-        <updated>2022-05-20T23:03:05.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。Amazon のお客様は、Amazon Kendra Jira Cloud コネクタを使用して、Atlassian Jira からのドキュメントにインデックスを付けることができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Systems Manager の Incident Manager がランブックオートメーションのサポートを拡張]]></title>
-        <id>5552057e2e4721bc12134be866d0843101fb03a1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-systems-manager-incident-manager-runbook-automation/"/>
-        <updated>2022-05-20T23:01:10.000Z</updated>
-        <summary type="html"><![CDATA[AWS Systems Manager の機能である Incident Manager は、インシデントの診断と解決を高速化するためのランブックオートメーションの拡張サポートを発表しました。AWS Systems Manager は、AWS アプリケーションとリソースのオペレーションハブであり、リアクティブプロセスを自動化して、運用上の問題を迅速に診断および修正するのに役立ちます。お客様は、オンコールエンジニアに対応を依頼する前に、容量不足になりそうな DynamoDB テーブルでオートスケーリングをオンにするなど、関連するリソースに対して修復アクションを自動的に実行するインシデントランブックを作成できるようになりました。お客様は、Incident Manager コンソールから直接追加のランブックを呼び出して、インシデントのより迅速な解決に役立てることもできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
