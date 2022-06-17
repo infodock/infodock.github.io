@@ -1124,66 +1124,6 @@
           "wordCount": 2028,
           "title": "Generally available: Easily manage your Azure IoT Central dashboards using a catalog",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-54545bce8b1e1cfb37a6c5131f8fddf99cc4e66b90077142135062bcf26c1758/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "public-preview-container-storage-interface-extensible-api-for-aks",
-          "author": null,
-          "description": "この API を使用して、AKS がサポートする CSI ドライバーの無効化と有効化ができるようになりました。",
-          "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-container-storage-interface-extensible-api-for-aks/",
-          "publishedOn": "2022-05-18T06:00:51.000Z",
-          "wordCount": 1935,
-          "title": "パブリック プレビュー:AKS 用の Container Storage Interface 拡張可能 API",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-54545bce8b1e1cfb37a6c5131f8fddf99cc4e66b90077142135062bcf26c1758/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "public-preview-aks-private-link-service-integration",
-          "author": null,
-          "description": "You can now have AKS take care of creating the Private Link Service association to the Kubernetes service identified by the frontend IP configuration of an internal Azure Load Balancer.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-aks-private-link-service-integration/",
-          "publishedOn": "2022-05-18T06:00:40.000Z",
-          "wordCount": 2026,
-          "title": "Public preview: AKS Private Link Service integration",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-54545bce8b1e1cfb37a6c5131f8fddf99cc4e66b90077142135062bcf26c1758/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "public-preview-key-management-system-integration",
-          "author": null,
-          "description": "You can now store secrets in BYOK encrypted etcd using Key Management System (KMS).",
-          "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-key-management-system-integration/",
-          "publishedOn": "2022-05-18T06:00:33.000Z",
-          "wordCount": 2026,
-          "title": "Public preview: Key Management System integration",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-54545bce8b1e1cfb37a6c5131f8fddf99cc4e66b90077142135062bcf26c1758/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "generally-available-open-service-mesh-extension-for-azure-arc",
-          "author": null,
-          "description": "You can now use a managed service mesh for Arc-enabled Kubernetes clusters.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-open-service-mesh-extension-for-azure-arc/",
-          "publishedOn": "2022-05-18T06:00:26.000Z",
-          "wordCount": 2026,
-          "title": "Generally available: Open Service Mesh extension for Azure Arc",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-54545bce8b1e1cfb37a6c5131f8fddf99cc4e66b90077142135062bcf26c1758/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "public-preview-hostprocess-containers",
-          "author": null,
-          "description": "コンテナーによって提供されるバージョン管理やデプロイ方法を維持したまま、ホスト アクセスが必要な管理操作や機能をパッケージ化して配布することができるようになりました。",
-          "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-hostprocess-containers/",
-          "publishedOn": "2022-05-18T06:00:15.000Z",
-          "wordCount": 1916,
-          "title": "パブリック プレビュー:HostProcess コンテナー",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-54545bce8b1e1cfb37a6c5131f8fddf99cc4e66b90077142135062bcf26c1758/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "iotc-iiot-frontdoor",
-          "author": null,
-          "description": "産業用 IoT は、Azure IoT Central から始まります。産業用 IoT 接続パートナーの専門知識を活用することで、最新の機器であってもレガシ機器であっても、数週間ではなく数時間でお客様の産業用資産を接続する準備ができます。",
-          "link": "https://azure.microsoft.com/ja-jp/updates/iotc-iiot-frontdoor/",
-          "publishedOn": "2022-05-17T16:00:05.000Z",
-          "wordCount": 1941,
-          "title": "一般提供:産業用 IoT 接続パートナーが Azure IoT Central と統合",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-54545bce8b1e1cfb37a6c5131f8fddf99cc4e66b90077142135062bcf26c1758/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
@@ -1935,10 +1875,10 @@
         {
           "id": "525680b0e1553bb3eb8ef4e75a0ba9171d499064",
           "author": "aws@amazon.com",
-          "description": "インドと台湾のユーザーは、AWS Elemental 発注書プロセスを通じて AWS Panorama Appliance を購入できるようになりました。発注書プロセスは一直線に整理された販売支援の発注形態であり、注文書を通して支払が可能な、企業の調達ワークフローにマッチする AWS コンソールによるものです。この拡張により、ユーザーは Panorama を AWS Elemental を通じて米国、カナダ、メキシコ、オーストラリア、ニュージーランド、シンガポール、マレーシア、英国、およびヨーロッパ連合の各国を含む 49 の国々で購入可能となりました。",
+          "description": "インドと台湾のお客様が、AWS Elemental 発注書プロセスを通じて AWS Panorama Appliance を購入できるようになりました。このプロセスでは、AWS コンソールから発注を行ったときに、営業の支援により企業の調達ワークフローと連携して発注書を通した支払いが可能になるよう合理化されています。この拡張により、ユーザーは Panorama を AWS Elemental を通じて米国、カナダ、メキシコ、オーストラリア、ニュージーランド、シンガポール、マレーシア、英国、およびヨーロッパ連合の各国を含む 49 の国々で購入可能となりました。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-panorama-appliance-available-purchase-india-taiwan/",
           "publishedOn": "2022-05-31T17:01:54.000Z",
-          "wordCount": 294,
+          "wordCount": 293,
           "title": "AWS Panorama Appliance がインドと台湾で購入可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-16T00:27:26.640Z</id>
+    <id>urn:2022-06-17T00:23:13.666Z</id>
     <title>Info Dock</title>
-    <updated>2022-06-16T00:27:26.640Z</updated>
+    <updated>2022-06-17T00:23:13.666Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1170,7 +1170,7 @@
         <id>525680b0e1553bb3eb8ef4e75a0ba9171d499064</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-panorama-appliance-available-purchase-india-taiwan/"/>
         <updated>2022-05-31T17:01:54.000Z</updated>
-        <summary type="html"><![CDATA[インドと台湾のユーザーは、AWS Elemental 発注書プロセスを通じて AWS Panorama Appliance を購入できるようになりました。発注書プロセスは一直線に整理された販売支援の発注形態であり、注文書を通して支払が可能な、企業の調達ワークフローにマッチする AWS コンソールによるものです。この拡張により、ユーザーは Panorama を AWS Elemental を通じて米国、カナダ、メキシコ、オーストラリア、ニュージーランド、シンガポール、マレーシア、英国、およびヨーロッパ連合の各国を含む 49 の国々で購入可能となりました。]]></summary>
+        <summary type="html"><![CDATA[インドと台湾のお客様が、AWS Elemental 発注書プロセスを通じて AWS Panorama Appliance を購入できるようになりました。このプロセスでは、AWS コンソールから発注を行ったときに、営業の支援により企業の調達ワークフローと連携して発注書を通した支払いが可能になるよう合理化されています。この拡張により、ユーザーは Panorama を AWS Elemental を通じて米国、カナダ、メキシコ、オーストラリア、ニュージーランド、シンガポール、マレーシア、英国、およびヨーロッパ連合の各国を含む 49 の国々で購入可能となりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -2124,66 +2124,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <link href="https://azure.microsoft.com/ja-jp/updates/iotc-dashboards-catalog/"/>
         <updated>2022-05-19T19:00:11.000Z</updated>
         <summary type="html"><![CDATA[The new dashboard catalog feature in Azure IoT Central allows for easier search, management, and navigation of dashboards.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:AKS 用の Container Storage Interface 拡張可能 API]]></title>
-        <id>public-preview-container-storage-interface-extensible-api-for-aks</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-container-storage-interface-extensible-api-for-aks/"/>
-        <updated>2022-05-18T06:00:51.000Z</updated>
-        <summary type="html"><![CDATA[この API を使用して、AKS がサポートする CSI ドライバーの無効化と有効化ができるようになりました。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: AKS Private Link Service integration]]></title>
-        <id>public-preview-aks-private-link-service-integration</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-aks-private-link-service-integration/"/>
-        <updated>2022-05-18T06:00:40.000Z</updated>
-        <summary type="html"><![CDATA[You can now have AKS take care of creating the Private Link Service association to the Kubernetes service identified by the frontend IP configuration of an internal Azure Load Balancer.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Key Management System integration]]></title>
-        <id>public-preview-key-management-system-integration</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-key-management-system-integration/"/>
-        <updated>2022-05-18T06:00:33.000Z</updated>
-        <summary type="html"><![CDATA[You can now store secrets in BYOK encrypted etcd using Key Management System (KMS).]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Open Service Mesh extension for Azure Arc]]></title>
-        <id>generally-available-open-service-mesh-extension-for-azure-arc</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-open-service-mesh-extension-for-azure-arc/"/>
-        <updated>2022-05-18T06:00:26.000Z</updated>
-        <summary type="html"><![CDATA[You can now use a managed service mesh for Arc-enabled Kubernetes clusters.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:HostProcess コンテナー]]></title>
-        <id>public-preview-hostprocess-containers</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-hostprocess-containers/"/>
-        <updated>2022-05-18T06:00:15.000Z</updated>
-        <summary type="html"><![CDATA[コンテナーによって提供されるバージョン管理やデプロイ方法を維持したまま、ホスト アクセスが必要な管理操作や機能をパッケージ化して配布することができるようになりました。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:産業用 IoT 接続パートナーが Azure IoT Central と統合]]></title>
-        <id>iotc-iiot-frontdoor</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-iiot-frontdoor/"/>
-        <updated>2022-05-17T16:00:05.000Z</updated>
-        <summary type="html"><![CDATA[産業用 IoT は、Azure IoT Central から始まります。産業用 IoT 接続パートナーの専門知識を活用することで、最新の機器であってもレガシ機器であっても、数週間ではなく数時間でお客様の産業用資産を接続する準備ができます。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
