@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-17T00:23:13.666Z</id>
+    <id>urn:2022-06-18T00:30:04.664Z</id>
     <title>Info Dock</title>
-    <updated>2022-06-17T00:23:13.666Z</updated>
+    <updated>2022-06-18T00:30:04.664Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -136,11 +136,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: Private link support in Azure Application Gateway]]></title>
+        <title type="html"><![CDATA[パブリック プレビュー:Azure Application Gateway でのプライベート リンクのサポート]]></title>
         <id>public-preview-private-link-support-for-application-gateway</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-private-link-support-for-application-gateway/"/>
         <updated>2022-06-13T19:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Learn how private link support for Application Gateway drives more secured network access.]]></summary>
+        <summary type="html"><![CDATA[Application Gateway でのプライベート リンクのサポートにより、より安全なネットワーク アクセスを実現する方法をご確認ください。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -386,11 +386,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: Microsoft Graph API integration with Azure Event Grid]]></title>
+        <title type="html"><![CDATA[パブリック プレビュー:Microsoft Graph API と Azure Event Grid の統合]]></title>
         <id>public-preview-microsoft-graph-api-integration-with-azure-event-grid</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-microsoft-graph-api-integration-with-azure-event-grid/"/>
         <updated>2022-06-08T16:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Use the Event Grid Microsoft Graph API integration to subscribe to events from Azure AD, Outlook, and more.]]></summary>
+        <summary type="html"><![CDATA[Event Grid Microsoft Graph API 統合により、Azure AD や Outlook などからイベントをサブスクライブできます。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -406,11 +406,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generally available: API Management reusable policy fragments]]></title>
+        <title type="html"><![CDATA[一般提供:API Management の再利用可能なポリシー フラグメント]]></title>
         <id>generally-available-api-management-reusable-policy-fragments</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-api-management-reusable-policy-fragments/"/>
         <updated>2022-06-08T16:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Organize policy components into reusable modules that can be inserted into any policy document.]]></summary>
+        <summary type="html"><![CDATA[ポリシーのコンポーネントを再利用可能なモジュールに整理し、任意のポリシー ドキュメントに挿入することができます。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -640,7 +640,7 @@
         <id>9bf28b4d2678aae44e9336a1cd9ce3f0a1aed1b6</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-backup-adds-privatelink-vmware-workloads/"/>
         <updated>2022-06-06T19:18:37.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup は VMware ワークロード向け AWS PrivateLink のサポートの提供を開始しました。これにより、仮想プライベートネットワーク内のプライベートエンドポイントを介して、スケーラブルに VMware 環境から AWS Backup に直接アクセスできるようになりました。このリリースにより、Amazon Virtual Private Cloud (VPC) のプライベート IP アドレスを使用して AWS Backup に接続することで、ネットワークアーキテクチャをセキュアにできます。これにより、パブリック IP、ファイアウォールルール、またはインターネットゲートウェイを使用する必要がなくなります。AWS PrivateLink は、処理されるデータに対しては GB あたりの低料金でで、インターフェイス VPC エンドポイントに対しては時間単位の低料金でご利用いただけます。詳細については、AWS PrivateLink の料金を参照してください。]]></summary>
+        <summary type="html"><![CDATA[AWS Backup は VMware ワークロード向け AWS PrivateLink のサポートの提供を開始しました。これにより、仮想プライベートネットワーク内のプライベートエンドポイントを介して、スケーラブルに VMware 環境から AWS Backup に直接アクセスできるようになりました。このリリースにより、Amazon Virtual Private Cloud (VPC) のプライベート IP アドレスを使用して AWS Backup に接続することで、ネットワークアーキテクチャをセキュアにできます。これにより、パブリック IP、ファイアウォールルール、またはインターネットゲートウェイを使用する必要がなくなります。AWS PrivateLink は、処理したデータの GB 数と、インターフェイス VPC エンドポイントを使用した時間単位で、低料金でご利用いただけます。詳細については、AWS PrivateLink の料金を参照してください。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -786,11 +786,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Braket が、量子アドバンテージを提供すると主張しいる、初めて公的にアクセス可能となった量子コンピューターである Borealis のサポートを追加]]></title>
+        <title type="html"><![CDATA[Amazon Braket が、一般に公開されている量子コンピュータで初めて量子優位性を達成したとされる Borealis のサポートを追加]]></title>
         <id>a09b5b1b1fa446aacf760b0f0e5a99cc5b82af85</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-braket-adds-support-borealis/"/>
         <updated>2022-06-06T03:31:49.000Z</updated>
-        <summary type="html"><![CDATA[AWS の量子コンピューティングサービスである Amazon Braket が、Xanadu の新しいフォトニック量子処理ユニット (QPU) である Borealis のサポートを追加しました。Borealis デバイスは、量子アドバンテージを達成したと主張している最初の公的に利用可能な量子コンピューターです。Nature 誌に掲載されたピアレビュー済みの研究で、量子コンピューターが明確なタスクで世界最速のスーパーコンピューターを上回ったときの技術的なマイルストーンです。これまで、量子アドバンテージを実証したと主張しているデバイスはどれもまだ一般に公開されていませんでしたが、お客様は初めて、このテクノロジーの潜在的なアプリケーションを探索しながら、Amazon Braket で量子アドバンテージの主張をテストすることができます。]]></summary>
+        <summary type="html"><![CDATA[AWS の量子コンピューティングサービスである Amazon Braket が、Xanadu の新しいフォトニック量子処理ユニット (QPU) である Borealis のサポートを追加しました。Borealis デバイスは、Nature 誌に掲載されたピアレビュー済みの研究において、明確に定義されたタスクで量子コンピュータが世界最速のスーパーコンピュータを上回るという技術的マイルストーンである量子優位性を達成したと主張している、初の一般に公開されている量子コンピュータです。これまで、量子優位性を実証したと主張しているデバイスはどれもまだ一般に公開されていませんでしたが、お客様は初めて、Amazon Braket で量子優位性の主張を検証しながら、この技術の潜在的な応用方法を探索できます。これまで、量子優位性を実証したと主張しているデバイスはどれもまだ一般に公開されていませんでしたが、お客様は初めて、Amazon Braket で量子優位性の主張を検証しながら、この技術の潜在的な応用方法を探索できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -899,7 +899,7 @@
         <title type="html"><![CDATA[SUSE Linux Enterprise Server (SLES) OS を搭載した Amazon EC2 インスタンスの価格を引き下げ]]></title>
         <id>764e5d69b19d9f9a854afd4f6b468521eeee129c</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/price-reductions-amazon-ec2-instances-suse-linux-enterprise-server-sles-os/"/>
-        <updated>2022-06-03T16:32:59.000Z</updated>
+        <updated>2022-06-03T16:33:00.000Z</updated>
         <summary type="html"><![CDATA[SLES を実行する Amazon EC2インスタンスについて、以下の通り料金を引き下げましたのでお知らせいたします。Amazon EC2 上で SLES を実行する場合、Amazon EC2 インフラストラクチャと SUSE OS の合計料金 1 件が課金されます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
@@ -940,7 +940,7 @@
         <id>8149db37629dcdd3b8b18c79f2f3c682ad76667b</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/athena-connector-amazon-lookout-metrics/"/>
         <updated>2022-06-03T02:35:50.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lookout for Metrics から、Athena コネクタがリリースされました。これは、AWS のデータレイク、Amazon S3、Amazon Redshift などの各種データソースからデータをクエリし、そのデータを異常検出のために取り込むことを可能にする、Amazon Lookout for Metrics の新たなコネクタです。Athena コネクタにより、複雑な ETL ジョブの設定と、異常検出のためにデータを準備する時間が削減されます。お客様は、標準SQL を使用して大量のデータセットにクエリしょ、その結果を、異常検出に入力する手前で分析することができます。Athena コネクタは、CSV、JSON、ORC (Optimized Row Columnar)、Parquet、XML、プレインテキスト、および AVRO の各形式のデータをサポートします。]]></summary>
+        <summary type="html"><![CDATA[Amazon Lookout for Metrics から、Athena コネクタがリリースされました。これは、AWS のデータレイク、Amazon S3、Amazon Redshift などの各種データソースからデータをクエリし、そのデータを異常検出のために取り込むことを可能にする、Amazon Lookout for Metrics の新たなコネクタです。Athena コネクタにより、複雑な ETL ジョブの設定と、異常検出のためにデータを準備する時間が削減されます。お客様は、標準 SQL を使用して大量のデータセットに対してクエリを実行し、その結果を、異常検出に入力する手前で分析することができます。Athena コネクタは、CSV、JSON、ORC (Optimized Row Columnar)、Parquet、XML、プレインテキスト、および AVRO の各形式のデータをサポートします。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1086,7 +1086,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Connect で、わずか数クリックで大量のアウトバウンドコミュニケーションを開始できるようになりました (パブリックプレビュー) 。]]></title>
+        <title type="html"><![CDATA[Amazon Connect で、わずか数クリックで大量のアウトバウンドコミュニケーションを開始可能に (パブリックプレビュー)]]></title>
         <id>dd45d65865d78ce77f144d2ae641db79ee13d949</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-allows-high-volume-outbound-communications-public-preview-clicks/"/>
         <updated>2022-06-03T00:16:42.000Z</updated>
@@ -1180,7 +1180,7 @@
         <id>2d856fbc53d5d3a6bfeb1f221e73816a3be9dea8</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-systems-manager-support-port-forwarding-remote-hosts-using-session-manager/"/>
         <updated>2022-05-31T17:01:04.000Z</updated>
-        <summary type="html"><![CDATA[AWS Systems Manager が Session Manager を利用したリモートホストへのポートフォワーディングをサポート開始しました。AWS Systems Manager は、AWS アプリケーションとリソースの運用ハブであり、ハイブリッドクラウド環境で安全なエンドツーエンドの管理ソリューションを提供します。Systems Manager の機能である Session Manager は、クラウド、オンプレミス、またはエッジデバイスの管理対象インスタンスへの安全なアクセスを、インバウンドポートをへの穴をあけることなく、Secure Shell (SSH) キーを管理することなく、また踏み台ホストを使用することなく、提供します。]]></summary>
+        <summary type="html"><![CDATA[AWS Systems Manager が Session Manager を利用したリモートホストへのポートフォワーディングをサポート開始しました。AWS Systems Manager は、AWS アプリケーションとリソースの運用ハブであり、ハイブリッドクラウド環境で安全なエンドツーエンドの管理ソリューションを提供します。Systems Manager の機能である Session Manager は、受信ポートを開いたり、Secure Shell (SSH) キーを管理したり、また踏み台ホストを使用したりすることなく、クラウド、オンプレミス、またはエッジデバイスの管理対象インスタンスへの安全なアクセスを提供します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
