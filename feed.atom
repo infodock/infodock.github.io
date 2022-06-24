@@ -1,10 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-23T00:23:02.015Z</id>
+    <id>urn:2022-06-24T00:28:21.997Z</id>
     <title>Info Dock</title>
-    <updated>2022-06-23T00:23:02.015Z</updated>
+    <updated>2022-06-24T00:28:21.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect で通話、テキスト、E メールのアウトバウンドキャンペーンを一般提供]]></title>
+        <id>a453b23092a0609b31f468a7b98ffbb70f45fa9c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-general-availability-outbound-campaigns-calls-texts-emails/"/>
+        <updated>2022-06-23T18:32:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect のアウトバウンドキャンペーンでは、毎日数百万人もの顧客に連絡を取るための組み込み型でコスト効率に優れた方法を組織に提供します。サードパーティーツールを統合することなく、配信通知、マーケティングプロモーション、予定のリマインダー、債権回収などの通信を行えます。アウトバウンドキャンペーン (以前は High-Volume アウトバウンド通信と呼ばれていた) を利用すると、音声、SMS、E メールでの積極的なコミュニケーションにより、お客様に迅速にサービスを提供し、エージェントの生産性を向上させることができます。また、新しいコミュニケーション機能には、架電時のチェックや通話の制御 (時刻、タイムゾーン、連絡先ごとの試行回数、利用可能なエージェントへの接続に必要な時間) により、TCPA などの現地の規制遵守をサポートする機能が含まれています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DynamoDB で Service Quotas との統合強化を発表]]></title>
+        <id>d4a07d9ffb2be2fdb0485df6d79c480f55d3401a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/enhanced-integration-service-quotas-amazon-dynamodb/"/>
+        <updated>2022-06-23T18:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DynamoDB では、Service Quotas との統合が強化され、ユーザーがアカウントとテーブルのクォータを事前対応的に管理できるようになりました。Service Quotas を使用し、すべての DynamoDB のクォータに対して現在の値を確認できます。また、アカウントレベルで現在のクォータの使用率をモニタリングできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Canvas が VPC エンドポイントへの対応を発表]]></title>
+        <id>63dd976100cb8d3cc630ba24932bf1d4ee75d899</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-vpc-endpoints/"/>
+        <updated>2022-06-23T18:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Canvas で VPC エンドポイントのサポートが開始され、他の AWS のサービスとの安全でプライベートな接続が可能になりました。SageMaker Canvas は、コードの記述や機械学習の知識を必要とせずに、ビジネスアナリストが情報収集や予測のための正確な ML モデルを自分で作成できる視覚型のポイントアンドクリックサービスです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure SQL—Public preview updates for late June 2022]]></title>
+        <id>azure-sql-public-preview-updates-for-late-june-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-public-preview-updates-for-late-june-2022/"/>
+        <updated>2022-06-23T16:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Public preview updates made in late June 2022 for Azure SQL.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure SQL—Generally available updates for late June 2022]]></title>
+        <id>azure-sql-generally-available-updates-for-late-june-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-generally-available-updates-for-late-june-2022/"/>
+        <updated>2022-06-23T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Generally available updates made in late June 2022 for Azure SQL.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler で PySpark と Altair のコードスニペットを使用してデータの準備と可視化をスピードアップ]]></title>
+        <id>ffb09dcf096951016f7fa8d11418cde4edce62b0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-pyspark-altair-code-snippets-data-faster/"/>
+        <updated>2022-06-23T15:32:02.000Z</updated>
+        <summary type="html"><![CDATA[本日より、Amazon SageMaker Data Wrangler でコードスニペットのサポートが開始され、PySpark と Altair を使ってデータの準備と可視化をより速く簡単に行えるようになりました。Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴量エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。SageMaker Data Wrangler のデータ選択ツールを使用すると、Amazon S3、Amazon Athena、Amazon Redshift、AWS Lake Formation、Amazon SageMaker Feature Store、Databricks、Snowflake などの複数のデータソースからデータをすばやく選択できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Service Catalog の Application Registry がクロスアカウントのアプリケーションに対応]]></title>
+        <id>1b6d077469489a6abd0226e9ac049ba9b1fc71c6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-service-catalogs-application-registry-cross-account-applications/"/>
+        <updated>2022-06-23T15:31:14.000Z</updated>
+        <summary type="html"><![CDATA[本日 AWS Service Catalog は、AppRegistry のクロスアカウントのアプリケーションと属性グループのサポートを発表しました。本リリースで、アプリケーションは AWS Organization 対応の受信者アカウント内で共有されるようになり、共有されたアプリケーションにはローカルリソースが関連付けられるようになりました。AWS Organization 内の複数のアカウントでデプロイされたアプリケーションリソースをお持ちの場合は、アプリケーションやアプリケーションメタデータの単一のリポジトリを維持できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon AppFlow がソースとして新たに Facebook 広告、Google 広告、Mixpanel をサポート]]></title>
+        <id>3e1399fadbdd51571933f6a9c575421baa21b82b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-appflow-supports-facebook-google-ads-mixpanel-sources/"/>
+        <updated>2022-06-23T15:16:52.000Z</updated>
+        <summary type="html"><![CDATA[AWS のサービスと Software-as-a-Service (SaaS) アプリケーション間でのデータ転送を、わずか数クリックで安全に行えるフルマネージド型の統合サービスである Amazon AppFlow は、ソースとして Facebook 広告、Google 広告、Mixpanel のサポートを開始しました。本リリースで、AppFlow のお客様は、充実したマーケティング分析データと製品分析データをこれらのソースから取り込めるようになりました。取り込んだ後のデータは、AppFlow が接続されたマーケティングアプリケーション (例: Marketo、Salesforce Marketing Cloud) やウェブ分析アプリケーション (例: Google Analytics) といったアプリケーションからのデータと組み合わせることで、統合し、強化し、分析することができます。また、このように AppFlow が接続されたアプリケーションの数は増え続けています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Quicksight がピボットテーブルでのフィールドの表示/非表示に対応]]></title>
+        <id>d2ea1b269f9c03674edd0c1b1c4a360fa296b616</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-quicksight-supports-show-hide-fields-pivot-table/"/>
+        <updated>2022-06-23T15:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight で、ピボットテーブルビジュアルのフィールドウェルコンテキストメニューから、作成者が任意の列、行、値フィールドの表示/非表示を切り替えられるようになりました。この機能は現在テーブルビジュアルでサポートされているもので、今回のローンチでピボットテーブルビジュアルに拡張されます。今後、読者や作成者は、コンテキストメニューでテーブルとピボットテーブルの両方から、CSV や Excel 形式でデータをエクスポートできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Key Vault secrets provider on Azure Arc enabled Kubernetes]]></title>
+        <id>general-availability-akv-provider-arc-kubernetes</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-akv-provider-arc-kubernetes/"/>
+        <updated>2022-06-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enable fetching secrets from an Azure Key Vault directly into the workload running on an Arc connected Kubernetes cluster.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight Q Embedding SDK がプログラムによる質問送信のサポートを開始]]></title>
+        <id>31e5d28d35756db3c8abcc8abf2df91c497b80c8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-quicksight-q-embedding-sdk-programmatic-question-submission/"/>
+        <updated>2022-06-23T14:46:21.000Z</updated>
+        <summary type="html"><![CDATA[QuickSight Q では、埋め込みモードで使用する場合に、ユーザーに入力を求めずに、質問全体を入力として受け取ることができるようになりました。この新しい機能により、デベロッパーはウェブアプリケーションの適切な場所にウィジェットとして質問を作成することができます。これにより、ユーザーはユーザージャーニーの現在の環境内で、データについて質問する機能を簡単に見つけることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新しい AWS 請求ページの使用環境を発表]]></title>
+        <id>ce08829ac286e7b8c14e7684d7c08d3ece682f0c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-bills-page-experience/"/>
+        <updated>2022-06-23T14:03:39.000Z</updated>
+        <summary type="html"><![CDATA[本日より、AWS 請求ページに再設計されたユーザー環境が実装され、AWS での支出をさらに把握しやすくなりました。請求ページでは、AWS 料金の概要や重要な詳細情報を確認することができます。今回の再設計では、ユーザーインターフェイスが一新され、削減額と税金のビューが新しくなり、並べ替えとフィルタリングの機能が強化されました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 D3 インスタンスが AWS カナダ (中部) リージョンで利用可能に]]></title>
+        <id>7d4ce86fa6f385d92c742ef850b35bf65fd18c2c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-d3-instances-aws-canada-central-region/"/>
+        <updated>2022-06-23T14:02:48.000Z</updated>
+        <summary type="html"><![CDATA[本日より、最新世代の高密度 HDD ストレージインスタンスである Amazon EC2 D3 インスタンスが、AWS カナダ (中部) リージョンで利用可能になります。D3 インスタンスは、最大 3.1 GHz の全コア周波数を維持する第 2 世代 Intel Xeon スケーラブルプロセッサ (Cascade Lake) を搭載しています。D3 インスタンスは、D2 インスタンスと比較して最大 2.5 倍のネットワーク速度と、45% 高いディスクスループットを実現します。これらのインスタンスは、分散/クラスター化されたファイルシステム、ビッグデータと分析、大容量のデータレイクなどのワークロードに最適です。D3 インスタンスを使用すれば、前世代の D2 インスタンスまたはオンプレミスインフラストラクチャから、高密度 HDD ストレージワークロード用に最適化されたプラットフォームに簡単に移行できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Lex 自動チャットボットデザイナーの一般提供が開始]]></title>
+        <id>b815d1991aa5a9ca9966692f13b5813c8fa5e28a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-lex-automated-chatbox-designer-available/"/>
+        <updated>2022-06-23T14:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Lex 自動チャットボットデザイナーの一般提供を開始しました。デベロッパーは本機能を利用することで、会話のトランスクリプトからチャットボットを数週間もかけずに数時間で自動的に設計できるようになります。2021 年 12 月の re:Invent で発表された自動チャットボットデザイナーは、会話設計を自動化し、デベロッパーの労力を最小限に抑え、チャットボットの設計にかかる時間を短縮します。これにより、Amazon Lex をより使いやすいものにします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect Cases のプレビュー版が利用可能に]]></title>
+        <id>0df67ec76b6877c6f5f9a50c657048c9ef96f104</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-cases-preview/"/>
+        <updated>2022-06-23T14:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect Cases は、組み込み型のケース管理機能を提供し、複数のお客様との会話やフォローアップタスクを必要とするお客様の問題を、コンタクトセンターのエージェントが簡単に作成、コラボレーション、迅速な解決を行えるようにします。カスタムアプリケーションを構築したり、サードパーティー製品と統合したりする必要はありません。Cases を使用すると、エージェントはお客様のケースに関連するすべてのアクティビティを、統一されたタイムラインビューで確認できます。それには複数のエージェントに割り当てて追跡できる個々のタスクも含まれます。また、ケース情報を使用して、セルフサービス IVR やチャットボットインタラクションでお客様の質問に答えることもできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon EC2 C6gn インスタンスをご利用いただけるリージョンが増加]]></title>
         <id>7619fc26a30a6d49ba8f3c9a549ea76bd7772049</id>
@@ -790,7 +940,7 @@
         <id>f2b04ebb8be7e38f75a9d2df4822463db1818e12</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-mainframe-modernization-generally-available/"/>
         <updated>2022-06-10T00:05:14.000Z</updated>
-        <summary type="html"><![CDATA[2021 年 11 月の re:Invent で発表された AWS Mainframe Modernization が、お客様とパートナーへ一般提供できるようになりました。Mainframe Modernization は独自のプラットフォームで、AWS 上で管理された高可用性ランタイム環境へ、オンプレミスのメインフレームワークロードを移行してモダナイズすることを可能にします。サービスは現在、リプラットフォームと自動リファクタリングの 2 つの主要な移行パターンをサポートしており、移行評価の結果に基づいて、最適な移行パスと関連するツールチェーンを選択できます。]]></summary>
+        <summary type="html"><![CDATA[2021 年 11 月の re:Invent で発表された AWS Mainframe Modernization が、お客様とパートナーへ一般提供できるようになりました。Mainframe Modernization は、オンプレミスのメインフレームワークロードを AWS の可用性が高いマネージドなランタイム環境に移行してモダナイズできる唯一のプラットフォームです。サービスは現在、リプラットフォームと自動リファクタリングの 2 つの主要な移行パターンをサポートしており、移行評価の結果に基づいて、最適な移行パスと関連するツールチェーンを選択できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1426,16 +1576,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon EMR Serverless が一般公開されました]]></title>
-        <id>a5f652657a0fe71da8d855b94c959e6b29ee8c6d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-emr-serverless-generally-available/"/>
-        <updated>2022-06-03T16:38:40.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR の新しいサーバーレスデプロイオプションである Amazon EMR Serverlessが一般提供されたことをお知らせします。これにより、データエンジニアやアナリストは、ペタバイト規模のデータ分析をクラウド上で簡単かつ低コストで実行できるようになります。Amazon EMR は、Apache Spark、Apache Hive、Presto などのオープンソース解析フレームワークをベースにした、大規模な分散データ処理ジョブ、インタラクティブ SQL クエリ、機械学習 (ML) アプリケーションを実行できるビッグデータソリューションです。EMR Serverlessでは、クラスターを構成、最適化、チューニング、管理することなく Spark および Hive のアプリケーションを実行することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon CloudWatch が Elemental MediaTailor を Vended Logs の料金に追加]]></title>
         <id>5cfe39d14bb714b358996e0126b7ebc69d7c6612</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-cloudwatch-elemental-mediatailor-vended-logs-pricing/"/>
@@ -1526,121 +1666,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon EBS で、io2 Block Express 向けの Elastic Volumes および Fast Snapshot Restore (FSR) がサポートされるようになりました。]]></title>
-        <id>e7d3fb7fa178d0eceda9b8fe306598834bbec684</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ebs-elastic-volumes-snapshot-restore-fsr-io2-block-express/"/>
-        <updated>2022-06-03T02:33:57.000Z</updated>
-        <summary type="html"><![CDATA[今後は、Elastic Volumes を使用して、動的なキャパシティーの増加や io2 Block Express ボリュームのパフォーマンスの調整が行えるようになります。その際、ダウンタイムやパフォーマンスへの影響が発生することはなく、手法は他の EBS ボリュームと同様です。さらに、Fast Snapshot Restore (FSR) が有効化されたスナップショットから、完全に初期化済みの io2 Block Express ボリュームを作成することも可能になりました。FSR に対応したスナップショットから作成されたボリュームであれば、プロビジョニングされたパフォーマンスをすぐに発揮できます。これらの機能により、最高パフォーマンスの EBS ボリュームタイプ (io2 Block Express) が追加されることになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS DataSync に Amazon EFS のセキュリティ機能に関するサポートが追加されました]]></title>
-        <id>2c389d40374ebe817be17283b7e8aa5bfdb2b65c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-datasync-support-amazon-efs-security-features/"/>
-        <updated>2022-06-03T02:32:17.000Z</updated>
-        <summary type="html"><![CDATA[AWS DataSync に、Amazon Elastic File System (Amazon EFS) とデータをやり取りする際のセキュリティオプションが追加されました。AWS DataSync は、オンプレミス、エッジ、あるいはクラウドストレージと AWS ストレージサービス間でのデータの移動を簡素化、自動化、および高速化するオンラインデータ転送サービスです。Amazon EFS は、サーバーレスの完全に伸縮自在なファイルシステムで、AWS クラウドでのファイルストレージのセットアップ、スケーリング、およびコスト最適化を容易にします。今回 DataSync にリリースされた機能により、EFS アクセスポイントを使用してファイルシステムにアクセスしながら、特定のデータセットとの間で相互にデータをコピーできるようになります。TLS 暗号化を使用して DataSync を EFS ファイルシステムに接続するような設定も可能で、これにより、EFS との間でコピーするために移動中のデータに対する保護を、より強力なものにできます。さらに、定義した EFS ファイルシステムポリシーを使用する IAM ロールを、DataSync に適用する設定も可能で、DataSync のファイルシステムへのアクセス方法をより詳細に制御できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Well-Architected Tool から AWS re:Post コミュニティにアクセスする]]></title>
-        <id>07f339c075d735613d128ff2de5eca25126fbebf</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-community-well-architected-tool/"/>
-        <updated>2022-06-03T02:31:27.000Z</updated>
-        <summary type="html"><![CDATA[今回、AWS Well-Architected Tool に、AWS re:Post への直接アクセスの機能が追加されました。re:Post は、質問に対する回答が得られるコミュニティ主導のサービスで 、AWS のお客様は技術的な障害を解決することで、イノベーションの加速と運用の強化が図れます。AWS re:Post では、コミュニティ固有のものから AWS Well-Architected に関するものまで、40 件を超えるトピックが扱われています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Resource Access Manager が ISO と SOC に準拠]]></title>
-        <id>f643eb750a1bcdf42bbd46d01d35ce6c4bee7e32</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-resource-access-manager-iso-soc-compliance/"/>
-        <updated>2022-06-03T01:15:59.000Z</updated>
-        <summary type="html"><![CDATA[AWS Resource Access Manager (AWS RAM) は、Service Organization Control (SOC) コンプライアンスおよび国際標準化機構 (ISO) の ISO 9001、ISO 27001、ISO 27017、ISO 27018、ISO 27701 規格の対象ワークロードに使用できるようになりました。金融、ヘルスケア、その他の規制分野のお客様は、AWS Artifact の SOC レポート、AWS ISO、CSA STAR 証明書で確認できる、顧客データを保護するセキュリティプロセスやコントロールに関するインサイトを得ることができるようになりました。AWS がこれらの世界的に認知されている実務規範の規格に適合していること、およびこれらの実務規範に関して独立したサードパーティによる評価を受けることにより、お客様のコンテンツのプライバシーと保護に関する AWS の取り組みが実証されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 Dedicated Hosts、AWS Outposts で利用可能に]]></title>
-        <id>46d327a9e3a10728f7bc5e340f734b13500798ec</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-dedicated-hosts-available-aws-outposts/"/>
-        <updated>2022-06-03T00:26:50.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS Outposts での Amazon Elastic Compute Cloud (EC2) Dedicated Hosts のサポートが発表されました。このサポートにより、既存のソフトウェアライセンスと、専有の物理サーバーを必要とするワークロードを Outpost Racks で使用できるようになります。また、お客様は今後、インスタンスタイプのデプロイをより柔軟に実行できるほか、より細かな配置制御が可能になります。さらに、そのすべてで、AWS Outposts の一貫したハイブリッドエクスペリエンスをお楽しみいただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Elastic Disaster Recovery で複数のステージングアカウントおよびターゲットアカウントのサポートを開始]]></title>
         <id>6d4231194590236d4d589b5e5aad5da8a413a2fb</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-multiple-staging-target-accounts/"/>
         <updated>2022-06-03T00:23:41.000Z</updated>
         <summary type="html"><![CDATA[AWS Elastic Disaster Recovery (DRS) で複数のステージングアカウントとターゲットアカウントのサポートが追加されたことを発表します。現在、AWS リージョンあたり最大 300 台のソースサーバーをレプリケートおよび保護できます。また、複数のステージングアカウントとターゲットアカウントを使用することで、最大 3,000 台のレプリケートソースサーバーを任意のターゲット AWS アカウントに復旧できるようになりました。この機能により、ディザスタリカバリのセットアップ、実装、モニタリングがより簡単および効率的になります。特に、大規模プロジェクトではその効果が顕著になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IAM が WebAuthn と Safari ブラウザをサポートし、セキュリティキーによる多要素認証が可能になりました]]></title>
-        <id>819724a5748d2231246271f077f3087c4a79e176</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-iam-supports-webauthn-safari-browser-multi-factor-authentication-security-keys/"/>
-        <updated>2022-06-03T00:21:47.000Z</updated>
-        <summary type="html"><![CDATA[AWS Identity and Access Management (IAM) は、サポートされているすべてのブラウザ全体で、強力でフィッシングに強い認証のための Web Authentication (WebAuthn) 標準をサポートするようになりました。WebAuthn は、FIDO U2FAPI を継承する FIDO2 仕様の一部であり、パブリックキー暗号化に基づくセキュリティキーを用いた安全な多要素認証が可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS AppSync、拡張された GraphQL Utility Helper Library で GraphQL API 開発を簡素化]]></title>
-        <id>a67ddb5a945c97421b29b7c99b42ad043ede5332</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-appsync-simplifies-graphql-api-development-graphql-utility-helper-library/"/>
-        <updated>2022-06-03T00:20:57.000Z</updated>
-        <summary type="html"><![CDATA[AWS AppSync は、GraphQL および Real-time API の作成と管理を容易にするフルマネージドサービスです。これにより、デベロッパーは単一の API エンドポイントを介して 1 つ以上のデータソースからのデータに安全にアクセスしたり、そのようなデータを操作および結合したりすることが可能になります。GraphQL では、Amazon DynamoDB、AWS Lambda、HTTP API などのデータソースのデータと、GraphQL スキーマで定義された型、フィールド、操作をリンク、または「解決」するビジネスロジックを実装するために、リゾルバという特別な関数が使用されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect の大量のアウトバウンドコミュニケーション機能が、アジアパシフィック (シドニー) AWS リージョンのパブリックプレビューで利用可能に]]></title>
-        <id>089f942d81269ddec38bc0967121fa0ab18a8298</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-high-volume-outbound-communications-preview-sydney/"/>
-        <updated>2022-06-03T00:20:08.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect は、アジアパシフィック (シドニー) の AWS リージョンで大量のアウトバウンドコミュニケーションをサポートするようになり、配信通知、マーケティングプロモーション、予定のリマインダー、債権回収などのコミュニケーションを、毎日数百から数百万の顧客に簡単に連絡することができるようになりました。Amazon Connect の通話、テキスト、E メールによる大量のアウトバウンドコミュニケーションにより、組織はサードパーティツールを統合することなく、シンプルで埋め込み型のコスト効率の高い方法で、顧客に積極的に連絡することができます。Amazon Pinpoint が提供するオプションの統合リスト管理機能を使用して、カスタマージャーニーやマルチチャネルのユーザーエクスペリエンスを構築することも可能です。この起動により、オーストラリアおよびニュージーランドの顧客に対して、大量のアウトバウンドコールを行うことができるようになりました。この機能はすぐに利用でき、AWS コンソールで有効化できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Marketplace、SaaS 契約の無料トライアルを導入]]></title>
-        <id>fea87fe75b294069adcd32332c2e3a0a033263d4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-marketplace-free-trials-saas-contracts/"/>
-        <updated>2022-06-03T00:19:16.000Z</updated>
-        <summary type="html"><![CDATA[AWS Marketplace は、SaaS 契約のための無料トライアルを導入し、購入前に製品を試すことができるようになりました。これまでは、製品を試す前に契約を結ぶか、ソフトウェアベンダーが直接提供する無料トライアル用のサードパーティウェブサイトにアクセスする必要がありました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS は、AWS サービスとの対話のための Dart Signature V4 のサポートを発表しました。]]></title>
-        <id>91c55d5288947a581cefd6548d66682a0db108be</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-support-dart-signature-v4-interacting-services/"/>
-        <updated>2022-06-03T00:17:34.000Z</updated>
-        <summary type="html"><![CDATA[新しい Dart Signature V4 クライアントにより、デベロッパーは署名付き HTTP リクエストを使用して、200 以上のすべての AWS サービスと安全に統合することができます。この機能により、Dart デベロッパーは Flutter または Dart アプリケーションで AWS バックエンドにネイティブコールを行い、AWS サービスのデータや設定に変更を加えることができるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect で、わずか数クリックで大量のアウトバウンドコミュニケーションを開始可能に (パブリックプレビュー)]]></title>
-        <id>dd45d65865d78ce77f144d2ae641db79ee13d949</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-allows-high-volume-outbound-communications-public-preview-clicks/"/>
-        <updated>2022-06-03T00:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect では、わずか数回のクリックで大量のアウトバウンドコミュニケーションを開始できるようになり、この機能のテストを開始できるようになりました。Amazon Connect のナビゲーションパネルで、Telephony ページを選択し、「大量のアウトバウンドコミュニケーションを有効にする」のボックスにチェックを入れ、「保存」を選択します。数分で、この機能を使用する準備が整います。電話、テキスト、E メールによる大量のアウトバウンドコミュニケーションを使用すると、サードパーティのツールを統合することなく、配信通知、マーケティングプロモーション、予定のリマインダー、債権回収などのコミュニケーションを毎日数百から何百万もの顧客に連絡することができます。Amazon Pinpoint が提供するオプションの統合リスト管理機能を使用して、カスタマージャーニーやマルチチャネルのユーザーエクスペリエンスを構築することも可能です。この機能はすぐに利用でき、AWS Connect コンソールで有効化できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1771,626 +1801,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-javascript-and-python-support-in-azure-sql-bindings/"/>
         <updated>2022-05-25T16:00:19.000Z</updated>
         <summary type="html"><![CDATA[You can connect Azure SQL to Azure Functions more easily with input and output bindings, now available in public preview for C#, JavaScript, and Python.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Stream Analytics ジョブの自動スケーリング]]></title>
-        <id>asaautoscalejobs</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/asaautoscalejobs/"/>
-        <updated>2022-05-25T05:00:12.000Z</updated>
-        <summary type="html"><![CDATA[自動スケーリングでは、ストリーミングの最小および最大のストリーミング ユニットを定義することができます。Stream Analytics は、お客様のワークロードに必要なストリーミング ユニットの数を自動かつ動的に最適化します。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Azure Digital Twins 3D Scenes Studio]]></title>
-        <id>public-preview-azure-digital-twins-3d-scenes-studio</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-digital-twins-3d-scenes-studio/"/>
-        <updated>2022-05-24T19:26:30.000Z</updated>
-        <summary type="html"><![CDATA[3D Scenes Studio を使用すると、Web ブラウザーから簡単に使用できる、コンテキストに沿ったデータ視覚化による軽量な 3D 視覚化を構築することができます。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:Azure Backup での書き込みアクセラレータ対応ディスクのバックアップのサポート]]></title>
-        <id>wadiskbackup</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/wadiskbackup/"/>
-        <updated>2022-05-24T19:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Azure 仮想マシンのバックアップにより、書き込みアクセラレータ対応ディスクが保護されます]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT Hub の IP アドレス変更通知]]></title>
-        <id>iot-hub-ip-address-change-notification</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iot-hub-ip-address-change-notification/"/>
-        <updated>2022-05-24T19:00:05.000Z</updated>
-        <summary type="html"><![CDATA[IoT Hub では、基盤となるインフラストラクチャの更新が行われ、内部サービスの更新が行われる予定です。この更新により、IoT Hub の基盤となる DNS レコードが変更され、その結果、IP アドレスが変更されます。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:Stream Analytics のクエリ開発の機能強化]]></title>
-        <id>asaqueryimprovements</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/asaqueryimprovements/"/>
-        <updated>2022-05-24T17:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Azure portal での Stream Analytics クエリ開発エクスペリエンスの機能強化をご覧になり、生産性を向上させましょう。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Increased size of Stream Analytics jobs and cluster]]></title>
-        <id>asasizeincrease</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/asasizeincrease/"/>
-        <updated>2022-05-24T17:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Maximum size of a Stream Analytics job and a cluster is increased from 192 SUs to 396 SUs.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Stream Analytics no code editor]]></title>
-        <id>asanocodeeditor</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/asanocodeeditor/"/>
-        <updated>2022-05-24T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Stream Analytics no code editor provides a rich, no code, drag and drop experience for you to build you streaming pipeline within minutes.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: NGINX for Azure]]></title>
-        <id>public-preview-nginx-for-azure</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-nginx-for-azure/"/>
-        <updated>2022-05-24T16:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Natively integrate SaaS solution for advanced traffic management and monitoring on Azure.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In development: Dynatrace for Azure]]></title>
-        <id>in-development-dynatrace-for-azure</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/in-development-dynatrace-for-azure/"/>
-        <updated>2022-05-24T16:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Natively integrated SaaS solution that provides deep cloud observability, advanced AIOps, and continuous runtime application security capabilities on Azure.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Microsoft Purview Data Estate Insights]]></title>
-        <id>generally-available-microsoft-purview-data-estate-insights</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-microsoft-purview-data-estate-insights/"/>
-        <updated>2022-05-24T16:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Purview Data Estate Insights (in GA July 1, 2022) provides a bird's eye view of your data estate's health.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Microsoft Purview Data Policy for SQL dev ops roles]]></title>
-        <id>public-preview-microsoft-purview-data-policy-for-sql-dev-ops-roles</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-microsoft-purview-data-policy-for-sql-dev-ops-roles/"/>
-        <updated>2022-05-24T16:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Purview Data Policy enables policies for data access, now including SQL dev ops roles.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Applied AI Services enhancements]]></title>
-        <id>public-preview-azure-applied-ai-services-enhancements</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-applied-ai-services-enhancements/"/>
-        <updated>2022-05-24T16:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Enhancements in preview include Power Virtual Agents to enable sophisticated conversational flows; Azure Form Recognizer helps to streamline patient check-in and verification; Azure Metrics Advisor has simplified service customization.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Cognitive Services updates]]></title>
-        <id>public-preview-azure-cognitive-services-updates</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-cognitive-services-updates/"/>
-        <updated>2022-05-24T16:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Azure Cognitive Services is announcing the following preview updates at Build: Azure OpenAI Service and summarization capabilities in Azure Cognitive Service for Language.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Cognitive Service for Language]]></title>
-        <id>generally-available-azure-cognitive-service-for-language</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-cognitive-service-for-language/"/>
-        <updated>2022-05-24T16:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Cognitive Service for Language now includes custom named entity recognition and custom text classification.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Ledger in Azure SQL Database]]></title>
-        <id>generally-available-ledger-in-azure-sql-database</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-ledger-in-azure-sql-database/"/>
-        <updated>2022-05-24T16:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Enable proof that your database has not been tampered with and restore it back to the original value if needed by enabling ledger in Azure SQL Database.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Synapse Link for SQL]]></title>
-        <id>public-preview-azure-synapse-link-for-sql</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-synapse-link-for-sql/"/>
-        <updated>2022-05-24T16:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Synapse Link for SQL enables seamless near-real-time data movement from relational sources to analytical stores without the need to build ETL pipelines.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: New modern capabilities for Azure SQL Database]]></title>
-        <id>public-preview-new-modern-capabilities-for-azure-sql-database</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-new-modern-capabilities-for-azure-sql-database/"/>
-        <updated>2022-05-24T16:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Simplify and expedite application development and reduce time-to-market with new features for Azure SQL Database.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Machine Learning updates]]></title>
-        <id>public-preview-azure-machine-learning-updates</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-machine-learning-updates/"/>
-        <updated>2022-05-24T16:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Azure Machine Learning now offers a Responsible AI dashboard and scorecard as well as additional enhancements in preview.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Machine Learning managed endpoints and Command Line Interface v2]]></title>
-        <id>generally-available-azure-machine-learning-managed-endpoints-and-command-line-interface-v2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-machine-learning-managed-endpoints-and-command-line-interface-v2/"/>
-        <updated>2022-05-24T16:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Deploy your machine learning models in a turnkey manner across powerful GPU and GPU machines. CLI v2 now also generally available.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:Azure Database for MySQL - フレキシブル サーバー Business Critical サービス レベル]]></title>
-        <id>general-availability-azure-database-for-mysql-flexible-server-high-performance-service-tier</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-database-for-mysql-flexible-server-high-performance-service-tier/"/>
-        <updated>2022-05-24T16:00:31.000Z</updated>
-        <summary type="html"><![CDATA[ハイパフォーマンスなトランザクションや分析アプリケーションに最適な Business Critical サービス レベルで運用ワークロードを実行することで、オープンソース コミュニティ MySQL 上の単一サーバーに比べて 1.5 倍のパフォーマンス向上を達成できます。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Database for MySQL – Flexible Server 80 vCore Business Critical]]></title>
-        <id>generally-available-azure-database-for-mysql-flexible-server-80-vcore-business-critical</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-database-for-mysql-flexible-server-80-vcore-business-critical/"/>
-        <updated>2022-05-24T16:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Azure Database for MySQL Flexible server is now offering 80 vCore compute for tier 1 workloads.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Cosmos DB API for MongoDB data plane RBAC]]></title>
-        <id>public-preview-azure-cosmos-db-api-for-mongodb-data-plane-rbac</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-cosmos-db-api-for-mongodb-data-plane-rbac/"/>
-        <updated>2022-05-24T16:00:29.000Z</updated>
-        <summary type="html"><![CDATA[The API for MongoDB now includes the ability to create users and roles and configure fine-grained access to your database account data.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Enhanced elasticity features for Azure Cosmos DB]]></title>
-        <id>public-preview-enhanced-elasticity-features-for-azure-cosmos-db</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-enhanced-elasticity-features-for-azure-cosmos-db/"/>
-        <updated>2022-05-24T16:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Elasticity features for Azure Cosmos DB help achieve the best scalability and performance, including increased serverless capacity, database traffic burst handling, partition throughput redistribution, partition merge, and hierarchical partition keys.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Cosmos DB Python SDK async IO support]]></title>
-        <id>general-availability-azure-cosmos-db-python-sdk-async-io-support</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-cosmos-db-python-sdk-async-io-support/"/>
-        <updated>2022-05-24T16:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Improve database performance by running I/O tasks concurrently using the Azure Cosmos DB Python SDK IO async support capability.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Container Apps]]></title>
-        <id>generally-available-azure-container-apps</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-container-apps/"/>
-        <updated>2022-05-24T16:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Run microservices in containers without managing infrastructure.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Communication Services sample app builder and Microsoft Teams support]]></title>
-        <id>generally-available-azure-communication-services-sample-app-builder-and-microsoft-teams-support</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-communication-services-sample-app-builder-and-microsoft-teams-support/"/>
-        <updated>2022-05-24T16:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Quickly create and deploy a "virtual visits" experience connecting your applications with Microsoft Teams bookings.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Communication Services APIs in US Government cloud]]></title>
-        <id>public-preview-azure-communication-services-apis-in-us-government-cloud</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-communication-services-apis-in-us-government-cloud/"/>
-        <updated>2022-05-24T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Use Azure Communication Services APIs for voice, video, and messaging in US Government cloud.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Communication Services Email]]></title>
-        <id>public-preview-azure-communication-services-email</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-communication-services-email/"/>
-        <updated>2022-05-24T16:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Add email notifications to your apps using Azure Communication Services Email.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Communication Services mobile UI library]]></title>
-        <id>generally-available-azure-communication-services-mobile-ui-library</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-communication-services-mobile-ui-library/"/>
-        <updated>2022-05-24T16:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Save time with Azure Communication Services mobile UI library.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Durable functions support for managed identity for Azure Storage]]></title>
-        <id>public-preview-durable-functions-support-for-managed-identity-for-azure-storage</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-durable-functions-support-for-managed-identity-for-azure-storage/"/>
-        <updated>2022-05-24T16:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Durable functions in Azure Functions now support using managed identity when using Azure Storage.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Functions .NET Framework support in the isolated worker model]]></title>
-        <id>public-preview-azure-functions-net-framework-support-in-the-isolated-worker-model</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-functions-net-framework-support-in-the-isolated-worker-model/"/>
-        <updated>2022-05-24T16:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Apps using Azure Functions isolated worker model for .NET can now target .NET Framework.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Dynamic concurrency in Azure Functions]]></title>
-        <id>generally-available-dynamic-concurrency-in-azure-functions</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-dynamic-concurrency-in-azure-functions/"/>
-        <updated>2022-05-24T16:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Azure Functions dynamic concurrency feature simplifies configuring concurrency for your function apps using Service Bus, Storage Blobs, and Storage Queue triggers.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Durable functions support for isolated .NET worker process]]></title>
-        <id>public-preview-durable-functions-support-for-isolated-net-worker-process</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-durable-functions-support-for-isolated-net-worker-process/"/>
-        <updated>2022-05-24T16:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Build applications that need durable functions and run them in the isolated worker process within Azure Functions.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Updated extension defaults for new Azure Functions projects]]></title>
-        <id>generally-available-updated-extension-defaults-for-new-azure-functions-projects</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-updated-extension-defaults-for-new-azure-functions-projects/"/>
-        <updated>2022-05-24T16:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Extension bundles for new Azure Functions projects will now default to v3 in the client tools.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:Azure Functions Kafka トリガーのサポート]]></title>
-        <id>generally-available-azure-functions-kafka-trigger-support</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-functions-kafka-trigger-support/"/>
-        <updated>2022-05-24T16:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Kafka Topics へのメッセージ ストリーミングをリアルタイムに検知し、応答できるようになりました。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Manage your Log Analytics Tables in the Azure portal]]></title>
-        <id>public-preview-manage-your-log-analytics-tables-in-the-azure-portal</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-manage-your-log-analytics-tables-in-the-azure-portal/"/>
-        <updated>2022-05-24T16:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Log Analytics Tables can now be managed from a new Tables (preview) entry of the Azure portal in Log Analytics workspaces.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:Azure Stack HCI 単一ノード]]></title>
-        <id>general-availability-azure-stack-hci-singlenode</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-stack-hci-singlenode/"/>
-        <updated>2022-05-24T16:00:19.000Z</updated>
-        <summary type="html"><![CDATA[単一ノードの Azure Stack HCI 構成でハイブリッドのメリットを利用しましょう。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Monitor application insights JavaScript web snippet auto-injection for node.js]]></title>
-        <id>public-preview-azure-monitor-application-insights-javascript-web-snippet-autoinjection-for-nodejs</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-monitor-application-insights-javascript-web-snippet-autoinjection-for-nodejs/"/>
-        <updated>2022-05-24T16:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Azure Monitor application insights node.js customers can enable web monitoring with a simple configuration.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: ContainerLogv2 schema in Azure Monitor container insights]]></title>
-        <id>public-preview-containerlogv2-schema-in-azure-monitor-container-insights</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-containerlogv2-schema-in-azure-monitor-container-insights/"/>
-        <updated>2022-05-24T16:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Container insights now offers a new, lightweight schema for the container logs in ContainerLogv2.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: AIOps powered intelligent view in application maps]]></title>
-        <id>public-preview-aiops-powered-intelligent-view-in-application-maps</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-aiops-powered-intelligent-view-in-application-maps/"/>
-        <updated>2022-05-24T16:00:17.000Z</updated>
-        <summary type="html"><![CDATA[You can now use AIOps powered intelligent view in application map to filter out noise and find real issues faster.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Subnet per node pool]]></title>
-        <id>generally-available-subnet-per-node-pool</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-subnet-per-node-pool/"/>
-        <updated>2022-05-24T16:00:16.000Z</updated>
-        <summary type="html"><![CDATA[You can expand your AKS clusters across multiple subnets in the same virtual network.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Windows Server 2022 host support in AKS]]></title>
-        <id>public-preview-windows-server-2022-host-support-in-aks</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-windows-server-2022-host-support-in-aks/"/>
-        <updated>2022-05-24T16:00:15.000Z</updated>
-        <summary type="html"><![CDATA[You can now use Windows Server 2022 with AKS and benefit from its many performance-related improvements.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Draft extension for Azure Kubernetes Service (AKS)]]></title>
-        <id>public-preview-draft-extension-for-azure-kubernetes-service-aks</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-draft-extension-for-azure-kubernetes-service-aks/"/>
-        <updated>2022-05-24T16:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Use Draft through the Azure CLI, Azure Portal, and Visual Studio Code to create a Dockerfile for your application and the necessary Kubernetes manifests.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Web application routing add-on for Azure Kubernetes Service (AKS)]]></title>
-        <id>public-preview-web-application-routing-addon-for-azure-kubernetes-service-aks</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-web-application-routing-addon-for-azure-kubernetes-service-aks/"/>
-        <updated>2022-05-24T16:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Enable an ingress controller with SSL termination to quickly and securely access your applications in AKS.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: KEDA add-on for AKS]]></title>
-        <id>public-preview-keda-addon-for-aks</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-keda-addon-for-aks/"/>
-        <updated>2022-05-24T16:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Quickly and easily deploy clusters with KEDA enabled, or enable KEDA on existing AKS clusters.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Disk CSI driver v2 in AKS]]></title>
-        <id>public-preview-azure-disk-csi-driver-v2-in-aks</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-disk-csi-driver-v2-in-aks/"/>
-        <updated>2022-05-24T16:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Improve scalability and reduce pod failover latency by using Azure Disk CSI driver v2 in AKS.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: AKS cluster extensions]]></title>
-        <id>generally-available-aks-cluster-extensions</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-aks-cluster-extensions/"/>
-        <updated>2022-05-24T16:00:12.000Z</updated>
-        <summary type="html"><![CDATA[You can now leverage a rich set of first party solutions on AKS via an Azure Resource Manager driven experience.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: ARM64 agent node support in AKS]]></title>
-        <id>public-preview-arm64-agent-node-support-in-aks</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-arm64-agent-node-support-in-aks/"/>
-        <updated>2022-05-24T16:00:12.000Z</updated>
-        <summary type="html"><![CDATA[You can now create AKS clusters with mixed architecture nodes made up of Intel and ARM chips.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Alias minor version support in AKS]]></title>
-        <id>generally-available-alias-minor-version-support-in-aks</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-alias-minor-version-support-in-aks/"/>
-        <updated>2022-05-24T16:00:11.000Z</updated>
-        <summary type="html"><![CDATA[You no longer need to specify the exact patch number in your AKS setup.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIS benchmark for Linux containers]]></title>
-        <id>cis-benchmark-for-linux-containers</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/cis-benchmark-for-linux-containers/"/>
-        <updated>2022-05-24T16:00:10.000Z</updated>
-        <summary type="html"><![CDATA[You can now attest to the state of CIS compliance for their AKS Ubuntu worker nodes.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Draft 2: An open-source project for developers building apps on Kubernetes]]></title>
-        <id>draft-2-an-opensource-project-for-developers-building-apps-on-kubernetes</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/draft-2-an-opensource-project-for-developers-building-apps-on-kubernetes/"/>
-        <updated>2022-05-24T16:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Create a Dockerfile for your application and the necessary Kubernetes manifests needed.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Custom node configuration on AKS]]></title>
-        <id>generally-available-custom-node-configuration-on-aks</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-custom-node-configuration-on-aks/"/>
-        <updated>2022-05-24T16:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Configure your operating system (OS) settings or the kubelet parameters to match the needs of the workloads.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Dynamic IP allocation and enhanced subnet support in AKS]]></title>
-        <id>generally-available-dynamic-ip-allocation-and-enhanced-subnet-support-in-aks</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-dynamic-ip-allocation-and-enhanced-subnet-support-in-aks/"/>
-        <updated>2022-05-24T16:00:09.000Z</updated>
-        <summary type="html"><![CDATA[You can now deploy AKS clusters in a more IP efficient manner while still having pods with VNet IPs.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: App Service Environment v3 Migration Feature in additional regions]]></title>
-        <id>public-preview-app-service-environment-v3-migration-feature-in-additional-regions</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-app-service-environment-v3-migration-feature-in-additional-regions/"/>
-        <updated>2022-05-24T16:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Migration guidance allows you to move to App Service Environment v3 and take advantage of refreshed infrastructure, better performance, and the removal of the stamp fee found on older versions.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Landing zone accelerator for Azure Arc-enabled Kubernetes]]></title>
-        <id>generally-available-landing-zone-accelerator-for-azure-arcenabled-kubernetes</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-landing-zone-accelerator-for-azure-arcenabled-kubernetes/"/>
-        <updated>2022-05-24T16:00:08.000Z</updated>
-        <summary type="html"><![CDATA[New landing zone accelerator for Azure Arc-enabled Kubernetes gives you tools to accelerate and simplify hybrid and multicloud Kubernetes deployments.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: App Service enhancements for WordPress on App Service for Linux]]></title>
-        <id>generally-available-app-service-enhancements-for-wordpress-on-app-service-for-linux</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-app-service-enhancements-for-wordpress-on-app-service-for-linux/"/>
-        <updated>2022-05-24T16:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Wordpress users benefit from improved performance and security.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: App Service landing zone accelerator]]></title>
-        <id>general-availability-app-service-landing-zone-accelerator</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-app-service-landing-zone-accelerator/"/>
-        <updated>2022-05-24T16:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Facilitate moving applications from on-premises to App Service using landing zone accelerator.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: App Service Google Remote Procedure Call support]]></title>
-        <id>public-preview-app-service-google-remote-procedure-call-support</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-app-service-google-remote-procedure-call-support/"/>
-        <updated>2022-05-24T16:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Host Google Remote Procedure Call (gRPC) apps on App Service.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: App Service new migration capabilities]]></title>
-        <id>public-preview-app-service-new-migration-capabilities</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-app-service-new-migration-capabilities/"/>
-        <updated>2022-05-24T16:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Facilitates discovery, assessment, and migration to App Service and Azure Kubernetes Service.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Synthetic GraphQL]]></title>
-        <id>public-preview-synthetic-graphql</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-synthetic-graphql/"/>
-        <updated>2022-05-24T16:00:05.000Z</updated>
-        <summary type="html"><![CDATA[You can now easily create a GraphQL API to support modern client application development.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: GraphQL passthrough support in Azure API Management]]></title>
-        <id>general-availability-graphql-passthrough-support-in-azure-api-management</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-graphql-passthrough-support-in-azure-api-management/"/>
-        <updated>2022-05-24T16:00:03.000Z</updated>
-        <summary type="html"><![CDATA[GraphQL APIs are considered to be more efficient, flexible, and powerful and have benefits such as faster performance, longer API call limit threshold, and lesser time retrieving data.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: DCsv3 and DCdsv3 series Virtual Machines]]></title>
-        <id>ga-azure-virtual-machines-dcsv3-and-dcdsv3</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/ga-azure-virtual-machines-dcsv3-and-dcdsv3/"/>
-        <updated>2022-05-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Confidential computing DCsv3 and DCdsv3-series virtual machines (VMs) are generally available.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
