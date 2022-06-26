@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-25T00:28:45.217Z</id>
+    <id>urn:2022-06-26T00:33:54.334Z</id>
     <title>Info Dock</title>
-    <updated>2022-06-25T00:28:45.217Z</updated>
+    <updated>2022-06-26T00:33:54.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1771,16 +1771,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-budget-alert-supports-action-groups-with-common-alert-schema-2/"/>
         <updated>2022-05-30T16:00:04.000Z</updated>
         <summary type="html"><![CDATA[Azure コスト管理予算アラートでは、共通のアラート スキーマを持つアクション グループがサポートされるようになりました。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Enhanced IPv6 functionality for MultiValue profiles in Azure Traffic Manager]]></title>
-        <id>general-availability-enhanced-ipv6-functionality-for-multivalue-profiles-in-azure-traffic-manager</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-enhanced-ipv6-functionality-for-multivalue-profiles-in-azure-traffic-manager/"/>
-        <updated>2022-05-26T16:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Azure Traffic Manager now enables you to specify minimum children property separately for IPv4 and IPv6 endpoints for MultiValue profiles.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
