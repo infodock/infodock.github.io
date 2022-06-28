@@ -1,10 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-27T00:32:36.436Z</id>
+    <id>urn:2022-06-28T00:30:15.501Z</id>
     <title>Info Dock</title>
-    <updated>2022-06-27T00:32:36.436Z</updated>
+    <updated>2022-06-28T00:30:15.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS が Amazon CodeWhisperer を発表 (プレビュー)]]></title>
+        <id>b09c3b1a608a65d2f3cac6aa7f7316eb24d8b7ef</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-announces-amazon-codewhisperer-preview/"/>
+        <updated>2022-06-27T20:17:27.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CodeWhisperer は機械学習を利用したサービスであり、自然言語での開発者のコ​​メントと統合開発環境 (IDE) でのコードに基づいて推奨コードを生成し、開発者の生産性を高めます。CodeWhisperer はプレビュー中に Java、JavaScript、Python プログラミング言語で使用できます。このサービスは JetBrains (IntelliJ、PyCharm、WebStorm)、Visual Studio Code、AWS Cloud9、AWS Lambda コンソールなどの複数の IDE と統合しています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect Wisdom により、エージェントアシスタンス機能をカスタムエージェントアプリケーションに統合可能に]]></title>
+        <id>a933978ad3e0367a584c0b1a1c81e8b5ef530587</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-wisdom-integrate-agent-assistance-capabilities-applications/"/>
+        <updated>2022-06-27T20:16:36.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect Wisdom は、エージェントアシスタンス機能を自社製またはサードパーティのエージェントアプリケーションに統合する JavaScript ライブラリ (WisdomJS) の提供を開始しました。これにより、エージェントを別のアプリケーションに移行しなくても、エージェントの生産性と顧客満足度を高めることができます。Amazon Connect Wisdom は、エージェントが顧客と話している間にナレッジ検索とリアルタイムのレコメンデーションを行うことで、エージェントが回答の検索に費やす時間を短縮し、顧客の問題をすばやく解決できるようにします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 G5 インスタンスをご利用いただけるリージョンが増加]]></title>
+        <id>0d845a7443a8248739d0cf1d862b2f1e391268ee</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-g5-instances-available-additional-regions/"/>
+        <updated>2022-06-27T19:32:51.000Z</updated>
+        <summary type="html"><![CDATA[本日から、NVIDIA A10G Tensor Core GPU を搭載した Amazon Elastic Compute Cloud (Amazon EC2) G5 インスタンスは、アジアパシフィック (ムンバイ、東京)、欧州 (フランクフルト、ロンドン)、カナダ (中部) でご利用いただけるようになりました。G5 インスタンスは、グラフィックス集約型のユースケースや機械学習のユースケースに幅広く使用することができます。Amazon EC2 G4dn インスタンスと比較して、グラフィックスを集約型アプリケーションや機械学習の推論において最大 3 倍のパフォーマンスを実現し、シンプルな機械学習モデルから中程度の複雑な機械学習モデルのトレーニングでは最大 3.3 倍のパフォーマンスを発揮します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Graviton3 プロセッサを搭載したAmazon EC2 C7g インスタンスが、米国東部 (オハイオ) と欧州 (アイルランド) で利用可能に]]></title>
+        <id>88451009a0ab7e195c618a9a2e8a3bd7bf6612f2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-c7g-instances-powered-aws-graviton3-available-us-east-ohio-europe-ireland/"/>
+        <updated>2022-06-27T19:32:02.000Z</updated>
+        <summary type="html"><![CDATA[本日から、米国東部 (オハイオ) と欧州 (アイルランド) でコンピューティング最適化 Amazon EC2 C7g インスタンスがご利用いただけます。C7g インスタンスは、最新の AWS Graviton3 プロセッサを搭載した最初のインスタンスであり、アプリケーションサーバー、マイクロサービス、バッチ処理、Electronic Design Automation (EDA)、ゲーム、動画エンコーディング、科学モデリング、分散分析、ハイパフォーマンスコンピューティング (HPC)、CPU ベースの機械学習 (ML) 推論、広告配信などの幅広い適用のために、Graviton2 ベースの C6g インスタンスよりも最大 25% 優れたパフォーマンスを提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Graviton2 ベースの Amazon EC2 C6gd インスタンスがアジアパシフィック (ソウル) リージョンで利用可能に]]></title>
+        <id>c579c756bcaf700a7a7cc40a065e44f5b74184db</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-graviton2-based-amazon-ec2-c6gd-instances-available-asia-pacific-seoul-region/"/>
+        <updated>2022-06-27T19:31:11.000Z</updated>
+        <summary type="html"><![CDATA[今日から Amazon EC2 C6gd インスタンスが アジアパシフィック (ソウル) リージョンで使用できます。C6gd インスタンスは、ハイパフォーマンスコンピューティング (HPC)、バッチ処理、広告配信、動画エンコーディング、ゲーム、科学的モデリング、分散分析、CPU ベースの機械学習推論などのコンピューティング集約型ワークロードに最適です。C6gd インスタンスは、同等の x86 ベースのインスタンスよりも最大 50％ 多い NVMe ストレージ GB/vCPU を提供し、高速かつ低レイテンシーのローカルストレージを必要とするアプリケーションに最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Ground Truth が、合成データ生成のサポートを開始]]></title>
+        <id>307896e99ec34404f6689ba0af11bd11c2c91226</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-ground-truth-supports-synthetic-data-generation/"/>
+        <updated>2022-06-27T19:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Ground Truth がサポート提供を開始し、手動でラベル付けした実際のデータを大量に集めることなく、ラベル付き合成データを生成できるようになりました。Amazon SageMaker は、Amazon SageMaker Ground Truth Plus と Amazon SageMaker Ground Truth の 2 つのデータラベリングサービスを提供します。どちらのオプションでも、画像、テキストファイル、動画などの生データを識別し、有益なラベルを追加して、機械学習モデル用の高品質のトレーニングデータセットを作成できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Multiple backups per day for Azure Virtual Machines]]></title>
+        <id>mbpd-azurevm-preview</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/mbpd-azurevm-preview/"/>
+        <updated>2022-06-27T18:28:40.000Z</updated>
+        <summary type="html"><![CDATA[Protect Azure Virtual Machines with mission critical applications with low recovery point objective.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Create an additional 5000 Azure Storage accounts within your subscription]]></title>
+        <id>preview-5kaccountlimit</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/preview-5kaccountlimit/"/>
+        <updated>2022-06-27T16:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Azure Storage is announcing public preview of the ability to create additional 5000 storage accounts per subscription per region.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Direct Connect が米国のすべての AWS Local Zones のサポートを実現]]></title>
+        <id>bdd95e585e464df92338e8ebac6f6a0d1c098879</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-direct-connect-support-local-zones-united-states/"/>
+        <updated>2022-06-27T15:18:04.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS は AWS Direct Connect が米国のすべての AWS Local Zones をサポートすると発表しました。ネットワークトラフィックは、Direct Connect の Point of Presence (POP) ロケーションと、ローカルゾーンで実行される AWS リソース間の最短距離を通るようになります。これによりネットワークトラフィックの通る距離が削減されるため、レイテンシーが減少しアプリケーションのレスポンスが向上します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1 つのプライマリデータベースインスタンスと 2 つの読み取り可能なスタンバイデータベースインスタンスを備えた Amazon RDS Multi-AZ 配置で M5d と R5d インスタンスのサポートを開始]]></title>
+        <id>46a18a4a5544b12421a31eaa13acf5b00724ff7e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-rds-multi-az-deployments-readable-standby-database-instances-m5d-r5d/"/>
+        <updated>2022-06-27T15:17:15.000Z</updated>
+        <summary type="html"><![CDATA[3 つのアベイラビリティゾーン (AZ) にまたがる 1 つのプライマリデータベース (DB) インスタンスと 2 つの読み取り可能なスタンバイデータベース (DB) インスタンスを備えた Amazon Relational Database Service (Amazon RDS) Multi-AZ 配置オプションで、M5d と R5d インスタンスのサポートを開始しました。この配置オプションには、最大 2 倍高速のトランザクションコミットレイテンシー、通常 35 秒未満の自動フェイルオーバー、読み取り可能なスタンバイインスタンスが備わっています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Site-to-Site VPN がプライベート IP VPN を導入してセキュリティとプライバシーを強化]]></title>
+        <id>cd18a1e5be6c1802a997a33cffee40e9af358cc6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-site-vpn-introduces-private-ip-security-privacy/"/>
+        <updated>2022-06-27T15:16:26.000Z</updated>
+        <summary type="html"><![CDATA[本日より、AWS Site-to-Site VPN は、Direct Connect 経由でプライベート IP アドレスを使用して IPSec VPN 接続をデプロイする機能をサポートします。この変更により、お客様は、パブリック IP アドレスを使用することなくオンプレミスネットワークと AWS の間の DX トラフィックを暗号化でき、これにより、セキュリティとネットワークのプライバシーを同時に強化できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon MSK が Apache Kafka バージョン 3.1.1 および 3.2.0 のサポートを追加]]></title>
         <id>874457f8fcb54558ba26bfb62b15981bdc5aab73</id>
@@ -786,21 +896,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General availability: LDAP signing]]></title>
-        <id>azure-netapp-files-general-availability-of-ldap-signing</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-general-availability-of-ldap-signing/"/>
-        <updated>2022-06-20T17:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Feature has reached general availability.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure GitOps with Flux v2]]></title>
-        <id>general-availability-of-azure-gitops-with-flux-v2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-of-azure-gitops-with-flux-v2/"/>
-        <updated>2022-06-20T17:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Announcing the general availability of GitOps with Flux v2 in Azure Kubernetes Service (AKS) and Azure Arc-enabled Kubernetes (Arc K8s).]]></summary>
+        <title type="html"><![CDATA[Public preview: SMB Continuous Availability shares for Citrix App Layering]]></title>
+        <id>azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering/"/>
+        <updated>2022-06-20T17:00:11.000Z</updated>
+        <summary type="html"><![CDATA[New feature added to Azure NetApp Files.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1116,11 +1216,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Azure Application Gateway でのプライベート リンクのサポート]]></title>
+        <title type="html"><![CDATA[Public preview: Private link support in Azure Application Gateway]]></title>
         <id>public-preview-private-link-support-for-application-gateway</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-private-link-support-for-application-gateway/"/>
         <updated>2022-06-13T19:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Application Gateway でのプライベート リンクのサポートにより、より安全なネットワーク アクセスを実現する方法をご確認ください。]]></summary>
+        <summary type="html"><![CDATA[Learn how private link support for Application Gateway drives more secured network access.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1366,11 +1466,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Microsoft Graph API と Azure Event Grid の統合]]></title>
+        <title type="html"><![CDATA[Public preview: Microsoft Graph API integration with Azure Event Grid]]></title>
         <id>public-preview-microsoft-graph-api-integration-with-azure-event-grid</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-microsoft-graph-api-integration-with-azure-event-grid/"/>
         <updated>2022-06-08T16:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Event Grid Microsoft Graph API 統合により、Azure AD や Outlook などからイベントをサブスクライブできます。]]></summary>
+        <summary type="html"><![CDATA[Use the Event Grid Microsoft Graph API integration to subscribe to events from Azure AD, Outlook, and more.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1386,11 +1486,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一般提供:API Management の再利用可能なポリシー フラグメント]]></title>
+        <title type="html"><![CDATA[Generally available: API Management reusable policy fragments]]></title>
         <id>generally-available-api-management-reusable-policy-fragments</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-api-management-reusable-policy-fragments/"/>
         <updated>2022-06-08T16:00:14.000Z</updated>
-        <summary type="html"><![CDATA[ポリシーのコンポーネントを再利用可能なモジュールに整理し、任意のポリシー ドキュメントに挿入することができます。]]></summary>
+        <summary type="html"><![CDATA[Organize policy components into reusable modules that can be inserted into any policy document.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1546,26 +1646,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Control Tower Account Factory for Terraform で共有アカウントのカスタマイズが可能に]]></title>
-        <id>e59afcef6ea5b67f18813421729d37bc3aad4ce3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-control-tower-factory-terraform-shared-account-customization/"/>
-        <updated>2022-06-08T02:32:39.000Z</updated>
-        <summary type="html"><![CDATA[AWS Control Tower により、Account Factory for Terraform (AFT) で共有アカウントや管理アカウントの管理やカスタマイズができるようになりました。アカウントのカスタマイズ管理を一元化し、AWS Control Tower 環境のガバナンス範囲を拡大しつつ、アカウント設定のセキュリティを保護することもできるようになりました。共有アカウントのカスタマイズでは、すべてのアカウントで同じメカニズムを使用したカスタマイズを行いたいお客様を支援します。また、AFT では、カスタマイズの許可をよりうまく管理できるように、ロールを変更しました。AFT がすべてのアカウントに対して、あらゆる詳細レベルで行動できるよう、許可管理を完全に自動化できるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka が FedRAMP に準拠]]></title>
-        <id>6b01d2464c81f6cd513802c4dd4bb1fffbdca208</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-managed-streaming-apache-kafka-fedramp-compliant/"/>
-        <updated>2022-06-08T02:31:51.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) は、米国東部 (オハイオ)、米国東部 (バージニア北部)、米国西部 (北カリフォルニア)、米国西部 (オレゴン) リージョンでは FedRAMP Moderate として、AWS GovCloud (米国) リージョンでは FedRAMP High として承認されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon SageMaker Studio および SageMaker Notebook インスタンスに JupyterLab 3 ノートブックが付属]]></title>
         <id>5064a678054f852e6e68fda678c45e8848f79c3e</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-studio-sagemaker-notebook-instance-jupyterlab-3-notebooks/"/>
@@ -1596,56 +1676,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon EKS が AWS GovCloud (米国) リージョンのクラスタープライベートエンドポイントの DNS 解決のサポートを開始]]></title>
-        <id>751731888e31543f64512de5ea58b333b33ad05f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-eks-supports-dns-resolution-cluster-private-endpoint-aws-govcloud-us-regions/"/>
-        <updated>2022-06-07T03:32:43.000Z</updated>
-        <summary type="html"><![CDATA[AWS GovCloud (米国) リージョンで Amazon Elastic Kubernetes Service (EKS) クラスターのプライベート Kubernetes API サーバーエンドポイントを解決できるようになりました。これにより、AWS Direct Connect や VPC ピアリングなどの AWS のサービスを使用する場合を含め、VPC 内でのみアクセス可能な EKS クラスターに簡単に接続できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Lookout for Metrics で CloudWatch の履歴データに対する異常検出が可能に]]></title>
-        <id>5519e2d0576574918ede124ac10992191644a641</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-lookout-metrics-enables-anomaly-detection-historical-cloudwatch-data/"/>
-        <updated>2022-06-07T03:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lookout for Metrics は、Amazon CloudWatch をデータソースコネクタとして使用する際のバックテストのリリースを発表しました。バックテストは、ディテクターを設定するときに選択できる新しい異常検出モードです。選択したメトリクスやディメンション、そして名前空間に関する高精度の異常検出機能をセットアップするために、CloudWatch 内のデータにシームレスに接続できます。Amazon Lookout for Metrics では、機械学習 (ML) を活用して異常 (標準値からの逸脱) の自動検出と診断を行います。機械学習に関する事前の経験は不要です。Amazon CloudWatch は、アプリケーションのモニタリング、システム全体におけるパフォーマンスの変化への対応、リソース使用状況の最適化、および運用上のヘルスの統一ビューの取得のための、実用的なインサイトを提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup が VMware ワークロード向け AWS PrivateLink のサポートを開始]]></title>
-        <id>9bf28b4d2678aae44e9336a1cd9ce3f0a1aed1b6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-backup-adds-privatelink-vmware-workloads/"/>
-        <updated>2022-06-06T19:18:37.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup は VMware ワークロード向け AWS PrivateLink のサポートの提供を開始しました。これにより、仮想プライベートネットワーク内のプライベートエンドポイントを介して、スケーラブルに VMware 環境から AWS Backup に直接アクセスできるようになりました。このリリースにより、Amazon Virtual Private Cloud (VPC) のプライベート IP アドレスを使用して AWS Backup に接続することで、ネットワークアーキテクチャをセキュアにできます。これにより、パブリック IP、ファイアウォールルール、またはインターネットゲートウェイを使用する必要がなくなります。AWS PrivateLink は、処理したデータの GB 数と、インターフェイス VPC エンドポイントを使用した時間単位で、低料金でご利用いただけます。詳細については、AWS PrivateLink の料金を参照してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Kendra が GitHub SaaS コネクタをリリース]]></title>
-        <id>7635113d56c92b33e8a23d117226429f05ec4d16</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-kendra-github-saas-connector/"/>
-        <updated>2022-06-06T17:06:39.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は、Amazon Kendra GitHub SaaS コネクタを使用して、GitHub Enterprise Cloud データソースからドキュメントのインデックスを作成したり、ドキュメントを検索したりできるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect がプログラムを使用してタスクを転送するための API をリリース]]></title>
-        <id>3ecd890e5f9621e34cb1b07b91efd90309020470</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-api-programmatically-transfer-tasks/"/>
-        <updated>2022-06-06T17:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect は、別のフロー、エージェントキュー、または利用可能なエージェントに対するディストリビューションのための共有キューに、プログラムを使用してタスクを転送するための TransferContact API を提供するようになりました。Amazon Connect Tasks は、コンタクトセンターのマネージャーが、エージェントが使用するさまざまなアプリケーション全体でカスタマーサービスタスクに優先順位を付け、割り当て、追跡し、自動化できるようにします。この API を使用して、コンタクトセンターのマネージャーは、速やかな解決のために、カスタム分析ダッシュボードからタスクを直接転送できるようになりました。Connect Flows を使用して、エージェントのスキルセット、可用性、タスクに関する情報 (タイプ、優先度/緊急度、カテゴリなど) に基づいて、タスクに動的に優先順位を付けて、割り当てることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[パブリック プレビュー:Global Reach 向け ExpressRoute IPv6 サポート]]></title>
         <id>public-preview-expressroute-ipv6-support-for-global-reach</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-expressroute-ipv6-support-for-global-reach/"/>
@@ -1663,26 +1693,6 @@
         <summary type="html"><![CDATA[リソース構成の変更により、サブスクリプションとテナント全体でクエリを実行し、Azure Resource Graph でリソースの変更を検出することができます。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for OpenZFS ファイルシステムのストレージと IOPS キャパシティの更新が可能に]]></title>
-        <id>23a1855762c536be18ab727cb1b71e110c67f367</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/update-storage-iops-capacity-amazon-fsx-for-openzfs-file-systems/"/>
-        <updated>2022-06-06T03:33:32.000Z</updated>
-        <summary type="html"><![CDATA[ボタンをクリックするだけで、Amazon FSx for OpenZFS ファイルシステムのストレージや IOPS キャパシティを更新できるようになり、進化するストレージとパフォーマンスのニーズにさらに簡単に適応できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NoSQL Workbench for Amazon DynamoDB が、CreateTable、UpdateTable、DeleteTable 操作のサポートを追加]]></title>
-        <id>eff6e3dac50d5924e9ef3593b6fe9a83d2cad9b1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-nosql-workbench-dynamodb-createtable-updatetable-deletetable-operations/"/>
-        <updated>2022-06-06T03:32:44.000Z</updated>
-        <summary type="html"><![CDATA[NoSQL Workbench for Amazon DynamoDB  は、スケーラブルで高性能なデータモデルの視覚化と構築を支援するクライアントサイドアプリケーションです。本日より、NoSQL Workbench は、CreateTable、UpdateTable、DeleteTable などのテーブルおよびグローバルセカンダリインデックス (GSI) コントロールプレーン操作のサポートを追加します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
