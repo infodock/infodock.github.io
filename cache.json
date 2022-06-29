@@ -6,6 +6,26 @@
       "siteUrl": "https://azure.microsoft.com/ja-jp/updates/",
       "articles": [
         {
+          "id": "matchclausequery",
+          "author": null,
+          "description": "The MATCH clause is used in the Azure Digital Twins query language and allows you to specify which pattern should be followed while traversing relationships in the ADT graph.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/matchclausequery/",
+          "publishedOn": "2022-06-28T19:00:13.000Z",
+          "wordCount": 2762,
+          "title": "General availability: MATCH clause for Query",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "iotc-export-data-under-organization",
+          "author": null,
+          "description": "Azure IoT Central data export feature now supports the ability to filter data under an organization as well as include organizations path in the exported data.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/iotc-export-data-under-organization/",
+          "publishedOn": "2022-06-28T15:00:10.000Z",
+          "wordCount": 2833,
+          "title": "Generally available: Export device data under an organization in Azure IoT Central",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
+        },
+        {
           "id": "mbpd-azurevm-preview",
           "author": null,
           "description": "Protect Azure Virtual Machines with mission critical applications with low recovery point objective.",
@@ -13,7 +33,7 @@
           "publishedOn": "2022-06-27T18:28:40.000Z",
           "wordCount": 2846,
           "title": "Public preview: Multiple backups per day for Azure Virtual Machines",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "preview-5kaccountlimit",
@@ -23,7 +43,7 @@
           "publishedOn": "2022-06-27T16:00:08.000Z",
           "wordCount": 2789,
           "title": "Public preview: Create an additional 5000 Azure Storage accounts within your subscription",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-sql-public-preview-updates-for-late-june-2022",
@@ -33,7 +53,7 @@
           "publishedOn": "2022-06-23T16:00:01.000Z",
           "wordCount": 2747,
           "title": "Azure SQL—Public preview updates for late June 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-sql-generally-available-updates-for-late-june-2022",
@@ -41,9 +61,9 @@
           "description": "Generally available updates made in late June 2022 for Azure SQL.",
           "link": "https://azure.microsoft.com/ja-jp/updates/azure-sql-generally-available-updates-for-late-june-2022/",
           "publishedOn": "2022-06-23T16:00:00.000Z",
-          "wordCount": 2753,
+          "wordCount": 2755,
           "title": "Azure SQL—Generally available updates for late June 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-akv-provider-arc-kubernetes",
@@ -53,7 +73,7 @@
           "publishedOn": "2022-06-23T15:00:00.000Z",
           "wordCount": 2788,
           "title": "General availability: Azure Key Vault secrets provider on Azure Arc enabled Kubernetes",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-windows-iot-on-arm64",
@@ -61,9 +81,9 @@
           "description": "Windows IoT on Arm64 brings increased functionality to devices.",
           "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-windows-iot-on-arm64/",
           "publishedOn": "2022-06-22T18:25:21.000Z",
-          "wordCount": 2762,
+          "wordCount": 2764,
           "title": "Generally available: Windows IoT on Arm64",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-machine-learning-announcements-for-june-2022",
@@ -73,7 +93,7 @@
           "publishedOn": "2022-06-22T16:00:26.000Z",
           "wordCount": 2904,
           "title": "General availability: Azure Machine Learning announcements for June 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-link-feature-in-azure-sql-mi-for-sql-server-2016",
@@ -81,9 +101,9 @@
           "description": "SQL Server 2016 customers can now use Azure without migrating through offloading analytics or read-only workloads to Azure SQL Managed Instance (MI).",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-link-feature-in-azure-sql-mi-for-sql-server-2016/",
           "publishedOn": "2022-06-22T16:00:25.000Z",
-          "wordCount": 2850,
+          "wordCount": 2852,
           "title": "Public preview: Link feature in Azure SQL MI for SQL Server 2016",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-advisor-support-for-azure-database-for-mysql-flexible-server",
@@ -91,9 +111,9 @@
           "description": "Get personalized recommendations based on your Azure Database for MySQL Flexible Server usage.",
           "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-azure-advisor-support-for-azure-database-for-mysql-flexible-server/",
           "publishedOn": "2022-06-22T16:00:24.000Z",
-          "wordCount": 2811,
+          "wordCount": 2813,
           "title": "General availability: Azure Advisor support for Azure Database for MySQL - Flexible Server",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-data-studio-mongodb-extension-for-azure-cosmos-db",
@@ -103,7 +123,7 @@
           "publishedOn": "2022-06-22T16:00:24.000Z",
           "wordCount": 2799,
           "title": "Public preview: Azure Data Studio MongoDB extension for Azure Cosmos DB",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-continuous-backup-enhancements-in-azure-cosmos-db",
@@ -113,7 +133,7 @@
           "publishedOn": "2022-06-22T16:00:23.000Z",
           "wordCount": 2822,
           "title": "Public preview: Continuous backup enhancements in Azure Cosmos DB",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-cosmos-db-sql-api-go-sdk-improvements",
@@ -121,9 +141,9 @@
           "description": "Use new Go SDK features in your Azure Cosmos DB SQL API account including authentication with Azure Active Directory, the ability to execute single partition queries, and transactional batch support.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-azure-cosmos-db-sql-api-go-sdk-improvements/",
           "publishedOn": "2022-06-22T16:00:23.000Z",
-          "wordCount": 2833,
+          "wordCount": 2835,
           "title": "Public preview: Azure Cosmos DB SQL API Go SDK improvements",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-azure-cosmos-db-core-sql-api-query-engine-improvements",
@@ -133,7 +153,7 @@
           "publishedOn": "2022-06-22T16:00:22.000Z",
           "wordCount": 2830,
           "title": "Generally available: Azure Cosmos DB Core (SQL) API Query Engine improvements",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-improved-try-azure-cosmos-db-for-free-experience",
@@ -143,7 +163,7 @@
           "publishedOn": "2022-06-22T16:00:21.000Z",
           "wordCount": 2829,
           "title": "Generally available: Improved Try Azure Cosmos DB for free experience",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-aks-release-tracker",
@@ -153,7 +173,7 @@
           "publishedOn": "2022-06-22T16:00:21.000Z",
           "wordCount": 2757,
           "title": "Public preview: AKS release tracker",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-new-api-backend-options-in-azure-static-web-apps",
@@ -163,7 +183,7 @@
           "publishedOn": "2022-06-22T16:00:20.000Z",
           "wordCount": 2777,
           "title": "Public preview: New API backend options in Azure Static Web Apps",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-functions-support-for-python-310",
@@ -171,9 +191,9 @@
           "description": "Develop Python 3.10 apps locally and deploy them to all Azure Functions plans.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-azure-functions-support-for-python-310/",
           "publishedOn": "2022-06-22T16:00:20.000Z",
-          "wordCount": 2759,
+          "wordCount": 2761,
           "title": "Public preview: Azure Functions support for Python 3.10",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-custom-certificate-authorities-2",
@@ -181,9 +201,9 @@
           "description": "You can now add custom certificate authorities to your AKS cluster(s).",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-custom-certificate-authorities-2/",
           "publishedOn": "2022-06-22T16:00:18.000Z",
-          "wordCount": 2783,
+          "wordCount": 2785,
           "title": "Public preview: Custom certificate authorities",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-kubernetes-release-124-support-in-aks",
@@ -193,7 +213,7 @@
           "publishedOn": "2022-06-22T16:00:18.000Z",
           "wordCount": 2755,
           "title": "Public preview: Kubernetes release 1.24 support in AKS",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-http-proxy-support-for-aks-clusters-2",
@@ -201,9 +221,9 @@
           "description": "You can now use HTTP proxy feature with all AKS add-ons.",
           "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-http-proxy-support-for-aks-clusters-2/",
           "publishedOn": "2022-06-22T16:00:17.000Z",
-          "wordCount": 2809,
+          "wordCount": 2811,
           "title": "Generally available: HTTP proxy support for AKS clusters",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preivew-app-service-support-for-net-7",
@@ -213,7 +233,7 @@
           "publishedOn": "2022-06-22T16:00:17.000Z",
           "wordCount": 2819,
           "title": "Public preivew: App Service support for .NET 7",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-app-service-hybrid-connections-manager-for-linux",
@@ -221,9 +241,9 @@
           "description": "Linux users can now use hybrid connections manager without maintaining a Windows client.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-app-service-hybrid-connections-manager-for-linux/",
           "publishedOn": "2022-06-22T16:00:16.000Z",
-          "wordCount": 2784,
+          "wordCount": 2786,
           "title": "Public preview: App Service hybrid connections manager for Linux",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-microcontrollerbased-device-security-platform",
@@ -233,7 +253,7 @@
           "publishedOn": "2022-06-22T16:00:15.000Z",
           "wordCount": 2840,
           "title": "General availability: Microcontroller-based device security platform",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-embedded-wireless-framework",
@@ -241,9 +261,9 @@
           "description": "The Embedded Wireless Framework for Azure RTOS defines a platform consistent API for embedded IoT developers to use wireless services in their applications.",
           "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-embedded-wireless-framework/",
           "publishedOn": "2022-06-22T16:00:15.000Z",
-          "wordCount": 2797,
+          "wordCount": 2799,
           "title": "General availability: Embedded Wireless Framework",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-edge-securedcore-for-windows-iot",
@@ -253,7 +273,7 @@
           "publishedOn": "2022-06-22T16:00:14.000Z",
           "wordCount": 2763,
           "title": "General availability: Edge Secured-Core for Windows IoT",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-service-bus-explorer-capabilities-in-the-azure-portal",
@@ -263,7 +283,7 @@
           "publishedOn": "2022-06-22T16:00:14.000Z",
           "wordCount": 2785,
           "title": "Public preview: Service Bus Explorer capabilities in the Azure Portal",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-api-management-selfhosted-gateway-version-2",
@@ -273,7 +293,7 @@
           "publishedOn": "2022-06-22T16:00:13.000Z",
           "wordCount": 2771,
           "title": "Generally available: API Management self-hosted gateway version 2",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-api-management-content-security-policy-and-cors-configuration-support",
@@ -283,7 +303,7 @@
           "publishedOn": "2022-06-22T16:00:13.000Z",
           "wordCount": 2832,
           "title": "Generally available: API Management Content Security Policy and CORS configuration support",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "iotc-update-properties-without-models",
@@ -291,9 +311,9 @@
           "description": "You can now read and write properties without having to first create a device model/template.",
           "link": "https://azure.microsoft.com/ja-jp/updates/iotc-update-properties-without-models/",
           "publishedOn": "2022-06-22T16:00:12.000Z",
-          "wordCount": 2797,
+          "wordCount": 2799,
           "title": "Generally available: Update properties for devices without models in Azure IoT Central",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-durable-functions-for-nodejs",
@@ -303,7 +323,7 @@
           "publishedOn": "2022-06-22T16:00:11.000Z",
           "wordCount": 2879,
           "title": "Generally available: Durable Functions for Node.js",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-durable-functions-for-java",
@@ -311,19 +331,29 @@
           "description": "Durable Functions are now supported when building Java applications in Azure Functions.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-durable-functions-for-java/",
           "publishedOn": "2022-06-22T15:00:10.000Z",
-          "wordCount": 2819,
+          "wordCount": 2821,
           "title": "Public preview: Durable Functions for Java",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
-          "id": "azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering",
+          "id": "azure-netapp-files-general-availability-of-ldap-signing",
           "author": null,
-          "description": "New feature added to Azure NetApp Files.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering/",
-          "publishedOn": "2022-06-20T17:00:11.000Z",
-          "wordCount": 2807,
-          "title": "Public preview: SMB Continuous Availability shares for Citrix App Layering",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "description": "Feature has reached general availability.",
+          "link": "https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-general-availability-of-ldap-signing/",
+          "publishedOn": "2022-06-20T17:00:12.000Z",
+          "wordCount": 2773,
+          "title": "General availability: LDAP signing",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
+        },
+        {
+          "id": "general-availability-of-azure-gitops-with-flux-v2",
+          "author": null,
+          "description": "Announcing the general availability of GitOps with Flux v2 in Azure Kubernetes Service (AKS) and Azure Arc-enabled Kubernetes (Arc K8s).",
+          "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-of-azure-gitops-with-flux-v2/",
+          "publishedOn": "2022-06-20T17:00:10.000Z",
+          "wordCount": 2818,
+          "title": "General availability: Azure GitOps with Flux v2",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "resource-governance-for-client-applications-in-azure-event-hubs-public-preview",
@@ -331,9 +361,9 @@
           "description": "Independently throttle your event streaming workloads using application groups and client applications information.",
           "link": "https://azure.microsoft.com/ja-jp/updates/resource-governance-for-client-applications-in-azure-event-hubs-public-preview/",
           "publishedOn": "2022-06-20T16:00:10.000Z",
-          "wordCount": 2834,
+          "wordCount": 2836,
           "title": "Public preview: Resource governance for client applications in Azure Event Hubs",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "apache-parquet-capturing-support-in-azure-event-hubs",
@@ -343,7 +373,7 @@
           "publishedOn": "2022-06-20T16:00:10.000Z",
           "wordCount": 2792,
           "title": "Public preview: Apache Parquet capturing support in Azure Event Hubs",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-virtual-network-manager-in-nine-more-regions",
@@ -351,9 +381,9 @@
           "description": "You can create an Azure Virtual Network Manager instance in nine more regions and manage your virtual networks at scale across regions, subscriptions, management groups, and tenants globally from a single pane of glass.",
           "link": "https://azure.microsoft.com/ja-jp/updates/azure-virtual-network-manager-in-nine-more-regions/",
           "publishedOn": "2022-06-15T20:50:43.000Z",
-          "wordCount": 2843,
+          "wordCount": 2845,
           "title": "Public preview: Azure Virtual Network Manager in nine new regions",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-expressroute-direct-and-circuit-in-different-subscriptions",
@@ -363,7 +393,7 @@
           "publishedOn": "2022-06-15T16:00:18.000Z",
           "wordCount": 2773,
           "title": "Public preview: ExpressRoute Direct and Circuit in different subscriptions",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-windows-admin-center-in-the-azure-portal",
@@ -373,7 +403,7 @@
           "publishedOn": "2022-06-15T16:00:17.000Z",
           "wordCount": 2763,
           "title": "Public preview: Windows Admin Center in the Azure portal",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-web-application-firewall-policies-in-azure-firewall-manager",
@@ -383,7 +413,7 @@
           "publishedOn": "2022-06-15T16:00:14.000Z",
           "wordCount": 2905,
           "title": "General availability: Azure WAF policy and DDoS management in Azure Firewall Manager",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "power-platform-connector-ga",
@@ -393,17 +423,17 @@
           "publishedOn": "2022-06-14T19:00:03.000Z",
           "wordCount": 2893,
           "title": "General availability: Azure Data Explorer connector for Power Automate, Logic Apps, and Power Apps",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-private-link-support-for-application-gateway",
           "author": null,
-          "description": "Learn how private link support for Application Gateway drives more secured network access.",
+          "description": "Application Gateway でのプライベート リンクのサポートにより、より安全なネットワーク アクセスを実現する方法をご確認ください。",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-private-link-support-for-application-gateway/",
           "publishedOn": "2022-06-13T19:00:14.000Z",
-          "wordCount": 2797,
-          "title": "Public preview: Private link support in Azure Application Gateway",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "wordCount": 2749,
+          "title": "パブリック プレビュー:Azure Application Gateway でのプライベート リンクのサポート",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "expanded-feature-regional-availability-for-standard-network-features-azure-netapp-files",
@@ -413,7 +443,7 @@
           "publishedOn": "2022-06-09T17:00:28.000Z",
           "wordCount": 2792,
           "title": "Public preview: Expanded feature regional availability for standard network features",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-netapp-files-feature-general-availability-and-feature-expanded-regional-availability",
@@ -423,7 +453,7 @@
           "publishedOn": "2022-06-09T17:00:26.000Z",
           "wordCount": 2843,
           "title": "General availability: Feature general availability and feature expansion of regional availability",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-databricks-available-in-new-regions",
@@ -431,9 +461,9 @@
           "description": "Sweden Central and West Central US regions added to Azure Databricks.",
           "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-azure-databricks-available-in-new-regions/",
           "publishedOn": "2022-06-08T16:00:22.000Z",
-          "wordCount": 2782,
+          "wordCount": 2784,
           "title": "General availability: Azure Databricks available in new regions",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-sdk-for-go",
@@ -443,7 +473,7 @@
           "publishedOn": "2022-06-08T16:00:21.000Z",
           "wordCount": 2727,
           "title": "一般提供:Azure SDK for Go",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-load-testing-supports-splitting-input-data-across-test-engines",
@@ -451,9 +481,9 @@
           "description": "You can now configure your test to automatically split large input data evenly across the test engine instances.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-azure-load-testing-supports-splitting-input-data-across-test-engines/",
           "publishedOn": "2022-06-08T16:00:20.000Z",
-          "wordCount": 2835,
+          "wordCount": 2837,
           "title": "Public preview: Azure Load Testing supports splitting input data across test engines",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-load-testing-support-for-user-specified-jmeter-properties",
@@ -463,7 +493,7 @@
           "publishedOn": "2022-06-08T16:00:20.000Z",
           "wordCount": 2845,
           "title": "Public preview: Azure Load Testing support for user specified JMeter properties",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-load-testing-support-for-customermanaged-keys",
@@ -473,7 +503,7 @@
           "publishedOn": "2022-06-08T16:00:19.000Z",
           "wordCount": 2808,
           "title": "Public preview: Azure Load Testing support for customer-managed keys",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-load-testing-supports-quick-start-tests-with-web-url",
@@ -483,7 +513,7 @@
           "publishedOn": "2022-06-08T16:00:19.000Z",
           "wordCount": 2772,
           "title": "Public preview: Azure Load Testing supports quick start tests with web URL",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-load-testing-support-for-userassigned-managed-identities",
@@ -491,9 +521,9 @@
           "description": "Use Azure AD managed identities with Azure Load Testing Preview to easily access other AAD-protected resources, like Azure Key Vault. Both system-assigned and user-assigned managed identities are now supported.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-azure-load-testing-support-for-userassigned-managed-identities/",
           "publishedOn": "2022-06-08T16:00:18.000Z",
-          "wordCount": 2810,
+          "wordCount": 2812,
           "title": "Public preview: Azure Load Testing support for user-assigned managed identities",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-azure-container-apps-support-for-custom-domains-and-tls-certificates",
@@ -501,9 +531,9 @@
           "description": "You can now use custom domains and secure them with TLS certificates.",
           "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-azure-container-apps-support-for-custom-domains-and-tls-certificates/",
           "publishedOn": "2022-06-08T16:00:17.000Z",
-          "wordCount": 2789,
+          "wordCount": 2791,
           "title": "Generally available: Azure Container Apps support for custom domains and TLS certificates",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-linux-portal-editing-for-applications",
@@ -513,7 +543,7 @@
           "publishedOn": "2022-06-08T16:00:16.000Z",
           "wordCount": 2755,
           "title": "Public preview: Linux portal editing for applications",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-mount-azure-files-and-ephemeral-storage-in-azure-container-apps",
@@ -523,17 +553,17 @@
           "publishedOn": "2022-06-08T16:00:16.000Z",
           "wordCount": 2839,
           "title": "Public preview: Mount Azure Files and ephemeral storage in Azure Container Apps",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-microsoft-graph-api-integration-with-azure-event-grid",
           "author": null,
-          "description": "Use the Event Grid Microsoft Graph API integration to subscribe to events from Azure AD, Outlook, and more.",
+          "description": "Event Grid Microsoft Graph API 統合により、Azure AD や Outlook などからイベントをサブスクライブできます。",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-microsoft-graph-api-integration-with-azure-event-grid/",
           "publishedOn": "2022-06-08T16:00:15.000Z",
-          "wordCount": 2761,
-          "title": "Public preview: Microsoft Graph API integration with Azure Event Grid",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "wordCount": 2738,
+          "title": "パブリック プレビュー:Microsoft Graph API と Azure Event Grid の統合",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "static-web-apps-cli-now-available",
@@ -543,17 +573,17 @@
           "publishedOn": "2022-06-08T16:00:15.000Z",
           "wordCount": 2796,
           "title": "Static Web Apps CLI now available",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-api-management-reusable-policy-fragments",
           "author": null,
-          "description": "Organize policy components into reusable modules that can be inserted into any policy document.",
+          "description": "ポリシーのコンポーネントを再利用可能なモジュールに整理し、任意のポリシー ドキュメントに挿入することができます。",
           "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-api-management-reusable-policy-fragments/",
           "publishedOn": "2022-06-08T16:00:14.000Z",
-          "wordCount": 2751,
-          "title": "Generally available: API Management reusable policy fragments",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "wordCount": 2720,
+          "title": "一般提供:API Management の再利用可能なポリシー フラグメント",
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-api-management-authorizations",
@@ -561,9 +591,9 @@
           "description": "OAuth2 を使用したバックエンド サービスに対する API を使用した認可管理のプロセスを簡素化できます。",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-api-management-authorizations/",
           "publishedOn": "2022-06-08T16:00:14.000Z",
-          "wordCount": 2763,
+          "wordCount": 2765,
           "title": "パブリック プレビュー:API Management の認可",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-arcenabled-system-center-virtual-machine-manager",
@@ -573,7 +603,7 @@
           "publishedOn": "2022-06-08T16:00:13.000Z",
           "wordCount": 2800,
           "title": "パブリック プレビュー:Azure Arc 対応 System Center Virtual Machine Manager",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-azure-monitor-agent-available-on-latest-linux-distros",
@@ -581,9 +611,9 @@
           "description": "Ubuntu 22.04, AlmaLinux, and Rocky Linux now supported via the Azure Monitor Agent.",
           "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-azure-monitor-agent-available-on-latest-linux-distros/",
           "publishedOn": "2022-06-08T16:00:12.000Z",
-          "wordCount": 2785,
+          "wordCount": 2787,
           "title": "Generally available: Azure Monitor Agent available on latest Linux distros",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-connection-monitor-support-for-virtual-machine-scale-sets",
@@ -593,7 +623,7 @@
           "publishedOn": "2022-06-08T16:00:08.000Z",
           "wordCount": 2845,
           "title": "Public preview: Connection Monitor Support for virtual machine scale sets",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-network-watcher-packet-capture-support-for-virtual-machine-scale-sets",
@@ -601,9 +631,9 @@
           "description": "Azure Network Watcher packet capture announces support for virtual machines scale sets. This is as an out of the box, on-demand capability, enabling faster diagnostics and troubleshooting of networking issues.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-network-watcher-packet-capture-support-for-virtual-machine-scale-sets/",
           "publishedOn": "2022-06-08T16:00:08.000Z",
-          "wordCount": 2909,
+          "wordCount": 2911,
           "title": "Public preview: Network Watcher packet capture support for virtual machine scale sets",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "azure-sql-generally-available-updates-for-early-june-2022",
@@ -613,7 +643,7 @@
           "publishedOn": "2022-06-08T16:00:07.000Z",
           "wordCount": 2750,
           "title": "Azure SQL—Generally available updates for early June 2022",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-microsoft-purview-access-policies-for-azure-sql-database",
@@ -621,9 +651,9 @@
           "description": "Use Microsoft Purview to manage access to your SQL sources using access policies.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-microsoft-purview-access-policies-for-azure-sql-database/",
           "publishedOn": "2022-06-08T16:00:06.000Z",
-          "wordCount": 2817,
+          "wordCount": 2819,
           "title": "Public preview: Microsoft Purview access policies for Azure SQL Database",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-cosmos-db-serverless-container-storage-limit-increase-to-1tb",
@@ -631,9 +661,9 @@
           "description": "Store up to 1TB of data in Azure Cosmos DB serverless containers.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-azure-cosmos-db-serverless-container-storage-limit-increase-to-1tb/",
           "publishedOn": "2022-06-08T16:00:06.000Z",
-          "wordCount": 2799,
+          "wordCount": 2801,
           "title": "Public preview: Azure Cosmos DB serverless container storage limit increase to 1TB",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-linux-emulator-with-azure-cosmos-db-api-for-mongodb",
@@ -641,9 +671,9 @@
           "description": "Develop and test locally at no cost on Linux and macOS with Azure Cosmos DB Linux emulator with API for MongoDB support.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-linux-emulator-with-azure-cosmos-db-api-for-mongodb/",
           "publishedOn": "2022-06-08T16:00:05.000Z",
-          "wordCount": 2812,
+          "wordCount": 2814,
           "title": "Public preview: Linux emulator with Azure Cosmos DB API for MongoDB",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-16mb-limit-per-document-in-api-for-mongodb",
@@ -653,7 +683,7 @@
           "publishedOn": "2022-06-08T16:00:03.000Z",
           "wordCount": 2745,
           "title": "パブリック プレビュー:MongoDB 用 API の 1 ドキュメントあたりの 16 MB 上限",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-azure-netapp-files-datastores-for-azure-vmware-solution-public-preview-2-2",
@@ -661,9 +691,9 @@
           "description": "Azure VMware Solution 環境のストレージを最適化し、スケーリングすることができます。",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-azure-netapp-files-datastores-for-azure-vmware-solution-public-preview-2-2/",
           "publishedOn": "2022-06-07T20:41:29.000Z",
-          "wordCount": 2799,
+          "wordCount": 2803,
           "title": "パブリック プレビュー:Azure VMware Solution 向け Azure NetApp Files データストア",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-trusted-launch-support-for-virtual-machines-using-ephemeral-os-disks",
@@ -671,9 +701,9 @@
           "description": "Trusted launch virtual machine (VM) support for VMs using Ephemeral OS disks improves the security of generation 2 VMs in Azure.",
           "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-trusted-launch-support-for-virtual-machines-using-ephemeral-os-disks/",
           "publishedOn": "2022-06-07T17:30:03.000Z",
-          "wordCount": 2818,
+          "wordCount": 2820,
           "title": "General availability: Trusted launch support for virtual machines using Ephemeral OS disks",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-expressroute-ipv6-support-for-global-reach",
@@ -681,9 +711,9 @@
           "description": "Global Reach の IPv6 サポートにより、Azure でデュアルスタックやハイブリッド ネットワークを構築するお客様の可能性が広がります。",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-expressroute-ipv6-support-for-global-reach/",
           "publishedOn": "2022-06-06T16:00:07.000Z",
-          "wordCount": 2737,
+          "wordCount": 2739,
           "title": "パブリック プレビュー:Global Reach 向け ExpressRoute IPv6 サポート",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "ga-updates-resource-configuration-changes",
@@ -693,7 +723,7 @@
           "publishedOn": "2022-06-06T15:00:45.000Z",
           "wordCount": 2757,
           "title": "一般提供:リソース構成の変更に関する更新",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "apdk2205update",
@@ -703,7 +733,7 @@
           "publishedOn": "2022-06-02T19:00:39.000Z",
           "wordCount": 2786,
           "title": "Public preview: Azure Percept DK May (2205) software update",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-azure-nc-a100-v4-virtual-machines-for-ai",
@@ -711,9 +741,9 @@
           "description": "この新しい仮想マシン シリーズは、さまざまな AI ワークロードに最適で、Microsoft の従来の NC 世代シリーズよりも大幅にパフォーマンスを向上させることができます。",
           "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-azure-nc-a100-v4-virtual-machines-for-ai/",
           "publishedOn": "2022-06-01T17:00:22.000Z",
-          "wordCount": 2759,
+          "wordCount": 2761,
           "title": "一般提供:AI に対応した Azure NC A100 v4 仮想マシン",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-conversational-language-understanding",
@@ -721,9 +751,9 @@
           "description": "Conversational language understanding includes multilingual transformer-based models as the underlying model architecture and results in significant accuracy improvements over its predecessor, LUIS.",
           "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-conversational-language-understanding/",
           "publishedOn": "2022-06-01T17:00:21.000Z",
-          "wordCount": 2895,
+          "wordCount": 2897,
           "title": "General availability: Conversational language understanding",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "public-preview-manage-azure-waf-policies-in-azure-firewall-manager",
@@ -731,9 +761,9 @@
           "description": "Azure Firewall Manager では、アプリケーション配信プラットフォーム、Application Gateway、および Azure Front Door の Azure Web Application Firewall (WAF) ポリシーを、一元的かつ大規模に管理する機能がサポートされるようになりました。",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-manage-azure-waf-policies-in-azure-firewall-manager/",
           "publishedOn": "2022-06-01T16:00:21.000Z",
-          "wordCount": 2801,
+          "wordCount": 2803,
           "title": "パブリック プレビュー:Azure Firewall Manager での Azure Web Application Firewall のポリシーの管理",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-storage-optimized-azure-vms-deliver-higher-performance-for-data-analytics",
@@ -741,9 +771,9 @@
           "description": "The new Lasv3 and Lsv3 VM series are well suited for high throughput and high IOPS workloads including big data applications, SQL and NoSQL databases, data intensive applications and more.",
           "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-storage-optimized-azure-vms-deliver-higher-performance-for-data-analytics/",
           "publishedOn": "2022-06-01T16:00:20.000Z",
-          "wordCount": 2882,
+          "wordCount": 2884,
           "title": "General availability: Storage optimized Azure VMs deliver higher performance for data analytics",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-azure-bastion-ip-based-connection-connect-onpremises-resources-via-specified-ip-address",
@@ -753,7 +783,7 @@
           "publishedOn": "2022-05-31T21:00:07.000Z",
           "wordCount": 2729,
           "title": "一般提供:Azure Bastion IP ベース接続",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "general-availability-new-portal-experience-for-microsoft-artifact-registry",
@@ -763,7 +793,7 @@
           "publishedOn": "2022-05-31T19:32:49.000Z",
           "wordCount": 2747,
           "title": "一般提供:Microsoft Artifact Registry の新しいポータル エクスペリエンス",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-switzerland-north-availability-zones",
@@ -773,7 +803,7 @@
           "publishedOn": "2022-05-31T16:00:04.000Z",
           "wordCount": 2776,
           "title": "Generally available: Switzerland North Availability Zones",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         },
         {
           "id": "generally-available-budget-alert-supports-action-groups-with-common-alert-schema-2",
@@ -783,7 +813,7 @@
           "publishedOn": "2022-05-30T16:00:04.000Z",
           "wordCount": 2716,
           "title": "一般提供:予算アラートでの共通のアラート スキーマを持つアクション グループのサポート",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-5aef9660c294a872196e19dba078f0fc62416d38abd9c2d2a18afa5aaf4d7ff2/images/shared/social/azure-icon-250x250.png"
+          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-bb02176e047f4b7deb9501387666a1fecd08ca31a9571421864b08c06fa9d82b/images/shared/social/azure-icon-250x250.png"
         }
       ]
     },
@@ -792,6 +822,26 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "dcccaa487fb59e840dd087d0930843e6e68b9e69",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Kubernetes Service (EKS) 向けの AWS Fargate が、Sinnet 運営のアマゾン ウェブ サービス中国 (北京) リージョンと NWCD 運営のアマゾン ウェブ サービス中国 (寧夏) リージョンで利用可能になりました。AWS Fargate は、サーバーレスで従量制料金のコンピューティングエンジンであり、サーバーを管理することなくアプリケーションの構築に集中することができます。Amazon EKS は、Kubernetes アプリケーションを実行およびスケールするためのマネージドコンテナサービスです。AWS Fargate サーバーレスコンピューティングを Amazon EKS クラスターで使用すれば、サーバーのプロビジョンと管理が不要になり、アプリケーションごとにリソースを指定してその分のみ料金を支払うことができるだけでなく、設計段階からのアプリケーション分離によりセキュリティが強化されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-fargate-elastic-kubernetes-beijing-ningxia-regions/",
+          "publishedOn": "2022-06-28T19:16:02.000Z",
+          "wordCount": 323,
+          "title": "Amazon Elastic Kubernetes Service 向けの AWS Fargate がアマゾン ウェブ サービス中国 (北京と寧夏) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "777f2ba6c8c5eb90b077561c4cb1463c8340cc53",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 Auto Scaling がサポートする、アカウントごとの Auto Scaling グループのデフォルト制限が引き上げられました。お客様は、これまでの 200 個から 500 個の Auto Scaling グループをアカウントごとに作成できるようになります。制限が引き上げられたことにより、お客様はアカウントごとに、より多くのアプリケーションの EC2 インスタンスをプロビジョニング、管理、スケールできるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-auto-scaling-increased-auto-scaling-group-default-limit-per-account/",
+          "publishedOn": "2022-06-28T15:46:12.000Z",
+          "wordCount": 294,
+          "title": "Amazon EC2 Auto Scaling、アカウントごとの Auto Scaling グループのデフォルト制限を引き上げ",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
         {
           "id": "b09c3b1a608a65d2f3cac6aa7f7316eb24d8b7ef",
           "author": "aws@amazon.com",
@@ -1703,16 +1753,6 @@
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
-          "id": "9fe72a061a5ed64e02666fb77b5f41d70719dff5",
-          "author": "aws@amazon.com",
-          "description": "Amazon GuardDuty の機能である Amazon GuardDuty EKS Protection が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。この機能は、Amazon Elastic Kubernetes Service (Amazon EKS) クラスターアクティビティを継続的にモニタリングおよびプロファイリングして、コンテナワークロードに対する潜在的な脅威を表す悪意のある動作や疑わしい動作を識別します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-guardduty-eks-protection-jakarta-region/",
-          "publishedOn": "2022-06-09T18:18:51.000Z",
-          "wordCount": 353,
-          "title": "Amazon GuardDuty EKS Protection が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
           "id": "3da8e8376ef4cc3f59de5d54d6465da0a1e8ecce",
           "author": "aws@amazon.com",
           "description": "AWS Security Hub がアジアパシフィック (ジャカルタ) リージョンで利用可能になりました。今後は、AWS アジアパシフィック (ジャカルタ) リージョンで AWS アカウントのセキュリティ体制を一元的に表示および管理できます。",
@@ -1780,16 +1820,6 @@
           "publishedOn": "2022-06-08T02:33:28.000Z",
           "wordCount": 331,
           "title": "Amazon AppStream 2.0 が、汎用インスタンスファミリーにより大きなインスタンスサイズを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "5064a678054f852e6e68fda678c45e8848f79c3e",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker には、データの探索と機械学習 (ML) モデルの構築のために、フルマネージドノートブックを起動するための 2 つのオプションがあります。最初のオプションは、Amazon SageMaker Studio 内でアクセス可能なファストスタートのコラボレーションに適したノートブックです。これは、機械学習用の完全に統合された開発環境 (IDE) です。Studio でノートブックをすばやく起動し、作業を中断することなく、基盤となるコンピューティングリソースを簡単にダイヤルアップまたはダイヤルダウンでき、数回クリックするだけでノートブックをリンクとして共有することもできます。ノートブックの作成に加えて、Studio の単一のウィンドウで、モデルを構築、トレーニング、デバッグ、追跡、デプロイ、およびモニタリングするためにすべての機械学習の開発ステップを実行できます。2 つ目のオプションは Amazon SageMaker Notebook Instance です。これは、クラウドでノートブックを実行する単一のフルマネージド機械学習コンピューティングインスタンスであり、お客様がノートブック設定をより細かく制御できるようにします。本日、SageMaker Studio と SageMaker Notebook Instance の両方に JupyterLab 3 ノートブックが付属するようになり、SageMaker で機械学習モデルを構築するデータサイエンティストとデベロッパーの生産性を向上させることができるようになったことを発表します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-studio-sagemaker-notebook-instance-jupyterlab-3-notebooks/",
-          "publishedOn": "2022-06-08T02:31:02.000Z",
-          "wordCount": 335,
-          "title": "Amazon SageMaker Studio および SageMaker Notebook インスタンスに JupyterLab 3 ノートブックが付属",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]

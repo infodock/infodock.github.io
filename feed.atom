@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-28T00:30:15.501Z</id>
+    <id>urn:2022-06-29T00:27:57.415Z</id>
     <title>Info Dock</title>
-    <updated>2022-06-28T00:30:15.501Z</updated>
+    <updated>2022-06-29T00:27:57.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Elastic Kubernetes Service 向けの AWS Fargate がアマゾン ウェブ サービス中国 (北京と寧夏) リージョンで利用可能に]]></title>
+        <id>dcccaa487fb59e840dd087d0930843e6e68b9e69</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-fargate-elastic-kubernetes-beijing-ningxia-regions/"/>
+        <updated>2022-06-28T19:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) 向けの AWS Fargate が、Sinnet 運営のアマゾン ウェブ サービス中国 (北京) リージョンと NWCD 運営のアマゾン ウェブ サービス中国 (寧夏) リージョンで利用可能になりました。AWS Fargate は、サーバーレスで従量制料金のコンピューティングエンジンであり、サーバーを管理することなくアプリケーションの構築に集中することができます。Amazon EKS は、Kubernetes アプリケーションを実行およびスケールするためのマネージドコンテナサービスです。AWS Fargate サーバーレスコンピューティングを Amazon EKS クラスターで使用すれば、サーバーのプロビジョンと管理が不要になり、アプリケーションごとにリソースを指定してその分のみ料金を支払うことができるだけでなく、設計段階からのアプリケーション分離によりセキュリティが強化されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: MATCH clause for Query]]></title>
+        <id>matchclausequery</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/matchclausequery/"/>
+        <updated>2022-06-28T19:00:13.000Z</updated>
+        <summary type="html"><![CDATA[The MATCH clause is used in the Azure Digital Twins query language and allows you to specify which pattern should be followed while traversing relationships in the ADT graph.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 Auto Scaling、アカウントごとの Auto Scaling グループのデフォルト制限を引き上げ]]></title>
+        <id>777f2ba6c8c5eb90b077561c4cb1463c8340cc53</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-auto-scaling-increased-auto-scaling-group-default-limit-per-account/"/>
+        <updated>2022-06-28T15:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EC2 Auto Scaling がサポートする、アカウントごとの Auto Scaling グループのデフォルト制限が引き上げられました。お客様は、これまでの 200 個から 500 個の Auto Scaling グループをアカウントごとに作成できるようになります。制限が引き上げられたことにより、お客様はアカウントごとに、より多くのアプリケーションの EC2 インスタンスをプロビジョニング、管理、スケールできるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Export device data under an organization in Azure IoT Central]]></title>
+        <id>iotc-export-data-under-organization</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-export-data-under-organization/"/>
+        <updated>2022-06-28T15:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Azure IoT Central data export feature now supports the ability to filter data under an organization as well as include organizations path in the exported data.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS が Amazon CodeWhisperer を発表 (プレビュー)]]></title>
         <id>b09c3b1a608a65d2f3cac6aa7f7316eb24d8b7ef</id>
@@ -896,11 +936,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: SMB Continuous Availability shares for Citrix App Layering]]></title>
-        <id>azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering/"/>
-        <updated>2022-06-20T17:00:11.000Z</updated>
-        <summary type="html"><![CDATA[New feature added to Azure NetApp Files.]]></summary>
+        <title type="html"><![CDATA[General availability: LDAP signing]]></title>
+        <id>azure-netapp-files-general-availability-of-ldap-signing</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-general-availability-of-ldap-signing/"/>
+        <updated>2022-06-20T17:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Feature has reached general availability.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure GitOps with Flux v2]]></title>
+        <id>general-availability-of-azure-gitops-with-flux-v2</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-of-azure-gitops-with-flux-v2/"/>
+        <updated>2022-06-20T17:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Announcing the general availability of GitOps with Flux v2 in Azure Kubernetes Service (AKS) and Azure Arc-enabled Kubernetes (Arc K8s).]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1216,11 +1266,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: Private link support in Azure Application Gateway]]></title>
+        <title type="html"><![CDATA[パブリック プレビュー:Azure Application Gateway でのプライベート リンクのサポート]]></title>
         <id>public-preview-private-link-support-for-application-gateway</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-private-link-support-for-application-gateway/"/>
         <updated>2022-06-13T19:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Learn how private link support for Application Gateway drives more secured network access.]]></summary>
+        <summary type="html"><![CDATA[Application Gateway でのプライベート リンクのサポートにより、より安全なネットワーク アクセスを実現する方法をご確認ください。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1311,16 +1361,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-iot-device-management-price-reduction-secure-tunneling/"/>
         <updated>2022-06-09T18:19:43.000Z</updated>
         <summary type="html"><![CDATA[本日、AWS IoT Device Management の Secure Tunneling 機能の料金を 80% 引き下げたことをお知らせします。コスト効率が向上したことで、お客様は Secure Tunneling をスケールして、制限付きファイアウォールの背後にデプロイされたリモートデバイスにアクセスし、増大する IoT ワークロードのトラブルシューティング、設定の更新、トレーニング、および他の運用タスクを AWS で実行できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon GuardDuty EKS Protection が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
-        <id>9fe72a061a5ed64e02666fb77b5f41d70719dff5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-guardduty-eks-protection-jakarta-region/"/>
-        <updated>2022-06-09T18:18:51.000Z</updated>
-        <summary type="html"><![CDATA[Amazon GuardDuty の機能である Amazon GuardDuty EKS Protection が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。この機能は、Amazon Elastic Kubernetes Service (Amazon EKS) クラスターアクティビティを継続的にモニタリングおよびプロファイリングして、コンテナワークロードに対する潜在的な脅威を表す悪意のある動作や疑わしい動作を識別します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1466,11 +1506,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: Microsoft Graph API integration with Azure Event Grid]]></title>
+        <title type="html"><![CDATA[パブリック プレビュー:Microsoft Graph API と Azure Event Grid の統合]]></title>
         <id>public-preview-microsoft-graph-api-integration-with-azure-event-grid</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-microsoft-graph-api-integration-with-azure-event-grid/"/>
         <updated>2022-06-08T16:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Use the Event Grid Microsoft Graph API integration to subscribe to events from Azure AD, Outlook, and more.]]></summary>
+        <summary type="html"><![CDATA[Event Grid Microsoft Graph API 統合により、Azure AD や Outlook などからイベントをサブスクライブできます。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1486,11 +1526,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generally available: API Management reusable policy fragments]]></title>
+        <title type="html"><![CDATA[一般提供:API Management の再利用可能なポリシー フラグメント]]></title>
         <id>generally-available-api-management-reusable-policy-fragments</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-api-management-reusable-policy-fragments/"/>
         <updated>2022-06-08T16:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Organize policy components into reusable modules that can be inserted into any policy document.]]></summary>
+        <summary type="html"><![CDATA[ポリシーのコンポーネントを再利用可能なモジュールに整理し、任意のポリシー ドキュメントに挿入することができます。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1641,16 +1681,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-appstream-2-0-larger-instance-sizes-general-purpose-instance-family/"/>
         <updated>2022-06-08T02:33:28.000Z</updated>
         <summary type="html"><![CDATA[Amazon AppStream 2.0 では、汎用インスタンスファミリーに新しいインスタンスサイズ stream.standard.xlarge、stream.standard.2xlarge を追加しました。stream.standard.xlarge では 4vCPU と 16 GiB メモリ、 stream.standard.2xlarge では 8v CPU と 32 GiB メモリのインスタンスを提供します。これらの新しいインスタンスは、効率的に運用するためにより多くのシステムリソースを必要とする多様なワークロードに対して、コンピューティング、メモリ、ネットワークリソースのより高いパフォーマンスのオプションを提供します。例えば、統合開発環境、ウェブサーバー、コードリポジトリなどが挙げられます。新しいインスタンスサイズは、AppStream のすべてのフリートタイプ (Always-On、On-Demand、Elastic) で利用可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Studio および SageMaker Notebook インスタンスに JupyterLab 3 ノートブックが付属]]></title>
-        <id>5064a678054f852e6e68fda678c45e8848f79c3e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-studio-sagemaker-notebook-instance-jupyterlab-3-notebooks/"/>
-        <updated>2022-06-08T02:31:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker には、データの探索と機械学習 (ML) モデルの構築のために、フルマネージドノートブックを起動するための 2 つのオプションがあります。最初のオプションは、Amazon SageMaker Studio 内でアクセス可能なファストスタートのコラボレーションに適したノートブックです。これは、機械学習用の完全に統合された開発環境 (IDE) です。Studio でノートブックをすばやく起動し、作業を中断することなく、基盤となるコンピューティングリソースを簡単にダイヤルアップまたはダイヤルダウンでき、数回クリックするだけでノートブックをリンクとして共有することもできます。ノートブックの作成に加えて、Studio の単一のウィンドウで、モデルを構築、トレーニング、デバッグ、追跡、デプロイ、およびモニタリングするためにすべての機械学習の開発ステップを実行できます。2 つ目のオプションは Amazon SageMaker Notebook Instance です。これは、クラウドでノートブックを実行する単一のフルマネージド機械学習コンピューティングインスタンスであり、お客様がノートブック設定をより細かく制御できるようにします。本日、SageMaker Studio と SageMaker Notebook Instance の両方に JupyterLab 3 ノートブックが付属するようになり、SageMaker で機械学習モデルを構築するデータサイエンティストとデベロッパーの生産性を向上させることができるようになったことを発表します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
