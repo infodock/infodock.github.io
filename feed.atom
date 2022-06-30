@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-29T00:27:57.415Z</id>
+    <id>urn:2022-06-30T00:27:17.743Z</id>
     <title>Info Dock</title>
-    <updated>2022-06-29T00:27:57.415Z</updated>
+    <updated>2022-06-30T00:27:17.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[仮想プライベートクラウド (VPC) のサポートが SageMaker Ground Truth で一般に利用可能に]]></title>
+        <id>39776c52ea0291592569102cdaa1935a1b293f05</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/virtual-private-cloud-vpc-support-sagemaker-ground-truth/"/>
+        <updated>2022-06-29T18:33:32.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Ground Truth は、機械学習モデル向けの高精度のトレーニングデータセットを構築するのに役立ちます。SageMaker Ground Truth を使用すると、Amazon Mechanical Turk や選択したベンダー企業のワーカー、または自社の労働力を活用して、機械学習モデルのトレーニング用のラベル付きデータセットを作成できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight が CloudWatch メトリクスを使用したモニタリングを開始]]></title>
+        <id>a34c3dc8cb2951d286bd34068069f9278916f818</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-quicksight-launches-monitoring-cloudwatch-metrics/"/>
+        <updated>2022-06-29T18:32:43.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight で、Amazon CloudWatch にメトリクスを送信して QuickSight アセットをモニタリングできるようになりました。QuickSight の開発者と管理者は、これらのメトリクスを使用して、QuickSight エコシステムの可用性とパフォーマンスをほぼリアルタイムで監視し、対応できます。データインジェスト、ダッシュボード、ビジュアルを監視して、一貫性があり、高性能で中断のないサービスを QuickSight で閲覧者に提供できます。詳細については、こちらをご覧ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Elastic Kubernetes Service 向けの AWS Fargate がアマゾン ウェブ サービス中国 (北京と寧夏) リージョンで利用可能に]]></title>
         <id>dcccaa487fb59e840dd087d0930843e6e68b9e69</id>
@@ -696,11 +716,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: App Service hybrid connections manager for Linux]]></title>
+        <title type="html"><![CDATA[Private preview: App Service hybrid connections manager for Linux]]></title>
         <id>public-preview-app-service-hybrid-connections-manager-for-linux</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-app-service-hybrid-connections-manager-for-linux/"/>
         <updated>2022-06-22T16:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Linux users can now use hybrid connections manager without maintaining a Windows client.]]></summary>
+        <summary type="html"><![CDATA[This feature is in private preview. Linux users can now use hybrid connections manager without maintaining a Windows client.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1636,31 +1656,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS DeepRacer がクォータ管理を導入]]></title>
-        <id>cbbf04d4d73ecc414c640e5f188e4c0134943825</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-deepracer-quota-management/"/>
-        <updated>2022-06-08T02:37:29.000Z</updated>
-        <summary type="html"><![CDATA[AWS DeepRacer Multi-user モードは、組織が 1 つの AWS アカウントで複数の AWS DeepRacer 参加者を後援するためのエキサイティングな方法を提供します。これまで、AWS DeepRacer のイベント主催者は、参加者の予算とコントロールを事前に設定し、使用状況をモニタリングして予算を維持、モニタリング、管理する方法が不足していました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon Chime SDK がメッセージング会話 API を発表]]></title>
         <id>a1e5f8eb3d0f0c534d0b2c32691730493ab2bfaf</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-chime-sdk-messaging-conversation-apis/"/>
         <updated>2022-06-08T02:36:40.000Z</updated>
         <summary type="html"><![CDATA[Amazon Chime SDK メッセージングを使用すると、デベロッパーはビジネスユーザーとその顧客をウェブおよびモバイルアプリケーションで安全かつスケーラブルなメッセージングに接続できます。本日より、デベロッパーは、特定のチャネルを検索する機能を提供する新しい API にアクセスできるようになりました。また、アプリケーションを開くときに、ユーザーの注意が必要なメッセージングチャネルを表示するためにクライアントが接続する際、情報を自動的にプリフェッチします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for MySQL が、新しいマイナーバージョン (5.7.38 および 8.0.29) のサポートを開始]]></title>
-        <id>5c47271220993941b6dcda7edbecf8eceabab79a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-rds-mysql-supports-minor-versions/"/>
-        <updated>2022-06-08T02:35:03.000Z</updated>
-        <summary type="html"><![CDATA[MySQL データベースバージョン 5.7 および 8.0 の更新の発表に続いて、MySQL マイナーバージョン 5.7.38 および 8.0.29 をサポートするために Amazon Relational Database Service (Amazon RDS) for MySQL を更新しました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1801,16 +1801,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-switzerland-north-availability-zones/"/>
         <updated>2022-05-31T16:00:04.000Z</updated>
         <summary type="html"><![CDATA[Three new zones provide you with options for additional resiliency and tolerance to infrastructure impact.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:予算アラートでの共通のアラート スキーマを持つアクション グループのサポート]]></title>
-        <id>generally-available-budget-alert-supports-action-groups-with-common-alert-schema-2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-budget-alert-supports-action-groups-with-common-alert-schema-2/"/>
-        <updated>2022-05-30T16:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Azure コスト管理予算アラートでは、共通のアラート スキーマを持つアクション グループがサポートされるようになりました。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
