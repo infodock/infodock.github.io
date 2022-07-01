@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-30T00:27:17.743Z</id>
+    <id>urn:2022-07-01T00:31:52.896Z</id>
     <title>Info Dock</title>
-    <updated>2022-06-30T00:27:17.743Z</updated>
+    <updated>2022-07-01T00:31:52.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Active Directory authentication for Application Insights]]></title>
+        <id>general-availability-azure-ad-authentication-for-application-insights</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-ad-authentication-for-application-insights/"/>
+        <updated>2022-06-30T19:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Azure Active Directory (Azure AD) authentication for Azure Monitor Application helps ensure that only authenticated telemetry is ingested in your Application Insights resources.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Azure Backup multi-user authorization for recovery services vaults]]></title>
+        <id>azure-backup-mua-ga</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-backup-mua-ga/"/>
+        <updated>2022-06-30T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multi-user authorization for Backup provides enhanced protection for your backup data in recovery services vaults against unauthorized critical operations.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: 2022-05-31 Azure IoT Central REST API release]]></title>
+        <id>iotc-2022-05-31-rest-api</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-2022-05-31-rest-api/"/>
+        <updated>2022-06-30T16:00:03.000Z</updated>
+        <summary type="html"><![CDATA[The Azure IoT Central REST API now enables GA support for creating and managing device groups and organizations, configure file uploads destination, and add organization association to existing endpoints.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Resize rows in Azure IoT Central device raw data view]]></title>
+        <id>iotc-resize-raw-data-view</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-resize-raw-data-view/"/>
+        <updated>2022-06-30T16:00:02.000Z</updated>
+        <summary type="html"><![CDATA[You can now resize rows in Azure IoT Central’s device raw data view allowing the ability to analyze more data in a single view.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) により、ストレージ容量の動的なサイズ変更が可能に]]></title>
+        <id>357f3d57269ec956e94ed39b37d6b512eb528093</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-documentdb-mongodb-dynamic-resizing-storage/"/>
+        <updated>2022-06-30T15:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) クラスターに割り当てられたストレージ容量が、クラスターからデータを削除すると動的に減少するようになりました。Amazon DocumentDB は、大規模な JSON データ管理のためのデータベースサービスであり、AWS で完全に管理および統合されている、高い耐久性を備えたエンタープライズ対応のサービスです。以前は、コレクションを削除するなどして Amazon DocumentDB のデータが削除されても、割り当てられた総容量は変わりませんでした。将来的にデータ量が増加すると、空き容量は自動的に再利用されました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Temporary access pass for Azure Active Directory]]></title>
+        <id>general-availability-temporary-access-pass-for-azure-active-directory</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-temporary-access-pass-for-azure-active-directory/"/>
+        <updated>2022-06-30T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Temporary Access Pass is now generally available in Public and US Gov clouds.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想プライベートクラウド (VPC) のサポートが SageMaker Ground Truth で一般に利用可能に]]></title>
         <id>39776c52ea0291592569102cdaa1935a1b293f05</id>
@@ -566,11 +626,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General availability: Azure Machine Learning announcements for June 2022]]></title>
+        <title type="html"><![CDATA[一般提供:2022 年 6 月の Azure Machine Learning に関するお知らせ]]></title>
         <id>general-availability-azure-machine-learning-announcements-for-june-2022</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-machine-learning-announcements-for-june-2022/"/>
         <updated>2022-06-22T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[New features include MLflow enhancements and train and deploy models in Azure hybrid and multi-cloud.]]></summary>
+        <summary type="html"><![CDATA[新機能として、MLflow の強化、Azure ハイブリッドおよびマルチクラウドでのモデルのトレーニングおよびデプロイが追加されました。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1676,16 +1736,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon AppStream 2.0 が、汎用インスタンスファミリーにより大きなインスタンスサイズを追加]]></title>
-        <id>941cdd6f2fb2352c2572108f9465d6407b5f4cb2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-appstream-2-0-larger-instance-sizes-general-purpose-instance-family/"/>
-        <updated>2022-06-08T02:33:28.000Z</updated>
-        <summary type="html"><![CDATA[Amazon AppStream 2.0 では、汎用インスタンスファミリーに新しいインスタンスサイズ stream.standard.xlarge、stream.standard.2xlarge を追加しました。stream.standard.xlarge では 4vCPU と 16 GiB メモリ、 stream.standard.2xlarge では 8v CPU と 32 GiB メモリのインスタンスを提供します。これらの新しいインスタンスは、効率的に運用するためにより多くのシステムリソースを必要とする多様なワークロードに対して、コンピューティング、メモリ、ネットワークリソースのより高いパフォーマンスのオプションを提供します。例えば、統合開発環境、ウェブサーバー、コードリポジトリなどが挙げられます。新しいインスタンスサイズは、AppStream のすべてのフリートタイプ (Always-On、On-Demand、Elastic) で利用可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[パブリック プレビュー:Azure VMware Solution 向け Azure NetApp Files データストア]]></title>
         <id>public-preview-azure-netapp-files-datastores-for-azure-vmware-solution-public-preview-2-2</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-netapp-files-datastores-for-azure-vmware-solution-public-preview-2-2/"/>
@@ -1771,36 +1821,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-storage-optimized-azure-vms-deliver-higher-performance-for-data-analytics/"/>
         <updated>2022-06-01T16:00:20.000Z</updated>
         <summary type="html"><![CDATA[The new Lasv3 and Lsv3 VM series are well suited for high throughput and high IOPS workloads including big data applications, SQL and NoSQL databases, data intensive applications and more.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:Azure Bastion IP ベース接続]]></title>
-        <id>general-availability-azure-bastion-ip-based-connection-connect-onpremises-resources-via-specified-ip-address</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-bastion-ip-based-connection-connect-onpremises-resources-via-specified-ip-address/"/>
-        <updated>2022-05-31T21:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Azure Bastion を使用して、ExpressRoute およびサイト間 VPN でオンプレミスのリソースに接続できるようになりました。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:Microsoft Artifact Registry の新しいポータル エクスペリエンス]]></title>
-        <id>general-availability-new-portal-experience-for-microsoft-artifact-registry</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-new-portal-experience-for-microsoft-artifact-registry/"/>
-        <updated>2022-05-31T19:32:49.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Artifact Registry の Web サイトで、Microsoft のアーティファクトとコンテナー イメージを参照できるようになりました。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Switzerland North Availability Zones]]></title>
-        <id>generally-available-switzerland-north-availability-zones</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-switzerland-north-availability-zones/"/>
-        <updated>2022-05-31T16:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Three new zones provide you with options for additional resiliency and tolerance to infrastructure impact.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
