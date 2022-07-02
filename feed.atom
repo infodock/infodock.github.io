@@ -1,46 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-01T00:31:52.896Z</id>
+    <id>urn:2022-07-02T00:30:37.267Z</id>
     <title>Info Dock</title>
-    <updated>2022-07-01T00:31:52.896Z</updated>
+    <updated>2022-07-02T00:30:37.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[General availability: Azure Active Directory authentication for Application Insights]]></title>
-        <id>general-availability-azure-ad-authentication-for-application-insights</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-ad-authentication-for-application-insights/"/>
-        <updated>2022-06-30T19:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Azure Active Directory (Azure AD) authentication for Azure Monitor Application helps ensure that only authenticated telemetry is ingested in your Application Insights resources.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Backup multi-user authorization for recovery services vaults]]></title>
-        <id>azure-backup-mua-ga</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-backup-mua-ga/"/>
-        <updated>2022-06-30T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Multi-user authorization for Backup provides enhanced protection for your backup data in recovery services vaults against unauthorized critical operations.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: 2022-05-31 Azure IoT Central REST API release]]></title>
-        <id>iotc-2022-05-31-rest-api</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-2022-05-31-rest-api/"/>
-        <updated>2022-06-30T16:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The Azure IoT Central REST API now enables GA support for creating and managing device groups and organizations, configure file uploads destination, and add organization association to existing endpoints.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Resize rows in Azure IoT Central device raw data view]]></title>
-        <id>iotc-resize-raw-data-view</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-resize-raw-data-view/"/>
-        <updated>2022-06-30T16:00:02.000Z</updated>
-        <summary type="html"><![CDATA[You can now resize rows in Azure IoT Central’s device raw data view allowing the ability to analyze more data in a single view.]]></summary>
+        <title type="html"><![CDATA[Public preview: Microsoft Purview data sharing for Azure Storage]]></title>
+        <id>public-preview-microsoft-purview-data-sharing</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-microsoft-purview-data-sharing/"/>
+        <updated>2022-07-01T16:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Purview data sharing for in-place data sharing for Azure Data Lake Storage (ADLS Gen2) and Azure Blob Storage is now in public preview.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -53,16 +23,6 @@
         <summary type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) クラスターに割り当てられたストレージ容量が、クラスターからデータを削除すると動的に減少するようになりました。Amazon DocumentDB は、大規模な JSON データ管理のためのデータベースサービスであり、AWS で完全に管理および統合されている、高い耐久性を備えたエンタープライズ対応のサービスです。以前は、コレクションを削除するなどして Amazon DocumentDB のデータが削除されても、割り当てられた総容量は変わりませんでした。将来的にデータ量が増加すると、空き容量は自動的に再利用されました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Temporary access pass for Azure Active Directory]]></title>
-        <id>general-availability-temporary-access-pass-for-azure-active-directory</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-temporary-access-pass-for-azure-active-directory/"/>
-        <updated>2022-06-30T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Temporary Access Pass is now generally available in Public and US Gov clouds.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
         </author>
     </entry>
     <entry>
@@ -626,11 +586,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一般提供:2022 年 6 月の Azure Machine Learning に関するお知らせ]]></title>
+        <title type="html"><![CDATA[General availability: Azure Machine Learning announcements for June 2022]]></title>
         <id>general-availability-azure-machine-learning-announcements-for-june-2022</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-machine-learning-announcements-for-june-2022/"/>
         <updated>2022-06-22T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[新機能として、MLflow の強化、Azure ハイブリッドおよびマルチクラウドでのモデルのトレーニングおよびデプロイが追加されました。]]></summary>
+        <summary type="html"><![CDATA[New features include MLflow enhancements and train and deploy models in Azure hybrid and multi-cloud.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1016,21 +976,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General availability: LDAP signing]]></title>
-        <id>azure-netapp-files-general-availability-of-ldap-signing</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-general-availability-of-ldap-signing/"/>
-        <updated>2022-06-20T17:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Feature has reached general availability.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure GitOps with Flux v2]]></title>
-        <id>general-availability-of-azure-gitops-with-flux-v2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-of-azure-gitops-with-flux-v2/"/>
-        <updated>2022-06-20T17:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Announcing the general availability of GitOps with Flux v2 in Azure Kubernetes Service (AKS) and Azure Arc-enabled Kubernetes (Arc K8s).]]></summary>
+        <title type="html"><![CDATA[Public preview: SMB Continuous Availability shares for Citrix App Layering]]></title>
+        <id>azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering/"/>
+        <updated>2022-06-20T17:00:11.000Z</updated>
+        <summary type="html"><![CDATA[New feature added to Azure NetApp Files.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1346,11 +1296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Azure Application Gateway でのプライベート リンクのサポート]]></title>
+        <title type="html"><![CDATA[Public preview: Private link support in Azure Application Gateway]]></title>
         <id>public-preview-private-link-support-for-application-gateway</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-private-link-support-for-application-gateway/"/>
         <updated>2022-06-13T19:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Application Gateway でのプライベート リンクのサポートにより、より安全なネットワーク アクセスを実現する方法をご確認ください。]]></summary>
+        <summary type="html"><![CDATA[Learn how private link support for Application Gateway drives more secured network access.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1586,11 +1536,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Microsoft Graph API と Azure Event Grid の統合]]></title>
+        <title type="html"><![CDATA[Public preview: Microsoft Graph API integration with Azure Event Grid]]></title>
         <id>public-preview-microsoft-graph-api-integration-with-azure-event-grid</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-microsoft-graph-api-integration-with-azure-event-grid/"/>
         <updated>2022-06-08T16:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Event Grid Microsoft Graph API 統合により、Azure AD や Outlook などからイベントをサブスクライブできます。]]></summary>
+        <summary type="html"><![CDATA[Use the Event Grid Microsoft Graph API integration to subscribe to events from Azure AD, Outlook, and more.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1606,11 +1556,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一般提供:API Management の再利用可能なポリシー フラグメント]]></title>
+        <title type="html"><![CDATA[Generally available: API Management reusable policy fragments]]></title>
         <id>generally-available-api-management-reusable-policy-fragments</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-api-management-reusable-policy-fragments/"/>
         <updated>2022-06-08T16:00:14.000Z</updated>
-        <summary type="html"><![CDATA[ポリシーのコンポーネントを再利用可能なモジュールに整理し、任意のポリシー ドキュメントに挿入することができます。]]></summary>
+        <summary type="html"><![CDATA[Organize policy components into reusable modules that can be inserted into any policy document.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1781,46 +1731,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/apdk2205update/"/>
         <updated>2022-06-02T19:00:39.000Z</updated>
         <summary type="html"><![CDATA[The Azure Percept March update includes fixes related to security.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:AI に対応した Azure NC A100 v4 仮想マシン]]></title>
-        <id>generally-available-azure-nc-a100-v4-virtual-machines-for-ai</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-nc-a100-v4-virtual-machines-for-ai/"/>
-        <updated>2022-06-01T17:00:22.000Z</updated>
-        <summary type="html"><![CDATA[この新しい仮想マシン シリーズは、さまざまな AI ワークロードに最適で、Microsoft の従来の NC 世代シリーズよりも大幅にパフォーマンスを向上させることができます。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Conversational language understanding]]></title>
-        <id>general-availability-conversational-language-understanding</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-conversational-language-understanding/"/>
-        <updated>2022-06-01T17:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Conversational language understanding includes multilingual transformer-based models as the underlying model architecture and results in significant accuracy improvements over its predecessor, LUIS.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Azure Firewall Manager での Azure Web Application Firewall のポリシーの管理]]></title>
-        <id>public-preview-manage-azure-waf-policies-in-azure-firewall-manager</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-manage-azure-waf-policies-in-azure-firewall-manager/"/>
-        <updated>2022-06-01T16:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Azure Firewall Manager では、アプリケーション配信プラットフォーム、Application Gateway、および Azure Front Door の Azure Web Application Firewall (WAF) ポリシーを、一元的かつ大規模に管理する機能がサポートされるようになりました。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Storage optimized Azure VMs deliver higher performance for data analytics]]></title>
-        <id>general-availability-storage-optimized-azure-vms-deliver-higher-performance-for-data-analytics</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-storage-optimized-azure-vms-deliver-higher-performance-for-data-analytics/"/>
-        <updated>2022-06-01T16:00:20.000Z</updated>
-        <summary type="html"><![CDATA[The new Lasv3 and Lsv3 VM series are well suited for high throughput and high IOPS workloads including big data applications, SQL and NoSQL databases, data intensive applications and more.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
