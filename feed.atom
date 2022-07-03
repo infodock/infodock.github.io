@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-02T00:30:37.267Z</id>
+    <id>urn:2022-07-03T00:29:49.609Z</id>
     <title>Info Dock</title>
-    <updated>2022-07-02T00:30:37.267Z</updated>
+    <updated>2022-07-03T00:29:49.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1721,16 +1721,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/ga-updates-resource-configuration-changes/"/>
         <updated>2022-06-06T15:00:45.000Z</updated>
         <summary type="html"><![CDATA[リソース構成の変更により、サブスクリプションとテナント全体でクエリを実行し、Azure Resource Graph でリソースの変更を検出することができます。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Percept DK May (2205) software update]]></title>
-        <id>apdk2205update</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/apdk2205update/"/>
-        <updated>2022-06-02T19:00:39.000Z</updated>
-        <summary type="html"><![CDATA[The Azure Percept March update includes fixes related to security.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
