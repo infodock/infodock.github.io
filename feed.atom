@@ -1,10 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-06T00:33:56.822Z</id>
+    <id>urn:2022-07-07T00:32:59.436Z</id>
     <title>Info Dock</title>
-    <updated>2022-07-06T00:33:56.822Z</updated>
+    <updated>2022-07-07T00:32:59.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Archive Storage now available in South Africa North]]></title>
+        <id>general-availability-azure-archive-storage-now-available-in-south-africa-north</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-archive-storage-now-available-in-south-africa-north/"/>
+        <updated>2022-07-06T19:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Reduce spending by storing rarely accessed data to Azure Archive Storage, now in new regions.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Migration tools for Azure Monitor Agent]]></title>
+        <id>public-preview-migration-tools-for-azure-monitor-agent</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-migration-tools-for-azure-monitor-agent/"/>
+        <updated>2022-07-06T16:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Migration to the cost-effective, secure, performant, and manageable new Azure Monitor agent is now made easy using migration tools and helpers.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Database for PostgreSQL—Hyperscale (Citus) supports PostgreSQL minor versions]]></title>
+        <id>general-availability-azure-database-for-postgresql-hyperscale-citus-supports-postgresql-minor-versions-3</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-database-for-postgresql-hyperscale-citus-supports-postgresql-minor-versions-3/"/>
+        <updated>2022-07-06T16:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Benefit from the latest PostgreSQL minor versions for Azure Database for PostgreSQL – Hyperscale (Citus).]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Azure Functions retry policy for Event Hubs and timer triggers]]></title>
+        <id>generally-available-azure-functions-retry-policy-for-event-hubs-and-timer-triggers</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-functions-retry-policy-for-event-hubs-and-timer-triggers/"/>
+        <updated>2022-07-06T16:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Azure Functions now supports setting a retry policy for Azure Event Hubs and timer triggers.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Azure Digital Twins Data history]]></title>
+        <id>generally-available-azure-digital-twins-data-history</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-digital-twins-data-history/"/>
+        <updated>2022-07-06T16:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Data history is an integration feature of Azure Digital Twins.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Active Directory authentication for Application Insights]]></title>
+        <id>general-availability-azure-active-directory-authentication-for-application-insights</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-active-directory-authentication-for-application-insights/"/>
+        <updated>2022-07-06T16:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Azure Active Directory (Azure AD) authentication for Azure Monitor Application helps ensure that only authenticated telemetry is ingested in your Application Insights resources.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Application Insights standard test for synthetic monitoring]]></title>
+        <id>general-availability-application-insights-standard-test-for-synthetic-monitoring</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-application-insights-standard-test-for-synthetic-monitoring/"/>
+        <updated>2022-07-06T16:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Standard tests are a single request test which also includes SSL certificate validity, proactive lifetime check, HTTP request verb, custom headers, and custom data associated with your HTTP request.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Container Insights now supports Windows Server 2022]]></title>
+        <id>public-preview-container-insights-now-supports-windows-server-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-container-insights-now-supports-windows-server-2022/"/>
+        <updated>2022-07-06T16:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Container Insights now supports the Windows Server 2022 operating system.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: User-assigned Managed Identity support for Azure Monitor Agent]]></title>
+        <id>public-preview-userassigned-managed-identity-support-for-azure-monitor-agent</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-userassigned-managed-identity-support-for-azure-monitor-agent/"/>
+        <updated>2022-07-06T16:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Azure Monitor Agent (AMA) provides a secure, cost-effective, simplified, performant way to collect telemetry data from IaaS resources. It now supports installation and authentication at-scale using Managed Identity user-assigned mode.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Enabling JBoss EAP on Azure Red Hat OpenShift]]></title>
+        <id>generally-available-enabling-jboss-eap-on-azure-red-hat-openshift</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-enabling-jboss-eap-on-azure-red-hat-openshift/"/>
+        <updated>2022-07-06T16:00:07.000Z</updated>
+        <summary type="html"><![CDATA[You can now use jointly developed guidance from Red Hat and Microsoft to get JBoss EAP applications up and running quickly on Azure Red Hat OpenShift.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Pinpoint でより正確にメッセージを送信するためのジャーニースケジュールをリリース]]></title>
+        <id>2f31664b1d19f15bf953c7149b70bbbaf26904a2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-pinpoint-launches-journey-schedule-communication-delivery/"/>
+        <updated>2022-07-06T14:32:01.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Pinpoint のジャーニーでは、曜日や日にちに基づいたチャネルコミュニケーションのスケジュールを定義できるようになりました。また、Amazon Pinpoint では、2 つの新しいジャーニー送信制限が追加され、ユーザーに送信されるコミュニケーションの量を制御できるようになりました。Amazon Pinpoint のジャーニーはユーザーのアクションや属性に基づいてユーザーをコミュニケーションパスに送るマルチステップキャンペーンです。ジャーニーは SMS、メール、プッシュ、音声などの複数のチャネルを使用できます。ジャーニーはユーザーエンゲージメント用のユースケースを持ち、高価値なユーザーアクションをもたらすようなターゲットを絞ったメッセージを送信したいと考えているお客様を対象としています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect が Lex 信頼性スコアに基づいてフローの分岐のサポートを開始]]></title>
+        <id>c393204da2203487d751856f146ab4d0ba4ff970</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-supports-branching-flows-lex-confidence-scores/"/>
+        <updated>2022-07-06T14:31:13.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect では、Amazon Lex のインテント信頼性スコアをフローの分岐として活用することで、自動化されたセルフサービスのカスタマーエクスペリエンスをさらにパーソナライズできるようになりました。Amazon Lex を使うと、インテリジェントな Chatbot を作成して、Amazon Connect フローを自然な会話に変換できます。Lex の信頼性スコアに応じた分岐フローにより、お客様に適切なソリューションを提示してより迅速な問題解決を支援できます。たとえば、信頼性コアが高い場合、追加情報を求めたり、エージェントに転送したりするのではなく、お客様にすぐにセルフサービスオプションを提示できます。新機能は [Check contact attributes] (コンタクト属性を確認する) フローブロックを使用して設定できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Virtual Private Cloud (VPC) の顧客が管理するプレフィックスリストが 5 つのリージョンで利用可能に]]></title>
         <id>8d4ff4412a702194ce79d39b347ace24076b269c</id>
@@ -486,41 +606,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General availability: Azure Active Directory authentication for Application Insights]]></title>
-        <id>general-availability-azure-ad-authentication-for-application-insights</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-ad-authentication-for-application-insights/"/>
-        <updated>2022-06-30T19:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Azure Active Directory (Azure AD) authentication for Azure Monitor Application helps ensure that only authenticated telemetry is ingested in your Application Insights resources.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Generally available: Azure Backup multi-user authorization for recovery services vaults]]></title>
         <id>azure-backup-mua-ga</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/azure-backup-mua-ga/"/>
         <updated>2022-06-30T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Multi-user authorization for Backup provides enhanced protection for your backup data in recovery services vaults against unauthorized critical operations.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: 2022-05-31 Azure IoT Central REST API release]]></title>
-        <id>iotc-2022-05-31-rest-api</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-2022-05-31-rest-api/"/>
-        <updated>2022-06-30T16:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The Azure IoT Central REST API now enables GA support for creating and managing device groups and organizations, configure file uploads destination, and add organization association to existing endpoints.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Resize rows in Azure IoT Central device raw data view]]></title>
-        <id>iotc-resize-raw-data-view</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-resize-raw-data-view/"/>
-        <updated>2022-06-30T16:00:02.000Z</updated>
-        <summary type="html"><![CDATA[You can now resize rows in Azure IoT Central’s device raw data view allowing the ability to analyze more data in a single view.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -533,16 +623,6 @@
         <summary type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) クラスターに割り当てられたストレージ容量が、クラスターからデータを削除すると動的に減少するようになりました。Amazon DocumentDB は、大規模な JSON データ管理のためのデータベースサービスであり、AWS で完全に管理および統合されている、高い耐久性を備えたエンタープライズ対応のサービスです。以前は、コレクションを削除するなどして Amazon DocumentDB のデータが削除されても、割り当てられた総容量は変わりませんでした。将来的にデータ量が増加すると、空き容量は自動的に再利用されました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Temporary access pass for Azure Active Directory]]></title>
-        <id>general-availability-temporary-access-pass-for-azure-active-directory</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-temporary-access-pass-for-azure-active-directory/"/>
-        <updated>2022-06-30T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Temporary Access Pass is now generally available in Public and US Gov clouds.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
         </author>
     </entry>
     <entry>
@@ -1056,11 +1136,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一般提供:2022 年 6 月の Azure Machine Learning に関するお知らせ]]></title>
+        <title type="html"><![CDATA[General availability: Azure Machine Learning announcements for June 2022]]></title>
         <id>general-availability-azure-machine-learning-announcements-for-june-2022</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-machine-learning-announcements-for-june-2022/"/>
         <updated>2022-06-22T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[新機能として、MLflow の強化、Azure ハイブリッドおよびマルチクラウドでのモデルのトレーニングおよびデプロイが追加されました。]]></summary>
+        <summary type="html"><![CDATA[New features include MLflow enhancements and train and deploy models in Azure hybrid and multi-cloud.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1326,16 +1406,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Connect でエージェントの現在のアクティビティを取得する API をリリース]]></title>
-        <id>d892ee61d47eda4c82da3d3d4efe39a499482423</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-launches-api-retrieve-agents-current-activity/"/>
-        <updated>2022-06-22T14:05:17.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect では、現在のステータス (例: 「対応可能」) など、エージェントの現在のアクティビティに関するリアルタイムの詳細情報にプログラムを使ってアクセスする API の提供を開始しました。エージェントが問い合わせ処理中の場合、その詳細情報には、問い合わせの状態 (例: 「接続済み」や「失敗」) と継続時間が含まれます。企業は、この API を使用して、コンタクトセンターの管理者向けのカスタムダッシュボードを作成し、エージェントのアクティビティをリアルタイムでモニタリングできます。例えば、問い合わせ処理にさらに多くのエージェントが必要になった場合、この新しい API を使用して、長い間、休憩しているエージェントを特定し、そのエージェントに連絡して「対応可能」に切り替えてもらうことや、PutUserStatus を使用してプログラムで変更することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Config が新たなリソースタイプ 15 種類のサポートを開始]]></title>
         <id>8d53e1e424d394c6f3e6f44dcedea4b8619492db</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-config-15-new-resource-types/"/>
@@ -1416,31 +1486,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Elastic Disaster Recovery がさらに 12 リージョンで利用可能に]]></title>
-        <id>36d742b8502bb82432d88e56a8f875cd815ea42e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-12-additional-regions/"/>
-        <updated>2022-06-21T20:02:35.000Z</updated>
-        <summary type="html"><![CDATA[本日から、AWS Elastic Disaster Recovery (DRS) が次の 12 リージョンで利用できるようになりました。米国西部 (北カリフォルニア)、アフリカ (ケープタウン)、アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (大阪)、アジアパシフィック (ソウル)、カナダ (中部)、欧州 (ミラノ)、欧州 (パリ)、欧州 (ストックホルム)、中東 (バーレーン)、南米 (サンパウロ)。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: LDAP signing]]></title>
-        <id>azure-netapp-files-general-availability-of-ldap-signing</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-general-availability-of-ldap-signing/"/>
-        <updated>2022-06-20T17:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Feature has reached general availability.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure GitOps with Flux v2]]></title>
-        <id>general-availability-of-azure-gitops-with-flux-v2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-of-azure-gitops-with-flux-v2/"/>
-        <updated>2022-06-20T17:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Announcing the general availability of GitOps with Flux v2 in Azure Kubernetes Service (AKS) and Azure Arc-enabled Kubernetes (Arc K8s).]]></summary>
+        <title type="html"><![CDATA[Public preview: SMB Continuous Availability shares for Citrix App Layering]]></title>
+        <id>azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering/"/>
+        <updated>2022-06-20T17:00:11.000Z</updated>
+        <summary type="html"><![CDATA[New feature added to Azure NetApp Files.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1516,11 +1566,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Azure Application Gateway でのプライベート リンクのサポート]]></title>
+        <title type="html"><![CDATA[Public preview: Private link support in Azure Application Gateway]]></title>
         <id>public-preview-private-link-support-for-application-gateway</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-private-link-support-for-application-gateway/"/>
         <updated>2022-06-13T19:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Application Gateway でのプライベート リンクのサポートにより、より安全なネットワーク アクセスを実現する方法をご確認ください。]]></summary>
+        <summary type="html"><![CDATA[Learn how private link support for Application Gateway drives more secured network access.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1646,11 +1696,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Microsoft Graph API と Azure Event Grid の統合]]></title>
+        <title type="html"><![CDATA[Public preview: Microsoft Graph API integration with Azure Event Grid]]></title>
         <id>public-preview-microsoft-graph-api-integration-with-azure-event-grid</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-microsoft-graph-api-integration-with-azure-event-grid/"/>
         <updated>2022-06-08T16:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Event Grid Microsoft Graph API 統合により、Azure AD や Outlook などからイベントをサブスクライブできます。]]></summary>
+        <summary type="html"><![CDATA[Use the Event Grid Microsoft Graph API integration to subscribe to events from Azure AD, Outlook, and more.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1666,11 +1716,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一般提供:API Management の再利用可能なポリシー フラグメント]]></title>
+        <title type="html"><![CDATA[Generally available: API Management reusable policy fragments]]></title>
         <id>generally-available-api-management-reusable-policy-fragments</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-api-management-reusable-policy-fragments/"/>
         <updated>2022-06-08T16:00:14.000Z</updated>
-        <summary type="html"><![CDATA[ポリシーのコンポーネントを再利用可能なモジュールに整理し、任意のポリシー ドキュメントに挿入することができます。]]></summary>
+        <summary type="html"><![CDATA[Organize policy components into reusable modules that can be inserted into any policy document.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1791,26 +1841,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-trusted-launch-support-for-virtual-machines-using-ephemeral-os-disks/"/>
         <updated>2022-06-07T17:30:03.000Z</updated>
         <summary type="html"><![CDATA[Trusted launch virtual machine (VM) support for VMs using Ephemeral OS disks improves the security of generation 2 VMs in Azure.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Global Reach 向け ExpressRoute IPv6 サポート]]></title>
-        <id>public-preview-expressroute-ipv6-support-for-global-reach</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-expressroute-ipv6-support-for-global-reach/"/>
-        <updated>2022-06-06T16:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Global Reach の IPv6 サポートにより、Azure でデュアルスタックやハイブリッド ネットワークを構築するお客様の可能性が広がります。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:リソース構成の変更に関する更新]]></title>
-        <id>ga-updates-resource-configuration-changes</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/ga-updates-resource-configuration-changes/"/>
-        <updated>2022-06-06T15:00:45.000Z</updated>
-        <summary type="html"><![CDATA[リソース構成の変更により、サブスクリプションとテナント全体でクエリを実行し、Azure Resource Graph でリソースの変更を検出することができます。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
