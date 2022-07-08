@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-07T00:32:59.436Z</id>
+    <id>urn:2022-07-08T00:35:11.299Z</id>
     <title>Info Dock</title>
-    <updated>2022-07-07T00:32:59.436Z</updated>
+    <updated>2022-07-08T00:35:11.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Public preview: 2022-06-30 Azure IoT Central REST API release is now live]]></title>
+        <id>iotc-2022-06-30-rest-api-preview</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-2022-06-30-rest-api-preview/"/>
+        <updated>2022-07-07T19:00:39.000Z</updated>
+        <summary type="html"><![CDATA[The Azure IoT Central REST API now supports to programmatically create enrollment groups, schedule jobs, configure application dashboards, and leverage the REST API for unassociated/unmodeled devices.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Application Insights standard test for synthetic monitoring]]></title>
+        <id>standard-tests-within-application-insights-availability</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/standard-tests-within-application-insights-availability/"/>
+        <updated>2022-07-07T19:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Standard tests are a single request test which also includes SSL certificate validity, proactive lifetime check, HTTP request verb, custom headers, and custom data associated with your HTTP request.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[General availability: Azure Archive Storage now available in South Africa North]]></title>
         <id>general-availability-azure-archive-storage-now-available-in-south-africa-north</id>
@@ -1821,26 +1841,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-16mb-limit-per-document-in-api-for-mongodb/"/>
         <updated>2022-06-08T16:00:03.000Z</updated>
         <summary type="html"><![CDATA[MongoDB 用 API に新たに 16 MB のドキュメント上限が追加され、より柔軟にアプリケーションを開発できるようになりました。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Azure VMware Solution 向け Azure NetApp Files データストア]]></title>
-        <id>public-preview-azure-netapp-files-datastores-for-azure-vmware-solution-public-preview-2-2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-netapp-files-datastores-for-azure-vmware-solution-public-preview-2-2/"/>
-        <updated>2022-06-07T20:41:29.000Z</updated>
-        <summary type="html"><![CDATA[Azure VMware Solution 環境のストレージを最適化し、スケーリングすることができます。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Trusted launch support for virtual machines using Ephemeral OS disks]]></title>
-        <id>general-availability-trusted-launch-support-for-virtual-machines-using-ephemeral-os-disks</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-trusted-launch-support-for-virtual-machines-using-ephemeral-os-disks/"/>
-        <updated>2022-06-07T17:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Trusted launch virtual machine (VM) support for VMs using Ephemeral OS disks improves the security of generation 2 VMs in Azure.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
