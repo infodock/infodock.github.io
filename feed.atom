@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-08T00:35:11.299Z</id>
+    <id>urn:2022-07-09T00:23:03.695Z</id>
     <title>Info Dock</title>
-    <updated>2022-07-08T00:35:11.299Z</updated>
+    <updated>2022-07-09T00:23:03.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -79,7 +79,7 @@
         <title type="html"><![CDATA[General availability: Azure Active Directory authentication for Application Insights]]></title>
         <id>general-availability-azure-active-directory-authentication-for-application-insights</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-active-directory-authentication-for-application-insights/"/>
-        <updated>2022-07-06T16:00:43.000Z</updated>
+        <updated>2022-07-06T16:00:41.000Z</updated>
         <summary type="html"><![CDATA[Azure Active Directory (Azure AD) authentication for Azure Monitor Application helps ensure that only authenticated telemetry is ingested in your Application Insights resources.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -626,11 +626,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[General availability: Azure Active Directory authentication for Application Insights]]></title>
+        <id>general-availability-azure-ad-authentication-for-application-insights</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-ad-authentication-for-application-insights/"/>
+        <updated>2022-06-30T19:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Azure Active Directory (Azure AD) authentication for Azure Monitor Application helps ensure that only authenticated telemetry is ingested in your Application Insights resources.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Generally available: Azure Backup multi-user authorization for recovery services vaults]]></title>
         <id>azure-backup-mua-ga</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/azure-backup-mua-ga/"/>
         <updated>2022-06-30T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Multi-user authorization for Backup provides enhanced protection for your backup data in recovery services vaults against unauthorized critical operations.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: 2022-05-31 Azure IoT Central REST API release]]></title>
+        <id>iotc-2022-05-31-rest-api</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-2022-05-31-rest-api/"/>
+        <updated>2022-06-30T16:00:03.000Z</updated>
+        <summary type="html"><![CDATA[The Azure IoT Central REST API now enables GA support for creating and managing device groups and organizations, configure file uploads destination, and add organization association to existing endpoints.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Resize rows in Azure IoT Central device raw data view]]></title>
+        <id>iotc-resize-raw-data-view</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-resize-raw-data-view/"/>
+        <updated>2022-06-30T16:00:02.000Z</updated>
+        <summary type="html"><![CDATA[You can now resize rows in Azure IoT Central’s device raw data view allowing the ability to analyze more data in a single view.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -643,6 +673,16 @@
         <summary type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) クラスターに割り当てられたストレージ容量が、クラスターからデータを削除すると動的に減少するようになりました。Amazon DocumentDB は、大規模な JSON データ管理のためのデータベースサービスであり、AWS で完全に管理および統合されている、高い耐久性を備えたエンタープライズ対応のサービスです。以前は、コレクションを削除するなどして Amazon DocumentDB のデータが削除されても、割り当てられた総容量は変わりませんでした。将来的にデータ量が増加すると、空き容量は自動的に再利用されました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Temporary access pass for Azure Active Directory]]></title>
+        <id>general-availability-temporary-access-pass-for-azure-active-directory</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-temporary-access-pass-for-azure-active-directory/"/>
+        <updated>2022-06-30T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Temporary Access Pass is now generally available in Public and US Gov clouds.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
         </author>
     </entry>
     <entry>
@@ -1156,11 +1196,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General availability: Azure Machine Learning announcements for June 2022]]></title>
+        <title type="html"><![CDATA[一般提供:2022 年 6 月の Azure Machine Learning に関するお知らせ]]></title>
         <id>general-availability-azure-machine-learning-announcements-for-june-2022</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-machine-learning-announcements-for-june-2022/"/>
         <updated>2022-06-22T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[New features include MLflow enhancements and train and deploy models in Azure hybrid and multi-cloud.]]></summary>
+        <summary type="html"><![CDATA[新機能として、MLflow の強化、Azure ハイブリッドおよびマルチクラウドでのモデルのトレーニングおよびデプロイが追加されました。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1506,11 +1546,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: SMB Continuous Availability shares for Citrix App Layering]]></title>
-        <id>azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering/"/>
-        <updated>2022-06-20T17:00:11.000Z</updated>
-        <summary type="html"><![CDATA[New feature added to Azure NetApp Files.]]></summary>
+        <title type="html"><![CDATA[General availability: LDAP signing]]></title>
+        <id>azure-netapp-files-general-availability-of-ldap-signing</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-general-availability-of-ldap-signing/"/>
+        <updated>2022-06-20T17:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Feature has reached general availability.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure GitOps with Flux v2]]></title>
+        <id>general-availability-of-azure-gitops-with-flux-v2</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-of-azure-gitops-with-flux-v2/"/>
+        <updated>2022-06-20T17:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Announcing the general availability of GitOps with Flux v2 in Azure Kubernetes Service (AKS) and Azure Arc-enabled Kubernetes (Arc K8s).]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1586,11 +1636,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: Private link support in Azure Application Gateway]]></title>
+        <title type="html"><![CDATA[パブリック プレビュー:Azure Application Gateway でのプライベート リンクのサポート]]></title>
         <id>public-preview-private-link-support-for-application-gateway</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-private-link-support-for-application-gateway/"/>
         <updated>2022-06-13T19:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Learn how private link support for Application Gateway drives more secured network access.]]></summary>
+        <summary type="html"><![CDATA[Application Gateway でのプライベート リンクのサポートにより、より安全なネットワーク アクセスを実現する方法をご確認ください。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1611,236 +1661,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-feature-general-availability-and-feature-expanded-regional-availability/"/>
         <updated>2022-06-09T17:00:26.000Z</updated>
         <summary type="html"><![CDATA[Various Azure NetApp Files features have reached general availability and regional coverage has been expanded for Azure NetApp Files cross-region replication.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Databricks available in new regions]]></title>
-        <id>general-availability-azure-databricks-available-in-new-regions</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-databricks-available-in-new-regions/"/>
-        <updated>2022-06-08T16:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Sweden Central and West Central US regions added to Azure Databricks.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般提供:Azure SDK for Go]]></title>
-        <id>general-availability-azure-sdk-for-go</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-sdk-for-go/"/>
-        <updated>2022-06-08T16:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Azure SDK for Go のメジャー更新が行われ、Identity、Key Vault、Service Bus、Tables などの新しいサービスのデータ プレーンがサポートされるようになりました。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Load Testing supports splitting input data across test engines]]></title>
-        <id>public-preview-azure-load-testing-supports-splitting-input-data-across-test-engines</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-load-testing-supports-splitting-input-data-across-test-engines/"/>
-        <updated>2022-06-08T16:00:20.000Z</updated>
-        <summary type="html"><![CDATA[You can now configure your test to automatically split large input data evenly across the test engine instances.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Load Testing support for user specified JMeter properties]]></title>
-        <id>public-preview-azure-load-testing-support-for-user-specified-jmeter-properties</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-load-testing-support-for-user-specified-jmeter-properties/"/>
-        <updated>2022-06-08T16:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Azure Load Testing preview now supports user specified JMeter properties, making load tests more configurable.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Load Testing support for customer-managed keys]]></title>
-        <id>public-preview-azure-load-testing-support-for-customermanaged-keys</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-load-testing-support-for-customermanaged-keys/"/>
-        <updated>2022-06-08T16:00:19.000Z</updated>
-        <summary type="html"><![CDATA[You can now add another layer of security by bringing your own customer-managed keys.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Load Testing supports quick start tests with web URL]]></title>
-        <id>public-preview-azure-load-testing-supports-quick-start-tests-with-web-url</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-load-testing-supports-quick-start-tests-with-web-url/"/>
-        <updated>2022-06-08T16:00:19.000Z</updated>
-        <summary type="html"><![CDATA[You can now create load tests quickly without prior knowledge of testing tools by entering your URL in the Azure Load Testing resource from the Azure portal.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Load Testing support for user-assigned managed identities]]></title>
-        <id>public-preview-azure-load-testing-support-for-userassigned-managed-identities</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-load-testing-support-for-userassigned-managed-identities/"/>
-        <updated>2022-06-08T16:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Use Azure AD managed identities with Azure Load Testing Preview to easily access other AAD-protected resources, like Azure Key Vault. Both system-assigned and user-assigned managed identities are now supported.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Container Apps support for custom domains and TLS certificates]]></title>
-        <id>generally-available-azure-container-apps-support-for-custom-domains-and-tls-certificates</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-container-apps-support-for-custom-domains-and-tls-certificates/"/>
-        <updated>2022-06-08T16:00:17.000Z</updated>
-        <summary type="html"><![CDATA[You can now use custom domains and secure them with TLS certificates.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Linux portal editing for applications]]></title>
-        <id>public-preview-linux-portal-editing-for-applications</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-linux-portal-editing-for-applications/"/>
-        <updated>2022-06-08T16:00:16.000Z</updated>
-        <summary type="html"><![CDATA[You can now edit Azure Functions running on Linux from within the Azure portal.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Mount Azure Files and ephemeral storage in Azure Container Apps]]></title>
-        <id>public-preview-mount-azure-files-and-ephemeral-storage-in-azure-container-apps</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-mount-azure-files-and-ephemeral-storage-in-azure-container-apps/"/>
-        <updated>2022-06-08T16:00:16.000Z</updated>
-        <summary type="html"><![CDATA[You can now mount a file share as well as share data between multiple containers in Azure Container Apps.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Microsoft Graph API integration with Azure Event Grid]]></title>
-        <id>public-preview-microsoft-graph-api-integration-with-azure-event-grid</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-microsoft-graph-api-integration-with-azure-event-grid/"/>
-        <updated>2022-06-08T16:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Use the Event Grid Microsoft Graph API integration to subscribe to events from Azure AD, Outlook, and more.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Static Web Apps CLI now available]]></title>
-        <id>static-web-apps-cli-now-available</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/static-web-apps-cli-now-available/"/>
-        <updated>2022-06-08T16:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Deploy static web apps to the cloud using a simple CLI command.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: API Management reusable policy fragments]]></title>
-        <id>generally-available-api-management-reusable-policy-fragments</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-api-management-reusable-policy-fragments/"/>
-        <updated>2022-06-08T16:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Organize policy components into reusable modules that can be inserted into any policy document.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:API Management の認可]]></title>
-        <id>public-preview-api-management-authorizations</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-api-management-authorizations/"/>
-        <updated>2022-06-08T16:00:14.000Z</updated>
-        <summary type="html"><![CDATA[OAuth2 を使用したバックエンド サービスに対する API を使用した認可管理のプロセスを簡素化できます。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Azure Arc 対応 System Center Virtual Machine Manager]]></title>
-        <id>public-preview-azure-arcenabled-system-center-virtual-machine-manager</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-arcenabled-system-center-virtual-machine-manager/"/>
-        <updated>2022-06-08T16:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Azure Arc 対応 System Center Virtual Machine Manager は、オンプレミスの System Center Virtual Machine Manager 環境を Azure に接続し、エンド ユーザーや開発者が Azure ベースのセルフサービスを利用できるようにします。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Azure Monitor Agent available on latest Linux distros]]></title>
-        <id>generally-available-azure-monitor-agent-available-on-latest-linux-distros</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-monitor-agent-available-on-latest-linux-distros/"/>
-        <updated>2022-06-08T16:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 22.04, AlmaLinux, and Rocky Linux now supported via the Azure Monitor Agent.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Connection Monitor Support for virtual machine scale sets]]></title>
-        <id>public-preview-connection-monitor-support-for-virtual-machine-scale-sets</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-connection-monitor-support-for-virtual-machine-scale-sets/"/>
-        <updated>2022-06-08T16:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Azure Network Watcher Connection Monitor announces support for virtual machine scale sets which enables faster performance monitoring and network troubleshooting through connectivity checks.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Network Watcher packet capture support for virtual machine scale sets]]></title>
-        <id>public-preview-network-watcher-packet-capture-support-for-virtual-machine-scale-sets</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-network-watcher-packet-capture-support-for-virtual-machine-scale-sets/"/>
-        <updated>2022-06-08T16:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Azure Network Watcher packet capture announces support for virtual machines scale sets. This is as an out of the box, on-demand capability, enabling faster diagnostics and troubleshooting of networking issues.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure SQL—Generally available updates for early June 2022]]></title>
-        <id>azure-sql-generally-available-updates-for-early-june-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-generally-available-updates-for-early-june-2022/"/>
-        <updated>2022-06-08T16:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Generally available updates made in early June 2022 for Azure SQL.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Microsoft Purview access policies for Azure SQL Database]]></title>
-        <id>public-preview-microsoft-purview-access-policies-for-azure-sql-database</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-microsoft-purview-access-policies-for-azure-sql-database/"/>
-        <updated>2022-06-08T16:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Use Microsoft Purview to manage access to your SQL sources using access policies.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Cosmos DB serverless container storage limit increase to 1TB]]></title>
-        <id>public-preview-azure-cosmos-db-serverless-container-storage-limit-increase-to-1tb</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-azure-cosmos-db-serverless-container-storage-limit-increase-to-1tb/"/>
-        <updated>2022-06-08T16:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Store up to 1TB of data in Azure Cosmos DB serverless containers.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Linux emulator with Azure Cosmos DB API for MongoDB]]></title>
-        <id>public-preview-linux-emulator-with-azure-cosmos-db-api-for-mongodb</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-linux-emulator-with-azure-cosmos-db-api-for-mongodb/"/>
-        <updated>2022-06-08T16:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Develop and test locally at no cost on Linux and macOS with Azure Cosmos DB Linux emulator with API for MongoDB support.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:MongoDB 用 API の 1 ドキュメントあたりの 16 MB 上限]]></title>
-        <id>public-preview-16mb-limit-per-document-in-api-for-mongodb</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-16mb-limit-per-document-in-api-for-mongodb/"/>
-        <updated>2022-06-08T16:00:03.000Z</updated>
-        <summary type="html"><![CDATA[MongoDB 用 API に新たに 16 MB のドキュメント上限が追加され、より柔軟にアプリケーションを開発できるようになりました。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
