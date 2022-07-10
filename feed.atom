@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-09T00:23:03.695Z</id>
+    <id>urn:2022-07-10T00:33:10.032Z</id>
     <title>Info Dock</title>
-    <updated>2022-07-09T00:23:03.695Z</updated>
+    <updated>2022-07-10T00:33:10.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1641,26 +1641,6 @@
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-private-link-support-for-application-gateway/"/>
         <updated>2022-06-13T19:00:14.000Z</updated>
         <summary type="html"><![CDATA[Application Gateway でのプライベート リンクのサポートにより、より安全なネットワーク アクセスを実現する方法をご確認ください。]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Expanded feature regional availability for standard network features]]></title>
-        <id>expanded-feature-regional-availability-for-standard-network-features-azure-netapp-files</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/expanded-feature-regional-availability-for-standard-network-features-azure-netapp-files/"/>
-        <updated>2022-06-09T17:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Regional coverage has expanded for Azure NetApp Files for standard network features.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Feature general availability and feature expansion of regional availability]]></title>
-        <id>azure-netapp-files-feature-general-availability-and-feature-expanded-regional-availability</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-feature-general-availability-and-feature-expanded-regional-availability/"/>
-        <updated>2022-06-09T17:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Various Azure NetApp Files features have reached general availability and regional coverage has been expanded for Azure NetApp Files cross-region replication.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>

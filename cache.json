@@ -11,7 +11,7 @@
           "description": "The Azure IoT Central REST API now supports to programmatically create enrollment groups, schedule jobs, configure application dashboards, and leverage the REST API for unassociated/unmodeled devices.",
           "link": "https://azure.microsoft.com/ja-jp/updates/iotc-2022-06-30-rest-api-preview/",
           "publishedOn": "2022-07-07T19:00:39.000Z",
-          "wordCount": 2996,
+          "wordCount": 2998,
           "title": "Public preview: 2022-06-30 Azure IoT Central REST API release is now live",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -31,7 +31,7 @@
           "description": "Reduce spending by storing rarely accessed data to Azure Archive Storage, now in new regions.",
           "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-azure-archive-storage-now-available-in-south-africa-north/",
           "publishedOn": "2022-07-06T19:00:09.000Z",
-          "wordCount": 2805,
+          "wordCount": 2807,
           "title": "General availability: Azure Archive Storage now available in South Africa North",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -61,7 +61,7 @@
           "description": "Azure Functions now supports setting a retry policy for Azure Event Hubs and timer triggers.",
           "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-azure-functions-retry-policy-for-event-hubs-and-timer-triggers/",
           "publishedOn": "2022-07-06T16:00:51.000Z",
-          "wordCount": 2775,
+          "wordCount": 2773,
           "title": "Generally available: Azure Functions retry policy for Event Hubs and timer triggers",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -131,7 +131,7 @@
           "description": "Create confidential VMs using Ephemeral OS disks for your stateless workloads.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-ephemeral-os-disk-support-for-confidential-vms/",
           "publishedOn": "2022-07-05T15:00:09.000Z",
-          "wordCount": 2802,
+          "wordCount": 2804,
           "title": "Public preview: Ephemeral OS disk support for confidential virtual machines",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -151,7 +151,7 @@
           "description": "The Azure Percept March update includes fixes related to security.",
           "link": "https://azure.microsoft.com/ja-jp/updates/apdk2206update/",
           "publishedOn": "2022-07-04T15:00:07.000Z",
-          "wordCount": 2811,
+          "wordCount": 2809,
           "title": "Public preview: Azure Percept DK June (2206) software update",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -181,7 +181,7 @@
           "description": "Multi-user authorization for Backup provides enhanced protection for your backup data in recovery services vaults against unauthorized critical operations.",
           "link": "https://azure.microsoft.com/ja-jp/updates/azure-backup-mua-ga/",
           "publishedOn": "2022-06-30T17:00:00.000Z",
-          "wordCount": 2940,
+          "wordCount": 2942,
           "title": "Generally available: Azure Backup multi-user authorization for recovery services vaults",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -191,7 +191,7 @@
           "description": "The Azure IoT Central REST API now enables GA support for creating and managing device groups and organizations, configure file uploads destination, and add organization association to existing endpoints.",
           "link": "https://azure.microsoft.com/ja-jp/updates/iotc-2022-05-31-rest-api/",
           "publishedOn": "2022-06-30T16:00:03.000Z",
-          "wordCount": 2923,
+          "wordCount": 2921,
           "title": "Generally available: 2022-05-31 Azure IoT Central REST API release",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -231,7 +231,7 @@
           "description": "Azure IoT Central data export feature now supports the ability to filter data under an organization as well as include organizations path in the exported data.",
           "link": "https://azure.microsoft.com/ja-jp/updates/iotc-export-data-under-organization/",
           "publishedOn": "2022-06-28T15:00:10.000Z",
-          "wordCount": 2843,
+          "wordCount": 2845,
           "title": "Generally available: Export device data under an organization in Azure IoT Central",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -241,7 +241,7 @@
           "description": "Protect Azure Virtual Machines with mission critical applications with low recovery point objective.",
           "link": "https://azure.microsoft.com/ja-jp/updates/mbpd-azurevm-preview/",
           "publishedOn": "2022-06-27T18:28:40.000Z",
-          "wordCount": 2856,
+          "wordCount": 2858,
           "title": "Public preview: Multiple backups per day for Azure Virtual Machines",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -251,7 +251,7 @@
           "description": "Azure Storage is announcing public preview of the ability to create additional 5000 storage accounts per subscription per region.",
           "link": "https://azure.microsoft.com/ja-jp/updates/preview-5kaccountlimit/",
           "publishedOn": "2022-06-27T16:00:08.000Z",
-          "wordCount": 2801,
+          "wordCount": 2799,
           "title": "Public preview: Create an additional 5000 Azure Storage accounts within your subscription",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -261,7 +261,7 @@
           "description": "Public preview updates made in late June 2022 for Azure SQL.",
           "link": "https://azure.microsoft.com/ja-jp/updates/azure-sql-public-preview-updates-for-late-june-2022/",
           "publishedOn": "2022-06-23T16:00:01.000Z",
-          "wordCount": 2757,
+          "wordCount": 2759,
           "title": "Azure SQL—Public preview updates for late June 2022",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -281,7 +281,7 @@
           "description": "Enable fetching secrets from an Azure Key Vault directly into the workload running on an Arc connected Kubernetes cluster.",
           "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-akv-provider-arc-kubernetes/",
           "publishedOn": "2022-06-23T15:00:00.000Z",
-          "wordCount": 2798,
+          "wordCount": 2800,
           "title": "General availability: Azure Key Vault secrets provider on Azure Arc enabled Kubernetes",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -291,7 +291,7 @@
           "description": "Windows IoT on Arm64 brings increased functionality to devices.",
           "link": "https://azure.microsoft.com/ja-jp/updates/generally-available-windows-iot-on-arm64/",
           "publishedOn": "2022-06-22T18:25:21.000Z",
-          "wordCount": 2776,
+          "wordCount": 2774,
           "title": "Generally available: Windows IoT on Arm64",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -311,7 +311,7 @@
           "description": "SQL Server 2016 customers can now use Azure without migrating through offloading analytics or read-only workloads to Azure SQL Managed Instance (MI).",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-link-feature-in-azure-sql-mi-for-sql-server-2016/",
           "publishedOn": "2022-06-22T16:00:25.000Z",
-          "wordCount": 2862,
+          "wordCount": 2864,
           "title": "Public preview: Link feature in Azure SQL MI for SQL Server 2016",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -341,7 +341,7 @@
           "description": "Azure Cosmos DB accounts can now take advantage of continuous backup with seven-day data retention and point-in-time restore capabilities.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-continuous-backup-enhancements-in-azure-cosmos-db/",
           "publishedOn": "2022-06-22T16:00:23.000Z",
-          "wordCount": 2832,
+          "wordCount": 2834,
           "title": "Public preview: Continuous backup enhancements in Azure Cosmos DB",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -351,7 +351,7 @@
           "description": "Use new Go SDK features in your Azure Cosmos DB SQL API account including authentication with Azure Active Directory, the ability to execute single partition queries, and transactional batch support.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-azure-cosmos-db-sql-api-go-sdk-improvements/",
           "publishedOn": "2022-06-22T16:00:23.000Z",
-          "wordCount": 2845,
+          "wordCount": 2847,
           "title": "Public preview: Azure Cosmos DB SQL API Go SDK improvements",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -391,7 +391,7 @@
           "description": "You can now use App Service, Container Apps, or API Management as an API backend in Azure Static Web Apps.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-new-api-backend-options-in-azure-static-web-apps/",
           "publishedOn": "2022-06-22T16:00:20.000Z",
-          "wordCount": 2787,
+          "wordCount": 2789,
           "title": "Public preview: New API backend options in Azure Static Web Apps",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -421,7 +421,7 @@
           "description": "Benefit from the latest features in Kubernetes release 1.24.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-kubernetes-release-124-support-in-aks/",
           "publishedOn": "2022-06-22T16:00:18.000Z",
-          "wordCount": 2767,
+          "wordCount": 2765,
           "title": "Public preview: Kubernetes release 1.24 support in AKS",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -451,7 +451,7 @@
           "description": "This feature is in private preview. Linux users can now use hybrid connections manager without maintaining a Windows client.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-app-service-hybrid-connections-manager-for-linux/",
           "publishedOn": "2022-06-22T16:00:16.000Z",
-          "wordCount": 2804,
+          "wordCount": 2802,
           "title": "Private preview: App Service hybrid connections manager for Linux",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -471,7 +471,7 @@
           "description": "The Embedded Wireless Framework for Azure RTOS defines a platform consistent API for embedded IoT developers to use wireless services in their applications.",
           "link": "https://azure.microsoft.com/ja-jp/updates/general-availability-embedded-wireless-framework/",
           "publishedOn": "2022-06-22T16:00:15.000Z",
-          "wordCount": 2811,
+          "wordCount": 2809,
           "title": "General availability: Embedded Wireless Framework",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -591,7 +591,7 @@
           "description": "You can create an Azure Virtual Network Manager instance in nine more regions and manage your virtual networks at scale across regions, subscriptions, management groups, and tenants globally from a single pane of glass.",
           "link": "https://azure.microsoft.com/ja-jp/updates/azure-virtual-network-manager-in-nine-more-regions/",
           "publishedOn": "2022-06-15T20:50:43.000Z",
-          "wordCount": 2857,
+          "wordCount": 2855,
           "title": "Public preview: Azure Virtual Network Manager in nine new regions",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -611,7 +611,7 @@
           "description": "Preview remote management capabilities through a single pane of glass in the Azure portal.",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-windows-admin-center-in-the-azure-portal/",
           "publishedOn": "2022-06-15T16:00:17.000Z",
-          "wordCount": 2773,
+          "wordCount": 2775,
           "title": "Public preview: Windows Admin Center in the Azure portal",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -631,7 +631,7 @@
           "description": "Automate alerts, orchestrate business workflows and build low-code apps with Azure Data Explorer connector for Power Automate, Logic Apps, and Power Apps.",
           "link": "https://azure.microsoft.com/ja-jp/updates/power-platform-connector-ga/",
           "publishedOn": "2022-06-14T19:00:03.000Z",
-          "wordCount": 2905,
+          "wordCount": 2903,
           "title": "General availability: Azure Data Explorer connector for Power Automate, Logic Apps, and Power Apps",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         },
@@ -641,28 +641,8 @@
           "description": "Application Gateway でのプライベート リンクのサポートにより、より安全なネットワーク アクセスを実現する方法をご確認ください。",
           "link": "https://azure.microsoft.com/ja-jp/updates/public-preview-private-link-support-for-application-gateway/",
           "publishedOn": "2022-06-13T19:00:14.000Z",
-          "wordCount": 2761,
+          "wordCount": 2759,
           "title": "パブリック プレビュー:Azure Application Gateway でのプライベート リンクのサポート",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "expanded-feature-regional-availability-for-standard-network-features-azure-netapp-files",
-          "author": null,
-          "description": "Regional coverage has expanded for Azure NetApp Files for standard network features.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/expanded-feature-regional-availability-for-standard-network-features-azure-netapp-files/",
-          "publishedOn": "2022-06-09T17:00:28.000Z",
-          "wordCount": 2804,
-          "title": "Public preview: Expanded feature regional availability for standard network features",
-          "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
-        },
-        {
-          "id": "azure-netapp-files-feature-general-availability-and-feature-expanded-regional-availability",
-          "author": null,
-          "description": "Various Azure NetApp Files features have reached general availability and regional coverage has been expanded for Azure NetApp Files cross-region replication.",
-          "link": "https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-feature-general-availability-and-feature-expanded-regional-availability/",
-          "publishedOn": "2022-06-09T17:00:26.000Z",
-          "wordCount": 2855,
-          "title": "General availability: Feature general availability and feature expansion of regional availability",
           "imageUrl": "https://azurecomcdn.azureedge.net/cvt-f187b0e8321af2f3c7299619208c62b4c1e44f0eb595e2abd9bc3207f2c90b3e/images/shared/social/azure-icon-250x250.png"
         }
       ]
