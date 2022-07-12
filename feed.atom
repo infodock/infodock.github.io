@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-11T00:28:30.604Z</id>
+    <id>urn:2022-07-12T00:30:35.967Z</id>
     <title>Info Dock</title>
-    <updated>2022-07-11T00:28:30.604Z</updated>
+    <updated>2022-07-12T00:30:35.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Core が、異なる AWS アカウントへの IoT デバイスのプロビジョニングと認証局の登録を簡素化して一般提供を開始]]></title>
+        <id>f0cec9541d4f6c06f1cc6ddfc234a371d3cbee85</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-iot-core-provision-iot-devices-aws-accounts-registrations-certificate-authorities/"/>
+        <updated>2022-07-11T17:33:49.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS は AWS IoT Core の新機能の一般提供開始を発表しました。それは、デバイスプロビジョニングに必要な認証局 (CA) の登録を簡素化し、同一の AWS リージョン内や異なるリージョン間でお客様が所有する複数の AWS アカウント間のデバイス移動を簡単にする機能です。これにより、AWS IoT Core へのデバイス登録の複雑さが軽減し、AWS IoT Core の Just-in-Time Provisioning (JITP) や Just-in-Time Registration (JITR) といった AWS IoT Core のデバイスプロビジョニング方法を使用する際に、IoT 実装の開発ライフサイクルを加速できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 I4i インスタンス、新たに 9 つのリージョンで利用可能に]]></title>
+        <id>4a0f22ee717747e717190207dbadc54c2da01ea9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-ec2-i4i-instances-nine-additional-regions/"/>
+        <updated>2022-07-11T17:32:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EC2 I4i インスタンスが、本日より新たに米国西部 (北カルフォルニア)、アジアパシフィック (香港、シンガポール、シドニー、東京)、カナダ (中部)、欧州 (フランクフルト、ロンドン、パリ) のアマゾン ウェブ サービス (AWS) リージョンで利用できるようになりました。ストレージ I/O を多用するワークロード向けに設計された I4i インスタンスは、オールコアターボ周波数 3.5 GHz の第 3 世代インテル Xeon スケーラブルプロセッサ (コードネーム: Ice Lake) を搭載し、I3 インスタンスと比較してコンピューティングに関して最大 30% 優れたコストパフォーマンスを提供し、Intel Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を実現しています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Keyspaces (Apache Cassandra 向け) に BillableTableSizeInBytes CloudWatch メトリクスへのコンソールアクセスが追加]]></title>
+        <id>a8672cec10a0fce471d42ecc9053c01700c40536</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-keyspaces-apache-cassandra-console-access-billabletablesizeinbytes-cloudwatch-metric/"/>
+        <updated>2022-07-11T17:31:13.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Keyspaces (Apache Cassandra 向け) はスケーラブルかつサーバーレスで可用性が高い、Apache Cassandra 互換のフルマネージド型データベースサービスです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon GuardDuty が S3 バケットに保存されているデータへの疑わしいアクセスを高精度で検出する新しい機械学習機能を導入]]></title>
+        <id>fdf8e8bc4e9a2b420ae2228b3181b768a253e2f6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-guardduty-machine-learning-detect-malicious-access-data-s3/"/>
+        <updated>2022-07-11T13:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Amazon GuardDuty には、Amazon Simple Storage Service (Amazon S3) バケットに保存されているデータへの異常なアクセスを効果的に検出する、新しい機械学習技術が組み込まれています。この新機能は、アカウント内の S3 データプレーン API 呼び出し (GET、PUT、DELETE など) を継続的にモデル化し、確率的予測を組み込んで、S3 バケットに保存されているデータへの疑わしいユーザーアクセス (異常な地理的位置からのリクエスト、データの不正引き出しと思われる不自然に多い API コールなど) をより正確に判断して警告を発します。この新しい機械学習アプローチでは、データの検出、改ざん、不正引き出しなど、既知の攻撃戦術に関連する悪意のあるアクティビティをより正確に特定できます。新しい脅威検出は、追加の対応および追加の費用なしで、GuardDuty S3 Protection が有効になっている、既存のすべての Amazon GuardDuty のお客様がご利用いただけます。GuardDuty をまだ使用していない場合、サービスを有効にすると、S3 Protection はデフォルトでオンになっています。GuardDuty を既に使用していて S3 Protection をまだ有効にしていない場合は、GuardDuty コンソールからワンクリックで、または API を通じて、組織全体でこの機能を有効にできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon OpenSearch Service が Service Quotas によるクォータ情報の表示機能を実装]]></title>
+        <id>cd917829e0ed555e4479406797a25a1e8bfcd067</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-opensearch-service-announces-quota-information/"/>
+        <updated>2022-07-11T13:47:50.000Z</updated>
+        <summary type="html"><![CDATA[Amazon OpenSearch Service では、Service Quotas を通じて、デフォルトクォータと適用されたクォータの情報をユーザーに表示できるようになりました。クォータとは、AWS のサービス制限とも呼ばれる、AWS アカウントのリソース、アクション、アイテムに設けられた最大値のことです。AWS の各サービスがクォータを定義しており、それらのクォータにデフォルト値を設定しています。ビジネスのニーズによっては、サービスのクォータ値を引き上げることが必要になる場合もあります。Service Quotas を使用することにより、サービスのクォータを検索し、クォータの引き上げをリクエストできます。リクエストは、AWS サポートによって承認、拒否、または部分的に承認されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Snowcone SSD が AWS 欧州 (パリ) リージョンで利用可能に]]></title>
+        <id>a0a09ca68901f27487cfe64b884aa3db780f54a2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-snowcone-ssd-available-aws-europe-paris-region/"/>
+        <updated>2022-07-11T13:47:01.000Z</updated>
+        <summary type="html"><![CDATA[AWS Snowcone ソリッドステートドライブ (SSD) デバイスは、既に Snowcone SSD の利用が可能となっている AWS 米国東部 (オハイオ)、米国東部 (バージニア北部)、米国西部 (オレゴン)、米国西部 (北カルフォルニア)、アジアパシフィック (シンガポール)、アジアパシフィック (東京)、アジアパシフィック (シドニー)、欧州 (フランクフルト)、欧州 (アイルランド)、欧州 (ロンドン)、アジアパシフィック (ムンバイ)、カナダ (中部)、南米 (サンパウロ) に追加されるかたちで、AWS 欧州 (パリ) でもご利用いただけるようになりました。これらの利用可能なリージョンのリストは、今後も拡大予定です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon WorkMail が Lambda を呼び出して予定 (あり/なし) を取得可能に]]></title>
+        <id>38cd82f3e9d47993c3d80137c5ec5f74c3826362</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambda-fetch-availability-free-busy/"/>
+        <updated>2022-07-11T13:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Amazon WorkMail では Custom Availability Provider Lambda (CAP Lambda) を使って、AWS Lambda の呼び出しをサポートして、ユーザーの予定を取得できるようになりました。CAP Lambda は WorkMail が外部の予定ソースから予定情報を取得するための新しい方法です。これらの CAP Lambda を使用すると、エンドポイントが非公開であっても、Exchange Web Services (EWS) エンドポイントを持たない場合でも、顧客の所有する他のカレンダープロバイダーのユーザーの予定情報へのアクセスを WorkMail に付与できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public preview: 2022-06-30 Azure IoT Central REST API release is now live]]></title>
         <id>iotc-2022-06-30-rest-api-preview</id>
@@ -79,7 +149,7 @@
         <title type="html"><![CDATA[General availability: Azure Active Directory authentication for Application Insights]]></title>
         <id>general-availability-azure-active-directory-authentication-for-application-insights</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-active-directory-authentication-for-application-insights/"/>
-        <updated>2022-07-06T16:00:41.000Z</updated>
+        <updated>2022-07-06T16:00:43.000Z</updated>
         <summary type="html"><![CDATA[Azure Active Directory (Azure AD) authentication for Azure Monitor Application helps ensure that only authenticated telemetry is ingested in your Application Insights resources.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -191,16 +261,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-iot-greengrass-mqtt-v5/"/>
         <updated>2022-07-05T19:16:04.000Z</updated>
         <summary type="html"><![CDATA[AWS IoT Greengrass はモノのインターネット (IoT) のエッジランタイムおよびクラウドサービスです。デバイスソフトウェアの構築、デプロイ、管理を支援します。MQTT バージョン 5 のエッジサポートを追加したバージョン 2.6 がリリースされました。このバージョン 5 では、MQTT バージョン 3.1.1 プロトコルに対し、多くの機能改善を含むデバイス間通信仕様が更新されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon WorkMail が Lambdas を呼び出して予定 (あり/なし) を取得可能に]]></title>
-        <id>9ae5c1bb2339b961e75a10703ac7ac179d0b21a3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambdas-fetch-availability-free-busy/"/>
-        <updated>2022-07-05T17:48:37.000Z</updated>
-        <summary type="html"><![CDATA[Amazon WorkMail では Custom Availability Provider Lambda (CAP Lambda) を使って、AWS Lambda の呼び出しをサポートして、ユーザーの予定を取得できるようになりました。CAP Lambda は WorkMail が外部の予定ソースから予定情報を取得するための新しい方法です。これらの CAP Lambdas を使用すると、エンドポイントが非公開であっても、Exchange Web Services (EWS) エンドポイントを持たない場合でも、顧客の所有する他のカレンダープロバイダーのユーザーの予定情報へのアクセスを WorkMail に付与できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -476,16 +536,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Snowcone SSD が AWS 欧州 (パリ) で利用可能に]]></title>
-        <id>ae4ef83078567efcf3762071dcb24064c7cec32d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-snowcone-ssd-available-aws-europe-paris/"/>
-        <updated>2022-07-04T16:18:33.000Z</updated>
-        <summary type="html"><![CDATA[AWS Snowcone ソリッドステートドライブ (SSD) デバイスは、既に Snowcone SSD の利用が可能となっている AWS 米国東部 (オハイオ)、米国東部 (バージニア北部)、米国西部 (オレゴン)、米国西部 (北カルフォルニア)、アジアパシフィック (シンガポール)、アジアパシフィック (東京)、アジアパシフィック (シドニー)、欧州 (フランクフルト)、欧州 (アイルランド)、欧州 (ロンドン)、アジアパシフィック (ムンバイ)、カナダ (中部)、南米 (サンパウロ) に追加されるかたちで、AWS 欧州 (パリ) でもご利用いただけるようになりました。これらの利用可能なリージョンのリストは、今後も拡大予定です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon QuickSight の作成者はサインアップ前に Q の学習と体験が可能に]]></title>
         <id>9060937e3b80196d67831faf840afbe0cfab9095</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-quicksight-authors-learn-experience-q-signing-up/"/>
@@ -626,41 +676,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General availability: Azure Active Directory authentication for Application Insights]]></title>
-        <id>general-availability-azure-ad-authentication-for-application-insights</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-ad-authentication-for-application-insights/"/>
-        <updated>2022-06-30T19:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Azure Active Directory (Azure AD) authentication for Azure Monitor Application helps ensure that only authenticated telemetry is ingested in your Application Insights resources.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Generally available: Azure Backup multi-user authorization for recovery services vaults]]></title>
         <id>azure-backup-mua-ga</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/azure-backup-mua-ga/"/>
         <updated>2022-06-30T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Multi-user authorization for Backup provides enhanced protection for your backup data in recovery services vaults against unauthorized critical operations.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: 2022-05-31 Azure IoT Central REST API release]]></title>
-        <id>iotc-2022-05-31-rest-api</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-2022-05-31-rest-api/"/>
-        <updated>2022-06-30T16:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The Azure IoT Central REST API now enables GA support for creating and managing device groups and organizations, configure file uploads destination, and add organization association to existing endpoints.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Resize rows in Azure IoT Central device raw data view]]></title>
-        <id>iotc-resize-raw-data-view</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-resize-raw-data-view/"/>
-        <updated>2022-06-30T16:00:02.000Z</updated>
-        <summary type="html"><![CDATA[You can now resize rows in Azure IoT Central’s device raw data view allowing the ability to analyze more data in a single view.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -673,16 +693,6 @@
         <summary type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) クラスターに割り当てられたストレージ容量が、クラスターからデータを削除すると動的に減少するようになりました。Amazon DocumentDB は、大規模な JSON データ管理のためのデータベースサービスであり、AWS で完全に管理および統合されている、高い耐久性を備えたエンタープライズ対応のサービスです。以前は、コレクションを削除するなどして Amazon DocumentDB のデータが削除されても、割り当てられた総容量は変わりませんでした。将来的にデータ量が増加すると、空き容量は自動的に再利用されました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Temporary access pass for Azure Active Directory]]></title>
-        <id>general-availability-temporary-access-pass-for-azure-active-directory</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-temporary-access-pass-for-azure-active-directory/"/>
-        <updated>2022-06-30T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Temporary Access Pass is now generally available in Public and US Gov clouds.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
         </author>
     </entry>
     <entry>
@@ -1196,11 +1206,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一般提供:2022 年 6 月の Azure Machine Learning に関するお知らせ]]></title>
+        <title type="html"><![CDATA[General availability: Azure Machine Learning announcements for June 2022]]></title>
         <id>general-availability-azure-machine-learning-announcements-for-june-2022</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-machine-learning-announcements-for-june-2022/"/>
         <updated>2022-06-22T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[新機能として、MLflow の強化、Azure ハイブリッドおよびマルチクラウドでのモデルのトレーニングおよびデプロイが追加されました。]]></summary>
+        <summary type="html"><![CDATA[New features include MLflow enhancements and train and deploy models in Azure hybrid and multi-cloud.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1476,31 +1486,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon OpenSearch Service now supports tag-based authorization for data read and write operations (Amazon OpenSearch Service でデータの読み取り/書き込みオペレーションにタグベースの認可をサポート)]]></title>
-        <id>682cab4d9068b04f8ff71e0b7433d916ec918747</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-opensearch-service-tag-based-authorization/"/>
-        <updated>2022-06-22T14:03:40.000Z</updated>
-        <summary type="html"><![CDATA[Amazon OpenSearch Service で HTTP メソッドにタグベースの認可がサポートされるようになりました。これにより、データの読み取り/書き込みオペレーションのアクセスコントロールの管理が容易になりました。AWS Identity and Access Management (IAM) でアイデンティティポリシーを使用して、読み取り/書き込みを行う HTTP メソッドのアクセス許可を定義することにより、Amazon OpenSearch Service ドメインのデータの大まかなアクセスコントロールが可能になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Budgets の UI の改善]]></title>
         <id>09a49967dc265f48880d594212273e1bae788258</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-budgets-ui-improvements/"/>
         <updated>2022-06-22T14:02:51.000Z</updated>
         <summary type="html"><![CDATA[AWS Budgets のコンソールの使用感を改善するため、分割ビューパネルをコンソールに追加しました。これにより、予算の概要ページから離れずに、予算の詳細を確認できるようになりました。AWS Budgets は、AWS のコストと使用状況を管理するのに役立ちます。カスタム予算を設定すると、クラウドの支出が予算額を超えた時 (または超えることが予想される時) にアラートが届きます。AWS Budgets では Savings Plans や Reservation アラートを設定し、使用率やカバレッジのターゲットが希望のしきい値を下回った時に通知を受け取ることもできます。AWS Budgets は、すべての AWS パブリックリージョンで一般提供を開始しています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK で 100 本のウェブカム動画ストリームのサポートを開始]]></title>
-        <id>6b058b2ca7842473e2c0f953f808b32b450ba7f6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-100-webcam-video-streams/"/>
-        <updated>2022-06-22T14:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Chime SDK で、WebRTC セッションあたり 100 本のウェブカム動画ストリームのサポートが開始されました。Amazon Chime SDK を使用すると、インテリジェントなリアルタイムでの音声、動画、画面共有を開発者が自身のウェブアプリケーションやモバイルアプリケーションに追加することができます。各クライアントアプリケーションでは表示するウェブカム動画ストリームを 25 本まで選択でき、ユーザーごとにカスタマイズ可能な没入型の動画エクスペリエンスを創出できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1516,51 +1506,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Aurora Serverless v1 が MySQL 5.6 から 5.7 へのインプレースアップグレードをサポート]]></title>
-        <id>ee71612eaa3945530a3db9ab4d0780b1365f85b0</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-aurora-serverless-v1-in-place-upgrade-mysql-5-6-5-7/"/>
-        <updated>2022-06-21T20:17:06.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Aurora Serverless v1 が MySQL 5.6 から 5.7 へのインプレースアップグレードに対応しました。データベースをバックアップして新しいバージョンに復元する代わりに、Amazon RDS マネジメントコンソールで数回のクリック操作を行うだけでアップグレードできます。また、最新の AWS SDK または CLI を使用することも可能です。 このプロセスでは新しいクラスターが作成されないため、同じエンドポイントや、クラスターが持つその他の特性を維持できます。新しいクラスターボリュームにデータをコピーする必要がないため、アップグレードが数分で完了します。アップグレードは即時またはメンテナンス時に適用されます。アップグレード中は、データベースクラスターが使用できなくなります。詳細については Aurora のドキュメントをご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 C6i インスタンスが新たなリージョンで利用可能に]]></title>
-        <id>3b9fd309c3daadf762a087b5755fbd5d0fdb27e1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-c6i-instances-available-additional-region/"/>
-        <updated>2022-06-21T20:16:17.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon EC2 C6i インスタンスを AWS リージョン欧州 (フランクフルト)でもご利用いただけるようになりました。C6i インスタンスは、オールコアターボ周波数 3.5GHz の第 3 世代インテル Xeon スケーラブルプロセッサー (コードネーム: Ice Lake) を搭載し、様々なワークロードにおいて C5 インスタンスと比較して最大 15％ のコンピュートティングプライスパフォーマンスを提供し、インテルトータルメモリーエンクリプション (TME) を使用した常時メモリ暗号化を実現しています。C6i インスタンスは、計算負荷の高いワークロード向けに設計されており、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの計算およびメモリリソースのほぼすべてがインスタンスに提供されます。これらのインスタンスは、バッチ処理、分散分析、ハイパフォーマンスコンピューティング (HPC)、広告配信、高度にスケーラブルなマルチプレイヤーゲーム、ビデオエンコーディングのような計算量の多いアプリケーション向けに設計されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect で 15 分単位の定期レポートが利用可能に]]></title>
-        <id>4b3a5ffb13343384452eb2cc12ff497645ddb995</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-launches-15-minute-scheduled-reports/"/>
-        <updated>2022-06-21T20:04:12.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect で、15 分おきに最新データを生成する履歴メトリクスレポートの定期配信をお客様が設定できるようになりました。履歴メトリクスのレポートには、対応済みのお客様からの問い合わせ、エージェントのアクティビティ、エージェントが処理した問い合わせの件数などのパフォーマンスに関するデータが含まれます。この機能により、お客様はキュー、ルーティングプロファイル、エージェントのパフォーマンスに関するインサイトをすぐに把握できます。こうしたインサイトは、たとえばコンタクトセンターで予測や人員配置計画の検討と調整を行う場合などに、さまざまな形で活用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: LDAP signing]]></title>
-        <id>azure-netapp-files-general-availability-of-ldap-signing</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-general-availability-of-ldap-signing/"/>
-        <updated>2022-06-20T17:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Feature has reached general availability.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure GitOps with Flux v2]]></title>
-        <id>general-availability-of-azure-gitops-with-flux-v2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-of-azure-gitops-with-flux-v2/"/>
-        <updated>2022-06-20T17:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Announcing the general availability of GitOps with Flux v2 in Azure Kubernetes Service (AKS) and Azure Arc-enabled Kubernetes (Arc K8s).]]></summary>
+        <title type="html"><![CDATA[Public preview: SMB Continuous Availability shares for Citrix App Layering]]></title>
+        <id>azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering/"/>
+        <updated>2022-06-20T17:00:11.000Z</updated>
+        <summary type="html"><![CDATA[New feature added to Azure NetApp Files.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1636,11 +1586,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[パブリック プレビュー:Azure Application Gateway でのプライベート リンクのサポート]]></title>
+        <title type="html"><![CDATA[Public preview: Private link support in Azure Application Gateway]]></title>
         <id>public-preview-private-link-support-for-application-gateway</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-private-link-support-for-application-gateway/"/>
         <updated>2022-06-13T19:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Application Gateway でのプライベート リンクのサポートにより、より安全なネットワーク アクセスを実現する方法をご確認ください。]]></summary>
+        <summary type="html"><![CDATA[Learn how private link support for Application Gateway drives more secured network access.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
