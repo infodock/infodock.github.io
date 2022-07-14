@@ -1,10 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-13T00:29:21.074Z</id>
+    <id>urn:2022-07-14T00:33:31.567Z</id>
     <title>Info Dock</title>
-    <updated>2022-07-13T00:29:21.074Z</updated>
+    <updated>2022-07-14T00:33:31.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Firewall Manager で共通のセキュリティグループポリシーによる VPC セキュリティグループタグの配布をサポート開始]]></title>
+        <id>94da2dc95132008c22c6f63c9ff245adc937608f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-firewall-manager-supports-vpc-security-group-distribution-policies/"/>
+        <updated>2022-07-13T17:34:24.000Z</updated>
+        <summary type="html"><![CDATA[AWS Firewall Manager は、共通のセキュリティグループポリシーを作成する際に、VPC セキュリティグループタグの一元的な配布をサポートするようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nimble Studio にスタジオコンポーネントに対するシームレスな IAM アクセスを導入]]></title>
+        <id>8ae0a74d9027587cc5d3cd7db81998f0f95e5113</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/nimble-studio-seamless-iam-access-studio-components/"/>
+        <updated>2022-07-13T17:33:33.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Nimble Studio は、スタジオコンポーネントおよびカスタムスタジオコンポーネントに対するシームレスな AWS Identity Access Management (IAM) プロファイルのアクセスをサポートするようになりました。ワークステーションセッションに直接アクセスして、すぐに利用できます。これにより、Nimble Studio の管理者がシームレスな IAM ロールのアクセス許可によってストリーミングワークステーションの追加のプロパティを設定および制御できるため、アーティストはプロファイルを切り替えることなく、作業中のタスクに適したレベルのアクセス権を持つことができます。カスタムコンポーネントは、Windows の場合は PowerShell スクリプトを使用し、Linux インスタンスの場合はシェルスクリプトを使用します。これらの設定は、Nimble Studio の起動プロファイルに追加して、簡単に取り出すことができます。カスタム設定では、シームレスな IAM ロールのアクセス許可によって、従来よりも柔軟にワークステーションにリソースを追加したり、インスタンス、システム、ユーザーの初期化時にカスタムスクリプトを実行したりできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS 向け Amazon EC2 M1 Mac インスタンスの一般提供を発表]]></title>
+        <id>448371e1b43215259a82079de3c7d4d51b1dfde8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/general-availability-amazon-ec2-m1-mac-instances-macos/"/>
+        <updated>2022-07-13T17:32:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Compute Cloud (Amazon EC2) M1 Mac インスタンスの一般提供が開始されました (GA)。Apple Silicon Mac mini コンピュータ上に構築され、AWS Nitro System を搭載した Amazon EC2 M1 Mac インスタンスは、iOS および macOS アプリケーションの構築用およびテスト用となる x86 ベースの EC2 Mac インスタンスよりも最大 60% 優れたコストパフォーマンスを提供します。安全なオンデマンドの AWS インフラストラクチャが何百万ものお客様に 10 年以上提供してきた伸縮性、スケーラビリティ、信頼性はそのままです。また、EC2 M1 Mac インスタンスは、AWS で初めてネイティブ Arm64 macOS 環境での Apple デバイス向けのアプリケーションの開発、構築、テスト、デプロイ、実行を可能にするものです。macOS アプリケーションをリアーキテクトして Apple Silicon Mac をネイティブにサポートするデベロッパーは、Arm64 macOS 環境を数分以内にプロビジョニングし、必要に応じて容量を動的に拡張し、従量制料金を利用してさらに高速な構築と便利な分散テストを行えるようになりました。詳細や開始方法については、Amazon EC2 Mac インスタンスをご覧ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker のモデルトレーニングで異種クラスターのサポートが開始]]></title>
+        <id>729ecaaa11f49a043c5833455bd18ace0b48c047</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/announcing-heterogeneous-clusters-amazon-sagemaker-model-training/"/>
+        <updated>2022-07-13T17:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker のモデルトレーニングで、異種クラスターがサポートされるようになりました。これにより、単一のジョブに複数のインスタンスタイプを使用するトレーニングジョブを開始できるようになります。この新機能によって、モデルトレーニングを構成するさまざまな部分をそれぞれに最適なインスタンスタイプで実行できるため、トレーニングコストを削減できます。例えば、AWS では最近、ResNet-50 コンピュータビジョンモデルのトレーニングを ml.g5.xl インスタンスと ml.c5n.2xl インスタンスによる異種クラスターで実施しました。このトレーニングジョブでは、同じモデルで同じ精度のトレーニングを ml.g5.xl インスタンスのみのクラスターで実施した場合と比較して、コストが 13% 低くなりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 Auto Scaling のお客様が Amazon CloudWatch を使用して予測スケーリングポリシーをモニタリング可能に]]></title>
+        <id>22fec2f31f75bcbc80a9dafae8fd2e0432863feb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-ec2-predictive-scaling-forecast-cloudwatch-metrics/"/>
+        <updated>2022-07-13T17:31:05.000Z</updated>
+        <summary type="html"><![CDATA[EC2 Auto Scaling では、予測スケーリングポリシーの予測内容を CloudWatch メトリクスとして公開しました。これにより、予測スケーリングの精度の分析やモニタリング、精度に関するアラームの設定などが行えるようになります。予測スケーリングは、予測した需要に基づき、Auto Scaling グループの容量を事前に引き上げるスケーリングポリシーです。このポリシーを利用すれば、アプリケーションの可用性を向上させながら、EC2 コストの増加につながるオーバープロビジョニングな状態を維持する必要性を抑えることができます。予測スケーリングは Auto Scaling グループの容量を引き上げるだけなので、現在のスケーリング設定に正確に適用することができれば、お使いのアプリケーションの可用性が向上します。とはいえ、予測が不正確だと、逆にコストが増加する可能性もあります。CloudWatch が備える多種多様な機能を使用できるようになったことで、予測精度を測定し、見慣れた CloudWatch グラフで予測内容を表示できるほか、予測結果が設定した水準を超えた場合の自動アラームや自動通知を設定することもできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Security Hub に 4 つの新しい統合パートナーが追加]]></title>
+        <id>6c96b2e1ba8f16c2536a2eab9b2b3ceff0b7103a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-security-hub-adds-four-new-integration-partners/"/>
+        <updated>2022-07-13T14:04:34.000Z</updated>
+        <summary type="html"><![CDATA[AWS Security Hub に、クラウドセキュリティ体制のモニタリングについてお客様を支援する 4 つの新しい統合パートナーが追加されました。Lacework、Juniper Networks、SentinelOne、および K9 Security との統合により、Security Hub での統合の総数は 79 になります。Lacework は Polygraph Data Platform (PDP) から Security Hub に検出結果を送信して、AWS のポスチャとコンプライアンスのイベントを管理するのを支援します。Juniper Networks の vSRX 仮想 (次世代) ファイアウォール は、ファイアウォールによって観測されたセキュリティイベントを Security Hub に送信します。SentinelOne は、お客様の AWS 環境で実行されている SentinelOne エンドポイントによって識別されたセキュリティの検出結果を Security Hub に送信します。K9 Security は、AWS Identity and Access Management (IAM) 設定内の重要なアクセス権の変更に関連する検出結果を Security Hub に送信します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CloudFormation StackSets が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>906657053087f11775d96e620ba964fdd7c45f16</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-available-aws-asia-pacific-jakarta-region/"/>
+        <updated>2022-07-13T14:02:54.000Z</updated>
+        <summary type="html"><![CDATA[AWS CloudFormation では、StackSets が利用できるリージョンを AWS アジアパシフィック (ジャカルタ) に拡大しました。StackSets を使用すると、複数の AWS アカウントとリージョンに対して、クラウドリソースのデプロイのプロビジョニングと管理を 1 回の操作で実行できます。StackSets が AWS Organizations と統合されているため、AWS アカウントが組織に入るたびに自動デプロイを利用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CloudFormation StackSets は、組織単位内でのアカウントレベルのターゲティングをサポートすることを発表]]></title>
+        <id>8844b1e85473e468a6caea06fe4fe282b5e4a21e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-support-account-level-targeting-organizational-unit/"/>
+        <updated>2022-07-13T14:01:14.000Z</updated>
+        <summary type="html"><![CDATA[AWS CloudFormation StackSets は、組織単位 (OU) 内の選択された AWS アカウントに単一の操作でスタックセットをデプロイできる新機能をリリースしました。この機能を使用して、OU 内の AWS アカウントに対するスタックセットのデプロイをターゲティングまたはスキップできます。例えば、この機能を使用して、OU 内の AWS Config ポリシーが既にある AWS アカウントには、ポリシーのデプロイをスキップできます。数回クリックするだけで、以前のスタックセットのデプロイが失敗した AWS アカウントに対してスタックセットを再デプロイできます。同様に、OU 内の停止された AWS アカウントに対しては、スタックセットのデプロイをスキップできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、モダンなデータ分析をエンドツーエンドで支援する 3 つのサーバーレス分析サービス群を一般提供開始]]></title>
+        <id>c42aa4bdd7aa3bc4eae15168f2b9b65919d4a9bd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/redshift-serverless-japan/"/>
+        <updated>2022-07-13T05:22:27.000Z</updated>
+        <summary type="html"><![CDATA[※本プレスリリースは、2022 年 7 月 12 日に米国で発表されたプレスリリースをもとに作成しています。
+ 
+ 
+ 
+Amazon EMR Serverless、Amazon MSK Serverless に加え、Amazon Redshift Serverless の新しいサーバーレスオプションにより、お客様は基盤となるインフラの設定、拡張・管理をせずに膨大なデータ量の分析が可能に
+ 
+ 
+この新たなサーバーレス分析オプションを Informatica、NextGen Healthcare、Huron を含むお客様およびパートナーが採用]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generally available: Azure IoT Edge 1.3.0 release]]></title>
         <id>azure-iot-edge-130-release-is-now-generally-available</id>
@@ -340,7 +437,7 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <title type="html"><![CDATA[General availability: Azure Active Directory authentication for Application Insights]]></title>
         <id>general-availability-azure-active-directory-authentication-for-application-insights</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-active-directory-authentication-for-application-insights/"/>
-        <updated>2022-07-06T16:00:43.000Z</updated>
+        <updated>2022-07-06T16:00:41.000Z</updated>
         <summary type="html"><![CDATA[Azure Active Directory (Azure AD) authentication for Azure Monitor Application helps ensure that only authenticated telemetry is ingested in your Application Insights resources.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -867,11 +964,41 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[General availability: Azure Active Directory authentication for Application Insights]]></title>
+        <id>general-availability-azure-ad-authentication-for-application-insights</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-ad-authentication-for-application-insights/"/>
+        <updated>2022-06-30T19:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Azure Active Directory (Azure AD) authentication for Azure Monitor Application helps ensure that only authenticated telemetry is ingested in your Application Insights resources.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Generally available: Azure Backup multi-user authorization for recovery services vaults]]></title>
         <id>azure-backup-mua-ga</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/azure-backup-mua-ga/"/>
         <updated>2022-06-30T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Multi-user authorization for Backup provides enhanced protection for your backup data in recovery services vaults against unauthorized critical operations.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: 2022-05-31 Azure IoT Central REST API release]]></title>
+        <id>iotc-2022-05-31-rest-api</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-2022-05-31-rest-api/"/>
+        <updated>2022-06-30T16:00:03.000Z</updated>
+        <summary type="html"><![CDATA[The Azure IoT Central REST API now enables GA support for creating and managing device groups and organizations, configure file uploads destination, and add organization association to existing endpoints.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Resize rows in Azure IoT Central device raw data view]]></title>
+        <id>iotc-resize-raw-data-view</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-resize-raw-data-view/"/>
+        <updated>2022-06-30T16:00:02.000Z</updated>
+        <summary type="html"><![CDATA[You can now resize rows in Azure IoT Central’s device raw data view allowing the ability to analyze more data in a single view.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -884,6 +1011,16 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <summary type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) クラスターに割り当てられたストレージ容量が、クラスターからデータを削除すると動的に減少するようになりました。Amazon DocumentDB は、大規模な JSON データ管理のためのデータベースサービスであり、AWS で完全に管理および統合されている、高い耐久性を備えたエンタープライズ対応のサービスです。以前は、コレクションを削除するなどして Amazon DocumentDB のデータが削除されても、割り当てられた総容量は変わりませんでした。将来的にデータ量が増加すると、空き容量は自動的に再利用されました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Temporary access pass for Azure Active Directory]]></title>
+        <id>general-availability-temporary-access-pass-for-azure-active-directory</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-temporary-access-pass-for-azure-active-directory/"/>
+        <updated>2022-06-30T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Temporary Access Pass is now generally available in Public and US Gov clouds.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
         </author>
     </entry>
     <entry>
@@ -1137,41 +1274,11 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Textract がフォーム抽出機能の品質アップデートを発表]]></title>
-        <id>905738ad6d8e7a76ec387f4652bbdf59541971ed</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-textract-announces-quality-updates-extraction-feature/"/>
-        <updated>2022-06-24T15:46:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Textract は、あらゆるドキュメントまたは画像からテキスト、手書き文字、およびデータを自動的に抽出する機械学習サービスです。お客様のフィードバックをもとに、基盤となる機械学習モデルを継続的に改善することで、さらに高い精度を実現します。本日、Amazon Textract のフォーム抽出機能の品質が改善されたことをお知らせします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Fargate が AWS for Fluent Bit によるマルチラインロギングの完全サポートを開始]]></title>
-        <id>2c7c406f0ec3c43e494038a7d5b3ca98e027b53b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-fargate-supports-multiline-logging-powered-fluent-bit/"/>
-        <updated>2022-06-24T15:46:04.000Z</updated>
-        <summary type="html"><![CDATA[Amazon ECS では、AWS Fargate と Amazon EC2 の両方について、AWS for Fluent Bit によるマルチラインロギングを完全にサポートしました。AWS Fluent Bit は、高速かつ軽量なログフォワーダーでオープンソースプロジェクトである Fluent Bit の AWS ディストリビューションです。Amazon ECS ユーザーはこの機能を使用して、AWS Fargate または Amazon EC2 で実行中のコンテナ化されたアプリケーションによって生成された部分的なログメッセージを 1 つのメッセージに再結合し、トラブルシューティングや分析を簡単に行えます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS IoT ExpressLink の一般提供を開始]]></title>
         <id>c6e0085c6d13fc7646e4bcc518ba24239a6dffae</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-iot-expresslink-generally-available/"/>
         <updated>2022-06-24T15:31:13.000Z</updated>
         <summary type="html"><![CDATA[Espressif、Infineon、u-blox などの AWS パートナーによって開発および提供されている AWS IoT ExpressLink を搭載したハードウェア接続モジュールの一般提供開始についてお知らせいたします。これらのモジュールは、AWS のクラウド接続を簡単に実現し、デバイスからクラウドへの接続において AWS が要求するセキュリティ要件を実装します。これらのワイヤレスモジュールをハードウェア設計に統合することで、消費者向け製品や産業/農業用センサーおよびコントローラーなど、モノのインターネット (IoT) 製品の開発を加速させることができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS WAF で複数のリクエストヘッダーの検査が可能に]]></title>
-        <id>be5ee71a0433238981a60cd24ff41b6821c2064b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-waf-support-inspecting-multiple-request-headers/"/>
-        <updated>2022-06-24T15:21:51.000Z</updated>
-        <summary type="html"><![CDATA[AWS WAF で、AWS WAF ルール内で各ヘッダーを個別に指定せずに、HTTP リクエストで複数のヘッダーを評価できるようになりました。また、この機能を使用すると、WAF ルール内で各 Cookie を指定しなくても、HTTP リクエストのすべての Cookie を簡単に検査できます。この機能は、カスタムヘッダーや Cookie を悪用しようとする攻撃からアプリケーションや API エンドポイントを保護したり、WAF のルールを作成していない可能性のある共通のヘッダーを保護したりするのに役立ちます。また、含まれた/除外されたヘッダーのみに検査の範囲を制限して、検査するヘッダーや Cookie のキーまたは値のみを検査できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1187,51 +1294,11 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS WAF Captcha が一般利用可能に]]></title>
-        <id>5bf7b99ba66b89a60dff69de1f8bb5f014174fa0</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-waf-captcha-generally-available/"/>
-        <updated>2022-06-24T15:20:13.000Z</updated>
-        <summary type="html"><![CDATA[AWS WAF Captcha がすべてのお客様にご利用いただけるようになりました。AWS WAF Captcha は、ウェブリクエストが AWS WAF で保護されたリソースに到達することが許可される前に、ユーザーがチャレンジを正常に完了することを要求することで、望ましくないボットトラフィックをブロックするのに役立ちます。ログイン、検索、フォーム送信などのボットのターゲットとなることが多い特定のリソースについて、WAF Captcha のチャレンジを解決することを要求するように AWS WAF ルールを設定できます。AWS WAF Bot Control や Amazon IP Reputation リストなど、AWS マネージドルールから生成されたレート、属性、またはラベルに基づいて、疑わしいリクエストについて WAF Captcha チャレンジを要求することもできます。WAF Captcha のチャレンジは、ボットに対して効果的でありながら、人間にとっては単純なものです。WAF Captcha には音声版が含まれており、WCAG アクセシビリティ要件を満たすように設計されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Well-Architected Tool、カスタムレンズに複数の機能強化を追加]]></title>
-        <id>01a486e8f54575fb91fbdf9d0619b6a049e8dba9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-well-architected-tool-adds-enhancements-custom-lenses/"/>
-        <updated>2022-06-24T15:19:25.000Z</updated>
-        <summary type="html"><![CDATA[AWS Well-Architected Tool を使用するお客様は、カスタムレンズのコンテンツを公開前に確認し、役立つリソースや改善計画の URL を追加して、タグを使ってそれらのカスタムレンズにメタデータを割り当てられるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Data Exchange でのオープンデータを発表]]></title>
-        <id>590f62b63a2332aa57ed5f01cb5def93b702f0ee</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/announcing-open-data-aws-data-exchange/"/>
-        <updated>2022-06-24T15:18:37.000Z</updated>
-        <summary type="html"><![CDATA[誰でも、AWS Data Exchange で公開されていて利用可能なデータセットや、さまざまな業界の主要なデータプロバイダーが提供する 3,000 を超える既存のデータ製品すべてを、1 つの場所から探し出すことができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon ECR が AWS アジアパシフィック (大阪) リージョンで AWS PrivateLink のサポートを開始]]></title>
         <id>7fa7d750c4670d858755f92474d5ada41cf1da26</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ecr-aws-privatelink-osaka-region/"/>
         <updated>2022-06-24T15:17:49.000Z</updated>
         <summary type="html"><![CDATA[本日、Amazon Elastic Container Registry (Amazon ECR) はアジアパシフィック (大阪) リージョンで AWS PrivateLink のサポートを開始しました。これで、大阪リージョンで Amazon Virtual Private Cloud (Amazon VPC) から、パブリック IP を使用せずに Amazon ECR API にアクセスできます。トラフィックはインターネットを経由する必要がありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon QuickSight で、ピボットテーブルの全レベルでのカスタム小計と列の表示/非表示機能が利用可能に]]></title>
-        <id>2fdbfb78f1ad43e2be721b8f8ee43a5ccde52d85</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-quicksight-custom-subtotals-levels-show-hide-pivot-table/"/>
-        <updated>2022-06-24T15:16:12.000Z</updated>
-        <summary type="html"><![CDATA[Amazon QuickSight で、ピボットテーブルの全レベルでカスタム小計をご利用いただけるようになりました。QuickSight の作成者は、ピボットテーブルの小計の表示方法をカスタマイズできるようになりました。利用できる小計の表示オプションは、最終レベル、全レベル、または選択したレベルです。このカスタマイズは行と列の両方で利用できます。カスタム小計について詳しくは、こちらをご覧ください。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1267,26 +1334,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新しい AWS 請求ページの使用環境を発表]]></title>
-        <id>ce08829ac286e7b8c14e7684d7c08d3ece682f0c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-bills-page-experience/"/>
-        <updated>2022-06-23T14:03:39.000Z</updated>
-        <summary type="html"><![CDATA[本日より、AWS 請求ページに再設計されたユーザー環境が実装され、AWS での支出をさらに把握しやすくなりました。請求ページでは、AWS 料金の概要や重要な詳細情報を確認することができます。今回の再設計では、ユーザーインターフェイスが一新され、削減額と税金のビューが新しくなり、並べ替えとフィルタリングの機能が強化されました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Lex 自動チャットボットデザイナーの一般提供が開始]]></title>
-        <id>b815d1991aa5a9ca9966692f13b5813c8fa5e28a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-lex-automated-chatbox-designer-available/"/>
-        <updated>2022-06-23T14:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lex 自動チャットボットデザイナーの一般提供を開始しました。デベロッパーは本機能を利用することで、会話のトランスクリプトからチャットボットを数週間もかけずに数時間で自動的に設計できるようになります。2021 年 12 月の re:Invent で発表された自動チャットボットデザイナーは、会話設計を自動化し、デベロッパーの労力を最小限に抑え、チャットボットの設計にかかる時間を短縮します。これにより、Amazon Lex をより使いやすいものにします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Generally available: Windows IoT on Arm64]]></title>
         <id>generally-available-windows-iot-on-arm64</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-windows-iot-on-arm64/"/>
@@ -1297,11 +1344,11 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General availability: Azure Machine Learning announcements for June 2022]]></title>
+        <title type="html"><![CDATA[一般提供:2022 年 6 月の Azure Machine Learning に関するお知らせ]]></title>
         <id>general-availability-azure-machine-learning-announcements-for-june-2022</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-machine-learning-announcements-for-june-2022/"/>
         <updated>2022-06-22T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[New features include MLflow enhancements and train and deploy models in Azure hybrid and multi-cloud.]]></summary>
+        <summary type="html"><![CDATA[新機能として、MLflow の強化、Azure ハイブリッドおよびマルチクラウドでのモデルのトレーニングおよびデプロイが追加されました。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1547,11 +1594,21 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: SMB Continuous Availability shares for Citrix App Layering]]></title>
-        <id>azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering/"/>
-        <updated>2022-06-20T17:00:11.000Z</updated>
-        <summary type="html"><![CDATA[New feature added to Azure NetApp Files.]]></summary>
+        <title type="html"><![CDATA[General availability: LDAP signing]]></title>
+        <id>azure-netapp-files-general-availability-of-ldap-signing</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-general-availability-of-ldap-signing/"/>
+        <updated>2022-06-20T17:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Feature has reached general availability.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure GitOps with Flux v2]]></title>
+        <id>general-availability-of-azure-gitops-with-flux-v2</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-of-azure-gitops-with-flux-v2/"/>
+        <updated>2022-06-20T17:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Announcing the general availability of GitOps with Flux v2 in Azure Kubernetes Service (AKS) and Azure Arc-enabled Kubernetes (Arc K8s).]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1622,16 +1679,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <link href="https://azure.microsoft.com/ja-jp/updates/power-platform-connector-ga/"/>
         <updated>2022-06-14T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[Automate alerts, orchestrate business workflows and build low-code apps with Azure Data Explorer connector for Power Automate, Logic Apps, and Power Apps.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Private link support in Azure Application Gateway]]></title>
-        <id>public-preview-private-link-support-for-application-gateway</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-private-link-support-for-application-gateway/"/>
-        <updated>2022-06-13T19:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Learn how private link support for Application Gateway drives more secured network access.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
