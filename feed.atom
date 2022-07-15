@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-14T00:33:31.567Z</id>
+    <id>urn:2022-07-15T00:35:18.118Z</id>
     <title>Info Dock</title>
-    <updated>2022-07-14T00:33:31.567Z</updated>
+    <updated>2022-07-15T00:35:18.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Azure Site Recovery update rollup 62 - July 2022]]></title>
+        <id>generally-available-azure-site-recovery-update-rollup-62-july-2022</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-site-recovery-update-rollup-62-july-2022/"/>
+        <updated>2022-07-14T16:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Azure update for Azure Site Recovery update rollup 62.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Exporting device customizations and cloud properties in Azure IoT Central]]></title>
+        <id>iotc-export-customizations-and-cloud-properties</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-export-customizations-and-cloud-properties/"/>
+        <updated>2022-07-14T16:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Device capability customizations and cloud properties are now included in exported device templates in Azure IoT Central.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Azure Gateway Load Balancer]]></title>
+        <id>generally-available-azure-gateway-load-balancer</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/generally-available-azure-gateway-load-balancer/"/>
+        <updated>2022-07-14T16:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Gateway Load Balancer enables you to deploy, scale, and enhance the availability of third party network virtual appliances (NVAs) in Azure with ease.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Firewall Manager で共通のセキュリティグループポリシーによる VPC セキュリティグループタグの配布をサポート開始]]></title>
         <id>94da2dc95132008c22c6f63c9ff245adc937608f</id>
@@ -137,7 +167,7 @@ Amazon EMR Serverless、Amazon MSK Serverless に加え、Amazon Redshift Server
         <id>a4abd56399f41cf68012f4f211b753a3fc7003b4</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/use-result-fragment-caching-emr-runtime-apache-spark-boost-query-performace-15x/"/>
         <updated>2022-07-12T18:33:13.000Z</updated>
-        <summary type="html"><![CDATA[Apache Spark の Amazon EMR ランタイムは、Apache Spark のパフォーマンスが最適化されたランタイム環境であり、Amazon EMR クラスター 5.28 以降においてデフォルトで使用可能および有効になっています。Spark の Amazon EMR ランタイムは最大 32 倍高速で、オープンソースの Spark と 100% API 互換性があります。]]></summary>
+        <summary type="html"><![CDATA[Apache Spark 用 Amazon EMR ランタイムは、パフォーマンスに最適化された Apache Spark 用ランタイム環境であり、Amazon EMR クラスター 5.28 以降において利用可能、かつデフォルトで有効化されています。Spark 用 Amazon EMR ランタイムは、最大 3 倍高速なうえ、オープンソースの Spark と 100% の API 互換性があります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -437,7 +467,7 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <title type="html"><![CDATA[General availability: Azure Active Directory authentication for Application Insights]]></title>
         <id>general-availability-azure-active-directory-authentication-for-application-insights</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-active-directory-authentication-for-application-insights/"/>
-        <updated>2022-07-06T16:00:41.000Z</updated>
+        <updated>2022-07-06T16:00:43.000Z</updated>
         <summary type="html"><![CDATA[Azure Active Directory (Azure AD) authentication for Azure Monitor Application helps ensure that only authenticated telemetry is ingested in your Application Insights resources.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -964,41 +994,11 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General availability: Azure Active Directory authentication for Application Insights]]></title>
-        <id>general-availability-azure-ad-authentication-for-application-insights</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-ad-authentication-for-application-insights/"/>
-        <updated>2022-06-30T19:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Azure Active Directory (Azure AD) authentication for Azure Monitor Application helps ensure that only authenticated telemetry is ingested in your Application Insights resources.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Generally available: Azure Backup multi-user authorization for recovery services vaults]]></title>
         <id>azure-backup-mua-ga</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/azure-backup-mua-ga/"/>
         <updated>2022-06-30T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Multi-user authorization for Backup provides enhanced protection for your backup data in recovery services vaults against unauthorized critical operations.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: 2022-05-31 Azure IoT Central REST API release]]></title>
-        <id>iotc-2022-05-31-rest-api</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-2022-05-31-rest-api/"/>
-        <updated>2022-06-30T16:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The Azure IoT Central REST API now enables GA support for creating and managing device groups and organizations, configure file uploads destination, and add organization association to existing endpoints.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally available: Resize rows in Azure IoT Central device raw data view]]></title>
-        <id>iotc-resize-raw-data-view</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-resize-raw-data-view/"/>
-        <updated>2022-06-30T16:00:02.000Z</updated>
-        <summary type="html"><![CDATA[You can now resize rows in Azure IoT Central’s device raw data view allowing the ability to analyze more data in a single view.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1011,16 +1011,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <summary type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) クラスターに割り当てられたストレージ容量が、クラスターからデータを削除すると動的に減少するようになりました。Amazon DocumentDB は、大規模な JSON データ管理のためのデータベースサービスであり、AWS で完全に管理および統合されている、高い耐久性を備えたエンタープライズ対応のサービスです。以前は、コレクションを削除するなどして Amazon DocumentDB のデータが削除されても、割り当てられた総容量は変わりませんでした。将来的にデータ量が増加すると、空き容量は自動的に再利用されました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Temporary access pass for Azure Active Directory]]></title>
-        <id>general-availability-temporary-access-pass-for-azure-active-directory</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-temporary-access-pass-for-azure-active-directory/"/>
-        <updated>2022-06-30T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Temporary Access Pass is now generally available in Public and US Gov clouds.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
         </author>
     </entry>
     <entry>
@@ -1344,11 +1334,11 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一般提供:2022 年 6 月の Azure Machine Learning に関するお知らせ]]></title>
+        <title type="html"><![CDATA[General availability: Azure Machine Learning announcements for June 2022]]></title>
         <id>general-availability-azure-machine-learning-announcements-for-june-2022</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-machine-learning-announcements-for-june-2022/"/>
         <updated>2022-06-22T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[新機能として、MLflow の強化、Azure ハイブリッドおよびマルチクラウドでのモデルのトレーニングおよびデプロイが追加されました。]]></summary>
+        <summary type="html"><![CDATA[New features include MLflow enhancements and train and deploy models in Azure hybrid and multi-cloud.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1594,21 +1584,11 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General availability: LDAP signing]]></title>
-        <id>azure-netapp-files-general-availability-of-ldap-signing</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-general-availability-of-ldap-signing/"/>
-        <updated>2022-06-20T17:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Feature has reached general availability.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure GitOps with Flux v2]]></title>
-        <id>general-availability-of-azure-gitops-with-flux-v2</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-of-azure-gitops-with-flux-v2/"/>
-        <updated>2022-06-20T17:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Announcing the general availability of GitOps with Flux v2 in Azure Kubernetes Service (AKS) and Azure Arc-enabled Kubernetes (Arc K8s).]]></summary>
+        <title type="html"><![CDATA[Public preview: SMB Continuous Availability shares for Citrix App Layering]]></title>
+        <id>azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering/"/>
+        <updated>2022-06-20T17:00:11.000Z</updated>
+        <summary type="html"><![CDATA[New feature added to Azure NetApp Files.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1669,16 +1649,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-web-application-firewall-policies-in-azure-firewall-manager/"/>
         <updated>2022-06-15T16:00:14.000Z</updated>
         <summary type="html"><![CDATA[Azure Firewall Manager supports the ability to manage DDoS Protection plans and Azure Web Application Firewall (WAF) policies for workloads and applications, within a centralized place, at scale.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Data Explorer connector for Power Automate, Logic Apps, and Power Apps]]></title>
-        <id>power-platform-connector-ga</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/power-platform-connector-ga/"/>
-        <updated>2022-06-14T19:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Automate alerts, orchestrate business workflows and build low-code apps with Azure Data Explorer connector for Power Automate, Logic Apps, and Power Apps.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
