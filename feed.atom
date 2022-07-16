@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-15T00:35:18.118Z</id>
+    <id>urn:2022-07-16T00:32:16.298Z</id>
     <title>Info Dock</title>
-    <updated>2022-07-15T00:35:18.118Z</updated>
+    <updated>2022-07-16T00:32:16.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Responsible AI investments and safeguards for Facial Recognition]]></title>
+        <id>facelimitedaccess</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/facelimitedaccess/"/>
+        <updated>2022-07-15T19:00:40.000Z</updated>
+        <summary type="html"><![CDATA[The Cognitive Services team has updated our approach to facial recognition including adding a new Limited Access policy, removing AI classifiers of sensitive attributes and bolstering our investments in fairness and transparency.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift、行レベルセキュリティ (RLS) のサポートを開始]]></title>
+        <id>679bcd58fd38ed36e4b153a894b402b70aa0fab8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-redshift-row-level-security/"/>
+        <updated>2022-07-15T13:34:39.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift にて、行レベルセキュリティ (RLS) のサポートが開始されました。RLS は、テーブル内の行への詳細なアクセスを、簡単に設計および実装するための新しい強化機能です。RLS を利用すれば、ユーザーのジョブロールまたはアクセス権限、およびデータの機密性レベルに基づき、テーブル内に存在する行のサブセットへのアクセスを、SQL コマンドを使用して制限することができます。Amazon Redshift をご使用のお客様は、列レベルのアクセス制御と RLS を組み合わせることで、データへのアクセスを細かく設定して、包括的な保護策を講じることが可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift Serverless の一般提供を開始]]></title>
+        <id>7330a6468ce7a2638e789915347952a88e5786d4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-redshift-serverless-generally-available/"/>
+        <updated>2022-07-15T13:33:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift Serverless の一般提供が開始されました。本サービスでは、分析の実行やスケーリングを、データウェアハウスクラスターのプロビジョニングや管理なしに行うことが可能です。Amazon Redshift Serverless により、データアナリスト、デベロッパー、データサイエンティストを含むすべてのユーザーが、Amazon Redshift を使用してほんの数秒でデータのインサイトを得られるようになりました。Amazon Redshift Serverless は、データウェアハウスの容量を自動的にプロビジョンし、インテリジェントにスケールして、すべての分析で高いパフォーマンスを発揮します。お支払いいただくのは、1 秒単位で計算される、ワークロードの期間中に使用したコンピューティングの料金のみです。既存の分析/ビジネスインテリジェンス用アプリケーションを変更することなく、シンプルにご利用いただけます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Cloud WAN の一般提供が開始]]></title>
+        <id>f1f9893fea61925669e0a45882aae17e02294d5f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/general-availability-aws-cloud-wan/"/>
+        <updated>2022-07-15T13:32:57.000Z</updated>
+        <summary type="html"><![CDATA[AWS は、AWS Cloud WAN の一般提供を開始しました。本サービスは、統合されたグローバルネットワークの構築、管理、モニタリングを可能にするワイドエリアネットワーク (WAN) サービスです。 ご使用の AWS リソースとオンプレミス環境の間を流れるトラフィックを管理します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift の自動マテリアライズドビューの一般提供が開始]]></title>
+        <id>ad2b5de2f270f89dfdc707ae5dd3e3041ac59d50</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/automated-materialized-view-amazon-redshift/"/>
+        <updated>2022-07-15T13:32:06.000Z</updated>
+        <summary type="html"><![CDATA[反復可能なワークロードのクエリレイテンシーを短縮する、自動マテリアライズドビュー (AutoMV) の一般提供が Amazon Redshift で開始されました。AutoMV は、マテリアライズドビューを手動で作成し管理する手間を最小限に抑え、ユーザーが作成したマテリアライズドビューと同等のパフォーマンス上の利点をもたらします。主要業績指標 (KPI)、イベント、トレンドなどのメトリクスをすばやく確認するためのダッシュボードクエリといったワークロードで活用可能です。また、異なる頻度でスケジュールされたレポートクエリでも役立つ可能性があります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DevOps Guru にログ異常検出機能と推奨事項機能が追加]]></title>
+        <id>d26b4212d9e63d5b6ec541e665378f8c9e15456b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-devops-guru-log-anomaly-detection-recommendations/"/>
+        <updated>2022-07-15T13:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DevOps Guru の新機能、ログ異常検出と推奨事項の一般提供が開始されました。この機能の一環として DevOps Guru は、アプリケーションを構成している AWS リソースの Amazon CloudWatch Logs を、まず Lambda から、取り込みます。ログは新しいエンリッチメントデータをインサイトに提供します。これにより、アプリケーションの問題の根本原因をより正確に把握することや、より厳密な修正策を施すことが可能になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generally available: Azure Site Recovery update rollup 62 - July 2022]]></title>
         <id>generally-available-azure-site-recovery-update-rollup-62-july-2022</id>
@@ -19,7 +79,7 @@
         <title type="html"><![CDATA[Generally available: Exporting device customizations and cloud properties in Azure IoT Central]]></title>
         <id>iotc-export-customizations-and-cloud-properties</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/iotc-export-customizations-and-cloud-properties/"/>
-        <updated>2022-07-14T16:00:35.000Z</updated>
+        <updated>2022-07-14T16:00:31.000Z</updated>
         <summary type="html"><![CDATA[Device capability customizations and cloud properties are now included in exported device templates in Azure IoT Central.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -467,7 +527,7 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <title type="html"><![CDATA[General availability: Azure Active Directory authentication for Application Insights]]></title>
         <id>general-availability-azure-active-directory-authentication-for-application-insights</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-active-directory-authentication-for-application-insights/"/>
-        <updated>2022-07-06T16:00:43.000Z</updated>
+        <updated>2022-07-06T16:00:41.000Z</updated>
         <summary type="html"><![CDATA[Azure Active Directory (Azure AD) authentication for Azure Monitor Application helps ensure that only authenticated telemetry is ingested in your Application Insights resources.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
@@ -984,11 +1044,21 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: Microsoft Purview data sharing for Azure Storage]]></title>
+        <title type="html"><![CDATA[パブリック プレビュー:Azure Storage 向け Microsoft Purview データ共有]]></title>
         <id>public-preview-microsoft-purview-data-sharing</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-microsoft-purview-data-sharing/"/>
         <updated>2022-07-01T16:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Purview data sharing for in-place data sharing for Azure Data Lake Storage (ADLS Gen2) and Azure Blob Storage is now in public preview.]]></summary>
+        <summary type="html"><![CDATA[Azure Data Lake Storage (ADLS Gen2) と Azure Blob Storage のインプレース データ共有を実現する Microsoft Purview のパブリック プレビューが開始されました。]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure Active Directory authentication for Application Insights]]></title>
+        <id>general-availability-azure-ad-authentication-for-application-insights</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-ad-authentication-for-application-insights/"/>
+        <updated>2022-06-30T19:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Azure Active Directory (Azure AD) authentication for Azure Monitor Application helps ensure that only authenticated telemetry is ingested in your Application Insights resources.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1004,6 +1074,26 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Generally available: 2022-05-31 Azure IoT Central REST API release]]></title>
+        <id>iotc-2022-05-31-rest-api</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-2022-05-31-rest-api/"/>
+        <updated>2022-06-30T16:00:03.000Z</updated>
+        <summary type="html"><![CDATA[The Azure IoT Central REST API now enables GA support for creating and managing device groups and organizations, configure file uploads destination, and add organization association to existing endpoints.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: Resize rows in Azure IoT Central device raw data view]]></title>
+        <id>iotc-resize-raw-data-view</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/iotc-resize-raw-data-view/"/>
+        <updated>2022-06-30T16:00:02.000Z</updated>
+        <summary type="html"><![CDATA[You can now resize rows in Azure IoT Central’s device raw data view allowing the ability to analyze more data in a single view.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) により、ストレージ容量の動的なサイズ変更が可能に]]></title>
         <id>357f3d57269ec956e94ed39b37d6b512eb528093</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-documentdb-mongodb-dynamic-resizing-storage/"/>
@@ -1011,6 +1101,16 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <summary type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) クラスターに割り当てられたストレージ容量が、クラスターからデータを削除すると動的に減少するようになりました。Amazon DocumentDB は、大規模な JSON データ管理のためのデータベースサービスであり、AWS で完全に管理および統合されている、高い耐久性を備えたエンタープライズ対応のサービスです。以前は、コレクションを削除するなどして Amazon DocumentDB のデータが削除されても、割り当てられた総容量は変わりませんでした。将来的にデータ量が増加すると、空き容量は自動的に再利用されました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Temporary access pass for Azure Active Directory]]></title>
+        <id>general-availability-temporary-access-pass-for-azure-active-directory</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-temporary-access-pass-for-azure-active-directory/"/>
+        <updated>2022-06-30T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Temporary Access Pass is now generally available in Public and US Gov clouds.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
         </author>
     </entry>
     <entry>
@@ -1184,16 +1284,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon MSK が Apache Kafka バージョン 3.1.1 および 3.2.0 のサポートを追加]]></title>
-        <id>874457f8fcb54558ba26bfb62b15981bdc5aab73</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-msk-adds-support-apache-kafka-version-3-1-1-3-2-0/"/>
-        <updated>2022-06-24T17:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) で、新しいクラスターおよび既存のクラスター向けに Apache Kafka バージョン 3.1.1 および 3.2.0 のサポートが開始されました。Apache Kafka 3.1.1 および Apache Kafka 3.2.0 には、パフォーマンスを改善する複数のバグ修正と新機能が適用されました。主な機能としては、メトリクスの強化や、トピック ID の使用などがあります。安定性のため、MSK では本リリースにおいてもクォーラム管理に Zookeeper を引き続き使用し、管理します。改良点とバグの修正の詳細な一覧については、Apache Kafka の 3.1.1 および 3.2.0 のリリースノートをご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1 つのプライマリデータベースインスタンスと 2 つの読み取り可能なスタンバイデータベースインスタンスを備えた Amazon RDS Multi-AZ 配置がフランクフルトおよびストックホルムリージョンで使用可能に]]></title>
         <id>177cf5cc7884b2a0143053d00602b39685a37bbc</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-rds-multi-az-deployments-standby-database-instances-available-frankfurt-stockholm-regions/"/>
@@ -1244,51 +1334,11 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS CodeBuild が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
-        <id>f809b1f9c8f82fc008083332e0b35fc939e9e3ab</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-codebuild-available-aws-asia-pacific-jakarta-region/"/>
-        <updated>2022-06-24T17:17:03.000Z</updated>
-        <summary type="html"><![CDATA[AWS CodeBuild が AWS アジアパシフィック (ジャカルタ) リージョンでご利用いただけるようになりました。AWS CodeBuild は、ソースコードをコンパイルし、テストを実行して、デプロイ可能なソフトウェアパッケージを作成できるフルマネージド型の継続的統合サービスです。CodeBuild により、ビルドサーバーのプロビジョニング、管理、スケーリングが不要になります。CodeBuild は連続的にスケールされ、複数のビルドが同時に処理されるので、ビルドが待機状態でキュー内に残されることがありません。パッケージ済みのビルド環境で、すぐに開始できます。自分のビルドツールを使用するカスタムビルド環境を作成することもできます。CodeBuild では、コンピューティングリソースの使用に対して、分単位で料金が発生します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Lake Formation が AWS GovCloud (米国東部) リージョンで利用可能に]]></title>
         <id>2a7c47609e6dd685ad064cd56d3245233b825559</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-lake-formation-aws-govcloud-us-east-region/"/>
         <updated>2022-06-24T17:16:14.000Z</updated>
         <summary type="html"><![CDATA[AWS Lake Formation は、セキュアなデータレイクを数日でセットアップすることを可能にするサービスです。データレイクとは、キュレートされた安全な一元的リポジトリであり、すべてのデータが元の形式と分析用に処理された形式の両方で保存されます。データレイクを使用することにより、データのサイロ化が解消され、異なる種類の分析を組み合わせることが可能になります。このような分析から得られるインサイトは、ビジネス上の意思決定に大きく貢献します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT ExpressLink の一般提供を開始]]></title>
-        <id>c6e0085c6d13fc7646e4bcc518ba24239a6dffae</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-iot-expresslink-generally-available/"/>
-        <updated>2022-06-24T15:31:13.000Z</updated>
-        <summary type="html"><![CDATA[Espressif、Infineon、u-blox などの AWS パートナーによって開発および提供されている AWS IoT ExpressLink を搭載したハードウェア接続モジュールの一般提供開始についてお知らせいたします。これらのモジュールは、AWS のクラウド接続を簡単に実現し、デバイスからクラウドへの接続において AWS が要求するセキュリティ要件を実装します。これらのワイヤレスモジュールをハードウェア設計に統合することで、消費者向け製品や産業/農業用センサーおよびコントローラーなど、モノのインターネット (IoT) 製品の開発を加速させることができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS App2Container が CI/CD パイプラインのセットアップで Azure DevOps のサポートを開始]]></title>
-        <id>7e6ec399ac6f7a42adeff06244d3a197ad475950</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-app2container-azure-devops-ci-cd-pipeline/"/>
-        <updated>2022-06-24T15:21:03.000Z</updated>
-        <summary type="html"><![CDATA[AWS App2Container (A2C) が、AWS でのコンテナアプリケーションの構築とデプロイを自動化する CI/CD パイプラインのセットアップで、Azure DevOps をサポートするようになりました。このリリースにより、App2Container を活用して Azure DevOps サービスパイプラインのセットアップを自動化し、コンテナ化されたアプリケーションの自動構築とデプロイを管理できます。App2Container は、AWS Toolkit や Docker Engine などの必要なツールをインストールすることで、構築パイプラインのセットアップを自動化します。また、App2Container は既存の Azure DevOps サービスアカウントを使用してリリースパイプラインをセットアップし、コンテナ化されたイメージを AWS コンテナサービスにデプロイします。これは、App2Container に既に含まれている AWS CodePipeline および Jenkins サポートへの追加機能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ECR が AWS アジアパシフィック (大阪) リージョンで AWS PrivateLink のサポートを開始]]></title>
-        <id>7fa7d750c4670d858755f92474d5ada41cf1da26</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ecr-aws-privatelink-osaka-region/"/>
-        <updated>2022-06-24T15:17:49.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Elastic Container Registry (Amazon ECR) はアジアパシフィック (大阪) リージョンで AWS PrivateLink のサポートを開始しました。これで、大阪リージョンで Amazon Virtual Private Cloud (Amazon VPC) から、パブリック IP を使用せずに Amazon ECR API にアクセスできます。トラフィックはインターネットを経由する必要がありません。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1334,11 +1384,11 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General availability: Azure Machine Learning announcements for June 2022]]></title>
+        <title type="html"><![CDATA[一般提供:2022 年 6 月の Azure Machine Learning に関するお知らせ]]></title>
         <id>general-availability-azure-machine-learning-announcements-for-june-2022</id>
         <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-machine-learning-announcements-for-june-2022/"/>
         <updated>2022-06-22T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[New features include MLflow enhancements and train and deploy models in Azure hybrid and multi-cloud.]]></summary>
+        <summary type="html"><![CDATA[新機能として、MLflow の強化、Azure ハイブリッドおよびマルチクラウドでのモデルのトレーニングおよびデプロイが追加されました。]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1584,11 +1634,21 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public preview: SMB Continuous Availability shares for Citrix App Layering]]></title>
-        <id>azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering/"/>
-        <updated>2022-06-20T17:00:11.000Z</updated>
-        <summary type="html"><![CDATA[New feature added to Azure NetApp Files.]]></summary>
+        <title type="html"><![CDATA[General availability: LDAP signing]]></title>
+        <id>azure-netapp-files-general-availability-of-ldap-signing</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/azure-netapp-files-general-availability-of-ldap-signing/"/>
+        <updated>2022-06-20T17:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Feature has reached general availability.]]></summary>
+        <author>
+            <name>Azure サービスの更新</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability: Azure GitOps with Flux v2]]></title>
+        <id>general-availability-of-azure-gitops-with-flux-v2</id>
+        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-of-azure-gitops-with-flux-v2/"/>
+        <updated>2022-06-20T17:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Announcing the general availability of GitOps with Flux v2 in Azure Kubernetes Service (AKS) and Azure Arc-enabled Kubernetes (Arc K8s).]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
@@ -1609,46 +1669,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <link href="https://azure.microsoft.com/ja-jp/updates/apache-parquet-capturing-support-in-azure-event-hubs/"/>
         <updated>2022-06-20T16:00:10.000Z</updated>
         <summary type="html"><![CDATA[Load real-time streaming data in Azure Event Hubs to data lakes, warehouses, and other storage services in Parquet format.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Azure Virtual Network Manager in nine new regions]]></title>
-        <id>azure-virtual-network-manager-in-nine-more-regions</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-virtual-network-manager-in-nine-more-regions/"/>
-        <updated>2022-06-15T20:50:43.000Z</updated>
-        <summary type="html"><![CDATA[You can create an Azure Virtual Network Manager instance in nine more regions and manage your virtual networks at scale across regions, subscriptions, management groups, and tenants globally from a single pane of glass.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: ExpressRoute Direct and Circuit in different subscriptions]]></title>
-        <id>public-preview-expressroute-direct-and-circuit-in-different-subscriptions</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-expressroute-direct-and-circuit-in-different-subscriptions/"/>
-        <updated>2022-06-15T16:00:18.000Z</updated>
-        <summary type="html"><![CDATA[You can now redeem an ExpressRoute Direct authorization to create an ExpressRoute Circuit in a different subscription.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview: Windows Admin Center in the Azure portal]]></title>
-        <id>public-preview-windows-admin-center-in-the-azure-portal</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/public-preview-windows-admin-center-in-the-azure-portal/"/>
-        <updated>2022-06-15T16:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Preview remote management capabilities through a single pane of glass in the Azure portal.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure WAF policy and DDoS management in Azure Firewall Manager]]></title>
-        <id>general-availability-azure-web-application-firewall-policies-in-azure-firewall-manager</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-azure-web-application-firewall-policies-in-azure-firewall-manager/"/>
-        <updated>2022-06-15T16:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Azure Firewall Manager supports the ability to manage DDoS Protection plans and Azure Web Application Firewall (WAF) policies for workloads and applications, within a centralized place, at scale.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
