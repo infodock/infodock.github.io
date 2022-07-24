@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-23T00:29:54.744Z</id>
+    <id>urn:2022-07-24T00:33:31.357Z</id>
     <title>Info Dock</title>
-    <updated>2022-07-23T00:29:54.744Z</updated>
+    <updated>2022-07-24T00:33:31.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1709,36 +1709,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <link href="https://azure.microsoft.com/ja-jp/updates/preview-5kaccountlimit/"/>
         <updated>2022-06-27T16:00:08.000Z</updated>
         <summary type="html"><![CDATA[Azure Storage is announcing public preview of the ability to create additional 5000 storage accounts per subscription per region.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure SQL—Public preview updates for late June 2022]]></title>
-        <id>azure-sql-public-preview-updates-for-late-june-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-public-preview-updates-for-late-june-2022/"/>
-        <updated>2022-06-23T16:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Public preview updates made in late June 2022 for Azure SQL.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure SQL—Generally available updates for late June 2022]]></title>
-        <id>azure-sql-generally-available-updates-for-late-june-2022</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/azure-sql-generally-available-updates-for-late-june-2022/"/>
-        <updated>2022-06-23T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Generally available updates made in late June 2022 for Azure SQL.]]></summary>
-        <author>
-            <name>Azure サービスの更新</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General availability: Azure Key Vault secrets provider on Azure Arc enabled Kubernetes]]></title>
-        <id>general-availability-akv-provider-arc-kubernetes</id>
-        <link href="https://azure.microsoft.com/ja-jp/updates/general-availability-akv-provider-arc-kubernetes/"/>
-        <updated>2022-06-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enable fetching secrets from an Azure Key Vault directly into the workload running on an Arc connected Kubernetes cluster.]]></summary>
         <author>
             <name>Azure サービスの更新</name>
         </author>
